@@ -6,16 +6,14 @@ python divoff2md.py divinum-officium/web/www/missa/Polski/Sancti/02-02.txt /tmp/
 pandoc --epub-chapter-level=2 --toc-depth=2 -o /tmp/02-02.epub /tmp/02-02.md
 
 TODO:
-* GradualeP - uroczystosc serca J
-* Munda Cor Passionis - N. Palmowa
 * W. Czwartek, W. Piatek, Sobota Wielkanocna
 * Czesci stale
 * eundem/eundem w plikach zrodlowych
-* data we mszach własnych
 """
 
 import sys
 import re
+import os
 from collections import OrderedDict
 from consts import DIVOFF_DIR, TRANSLATION, \
     TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
@@ -63,7 +61,8 @@ def read_file(path, lookup_section=None):
     d = OrderedDict()
     section = None
     concat_line = False
-    with open(path) as fh:
+    full_path = path if os.path.exists(path) else DIVOFF_DIR + path
+    with open(full_path) as fh:
         for ln in fh:
             ln = normalize(ln.strip())
             if re.search(SECTION_REGEX, ln):
@@ -101,7 +100,7 @@ def print_contents(contents, pref, comm):
         if section not in EXCLUDE_SECTIONS_TITLES:
             print '### ' + translation.get(section, section) + '  '
         for line in lines:
-            print line + '  '        
+            print line + '  '
 
     # Preparing translations
     translation = {}
@@ -120,7 +119,7 @@ def print_contents(contents, pref, comm):
                 _print_section('Communicantes', comm)
 
 def main():
-    prefationes = read_file(DIVOFF_DIR + 'Ordo/Prefationes.txt')
+    prefationes = read_file('Ordo/Prefationes.txt')
     for i in PROPERS_INPUT:
         if len(i) == 1:
             # Printing season's title
@@ -129,7 +128,7 @@ def main():
             # Printing propers
             path, pref_key, comm_key = i
             try:
-                contents = read_file(DIVOFF_DIR + path)
+                contents = read_file(path)
             except Exception, e:
                 sys.stderr.write("Cannot parse {}: {}".format(sys.argv[1], e))
                 raise

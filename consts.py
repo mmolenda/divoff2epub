@@ -22,7 +22,9 @@ EXCLUDE_SECTIONS = (
     'Rank (si rubrica 1960)',
     'Rank (si rubrica innovata)',
     'Rule',
-    'Tractus1'
+    'Tractus1',
+    'Munda Cor Passionis',
+    'GradualeF'
 )
 EXCLUDE_SECTIONS_TITLES = (
     'Commemoratio Oratio',
@@ -31,26 +33,23 @@ EXCLUDE_SECTIONS_TITLES = (
     'Comment',
     'Prelude',
     'Prelude(rubrica 1960)',
-    'Maundi'
+    'Maundi',
+    'Post Missam'
 )
 
 
 TRANSLATION = {
 'Communicantes': 'Communicantes',
-'CommunioP': 'FIXME CommunioP',
+'CommunioP': 'Antyfona na Komunię (Okres Wielkanocny)',
 'Communio': 'Antyfona na Komunię',
 'Evangelium': 'Ewangelia',
-'GradualeF': 'FIXME GradualeF',
-'GradualeP': 'FIXME GradualeP',
+'GradualeP': 'Alleluja Wielkanocne',
 'Graduale': 'Graduał',
 'Introitus': 'Introit',
 'Lectio': 'Lekcja',
-'Maundi': 'FIXME Maundi',
-'Munda Cor Passionis': 'FIXME Munda Cor Passionis',
-'OffertoriumP': 'FIXME OffertoriumP',
+'OffertoriumP': 'Antyfona na Ofiarowanie (Okres Wielkanocny)',
 'Offertorium': 'Antyfona na Ofiarowanie',
 'Oratio': 'Kolekta',
-'Post Missam': 'Po Mszy',
 'Postcommunio': 'Pokomunia',
 'Secreta': 'Sekreta',
 'Sequentia': 'Sekwencja',
@@ -113,7 +112,12 @@ TRANSFORMATIONS = (
 
 PROPERS_INPUT1 = (
 ('Przedpoście', ),
-('Tempora/Quad6-2.txt', 'Quad5', None),
+('Tempora/Adv1-0.txt', 'Trinitate', None),
+('Tempora/Quad6-4r.txt', 'Communis', None),  # Triduum
+('Tempora/Quad6-5r.txt', 'Communis', None), # Triduum
+
+('Okres Wielkanocny', ),
+('Tempora/Quad6-6r.txt', 'Communis', None), # Triduum
 )
 
 PROPERS_INPUT = (
@@ -200,7 +204,7 @@ PROPERS_INPUT = (
 
 ('Okres po Zesłaniu Ducha Świetego', ),
 ('Tempora/Pent01-0r.txt', 'Trinitate', None),
-('Tempora/Pent01-4.txt', 'Nat', None),  # ?? o Narodzeniu w Boze Cialo?
+('Tempora/Pent01-4.txt', 'Nat', None),
 ('Tempora/Pent02-0r.txt', 'Trinitate', None),
 ('Tempora/Pent02-5.txt', 'Cord', None),
 ('Tempora/Pent03-0r.txt', 'Trinitate', None),
@@ -233,16 +237,16 @@ PROPERS_INPUT = (
 ('Msze Własne o Świętych', ),
 ('Sancti/12-08.txt', 'Maria', None),
 ('Sancti/12-21.txt', 'Apostolis', None),
-('Sancti/02-02.txt', 'Nat', None),
+('Sancti/02-02.txt', 'Communis', None),
 ('Sancti/02-22.txt', 'Apostolis', None),
 ('Sancti/02-24.txt', 'Apostolis', None),
 ('Sancti/03-19.txt', 'Joseph', None),
 ('Sancti/03-25.txt', 'Maria', None),
-('Sancti/04-23pl.txt', 'Communis', None),  # św Wojciecha ??
+('Sancti/04-23pl.txt', 'Communis', None),
 ('Sancti/04-25.txt', 'Apostolis', None),
 ('Sancti/05-01r.txt', 'Joseph', None),
 ('Sancti/05-03pl.txt', 'Maria', None),
-('Sancti/05-08pl.txt', 'Communis', None), # św Stanislawa ??
+('Sancti/05-08pl.txt', 'Communis', None),
 ('Sancti/05-11r.txt', 'Apostolis', None),
 ('Sancti/05-24pl.txt', 'Maria', None),
 ('Sancti/05-31.txt', 'Maria', None),
@@ -252,9 +256,9 @@ PROPERS_INPUT = (
 ('Sancti/06-29.txt', 'Apostolis', None),
 ('Sancti/07-01.txt', 'Quad5', None),
 ('Sancti/07-02.txt', 'Maria', None),
-('Sancti/07-25.txt', 'Communis', None),  ## Jakuba? nie APostolis?
+('Sancti/07-25.txt', 'Apostolis', None),
 ('Sancti/07-26.txt', 'Communis', None),
-('Sancti/08-06.txt', 'Nat', None),  ## Przemienienie - o narodzeniu?
+('Sancti/08-06.txt', 'Communis', None),
 ('Sancti/08-10.txt', 'Communis', None),
 ('Sancti/08-14.txt', 'Communis', None),
 ('Sancti/08-15r.txt', 'Maria', None),
@@ -276,6 +280,6 @@ PROPERS_INPUT = (
 ('Sancti/11-02m2.txt', 'Defunctorum', None),
 ('Sancti/11-02m3.txt', 'Defunctorum', None),
 ('Sancti/11-09.txt', 'Communis', None),
-('Sancti/11-13pl.txt', 'Communis', None),  # St. Kostki- prefacja?
+('Sancti/11-13pl.txt', 'Communis', None),
 ('Sancti/11-30.txt', 'Apostolis', None),
 )
