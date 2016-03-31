@@ -50,7 +50,7 @@ TRANSLATION = {
 'OffertoriumP': 'FIXME OffertoriumP',
 'Offertorium': 'Antyfona na Ofiarowanie',
 'Oratio': 'Kolekta',
-'Post Missam': 'FIXME Post Missam',
+'Post Missam': 'Po Mszy',
 'Postcommunio': 'Pokomunia',
 'Secreta': 'Sekreta',
 'Sequentia': 'Sekwencja',
@@ -78,13 +78,18 @@ TRANSLATION_MULTI = {
 'OratioL5': '6 Kolekta',
 'Oratio': '1 Kolekta'}
 
-regexes = (
+PATERNOSTER = "Ojcze nasz, któryś jest w niebie: Święć się Imię Twoje, Przyjdź królestwo Twoje, Bądź wola Twoja jako w niebie tak i na ziemi.\nChleba naszego powszedniego daj nam dzisiaj I odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom. I nie wódź nas na pokuszenie. Ale nas zbaw ode złego. Amen."
+
+REF_REGEX = re.compile('^@(.*):(.*)')
+SECTION_REGEX = re.compile(r'^### *(.*)')
+
+TRANSFORMATIONS = (
     (re.compile(r'\+\+'), '☩'),
     (re.compile(r'\+'), '☩'),
     (re.compile(r'^#'), '##'),
     (re.compile(r'^!x!'), '!'),
     (re.compile(r'^!! *(.*)'), '### \\1'),
-    (re.compile(r'\[([^\]]*)\]'), '### \\1'),
+    (re.compile(r'^\[([^\]]*)\]'), '### \\1'),
     (re.compile(r'^! *(.*)'), '*\\1*'),
     (re.compile(r'^v\. *'), ''),
     (re.compile(r'^_'), ''),
@@ -93,20 +98,22 @@ regexes = (
     (re.compile(r'\['), '('),
     (re.compile(r'\]'), ')'),
     (re.compile(r'^.*`.*$'), ''),
-    (re.compile(r'^&Gloria.*'), 'Chwała Ojcu.'),
+    (re.compile(r'^[&$]Gloria.*'), 'Chwała Ojcu.'),
     (re.compile(r'^\$Per Dominum.*'), 'Przez Pana.'),
-    (re.compile(r'^\$Per eundem.*'), 'Przez tegoż Pana.'),
+    (re.compile(r'^\$Per eu[mn]dem.*'), 'Przez tegoż Pana.'),
     (re.compile(r'^\$Qui tecum.*'), 'Który z Tobą.'),
     (re.compile(r'^\$Qui vivis.*'), 'Który żyjesz.'),
     (re.compile(r'^\$Deo [Gg]ratias.*'), 'Bogu dzięki.'),
-    (re.compile(r'^&DominusVobiscum.*'), 'V. Pan z wami.\nR. I z duchem twoim.'),
+    (re.compile(r'^[&$]Dominus *[Vv]obiscum.*'), 'V. Pan z wami.\nR. I z duchem twoim.'),
     (re.compile(r'^\*Modlitwa nad ludem\*.*'), ''),
+    (re.compile(r'^\$Pater noster.*'), PATERNOSTER),
+    (re.compile(r'\(rubrica 1955 aut rubrica 1960 dicitur\)'), ''),
+    (re.compile(r'\(deinde dicuntur semper\)'), ''),
 )
 
 PROPERS_INPUT1 = (
 ('Przedpoście', ),
-('Tempora/Pasc0-6.txt', 'Pasch', 'C-Pasc1962'),
-('Tempora/Pasc1-0.txt', 'Pasch', None),
+('Tempora/Quad6-2.txt', 'Quad5', None),
 )
 
 PROPERS_INPUT = (

@@ -9,49 +9,89 @@ TODO:
 * GradualeP - uroczystosc serca J
 * Munda Cor Passionis - N. Palmowa
 * W. Czwartek, W. Piatek, Sobota Wielkanocna
-* Pefacje, Communicantes
 * Czesci stale
+* eundem/eundem w plikach zrodlowych
+* data we mszach własnych
 """
 
 import sys
 import re
 from collections import OrderedDict
 from consts import DIVOFF_DIR, TRANSLATION, \
-    TRANSLATION_MULTI, regexes, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
-    DIVOFF_DIR, PROPERS_INPUT
-
-ref_regex = re.compile('^@(.*):(.*)')
-section_regex = re.compile(r'^### *(.*)')
+    TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
+    DIVOFF_DIR, PROPERS_INPUT, REF_REGEX, SECTION_REGEX
 
 def normalize(ln):
-    for r, s in regexes:
+    for r, s in TRANSFORMATIONS:
         ln = re.sub(r, s, ln)
     return ln
 
+def resolve_conditionals(d):
+    for section, content in d.items():
+        new_content = []
+        omit = False
+        itercontent = iter(content)
+        for i, ln in enumerate(itercontent):
+            if '(sed rubrica 1960 dicuntur)' in ln:
+                # delete previous line; do not append current one
+                del new_content[i - 1]
+                continue
+            if '(rubrica 1570 aut rubrica 1910 aut rubrica divino afflatu dicitur)' in ln:
+                # skip next line; do not append current one
+                itercontent.next()
+                continue
+            if '(deinde dicuntur)' in ln:
+                # start skipping lines from now on
+                omit = True
+                continue
+            if '(sed rubrica 1955 aut rubrica 1960 haec versus omittuntur)' in ln:
+                # stop skipping lines from now on
+                omit = False
+                continue
+            if omit:
+                continue
+            new_content.append(ln)
+        d[section] = new_content
+    return d
 
 def read_file(path, lookup_section=None):
+    """
+    Read the file and organize the content as ordered dictionary
+    where `[Section]` becomes a key and each line below - an item of related
+    list. Resolve references like `@Sancti/02-02:Evangelium`.
+    """
     d = OrderedDict()
     section = None
+    concat_line = False
     with open(path) as fh:
         for ln in fh:
             ln = normalize(ln.strip())
-            if re.search(section_regex, ln):
-                section = re.sub(section_regex, '\\1', ln)
+            if re.search(SECTION_REGEX, ln):
+                section = re.sub(SECTION_REGEX, '\\1', ln)
 
             if (not lookup_section and section not in EXCLUDE_SECTIONS) or \
                lookup_section == section:
-                if re.match(section_regex, ln):
+                if re.match(SECTION_REGEX, ln):
                     d[section] = []
                 else:
-                    ref_search_result = ref_regex.search(ln)
+                    ref_search_result = REF_REGEX.search(ln)
                     if ref_search_result:
+                        # Recursively read referenced file
                         path_bit, nested_section = ref_search_result.groups()
                         nested_path = DIVOFF_DIR + path_bit + '.txt' \
                                       if path_bit else path
                         nested_content = read_file(nested_path, nested_section)
                         d[section].extend(nested_content[nested_section])
                     else:
-                        d[section].append(ln)
+                        # Line ending with `~` indicates that next line
+                        # should be treated as its continuation
+                        appendln = ln.replace('~', ' ')
+                        if concat_line:
+                            d[section][-1] += appendln
+                        else:
+                            d[section].append(appendln)
+                        concat_line = True if ln.endswith('~') else False
+    d = resolve_conditionals(d)
     return d
 
 def print_contents(contents, pref, comm):
@@ -83,8 +123,10 @@ def main():
     prefationes = read_file(DIVOFF_DIR + 'Ordo/Prefationes.txt')
     for i in PROPERS_INPUT:
         if len(i) == 1:
+            # Printing season's title
             print '\n# ' + i[0]
         else:
+            # Printing propers
             path, pref_key, comm_key = i
             try:
                 contents = read_file(DIVOFF_DIR + path)
