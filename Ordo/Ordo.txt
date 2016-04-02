@@ -1,5 +1,3 @@
-
-
 [ASPRESJA]
 
 ! Przed Mszą uroczystą następuje aspresja. Kapłan przechodzi przez kościół i kropi wiernych wodą święconą. Wszyscy śpiewają antyfonę Asperges Me.
@@ -172,217 +170,182 @@ R. Bogu dzięki.
 
 – Tekst w dzisiejszej Mszy –
 
-##############
+[Ewangelia]
 
-# Incipit
-!Kapłan, przygotowany do przystąpienia do ołtarza, oddaje mu cześć, żegna się znakiem krzyża i czystym głosem mówi:
-v. W imię Ojca + i Syna i Ducha Świętego. Amen.
+! Celebrans przechodzi na środek ołtarza i jeżeli Msza jest bez asysty głęboko pochylony odmawia poniższą modlitwę.
+! Wargi żadnego człowieka nie są dość czyste, aby głosić słowa samego Boga.
 
-!*D 
-!We Mszach za zmarłych oraz we Mszach w okresie od Niedzieli Męki Pańskiej do Wielkiej Soboty, pomija się psalm Júdica me, Deus.
+Oczyść serce i wargi moje, wszechmogący Boże, któryś wargi proroka Izajasza oczyścił kamykiem ognistym. W łaskawym zmiłowaniu Swoim racz mię tak oczyścić, abym godnie zdołał głosić Twą świętą Ewangelię. Przez Chrystusa, Pana naszego. Amen.
 
-!Następnie, złączywszy ręce przed piersią, rozpoczyna antyfonę:
-S. Przystąpię do ołtarza Bożego.
-M. Do Boga, który jest weselem i radością moją.
-!*&Introibo 
-!Potem, na zmianę z Ministrantami, recytuje co następuje: 
-!Ps 42, 1-5
-S. Wymierz mi, Boże, sprawiedliwość i broń sprawy mojej przeciw ludowi niezbożnemu, wybaw mnie od człowieka podstępnego i niegodziwego.
-M. Ty bowiem, Boże, jesteś mocą moją, czemu mię odrzuciłeś? Czemu chodzę smutny, nękany przez wroga?
-S. Ześlij Swą światłość i wierność Swoją: niech one mnie wiodą, niech mnie przywiodą na górę Twą świętą, do Twoich przybytków.
-M. I przystąpię do ołtarza Bożego, do Boga, który jest weselem i radością moją.
-S. I będę Cię chwalił na cytrze, Boże, Boże mój. Duszo ma, czemuś zgnębiona i czemu miotasz się we mnie?
-M. Ufaj Bogu, bo jeszcze wysławiać Go będę, zbawienie mego oblicza i Boga mojego.
-S. Chwała Ojcu i Synowi i Duchowi Świętemu.
-M. Jak była na początku, teraz i zawsze i na wieki wieków. Amen.
-! Kapłan powtarza antyfonę:
-S. Przystąpię do ołtarza Bożego.
-M. Do Boga, który jest weselem i radością moją.
+! Błogosławieństwo opuszcza się we Mszach żałobnych.
 
-!Kapłan, żegnając się znakiem krzyża, mówi:
-V. Wspomożenie nasze + w imieniu Pana.
-R. Który stworzył niebo i ziemię.
-!Następnie Kapłan, złączywszy ręce, głęboko pochylony, odmawia spowiedź powszechną.
-v. Spowiadam się Bogu wszechmogącemu, Najświętszej Maryi zawsze Dziewicy, świętemu Michałowi Archaniołowi, świętemu Janowi Chrzcicielowi, świętym Apostołom Piotrowi i Pawłowi, wszystkim Świętym i wam, bracia, że bardzo zgrzeszyłem, myślą, mową i uczynkiem: (uderzywszy się trzykroć w piersi, mówi:) moja wina, moja wina, moja bardzo wielka wina. Przeto błagam Najświętszą Maryję zawsze Dziewicę, świętego Michała Archanioła, świętego Jana Chrzciciela, świętych Apostołów Piotra i Pawła, wszystkich Świętych i was, bracia, o modlitwę za mnie do Pana, Boga naszego.
-!x!M. Niech się zmiłuje nad tobą wszechmogący Bóg, a odpuściwszy ci grzechy, doprowadzi cię do życia wiecznego.
-!x!!Kapłan odpowiada: 
-!x!S. Amen.
-!x!!Następnie Ministranci, głęboko pochyleni odmawiają spowiedź powszechną. Tam, gdzie Kapłan mówił wam, bracia i was bracia, Ministranci mówią tobie, ojcze i ciebie ojcze. 
-!x!M. Spowiadam się Bogu wszechmogącemu, Najświętszej Maryi zawsze Dziewicy, świętemu Michałowi Archaniołowi, świętemu Janowi Chrzcicielowi, świętym Apostołom Piotrowi i Pawłowi, wszystkim Świętym i tobie, ojcze, że bardzo zgrzeszyłem, myślą, mową i uczynkiem: (uderzywszy się trzykroć w piersi, mówią:) moja wina, moja wina, moja bardzo wielka wina. Przeto błagam Najświętszą Maryję zawsze Dziewicę, świętego Michała Archanioła, świętego Jana Chrzciciela, świętych Apostołów Piotra i Pawła, wszystkich Świętych i ciebie, ojcze, o modlitwę za mnie do Pana, Boga naszego.
-!Następnie Kapłan, złączywszy ręce, udziela rozgrzeszenia, mówiąc:
-S. Niech się zmiłuje nad nami (wami) wszechmogący Bóg, a odpuściwszy nam (wam) grzechy, doprowadzi nas (was) do życia wiecznego.
-R. Amen.
-!Czyniąc znak krzyża, mówi: 
-S. Przebaczenia, + odpuszczenia i darowania grzechów niech nam udzieli wszechmogący i miłosierny Pan.
-R. Amen.
+Racz pobłogosławić, Panie. Pan niech będzie w sercu moim i na wargach moich, bym godnie i należycie głosił Jego Ewangelię. Amen.
 
-!Pochylony mówi:
-V. Zwróć się ku nam, Boże, i ożyw nas.
-R. A lud Twój rozraduje się w Tobie.
-V. Okaż nam, Panie, miłosierdzie Swoje.
-R. I daj nam Swoje zbawienie.
-V. Panie, wysłuchaj modlitwę moją.
-R. A wołanie moje niech do Ciebie przyjdzie.
-V. Pan z wami.
-R. I z duchem twoim.
-!Rozkładając, a następnie składając ręce, czystym głosem mówi: 
-v. Módlmy się. (Kapłan, wstępując po stopniach ołtarza, mówi po cichu:)
-v. Zgładź nieprawości nasze, prosimy Cię, Panie, abyśmy z czystym sercem mogli przystąpić do tajemnic najświętszych. Przez Chrystusa, Pana naszego. Amen.
-!Kapłan całuje ołtarz, w którym są zamurowane relikwie Świętych
-v. Prosimy Cię, Panie, przez zasługi Świętych Twoich, których relikwie tutaj się znajdują, oraz wszystkich Świętych, abyś mi raczył odpuścić wszystkie grzechy moje. Amen.
+! We Mszach z asystą diakon przed odśpiewaniem Ewangelii odmawia modlitwę i prosi kapłana o błogosławieństwo:
 
-!*S 
-# Incensatio
-!We Mszach uroczystych, Celebrans przed odczytaniem Introitu, przed rozpoczęciem antyfony na Introit, okadza ołtarz.
-!Diakon, lekko pochylając się w kiedunku Kapłana, mówi:
 Racz pobłogosławić, ojcze.
-!Kapłan błogosławi kadzidło, mówiąc:
-Niechaj cię Ten błogo + sławi, na którego cześć spalać się będziesz. Amen.
-!Przy pomocy kadzielnicy, otrzymanej od Diakona, Celebrans okadza ołtarz, nic nie mówiąc.
-!Następnie Diakon bierze kadzielnicę i okadza Celebransa.
-!Kapłan przechodzi na stronę Lekcji i, żegnając się znakiem krzyża, wyraźnym głosem rozpoczyna antyfonę na Introit:
 
-# Introitus
-&introitus
+! Kapłan odpowiada:
 
-# Kyrie
-!Po zakończeniu Introit, Kapłan składa ręce, przechodzi na środek ołtarza i na zmianę z Ministrantami mówi:
-S. Panie, zmiłuj się.
-M. Panie, zmiłuj się.
-S. Panie, zmiłuj się.
-M. Chryste, zmiłuj się.
-S. Chryste, zmiłuj się.
-M. Chryste, zmiłuj się.
-S. Panie, zmiłuj się.
-M. Panie, zmiłuj się.
-S. Panie, zmiłuj się.
+Pan niech będzie w sercu twoim i na wargach twoich, byś godnie i należycie głosił Jego Ewangelię. W imię Ojca i Syna + i Ducha Świętego. Amen.
 
-!! Gloria
-!*&GloriaM
-!Potem, stojąc na środku ołtarza rozkłada, a następnie składa ręce, lekko pochyla głowę, i zaczyna Chwała na wysokości Bogu, nadal mając ręce złączone. Pochyla głowę za każdym razem, gdy wypowiada słowa: Wielbimy Cię, dzięki Ci składamy, Jezu Chryste i przyjm błagania nasze. Na koniec, mówiąc z Duchem Świętym, robi znak krzyża.
-v. Chwała na wysokości Bogu, a na ziemi pokój ludziom dobrej woli. Chwalimy Cię. Błogosławimy Cię. Wielbimy Cię.Wysławiamy Cię. Dzięki Ci składamy, bo wielka jest chwała Twoja. Panie Boże, Królu nieba, Boże Ojcze wszechmogący. Panie, Synu Jednorodzony, Jezu Chryste. Panie Boże, Baranku Boży, Synu Ojca. Który gładzisz grzechy świata, zmiłuj się nad nami. Który gładzisz grzechy świata, przyjm błaganie nasze. Który siedzisz po prawicy Ojca, zmiłuj się nad nami. Albowiem tylko Tyś jest święty. Tylko Tyś jest Panem. Tylko Tyś Najwyższy, Jezu Chryste. Z Duchem Świętym + w chwale Boga Ojca. Amen.
+! Kapłan przechodzi na lewą stronę ołtarza i czyta lub śpiewa Ewangelię. We Mszach z asystą czyni to diakon. Wierni wraz z kapłanem czynią znak krzyża na czole, ustach i piersi.
 
-# Oratio
-!Następnie całuje ołtarz na środku i odwrócony w stronę ludu, mówi:
-&DominusVobiscum
-!Kapłan wraca do mszału, aby odczytać kolektę zgromadzenia. W kolekcie kapłan niejako zbiera i przedstawia Bogu uczucia i prośby wiernych powstałe pod wpływem obchodzonej tajemnicy. Później następuje Lekcja, Graduał i Traktus, Alleluja lub Sekwencja, w zależności od okresu liturgicznego i charakteru Mszy.
-&collect
-
-# Lectio
-&lectio
-
-# Graduale
-&graduale
-
-!*SnD
-# Evangelium
-!We Mszy z asystą Celebrans błogosławi kadzidło. Diakon umieszcza księgę Ewangelii na środku ołtarza, następnie, przyklękając przed ołtarzem ze złączonymi rękoma, odmawia:
-v. Oczyść serce i wargi moje, wszechmogący Boże, któryś wargi proroka Izajasza oczyścił kamykiem ognistym. W łaskawym zmiłowaniu Swoim racz mię tak oczyścić, abym godnie zdołał głosić Twą świętą Ewangelię. Przez Chrystusa, Pana naszego. Amen.
-!Następnie Diakon bierze księgę Ewangelii z ołtarza i, przyklękając przed Celebransem, prosi go o błogosławieństwo, mówiąc:
-D. Racz pobłogosławić, ojcze.
-!Celebrans odpowiada: 
-S. Pan niech będzie w sercu twoim i na wargach twoich, byś godnie i należycie głosił Jego Ewangelię. W imię Ojca i Syna + i Ducha Świętego. Amen.
-! Po otrzymaniu błogosławieństwa Diakon całuje w dłoń Celebransa i wraz z innymi Ministrantami, niosącymi kadzidło i świece, udaje się na miejsce Ewangelii. Ze złączonymi rękoma mówi:
 V. Pan z wami.
 R. I z duchem twoim.
-!I kontynuuje: ciąg dalszy Ewangelii świętej według N. Kciukiem prawej dłoni czyni znak krzyża na początku Ewangelii, która będzie odczytywana, a następnie na czole, ustach i piersi. Ministranci odpowiadają: Chwała Tobie, Panie. Diakon również okadza księgę Ewangelii trzy razy. Po skończeniu, Subdiakon podaje księgę Celebransowi, który ją całuje.
-&evangelium
-!Następnie Celebrans okadza Diakona.
- 
-!*RnD
-# Evangelium
-!We Mszy bez asysty księga Ewangelii jest przenoszona na stronę Ewangelii. Celebrans, przyklękając przed ołtarzem ze złączonymi rękoma, odmawia:
-v. Oczyść serce i wargi moje, wszechmogący Boże, któryś wargi proroka Izajasza oczyścił kamykiem ognistym. W łaskawym zmiłowaniu Swoim racz mię tak oczyścić, abym godnie zdołał głosić Twą świętą Ewangelię. Przez Chrystusa, Pana naszego. Amen.
-v. Racz pobłogosławić, Panie. Pan niech będzie w sercu moim i na wargach moich, bym godnie i należycie głosił Jego Ewangelię. Amen.
-!Następnie, zwróciwszy się ku księdze, ze złączonymi rękoma, mówi:
++ Ciąg dalszy (albo: Początek) Ewangelii świętej według N.
+R. Chwała Tobie, Panie.
+
+! Ewangelii słuchamy stojąc, przez uszanowanie dla słowa Bożego. We Mszy z asystą diakon w uroczystym pochodzie podąża do pulpitu, gdzie odśpiewuje ją wiernym, okadziwszy uprzednio świętą księgę
+
+– Tekst w dzisiejszej Mszy –
+
+! Skończywszy czytać Ewangelię kapłan całuje mszał i mówi po cichu (z wyjątkiem Mszy żałobnych):
+
+V. Niech słowa Ewangelii zgładzą nasze grzechy.
+R. Chwała Tobie, Chryste.
+
+[Credo]
+
+! Kapłan przechodzi na środek ołtarza.
+! Uroczyste wyznanie wiary jest naszą odpowiedzią na pouczenia, które otrzymaliśmy w Lekcji i Ewangelii.
+! Credo odmawia się: w niedziele; w święta 1 klasy; w święta 2 klasy Chrystusa Pana i Najświętszej Maryi Panny; w czasie oktaw Bożego Narodzenia, Wielkanocy i Zesłania Ducha Świętego; w główne święta Apostołów i Ewangelistów, oraz w święto Katedry św. Piotra, Apostoła.
+
+Wierzę w jednego Boga, Ojca wszechmogącego, Stworzyciela nieba i ziemi, wszystkich rzeczy widzialnych i niewidzialnych.
+I w jednego Pana Jezusa Chrystusa, Syna Bożego Jednorodzonego, który z Ojca jest zrodzony przed wszystkimi wiekami. Bóg z Boga, światłość ze światłości. Bóg prawdziwy z Boga prawdziwego. Zrodzony, a nie stworzony, współistotny Ojcu, a przez Niego wszystko się stało. On to dla nas, ludzi i dla naszego zbawienia zstąpił z nieba. (tu się przyklęka)
+I za sprawą Ducha Świętego przyjął ciało z Maryi Dziewicy i stał się człowiekiem.
+Ukrzyżowany również za nas, pod Poncjuszem Piłatem został umęczony i pogrzebany. I zmartwychwstał trzeciego dnia, jak oznajmia Pismo. I wstąpił do nieba; siedzi po prawicy Ojca. I powtórnie przyjdzie w chwale sądzić żywych i umarłych: A Królestwu Jego nie będzie końca.
+Wierzę w Ducha Świętego, Pana i Ożywiciela, który od Ojca i Syna pochodzi. Który z Ojcem i Synem wspólnie odbiera uwielbienie i chwałę. Który mówił przez Proroków.
+Wierzę w jeden, święty, powszechny i apostolski Kościół. Wyznaję jeden chrzest na odpuszczenie grzechów. I oczekuję wskrzeszenia umarłych. I życia + wiecznego w przyszłym świecie. Amen.
+
+[OFIAROWANIE]
+
 V. Pan z wami.
 R. I z duchem twoim.
-!I kontynuuje: ciąg dalszy Ewangelii świętej według N. Kciukiem prawej dłoni czyni znak krzyża na początku Ewangelii, która będzie odczytywana, a następnie na czole, ustach i piersi. Ministranci odpowiadają: Chwała Tobie, Panie. Celebrans całuje Ewangelię.
-&evangelium
 
-!*D 
-# Evangelium
-!We mszach za zmarłych Celebrans odmawia Munda cor meum, ale nie prosi o bogosławieństwo ani nie całuje księgi Ewangelii.
-v. Oczyść serce i wargi moje, wszechmogący Boże, któryś wargi proroka Izajasza oczyścił kamykiem ognistym. W łaskawym zmiłowaniu Swoim racz mię tak oczyścić, abym godnie zdołał głosić Twą świętą Ewangelię. Przez Chrystusa, Pana naszego. Amen.
-!Następnie, zwróciwszy się ku księdze, ze złączonymi rękoma, mówi:
-V. Pan z wami.
-R. I z duchem twoim.
-!I kontynuuje: ciąg dalszy Ewangelii świętej według N. Kciukiem prawej dłoni czyni znak krzyża na początku Ewangelii, która będzie odczytywana, a następnie na czole, ustach i piersi. Ministranci odpowiadają: Chwała Tobie, Panie.
-&evangelium
+[Antyfona na Ofiarowanie]
 
-# Credo&nbsp;
-!*&Credo
-!Następnie Celebrans nad środkiem ołtarza rozkłada, podnosi i składa ręce i zaczyna Wierzę w Boga, kontynuuje ze złączonymi rękoma. Wymawiając Bóg, skłania głowę ku Krzyżowi, podobnie wymawiając Jezusa Chrystusa i wspólnie odbiera uwielbienie. Na słowa I za sprawą Ducha Świętego klęka i trwa w tej pozycji aż do słów i stał się człowiekiem, włącznie. No koniec, na słowa i życia wiecznego, czyni znak krzyża. Credo jest uroczystym wyznaniem wiary, stanowi naszą odpowiedź na pouczenia, które otrzymaliśmy w Lekcji i Ewangelii.
-v. Wierzę w jednego Boga, Ojca wszechmogącego, Stworzyciela nieba i ziemi, wszystkich rzeczy widzialnych i niewidzialnych. I w jednego Pana Jezusa Chrystusa, Syna Bożego Jednorodzonego, który z Ojca jest zrodzony przed wszystkimi wiekami. Bóg z Boga, światłość ze światłości. Bóg prawdziwy z Boga prawdziwego. Zrodzony, a nie stworzony, współistotny Ojcu, a przez Niego wszystko się stało. On to dla nas, ludzi i dla naszego zbawienia zstąpił z nieba. (tu się przyklęka) I za sprawą Ducha Świętego przyjął ciało z Maryi Dziewicy i stał się człowiekiem. Ukrzyżowany również za nas, pod Poncjuszem Piłatem został umęczony i pogrzebany. I zmartwychwstał trzeciego dnia, jak oznajmia Pismo. I wstąpił do nieba; siedzi po prawicy Ojca. I powtórnie przyjdzie w chwale sądzić żywych i umarłych: A Królestwu Jego nie będzie końca. Wierzę w Ducha Świętego, Pana i Ożywiciela, który od Ojca i Syna pochodzi. Który z Ojcem i Synem wspólnie odbiera uwielbienie i chwałę. Który mówił przez Proroków. Wierzę w jeden, święty, powszechny i apostolski Kościół. Wyznaję jeden chrzest na odpuszczenie grzechów. I oczekuję wskrzeszenia umarłych. I życia + wiecznego w przyszłym świecie. Amen.
+! We Mszach uroczystych subdiakon przynosi na ołtarz kielich i patenę z hostią. Ministranci przynoszą ampułki z winem i wodą.
+! W pierwszych wiekach Kościoła wierni składali na ofiarowanie dary w naturze. W czasie tej procesji z darami śpiewano antyfonę z wersetami psalmu. Śpiewanie antyfony zachowało się we Mszach uroczystych. We Mszach czytanych antyfonę odmawia przynajmniej kapłan.
 
-# Offertorium
-!Kapłan całuje ołtarz i, zwróciwszy się w stronę ludu, wzywa do modlitwy: 
-V. Pan z wami.
-R. I z duchem twoim.
-!Następnie mówi:
-v. Módlmy się.
-&offertorium
+Módlmy się.
 
-!Kapłan podnosi patenę z Hostią, którą ofiaruje Bogu i mówi:
-v. Ojcze święty, wszechmogący, wieczny Boże, przyjmij tę nieskalaną hostię, którą ja, niegodny sługa Twój, ofiaruję Tobie, Bogu mojemu żywemu i prawdziwemu, za niezliczone grzechy, przewinienia i zaniedbania swoje i za wszystkich tu obecnych, a także za wszystkich wiernych chrześcijan żywych i umarłych, aby mnie oraz im przyczyniła się do zbawienia wiecznego. Amen.
+– Tekst w dzisiejszej Mszy –
 
-!Czyniąc pateną znak krzyża, składa chleb na ołtarzu. W Mszach uroczystych subdiakon przynosi na ołtarz kielich i patenę z hostią. Ministranci przynoszą ampułki z winem i wodą. Kapłan, przeszedłszy na stronę lekcji, wlewa do kielicha wino i kilka kropel wody, którą błogosławi:
-v. Boże, który godność natury ludzkiej przedziwnie stworzyłeś, a jeszcze przedziwnej naprawiłeś: daj nam przez tajemnicę tej wody i wina uczestniczyć w Bóstwie Tego, który raczył stać się uczestnikiem naszego człowieczeństwa, Jezus Chrystus, Twój Syn, a nasz Pan. Który z Tobą żyje i króluje w jedności Ducha Świętego Bóg, przez wszystkie wieki wieków. Amen.
+[Ofiarowanie Chleba i Wina]
 
-!*D 
-!We Mszach za zmarłych nie odmawia się błogosławieństwa nad kielichem z winem i wodą.
+! Kapłan podnosi patenę z hostią, którą ofiaruje Bogu.
+! Ofiarując chleb i wino Kościół ma już na myśli Ofiarę Chrystusa, która niebawem dokona się na ołtarzu pod tymi postaciami.
 
-!Kapłan podnosi kielich i ofiaruje wino:
-v. Ofiarujemy Ci, Panie, kielich zbawienia, i błagamy łaskawość Twoją, aby jako woń miła wzniósł się przed oblicze Boskiego majestatu Twego za zbawienie nasze i całego świata. Amen.
-!Kapłan czyni znak krzyża kielichem, umieszcza go na korporale i przykrywa palką. Następnie, z rękoma złączonymi nad ołtarzem, lekko pochylony odmawia modlitwę Azariasza w piecu gorejącym (Dn 3, 39—40):
-v. Przyjmij nas, Panie, którzy stajemy przed Tobą w duchu pokory i z sercem skruszonym, a ofiara nasza tak niech się dzisiaj dokona przed obliczem Twoim, aby się podobała Tobie, Panie Boże.
-!Czyniąc znak krzyża kapłan prosi, aby Duch Święty ofiarę pobłogosławił:
-v. Przyjdź, Uświęcicielu, wszechmogący, wieczny Boże, i pobłogo + sław tę ofiarę, przygotowaną Twemu świętemu Imieniu.
+Ojcze święty, wszechmogący, wieczny Boże, przyjmij tę nieskalaną hostię, którą ja, niegodny sługa Twój, ofiaruję Tobie, Bogu mojemu żywemu i prawdziwemu, za niezliczone grzechy, przewinienia i zaniedbania swoje i za wszystkich tu obecnych, a także za wszystkich wiernych chrześcijan żywych i umarłych, aby mnie oraz im przyczyniła się do zbawienia wiecznego. Amen.
 
-!*S
-# Incensatio
-!We Mszach uroczystych Kapłan okadza dary ofiarne i ołtarz. Błogosławiąc kadzidło mówi:
-v. Za przyczyną świętego Michała Archanioła, stojącego po prawej stronie ołtarza kadzenia, i wszystkich wybranych swoich, niech to kadzidło raczy Pan pobłogo + sławić i jako miłą woń przyjąć. Przez Chrystusa Pana naszego. Amen.
-!Otrzymując trybularz od Diakona, Celebrans okadza chleb i wino, mówiąc:
-v. To kadzidło, któreś pobłogosławił, niech się wzniesie ku Tobie, Panie, a na nas niech zstąpi miłosierdzie Twoje.
-!Następnie okadza ołtarz, mówiąc:
+! Kapłan wlewa do kielicha wino i kilka kropel wody, którą błogosławi (z wyjątkiem Mszy żałobnych).
+! Zmieszanie wody z winem jest starodawnym obrzędem liturgii, wyobrażającym łączność Chrystusa z wiernymi. Towarzysząca temu obrzędowi modlitwa podaje przepięknie jego znaczenie.
+
+Boże, który godność natury ludzkiej przedziwnie stworzyłeś, a jeszcze przedziwnej naprawiłeś: daj nam przez tajemnicę tej wody i wina uczestniczyć w Bóstwie Tego, który raczył stać się uczestnikiem naszego człowieczeństwa, Jezus Chrystus, Twój Syn, a nasz Pan. Który z Tobą żyje i króluje w jedności Ducha Świętego Bóg, przez wszystkie wieki wieków. Amen.
+
+! Kapłan podnosi kielich i ofiaruje wino.
+! Kościół we Mszy świętej obejmuje swoją modlitwą cały świat, a kielich zbawienia ofiaruje Bogu za całą ludzkość.
+
+Ofiarujemy Ci, Panie, kielich zbawienia, i błagamy łaskawość Twoją, aby jako woń miła wzniósł się przed oblicze Boskiego majestatu Twego za zbawienie nasze i całego świata. Amen.
+
+! Kapłan pochylony odmawia modlitwę Azariasza w piecu gorejącym (Dn 3:39-40)
+
+Przyjmij nas, Panie, którzy stajemy przed Tobą w duchu pokory i z sercem skruszonym, a ofiara nasza tak niech się dzisiaj dokona przed obliczem Twoim, aby się podobała Tobie, Panie Boże.
+
+! Czyniąc znak krzyża kapłan prosi, aby Duch Święty ofiarę pobłogosławił.
+
+Przyjdź, Uświęcicielu, wszechmogący, wieczny Boże, i pobłogo + sław tę ofiarę, przygotowaną Twemu świętemu Imieniu.
+
+[Okadzenie]
+
+! Kadzidło przedstawia modlitwę wzoszącą się ku Bogu jako woń miła. Jest ono także oznaką czci, jaką otaczamy osoby i rzeczy święte i poświęcone: Eucharystię, celebransa oraz wiernych, członków Chrystusa, poświęconych Bogu.
+! We Mszach uroczystych Kapłan okadza dary ofiarne i ołtarz. Błogosławiąc kadzidło mówi:
+
+Za przyczyną świętego Michała Archanioła, stojącego po prawej stronie ołtarza kadzenia, i wszystkich wybranych swoich, niech to kadzidło raczy Pan pobłogo + sławić i jako miłą woń przyjąć. Przez Chrystusa Pana naszego. Amen.
+
+! Okadzając dary ofiarne, mówi:
+
+To kadzidło, któreś pobłogosławił, niech się wzniesie ku Tobie, Panie, a na nas niech zstąpi miłosierdzie Twoje.
+
+! Okadzając Krucyfiks ołtarza oraz ołtarz kapłan odmawia część psalmu 140:
+
 !Ps 140, 2-4
-v. Niech się wzbija ku Tobie modlitwa ma, Panie, niby kadzidło, a wznoszenie rąk moich jak ofiara wieczorna. Postaw straż, Panie, przy ustach moich, i stałą wartę przy bramie mych warg. Nie skłaniaj serca mego ku złej sprawie, ku bezbożnemu popełnianiu przestępstw.
-!Oddając kadzielnicę Diakonowi Kapłan mówi:
-v. Niech Pan zapali w nas ogień swej miłości i płomień wiecznego ukochania. Amen.
-!Diakon okadza Celebransa, duchowieństwo i wiernych, którzy biorą udział w ofierze.
+Niech się wzbija ku Tobie modlitwa ma, Panie, niby kadzidło, a wznoszenie rąk moich jak ofiara wieczorna. Postaw straż, Panie, przy ustach moich, i stałą wartę przy bramie mych warg. Nie skłaniaj serca mego ku złej sprawie, ku bezbożnemu popełnianiu przestępstw.
 
-!Kapłan po okadzeniu lub zaraz po poleceniu ofiar przechodzi na stronę lekcji i umywa palce rąk, mówiąc:
+! Oddając kadzielnicę diakonowi kapłan mówi:
+
+Niech Pan zapali w nas ogień swej miłości i płomień wiecznego ukochania. Amen.
+
+! Diakon okadza celebransa, duchowieństwo i wiernych, którzy biorą udział w ofierze.
+
+[Umycie Rąk]
+
+! Kapłan po okadzeniu lub zaraz po poleceniu ofiar przechodzi na stronę lekcji i umywa palce rąk, mówiąc:
+
 !Ps 25, 6-12
-v. Umywam ręce moje na znak niewinności i obchodzę ołtarz Twój, Panie. By jawnie ogłaszać chwałę i rozpowiadać wszystkie cuda Twoje. Miłuję, Panie, siedzibę Twego domu i miejsce przybytku Twej chwały. Nie zabieraj z grzesznymi mej duszy i życia mego z mężami krwawymi. W ręku ich zbrodnia, a ich prawica pełna jest przekupstwa. Ja zaś postępuję w niewinności mojej. Wyzwól mię, zmiłuj się nade mną. Na drodze równej stoi stopa moja. Na zgromadzeniach będę błogosławił Panu.
-&Gloria
+Umywam ręce moje na znak niewinności i obchodzę ołtarz Twój, Panie.
+By jawnie ogłaszać chwałę i rozpowiadać wszystkie cuda Twoje.
+Miłuję, Panie, siedzibę Twego domu i miejsce przybytku Twej chwały.
+Nie zabieraj z grzesznymi mej duszy i życia mego z mężami krwawymi.
+W ręku ich zbrodnia, a ich prawica pełna jest przekupstwa.
+Ja zaś postępuję w niewinności mojej. Wyzwól mię, zmiłuj się nade mną.
+Na drodze równej stoi stopa moja. Na zgromadzeniach będę błogosławił Panu.
+Chwała Ojcu, i Synowi i Duchowi Świętemu.
+Jak była na początku, teraz i zawsze i na wieki wieków. Amen.
+
+! Chwała Ojcu opuszcza się w okresie Męki Pańskiej i we Mszach żałobnych. 
+
+[Modlitwa do Trójcy Przenajświętszej]
 
 !Kapłan wraca na środek ołtarza i pochylony mówi:
-v. Przyjmij, Trójco Święta, tę ofiarę, którą Ci składamy na pamiątkę Męki, Zmartwychwstania i Wniebowstąpienia Jezusa Chrystusa, Pana naszego, oraz na cześć Najświętszej Maryi zawsze Dziewicy, świętego Jana Chrzciciela, świętych Apostołów Piotra i Pawła i tych [których relikwie tutaj się znajdują], i wszystkich Świętych: aby im przyniosła cześć, a nam zbawienie, i aby w niebie raczyli orędować za nami ci, których pamiatkę obchodzimy na ziemi. Przez tegoż Chrystusa Pana Naszego. Amen.
 
-!Następnie całuje ołtarz i zwrócony do wiernych, rozkłada i składa ręce i donośnym głosem mówi:
-S. Módlcie się, bracia, aby moją i waszą ofiarę przyjął Bóg Ojciec wszechmogący.
-!Ministranci odpowiadają:
-M. Niech Pan przyjmie ofiarę z rąk twoich na cześć i chwałę imienia Swojego, ku pożytkowi również naszemu i całego swego Kościoła świętego.
+Przyjmij, Trójco Święta, tę ofiarę, którą Ci składamy na pamiątkę Męki, Zmartwychwstania i Wniebowstąpienia Jezusa Chrystusa, Pana naszego, oraz na cześć Najświętszej Maryi zawsze Dziewicy, świętego Jana Chrzciciela, świętych Apostołów Piotra i Pawła i tych (których relikwie tutaj się znajdują), i wszystkich Świętych: aby im przyniosła cześć, a nam zbawienie, i aby w niebie raczyli orędować za nami ci, których pamiatkę obchodzimy na ziemi. Przez tegoż Chrystusa Pana Naszego. Amen.
+
+[Orate Fratres]
+
+!Kapłan zwraca się do wiernych i wzywa ich do modlitwy:
+
+Módlcie się, bracia, aby moją i waszą ofiarę przyjął Bóg Ojciec wszechmogący.
+
+! Ministranci odpowiadają:
+
+Niech Pan przyjmie ofiarę z rąk twoich na cześć i chwałę imienia Swojego, ku pożytkowi również naszemu i całego swego Kościoła świętego.
+
 !Kapłan cicho odpowiada: 
-S. Amen.
-!Po czym, z rękami nad ofiarą, odmawia sekrety przypadające na dany dzień, pomijając wezwanie Módlmy się.
-_
-!!Secreta
-&secreta
 
-# Prefatio
-!Gdy kapłan dotrze do konkluzji ostatniej sekrety, do słów Per omnia saecula saeculorum wyłącznie, stojąc na środku ołtarza z rękami rozłożonymi od tej chwili nad nim, mówi głośno i wyraźnie prefację. Gdy mówi Sursum corda, unosi ręce od tego momentu na poziom klatki piersiowej. Gdy mówi Gratias agamus Domino - składa ręce; gdy mówi Deo nostro - wznosi oczy i skłania się w stronę krzyża. Gdy padnie odpowiedź Dignum et justum est z rękami rozłożonymi i uniesionymi, jak wcześniej, kontynuuje prefację:
+Amen.
+
+[Sekreta]
+
+! Jest to modlitwa odmawiana przez kapłana nad darami złożonymi przez wiernych. Wiąże ona ofiarowanie z kanonem, w czasie którego spełnia się Ofiara Chrystusa.
+! Jeżeli były dodatkowe kolekty, to dodaje się w tym samym porządku również sekrety.
+
+– Tekst w dzisiejszej Mszy –
+
+! Ostatnią kapłan kończy głośno:
+
+Przez wszystkie wieki wieków.
+R. Amen.
+
+[PRZEISTOCZENIE]
+
+! Rozpoczyna się najważniejsza część Mszy świętej. Kapłan intonuje uroczystą modlitwę dziękczynną, która stanowi wstęp do kanonu Mszy świętej. Krótki dialog kapłana i wiernych wzywa do zjednoczenia się z modlitwą Kościoła.
+
 V. Pan z wami.
 R. I z duchem twoim.
 V. W górę serca.
 R. Wznieśliśmy je ku Panu.
 V. Dzięki składajmy Panu, Bogu naszemu.
 R. Godne to i sprawiedliwe.
-_
-&prefatio
-_
-v. Święty, Święty, Święty Pan Bóg Zastępów! Pełne są niebiosa i ziemia chwały Twojej. Hosanna na wysokości. Błogosławiony, który idzie w imię Pańskie. Hosanna na wysokości.
+
+[Prefacja Zwykła]
+
+Zaprawdę godne to i sprawiedliwe, słuszne i zbawienne, abyśmy zawsze i wszędzie Tobie składali dziękczynienie, Panie, Ojcze Święty, wszechmogący, wieczny Boże, przez Chrystusa, Pana naszego. Przez Niego Twój majestat chwalą Aniołowie, uwielbiają Państwa, z lękiem czczą Potęgi, Niebiosa i Moce niebios oraz błogosławieni Serafini we wspólnej wysławiają radości. Z nimi to, prosimy, dozwól i naszym głosom wołać w pokornym uwielbieniu:
+
+Święty, Święty, Święty Pan Bóg Zastępów! Pełne są niebiosa i ziemia chwały Twojej. Hosanna na wysokości. Błogosławiony, który idzie w imię Pańskie. Hosanna na wysokości.
+
+###########
 
 # Canon
 v. Ciebie przeto, najmiłościwszy Ojcze, pokornie i usilnie błagamy przez Jezusa Chrystusa Syna Twego, Pana naszego, (całuje ołtarz na środku, następnie stoi wyprostowany z rękami złożonymi na klatce piersiowej, mówiąc:) abyś łaskawie przyjął i błogosławił (i czyni znak krzyża trzy razy na Hostią i kielichem jednocześnie:) te + dary, te + daniny, te + święte ofiary nieskalane.
