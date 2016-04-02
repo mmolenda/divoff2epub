@@ -110,17 +110,15 @@ TRANSFORMATIONS = (
     (re.compile(r'\(deinde dicuntur semper\)'), ''),
 )
 
-PROPERS_INPUT1 = (
-('Przedpoście', ),
-('Tempora/Adv1-0.txt', 'Trinitate', None),
-('Tempora/Quad6-4r.txt', 'Communis', None),  # Triduum
-('Tempora/Quad6-5r.txt', 'Communis', None), # Triduum
-
-('Okres Wielkanocny', ),
-('Tempora/Quad6-6r.txt', 'Communis', None), # Triduum
+PROPERS_INPUT = (
+('Stałe Części Mszy Świętej', ),
+('Ordo/Ordo.txt', 'Communis', None),
 )
 
-PROPERS_INPUT = (
+PROPERS_INPUT1 = (
+('Stałe Części Mszy Świętej', ),
+('Ordo/Ordo.txt', 'Communis', None),
+
 ('Adwent', ),
 ('Tempora/Adv1-0.txt', 'Trinitate', None),
 ('Tempora/Adv2-0.txt', 'Trinitate', None),
