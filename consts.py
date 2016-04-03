@@ -111,18 +111,8 @@ TRANSFORMATIONS = (
 )
 
 PROPERS_INPUT = (
-('Stałe Części Mszy Świętej', ),
-('Ordo/Asperges.txt', 'Communis', None),
-('Ordo/Incipit.txt', 'Communis', None),
-('Ordo/Verbo.txt', 'Communis', None),
-('Ordo/Offertorium.txt', 'Communis', None),
-('Ordo/Canon.txt', 'Communis', None),
-('Ordo/Communio.txt', 'Communis', None),
-('Ordo/Conclusio.txt', 'Communis', None),
-
-('Adwent', ),
-('Tempora/Adv1-0.txt', 'Trinitate', None),
-('Tempora/Adv2-0.txt', 'Trinitate', None),
+('Okres Męki', ),
+('Tempora/Quad6-5r.txt', 'Quad5', None), # Triduum
 )
 
 PROPERS_INPUT1 = (
@@ -187,7 +177,7 @@ PROPERS_INPUT1 = (
 ('Tempora/Quad6-1.txt', 'Quad5', None),
 ('Tempora/Quad6-2.txt', 'Quad5', None),
 ('Tempora/Quad6-3.txt', 'Quad5', None),
-('Tempora/Quad6-4r.txt', 'Communis', None),  # Triduum
+('Tempora/Quad6-4r.txt', 'Quad5', None),  # Triduum
 ('Tempora/Quad6-5r.txt', 'Communis', None), # Triduum
 
 ('Okres Wielkanocny', ),
