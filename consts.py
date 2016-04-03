@@ -103,19 +103,19 @@ TRANSFORMATIONS = (
     (re.compile(r'^\$Qui tecum.*'), 'Który z Tobą.'),
     (re.compile(r'^\$Qui vivis.*'), 'Który żyjesz.'),
     (re.compile(r'^\$Deo [Gg]ratias.*'), 'Bogu dzięki.'),
-    (re.compile(r'^[&$]Dominus *[Vv]obiscum.*'), 'V. Pan z wami.\nR. I z duchem twoim.'),
+    (re.compile(r'^[&$]Dominus *[Vv]obiscum.*'), 'V. Pan z wami.    \n\rR. I z duchem twoim.'),
     (re.compile(r'^\*Modlitwa nad ludem\*.*'), ''),
     (re.compile(r'^\$Pater noster.*'), PATERNOSTER),
     (re.compile(r'\(rubrica 1955 aut rubrica 1960 dicitur\)'), ''),
     (re.compile(r'\(deinde dicuntur semper\)'), ''),
 )
 
-PROPERS_INPUT = (
+PROPERS_INPUT1 = (
 ('Okres Męki', ),
-('Tempora/Quad6-5r.txt', 'Quad5', None), # Triduum
+('Tempora/Quad6-6r.txt', 'Quad5', None), # Triduum
 )
 
-PROPERS_INPUT1 = (
+PROPERS_INPUT = (
 ('Stałe Części Mszy Świętej', ),
 ('Ordo/Asperges.txt', 'Communis', None),
 ('Ordo/Incipit.txt', 'Communis', None),
