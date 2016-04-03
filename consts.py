@@ -112,12 +112,28 @@ TRANSFORMATIONS = (
 
 PROPERS_INPUT = (
 ('Stałe Części Mszy Świętej', ),
-('Ordo/Ordo.txt', 'Communis', None),
+('Ordo/Asperges.txt', 'Communis', None),
+('Ordo/Incipit.txt', 'Communis', None),
+('Ordo/Verbo.txt', 'Communis', None),
+('Ordo/Offertorium.txt', 'Communis', None),
+('Ordo/Canon.txt', 'Communis', None),
+('Ordo/Communio.txt', 'Communis', None),
+('Ordo/Conclusio.txt', 'Communis', None),
+
+('Adwent', ),
+('Tempora/Adv1-0.txt', 'Trinitate', None),
+('Tempora/Adv2-0.txt', 'Trinitate', None),
 )
 
 PROPERS_INPUT1 = (
 ('Stałe Części Mszy Świętej', ),
-('Ordo/Ordo.txt', 'Communis', None),
+('Ordo/Asperges.txt', 'Communis', None),
+('Ordo/Incipit.txt', 'Communis', None),
+('Ordo/Verbo.txt', 'Communis', None),
+('Ordo/Offertorium.txt', 'Communis', None),
+('Ordo/Canon.txt', 'Communis', None),
+('Ordo/Communio.txt', 'Communis', None),
+('Ordo/Conclusio.txt', 'Communis', None),
 
 ('Adwent', ),
 ('Tempora/Adv1-0.txt', 'Trinitate', None),
