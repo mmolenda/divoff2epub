@@ -1,13 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Example usage:
-python divoff2md.py divinum-officium/web/www/missa/Polski/Sancti/02-02.txt /tmp/02-02.md
-pandoc --epub-chapter-level=2 --toc-depth=2 -o /tmp/02-02.epub /tmp/02-02.md
-
 TODO:
-* W. Czwartek, W. Piatek, Sobota Wielkanocna
-* Czesci stale
 * eundem/eundem w plikach zrodlowych
 """
 
@@ -93,7 +87,7 @@ def read_file(path, lookup_section=None):
     d = resolve_conditionals(d)
     return d
 
-def print_contents(contents, pref, comm):
+def print_contents(path, contents, pref, comm):
 
     def _print_section(section, lines):
         print '\n'
@@ -101,7 +95,12 @@ def print_contents(contents, pref, comm):
             print '### ' + translation.get(section, section) + '  '
         for line in lines:
             print line + '  '
+            if section == 'Comment' and line.startswith('## ') and img_exists:
+                print '\n<div style="text-align:center"><img src ="{}" /></div>\n'.format(img_path)
 
+    img_path = path.replace('txt', 'png')
+    img_exists = os.path.exists(img_path)
+    
     # Preparing translations
     translation = {}
     translation.update(TRANSLATION)
@@ -118,6 +117,9 @@ def print_contents(contents, pref, comm):
             if comm:
                 _print_section('Communicantes', comm)
 
+    if not path.startswith('Ordo'):
+        print '<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>'
+
 def main():
     prefationes = read_file('Ordo/Prefationes.txt')
     for i in PROPERS_INPUT:
@@ -133,7 +135,7 @@ def main():
                 sys.stderr.write("Cannot parse {}: {}".format(sys.argv[1], e))
                 raise
             else:
-                print_contents(contents,
+                print_contents(path, contents,
                                prefationes.get(pref_key),
                                prefationes.get(comm_key))
 

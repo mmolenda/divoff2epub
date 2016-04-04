@@ -1,7 +1,9 @@
 [Prelude]
 # Ofiarowanie
 
+**V. Dóminus vobíscum.**
 V. Pan z wami.
+**R. Et cum spiritu tuo.**
 R. I z duchem twoim.
 
 [Antyfona na Ofiarowanie]
@@ -9,6 +11,7 @@ R. I z duchem twoim.
 ! We Mszach uroczystych subdiakon przynosi na ołtarz kielich i patenę z hostią. Ministranci przynoszą ampułki z winem i wodą.
 ! W pierwszych wiekach Kościoła wierni składali na ofiarowanie dary w naturze. W czasie tej procesji z darami śpiewano antyfonę z wersetami psalmu. Śpiewanie antyfony zachowało się we Mszach uroczystych. We Mszach czytanych antyfonę odmawia przynajmniej kapłan.
 
+**Orémus.**
 Módlmy się.
 
 – Tekst w dzisiejszej Mszy –
@@ -87,6 +90,7 @@ Przyjmij, Trójco Święta, tę ofiarę, którą Ci składamy na pamiątkę Męk
 
 !Kapłan zwraca się do wiernych i wzywa ich do modlitwy:
 
+**Orate fratres...**
 Módlcie się, bracia, aby moją i waszą ofiarę przyjął Bóg Ojciec wszechmogący.
 
 ! Ministranci odpowiadają:
@@ -106,5 +110,7 @@ Amen.
 
 ! Ostatnią kapłan kończy głośno:
 
+**Per omnia saecula saeculorum.**
 Przez wszystkie wieki wieków.
+**R. Amen.**
 R. Amen.

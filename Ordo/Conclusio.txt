@@ -3,19 +3,28 @@
 
 ! Kapłan wraca na środek ołtarza, zwraca się do wiernych i mówi:
 
+**V. Dominus vobiscum.**
 V. Pan z wami.
+**R. Et cum spiritu tuo.**
 R. I z duchem twoim.
+
+**V. Ite, Missa est.**
 V. Idźcie, ofiara spełniona.
+**R. Deo gratias.**
 R. Bogu dzięki.
 
 ! W Mszach po których następuje jakaś procesja:
 
+**V. Benedicámus Dómino.**
 V. Błogosławmy Panu.
+**R. Deo grátias**
 R. Bogu dzięki.
 
 ! We Mszach żałobnych:
 
+**V. Requiescant in pace.**
 V. Niech odpoczywają w pokoju.
+**R. Amen.**
 R. Amen.
 
 ! Kapłan pochylony na środku ołtarza odmawia ostatnią modlitwę do Trójcy Przenajświętszej.
@@ -24,7 +33,9 @@ Trójco Przenajświętsza, przyjmij z upodobaniem hołd swego sługi i spraw, ni
 
 ! Kapłan całuje ołtarz i błogosławi wiernych – przeżegnaj się. We Mszach, po których następuje procesja, oraz we Mszach żałobnych błogosławieństwa nie ma.
 
+**Benedícat vos omnípotens Deus, Pater, et Fílius, ☩ et Spíritus Sanctus.**
 Niech was błogosławi wszechmogący Bóg, Ojciec, Syn + i Duch Święty.
+**R. Amen.**
 R. Amen.
 
 [Ostatnia Ewangelia]
@@ -32,9 +43,14 @@ R. Amen.
 ! Prolog Ewangelii według św. Jana uwydatnia łączność tajemnic Wcielenia i Odkupienia. Przy końcu Mszy świętej odmawia się go jako dziękczynienie za odnowienie tych tajemnic w odprawianej ofierze i pomnożenie w nas łaski dziecięctwa Bożego.
 ! Ostatnią Ewangelię odczytuje kapłan po lewej stronie ołtarza. Opuszcza ją, jeżeli następuje procesja.
 
+
+**V. Dominus vobiscum.**
 V. Pan z wami.
+**R. Et cum spiritu tuo.**
 R. I z duchem twoim.
+**Initium + sancti Evangélii secúndum Ioánnem.**
 + Początek Ewangelii świętej według Jana.
+**R. Gloria tibi, Domine.**
 R. Chwała Tobie, Panie.
 
 !J 1, 1-14
@@ -47,4 +63,7 @@ A Słowo stało się ciałem
 
 i mieszkało między nami, i widzieliśmy chwałę Jego, pełnego łaski i prawdy, chwałę jako Jednorodzonego od Ojca.
 
+**R. Deo gratias.**
 R. Bogu dzięki.
+
+<div style="text-align:center"><img src ="img/x-par-end3.png" /></div>

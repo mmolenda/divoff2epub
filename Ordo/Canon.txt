@@ -3,17 +3,25 @@
 
 ! Rozpoczyna się najważniejsza część Mszy świętej. Kapłan intonuje uroczystą modlitwę dziękczynną, która stanowi wstęp do kanonu Mszy świętej. Krótki dialog kapłana i wiernych wzywa do zjednoczenia się z modlitwą Kościoła.
 
+**V. Dóminus vobíscum.**
 V. Pan z wami.
+**R. Et cum spíritu tuo.**
 R. I z duchem twoim.
+**V. Sursum corda.**
 V. W górę serca.
+**R. Habémus ad Dóminum.**
 R. Wznieśliśmy je ku Panu.
+**V. Grátias agámus Dómino, Deo nostro.**
 V. Dzięki składajmy Panu, Bogu naszemu.
+**R. Dignum et iustum est.**
 R. Godne to i sprawiedliwe.
 
 [Prefacja Zwykła]
 
+**Vere dignum et iustum est, æquum et salutáre...**
 Zaprawdę godne to i sprawiedliwe, słuszne i zbawienne, abyśmy zawsze i wszędzie Tobie składali dziękczynienie, Panie, Ojcze Święty, wszechmogący, wieczny Boże, przez Chrystusa, Pana naszego. Przez Niego Twój majestat chwalą Aniołowie, uwielbiają Państwa, z lękiem czczą Potęgi, Niebiosa i Moce niebios oraz błogosławieni Serafini we wspólnej wysławiają radości. Z nimi to, prosimy, dozwól i naszym głosom wołać w pokornym uwielbieniu:
 
+**Sanctus, Sanctus, Sanctus Dóminus, Deus Sábaoth. Pleni sunt coeli et terra glória tua. Hosánna in excélsis. Benedíctus, qui venit in nómine Dómini. Hosánna in excélsis.**
 Święty, Święty, Święty Pan Bóg Zastępów! Pełne są niebiosa i ziemia chwały Twojej. Hosanna na wysokości. Błogosławiony, który idzie w imię Pańskie. Hosanna na wysokości.
 
 [Kanon Mszy Świętej]

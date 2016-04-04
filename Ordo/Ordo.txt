@@ -1,0 +1,3 @@
+[Comment]
+
+<div style="text-align:center"><img src ="img/x-proprium_missarium.png" /></div>

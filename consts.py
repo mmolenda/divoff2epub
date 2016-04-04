@@ -112,11 +112,12 @@ TRANSFORMATIONS = (
 
 PROPERS_INPUT1 = (
 ('Okres Męki', ),
-('Tempora/Quad6-6r.txt', 'Quad5', None), # Triduum
+('Tempora/Quad6-5r.txt', 'Quad5', None), # Triduum
 )
 
 PROPERS_INPUT = (
 ('Stałe Części Mszy Świętej', ),
+('Ordo/Ordo.txt', 'Communis', None),
 ('Ordo/Asperges.txt', 'Communis', None),
 ('Ordo/Incipit.txt', 'Communis', None),
 ('Ordo/Verbo.txt', 'Communis', None),
@@ -206,7 +207,7 @@ PROPERS_INPUT = (
 ('Tempora/Pasc7-5.txt', 'Spiritu', 'C-Pent1962'),
 ('Tempora/Pasc7-6.txt', 'Spiritu', 'C-Pent1962'),
 
-('Okres po Zesłaniu Ducha Świetego', ),
+('Okres po Zesłaniu Ducha Świętego', ),
 ('Tempora/Pent01-0r.txt', 'Trinitate', None),
 ('Tempora/Pent01-4.txt', 'Nat', None),
 ('Tempora/Pent02-0r.txt', 'Trinitate', None),
