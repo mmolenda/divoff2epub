@@ -7267,7 +7267,7 @@ Przez Pana.
 ### Lekcja  
 Czytanie z Listu świętego Jana Apostoła.  
 *1 J 5:4-10*  
-*Chrystus żyje i działa w nas przez trzy elementy: wodę Chrztu, Krewo obecną w Eucharystii i tchnienie Ducha Świętego w sakramencie Bierzmowania. Nasze życie przekształcone przez te trzy elementy staje się świadectwem wiary chrześcijańskiej. Sam Bóg jest sprawcą tego świadectwa.*  
+*Chrystus żyje i działa w nas przez trzy elementy: wodę Chrztu, Krew obecną w Eucharystii i tchnienie Ducha Świętego w sakramencie Bierzmowania. Nasze życie przekształcone przez te trzy elementy staje się świadectwem wiary chrześcijańskiej. Sam Bóg jest sprawcą tego świadectwa.*  
 Najmilsi: Wszystko, co się narodziło z Boga, zwycięża świat, a zwycięstwem, które odnosimy nad światem jest wiara nasza. Któż jest, który zwycięża świat, jeśli nie ten, kto wierzy, że Jezus jest Synem Bożym? Jest to ten sam Jezus Chrystus, który przyszedł przez wodę i przez krew; nie w wodzie tylko, ale w wodzie i we krwi. A Duch świadczy, że Chrystus jest prawdą.  
 Albowiem Trójca wydaje świadectwo na niebie: Ojciec, Syn i Duch Święty, a Trójca ta jednym jest. Jeśli świadectwo ludzkie przyjmujemy, świadectwo Boże większe jest. Bo to jest świadectwo Boże, które większe jest, przez które zaświadczył o Synu swoim. Kto wierzy w Syna Bożego, nosi w sobie świadectwo Boże.  
   
@@ -9172,7 +9172,7 @@ Przez Pana.
 
 *1 klasy*  
 *Szaty białe*  
-Rocznica ustanowienia Najświętszego Sakramentu, Wielki Czwartek, zbyt bliski jest męki i śmierci Chrystusa, aby można było oddać się niezmąconej radości. Dlatego w pierwszy czwartek po zakończeniu okresu Wielkanocnego zostało ustanowione specjalne święto, które- go celem jest okazanie wdzięczności Bogu za ustanowienie Najświętszego Sakramentu i za wszystkie łaski, które nieustannie spływają z niego na Kościół. Do ustanowienia święta Bożego Ciała przyczyniły się prośby św. Julianny z Cornillon (✝ 1258). Na cały Kościół rozciągnął je papież Urban IV. Procesję dodano dopiero w XV wieku.  
+Rocznica ustanowienia Najświętszego Sakramentu, Wielki Czwartek, zbyt bliski jest męki i śmierci Chrystusa, aby można było oddać się niezmąconej radości. Dlatego w pierwszy czwartek po zakończeniu okresu Wielkanocnego zostało ustanowione specjalne święto, które- go celem jest okazanie wdzięczności Bogu za ustanowienie Najświętszego Sakramentu i za wszystkie łaski, które nieustannie spływają z niego na Kościół. Do ustanowienia święta Bożego Ciała przyczyniły się prośby św. Julianny z Cornillon (zm. 1258). Na cały Kościół rozciągnął je papież Urban IV. Procesję dodano dopiero w XV wieku.  
 Teksty mszalne przypominają nam, że Eucharystia jest przede wszystkim ofiarą uobecniającą krzyżową śmierć Pana Jezusa oraz pokarmem dusz podtrzymującym nas w drodze do wiecznej ojczyzny. Eucharystia jest również najgłębszym wyrazem jedności Kościoła. Kto godzi w jedność Kościoła, urąga Eucharystii.  
   
 

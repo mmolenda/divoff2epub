@@ -20,3 +20,8 @@ Skrypt generuje Mszalik na niedziele i święta w formacie *epub* i *mobi* na po
 
 Pierwsza wersja mszalika
 
+## v0.2
+
+* Poprawione literówki
+
+
