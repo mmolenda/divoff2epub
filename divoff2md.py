@@ -8,6 +8,7 @@ TODO:
 import sys
 import re
 import os
+import argparse
 from collections import OrderedDict
 from consts import DIVOFF_DIR, TRANSLATION, \
     TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
@@ -120,9 +121,9 @@ def print_contents(path, contents, pref, comm):
     if not path.startswith('Ordo'):
         print '<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>'
 
-def main():
+def main(input_=PROPERS_INPUT):
     prefationes = read_file('Ordo/Prefationes.txt')
-    for i in PROPERS_INPUT:
+    for i in input_:
         if len(i) == 1:
             # Printing season's title
             print '\n# ' + i[0]
@@ -132,7 +133,7 @@ def main():
             try:
                 contents = read_file(path)
             except Exception, e:
-                sys.stderr.write("Cannot parse {}: {}".format(sys.argv[1], e))
+                sys.stderr.write("Cannot parse {}: {}\n".format(path, e))
                 raise
             else:
                 print_contents(path, contents,
@@ -140,4 +141,16 @@ def main():
                                prefationes.get(comm_key))
 
 if __name__ == '__main__':
-    main()
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--file_name",
+                        help="File name containing given proper from divinumofficium, e.g. web/www/missa/Polski/Sancti/11-11.txt")
+    parser.add_argument("--pref_key",
+                        default="Communis", help="Prefacio, e.g. Trinitate")
+    parser.add_argument("--comm_key",
+                        help="Commune, e.g. C-Nat1962")
+    args = parser.parse_args()
+    if args.file_name is None:
+        main()
+    else:
+        main(((args.file_name, args.pref_key, args.comm_key), ))
+
