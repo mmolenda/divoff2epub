@@ -14,10 +14,12 @@ from consts import DIVOFF_DIR, TRANSLATION, \
     TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
     DIVOFF_DIR, PROPERS_INPUT, REF_REGEX, SECTION_REGEX
 
+
 def normalize(ln):
     for r, s in TRANSFORMATIONS:
         ln = re.sub(r, s, ln)
     return ln
+
 
 def resolve_conditionals(d):
     for section, content in d.items():
@@ -31,7 +33,7 @@ def resolve_conditionals(d):
                 continue
             if '(rubrica 1570 aut rubrica 1910 aut rubrica divino afflatu dicitur)' in ln:
                 # skip next line; do not append current one
-                itercontent.next()
+                next(itercontent)
                 continue
             if '(deinde dicuntur)' in ln:
                 # start skipping lines from now on
@@ -88,16 +90,17 @@ def read_file(path, lookup_section=None):
     d = resolve_conditionals(d)
     return d
 
+
 def print_contents(path, contents, pref, comm):
 
     def _print_section(section, lines):
-        print '\n'
+        print('\n')
         if section not in EXCLUDE_SECTIONS_TITLES:
-            print '### ' + translation.get(section, section) + '  '
+            print('### ' + translation.get(section, section) + '  ')
         for line in lines:
-            print line + '  '
+            print(line + '  ')
             if section == 'Comment' and line.startswith('## ') and img_exists:
-                print '\n<div style="text-align:center"><img src ="{}" /></div>\n'.format(img_path)
+                print('\n<div style="text-align:center"><img src ="{}" /></div>\n'.format(img_path))
 
     img_path = path.replace('txt', 'png')
     img_exists = os.path.exists(img_path)
@@ -119,20 +122,21 @@ def print_contents(path, contents, pref, comm):
                 _print_section('Communicantes', comm)
 
     if not path.startswith('Ordo'):
-        print '<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>'
+        print('<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>')
+
 
 def main(input_=PROPERS_INPUT):
     prefationes = read_file('Ordo/Prefationes.txt')
     for i in input_:
         if len(i) == 1:
             # Printing season's title
-            print '\n# ' + i[0]
+            print('\n# ' + i[0])
         else:
             # Printing propers
             path, pref_key, comm_key = i
             try:
                 contents = read_file(path)
-            except Exception, e:
+            except Exception as e:
                 sys.stderr.write("Cannot parse {}: {}\n".format(path, e))
                 raise
             else:
@@ -142,14 +146,15 @@ def main(input_=PROPERS_INPUT):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("--file_name",
-                        help="File name containing given proper from divinumofficium, e.g. web/www/missa/Polski/Sancti/11-11.txt")
+    parser.add_argument("file_name", nargs='?', default=argparse.SUPPRESS,
+                        help="File name containing given proper from divinumofficium, "
+                             "e.g. web/www/missa/Polski/Sancti/11-11.txt")
     parser.add_argument("--pref_key",
                         default="Communis", help="Prefacio, e.g. Trinitate")
     parser.add_argument("--comm_key",
                         help="Commune, e.g. C-Nat1962")
     args = parser.parse_args()
-    if args.file_name is None:
+    if 'file_name' not in args:
         main()
     else:
         main(((args.file_name, args.pref_key, args.comm_key), ))

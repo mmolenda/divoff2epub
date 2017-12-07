@@ -24,4 +24,8 @@ Pierwsza wersja mszalika
 
 * Poprawione literówki
 
+## v0.3
+
+* Zmiana struktury katalogów, dostosowanie do Python3
+
 
