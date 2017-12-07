@@ -49,6 +49,7 @@ def resolve_conditionals(d):
         d[section] = new_content
     return d
 
+
 def read_file(path, lookup_section=None):
     """
     Read the file and organize the content as ordered dictionary
@@ -65,15 +66,15 @@ def read_file(path, lookup_section=None):
             if re.search(SECTION_REGEX, ln):
                 section = re.sub(SECTION_REGEX, '\\1', ln)
 
-            if (not lookup_section and section not in EXCLUDE_SECTIONS) or \
-               lookup_section == section:
+            if (ln and not lookup_section and section not in EXCLUDE_SECTIONS) or \
+                    (ln and lookup_section == section):
                 if re.match(SECTION_REGEX, ln):
                     d[section] = []
                 else:
                     ref_search_result = REF_REGEX.search(ln)
                     if ref_search_result:
                         # Recursively read referenced file
-                        path_bit, nested_section = ref_search_result.groups()
+                        path_bit, nested_section, substitution = ref_search_result.groups()
                         nested_path = DIVOFF_DIR + path_bit + '.txt' \
                                       if path_bit else path
                         nested_content = read_file(nested_path, nested_section)
@@ -120,9 +121,6 @@ def print_contents(path, contents, pref, comm):
             _print_section('Prefatio', pref)
             if comm:
                 _print_section('Communicantes', comm)
-
-    if not path.startswith('Ordo'):
-        print('<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>')
 
 
 def main(input_=PROPERS_INPUT):

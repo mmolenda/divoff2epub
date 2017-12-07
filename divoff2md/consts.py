@@ -77,9 +77,16 @@ TRANSLATION_MULTI = {
 'OratioL5': '6 Kolekta',
 'Oratio': '1 Kolekta'}
 
-PATERNOSTER = "Ojcze nasz, któryś jest w niebie: Święć się Imię Twoje, Przyjdź królestwo Twoje, Bądź wola Twoja jako w niebie tak i na ziemi.\nChleba naszego powszedniego daj nam dzisiaj I odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom. I nie wódź nas na pokuszenie. Ale nas zbaw ode złego. Amen."
+PATERNOSTER = "Ojcze nasz, któryś jest w niebie: " \
+              "Święć się Imię Twoje, " \
+              "Przyjdź królestwo Twoje, " \
+              "Bądź wola Twoja jako w niebie tak i na ziemi.\n" \
+              "Chleba naszego powszedniego daj nam dzisiaj " \
+              "I odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom. " \
+              "I nie wódź nas na pokuszenie. " \
+              "Ale nas zbaw ode złego. Amen."
 
-REF_REGEX = re.compile('^@(.*):(.*)')
+REF_REGEX = re.compile('^@([\w/\-]+):([\w]+)[: ]*(.*)')
 SECTION_REGEX = re.compile(r'^### *(.*)')
 
 TRANSFORMATIONS = (
