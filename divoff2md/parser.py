@@ -122,6 +122,8 @@ def print_contents(path, contents, pref, comm):
             if comm:
                 _print_section('Communicantes', comm)
 
+    if not path.startswith('Ordo'):
+        print('■')
 
 def main(input_=PROPERS_INPUT):
     prefationes = read_file('Ordo/Prefationes.txt')

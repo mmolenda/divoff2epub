@@ -123,6 +123,9 @@ PROPERS_INPUT1 = (
 )
 
 PROPERS_INPUT = (
+('Wstęp', ),
+('Descr/Intro.txt', None, None),
+
 ('Stałe Części Mszy Świętej', ),
 ('Ordo/Ordo.txt', 'Communis', None),
 ('Ordo/Asperges.txt', 'Communis', None),
@@ -134,6 +137,7 @@ PROPERS_INPUT = (
 ('Ordo/Conclusio.txt', 'Communis', None),
 
 ('Adwent', ),
+('Descr/Adv.txt', None, None),
 ('Tempora/Adv1-0.txt', 'Trinitate', None),
 ('Tempora/Adv2-0.txt', 'Trinitate', None),
 ('Tempora/Adv3-0.txt', 'Trinitate', None),
@@ -144,6 +148,7 @@ PROPERS_INPUT = (
 ('Sancti/12-24.txt', 'Trinitate', None),
 
 ('Okres Bożego Narodzenia', ),
+('Descr/Nat.txt', None, None),
 ('Sancti/12-25m1.txt', 'Nat', 'C-Nat1962'),
 ('Sancti/12-25m2.txt', 'Nat', 'C-Nat1962'),
 ('Sancti/12-25m3.txt', 'Nat', 'C-Nat1962'),
@@ -158,6 +163,7 @@ PROPERS_INPUT = (
 ('Sancti/01-13.txt', 'Epi', None),
 
 ('Okres po Objawieniu', ),
+('Descr/Epi.txt', None, None),
 ('Tempora/Epi2-0.txt', 'Trinitate', None),
 ('Tempora/Epi3-0.txt', 'Trinitate', None),
 ('Tempora/Epi4-0.txt', 'Trinitate', None),
@@ -165,22 +171,58 @@ PROPERS_INPUT = (
 ('Tempora/Epi6-0.txt', 'Trinitate', None),
 
 ('Przedpoście', ),
+('Descr/Quadp.txt', None, None),
 ('Tempora/Quadp1-0.txt', 'Trinitate', None),
 ('Tempora/Quadp2-0.txt', 'Trinitate', None),
 ('Tempora/Quadp3-0.txt', 'Trinitate', None),
 
 ('Wielki Post', ),
+('Descr/Quad0.txt', None, None),
 ('Tempora/Quadp3-3.txt', 'Quad', None),
+('Tempora/Quadp3-4.txt', 'Quad', None),
+('Tempora/Quadp3-5.txt', 'Quad', None),
+('Tempora/Quadp3-6.txt', 'Quad', None),
 ('Tempora/Quad1-0.txt', 'Quad', None),
+('Tempora/Quad1-1.txt', 'Quad', None),
+('Tempora/Quad1-2.txt', 'Quad', None),
 ('Tempora/Quad1-3.txt', 'Quad', None),
+('Tempora/Quad1-4.txt', 'Quad', None),
 ('Tempora/Quad1-5.txt', 'Quad', None),
 ('Tempora/Quad1-6.txt', 'Quad', None),
 ('Tempora/Quad2-0.txt', 'Quad', None),
+('Tempora/Quad2-1.txt', 'Quad', None),
+('Tempora/Quad2-2.txt', 'Quad', None),
+('Tempora/Quad2-3.txt', 'Quad', None),
+('Tempora/Quad2-4.txt', 'Quad', None),
+('Tempora/Quad2-5.txt', 'Quad', None),
+('Tempora/Quad2-6.txt', 'Quad', None),
 ('Tempora/Quad3-0.txt', 'Quad', None),
+('Tempora/Quad3-1.txt', 'Quad', None),
+('Tempora/Quad3-2.txt', 'Quad', None),
+('Tempora/Quad3-3.txt', 'Quad', None),
+('Tempora/Quad3-4.txt', 'Quad', None),
+('Tempora/Quad3-5.txt', 'Quad', None),
+('Tempora/Quad3-6.txt', 'Quad', None),
 ('Tempora/Quad4-0.txt', 'Quad', None),
+('Tempora/Quad4-1.txt', 'Quad', None),
+('Tempora/Quad4-2.txt', 'Quad', None),
+('Tempora/Quad4-3.txt', 'Quad', None),
+('Tempora/Quad4-4.txt', 'Quad', None),
+('Tempora/Quad4-5.txt', 'Quad', None),
+('Tempora/Quad4-6.txt', 'Quad', None),
 
 ('Okres Męki Pańskiej', ),
+('Descr/Quad1.txt', None, None),
 ('Tempora/Quad5-0.txt', 'Quad5', None),
+('Tempora/Quad5-1.txt', 'Quad', None),
+('Tempora/Quad5-2.txt', 'Quad', None),
+('Tempora/Quad5-3.txt', 'Quad', None),
+('Tempora/Quad5-4.txt', 'Quad', None),
+('Tempora/Quad5-5Feria.txt', 'Quad', None),
+('Tempora/Quad5-6.txt', 'Quad', None),
+
+('Wielki Tydzień', ),
+('Descr/Quad2.txt', None, None),
 ('Tempora/Quad6-0r.txt', 'Quad5', None),
 ('Tempora/Quad6-1.txt', 'Quad5', None),
 ('Tempora/Quad6-2.txt', 'Quad5', None),
@@ -189,6 +231,7 @@ PROPERS_INPUT = (
 ('Tempora/Quad6-5r.txt', 'Communis', None), # Triduum
 
 ('Okres Wielkanocny', ),
+('Descr/Pasc0.txt', None, None),
 ('Tempora/Quad6-6r.txt', 'Communis', None), # Triduum
 ('Tempora/Pasc0-0.txt', 'Pasch', 'C-Pasc1962'),
 ('Tempora/Pasc0-1.txt', 'Pasch', 'C-Pasc1962'),
@@ -202,9 +245,13 @@ PROPERS_INPUT = (
 ('Tempora/Pasc3-0r.txt', 'Pasch', None),
 ('Tempora/Pasc4-0.txt', 'Pasch', None),
 ('Tempora/Pasc5-0.txt', 'Pasch', None),
+('Tempora/Pasc5-1.txt', 'Pasch', None),
 ('Tempora/Pasc5-3.txt', 'Pasch', None),
 ('Tempora/Pasc5-4.txt', 'Asc', 'C-Asc1962'),
 ('Tempora/Pasc6-0.txt', 'Asc', None),
+
+('Zesłanie Ducha Świętego', ),
+('Descr/Pasc1.txt', None, None),
 ('Tempora/Pasc6-6.txt', 'Spiritu', 'C-Pent1962'),
 ('Tempora/Pasc7-0.txt', 'Spiritu', 'C-Pent1962'),
 ('Tempora/Pasc7-1.txt', 'Spiritu', 'C-Pent1962'),
@@ -215,6 +262,7 @@ PROPERS_INPUT = (
 ('Tempora/Pasc7-6.txt', 'Spiritu', 'C-Pent1962'),
 
 ('Okres po Zesłaniu Ducha Świętego', ),
+('Descr/Pent.txt', None, None),
 ('Tempora/Pent01-0r.txt', 'Trinitate', None),
 ('Tempora/Pent01-4.txt', 'Nat', None),
 ('Tempora/Pent02-0r.txt', 'Trinitate', None),
@@ -247,6 +295,7 @@ PROPERS_INPUT = (
 ('Tempora/Pent24-0.txt', 'Trinitate', None),
 
 ('Msze Własne o Świętych', ),
+('Descr/Sancti.txt', None, None),
 ('Sancti/12-08.txt', 'Maria', None),
 ('Sancti/12-21.txt', 'Apostolis', None),
 ('Sancti/02-02.txt', 'Communis', None),
