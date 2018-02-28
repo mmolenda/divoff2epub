@@ -66,8 +66,8 @@ def read_file(path, lookup_section=None):
             if re.search(SECTION_REGEX, ln):
                 section = re.sub(SECTION_REGEX, '\\1', ln)
 
-            if (ln and not lookup_section and section not in EXCLUDE_SECTIONS) or \
-                    (ln and lookup_section == section):
+            if (not lookup_section and section not in EXCLUDE_SECTIONS) or \
+                    (lookup_section == section):
                 if re.match(SECTION_REGEX, ln):
                     d[section] = []
                 else:

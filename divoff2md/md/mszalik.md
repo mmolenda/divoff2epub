@@ -6,9 +6,9 @@
 <div style="text-align:center"><img src ="img/x-proprium_missarium.png" /></div>  
 
 
-## Aspresja  
+## Aspersja  
   
-*Przed Mszą uroczystą następuje aspresja. Kapłan przechodzi przez kościół i kropi wiernych wodą święconą. Wszyscy śpiewają antyfonę Asperges Me.*  
+*Przed Mszą uroczystą następuje aspersja. Kapłan przechodzi przez kościół i kropi wiernych wodą święconą. Wszyscy śpiewają antyfonę Asperges Me.*  
   
 *Ps 50:9*  
 **Asperges me, Domine, hyssopo et mundabor, lavabis me, et super nivem dealbabor.**  
@@ -865,7 +865,6 @@ Pan użyczy błogosławieństwa, a ziemia nasza wyda swój plon.
 ### Pokomunia  
 Obdarz nas, Panie, miłosierdziem Swoim w pośrodku Twojej świątyni, abyśmy poprzedzali godnym przygotowaniem nadchodzące uroczystości naszego Odkupienia.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 2 Niedziela Adwentu  
@@ -945,7 +944,6 @@ Powstań Jeruzalem, a stań na miejscu wysokim i obacz wesele, które ci przyjdz
 ### Pokomunia  
 Posileni pokarmem duchowym, pokornie błagamy Cię, Panie, abyś przez uczestnictwo w tej tajemnicy nauczył nas gardzić sprawami ziemskimi, a miłować niebieskie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 3 Niedziela Adwentu  
@@ -1023,7 +1021,6 @@ Rzeczcie bojaźliwym: «Wzmocnijcie się, a nie bójcie się: oto Bóg nasz przy
 ### Pokomunia  
 Błagamy, Panie, łaskawość Twoją: aby ten Boski posiłek oczyścił nas z grzechów i przygotował na zbliżające się święta.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Środa Suchych Dni Adwentu  
@@ -1052,7 +1049,7 @@ Przez Pana.
 
 
 ### 1 Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 2:2-5*  
 W one dni rzekł Izajasz prorok: I będzie w ostateczne dni przygotowana góra domu Pańskiego na wierzchu gór, i wywyższy się nad pagórki, a popłyną do niej wszystkie narody. Pójdą też liczne ludy i rzekną: Chodźcie, a wstąpimy na górę Pańską i do domu Boga Jakubowego, a nauczy nas dróg swoich i będziemy chodzić ścieżkami Jego. Bo z Syjonu wyjdzie zakon, a słowo Pańskie z Jeruzalem. I będzie sądził narody i wielu ludom będzie wymierzał sprawiedliwość. I przekują miecze swe na lemiesze, a włócznie swe na sierpy; nie podniesie miecza naród przeciw narodowi ani nie będą więcej ćwiczyć się do boju. Domu Jakuba, pójdźcie, a chodźmy w światłości Pana Boga naszego.  
 Bogu dzięki.  
@@ -1073,9 +1070,10 @@ Który żyjesz.
 
 
 ### 6 Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 7:10-15*  
-W one dni: Rzekł Pan do Achaza, mówiąc: «Proś Pana Boga twego o znak dla siebie: w głębinie piekła lub na wysokości w górze». I rzekł Achaz: «Nie będę prosił i nie będę kusił Pana». I rzekł: «Słuchajcie więc, domie Dawida: Czyż to mało dla was dręczyć ludzi, że dręczycie także i Boga mojego? Przeto sam Pan da wam znak: Oto Panna pocznie i porodzi Syna i nazwą imię Jego Emanuel. Masło i miód będzie pożywał, by umiał zło odrzucać, a wybierać dobro».  
+W one dni: Rzeki Pan do Achaza, mówiąc: «Proś Pana Boga twego o znak dla siebie: w głębinie piekła lub na wysokości w górze». I rzekł Achaz: «Nie będę prosił i nie będę kusił Pana». I rzekł: «Słuchajcie więc, domie Dawida: Czyż to mało dla was dręczyć ludzi, że dręczycie także Boga mojego? Przeto sam Pan da wam znak: Oto Panna pocznie i porodzi Syna i nazwą imię Jego Emmanuel. Masło i miód będzie pożywał, by umiał zło odrzucać, a wybierać dobro».  
+  
   
 
 
@@ -1122,7 +1120,6 @@ Oto Panna pocznie i porodzi Syna i nazwą imię Jego Emmanuel.
 ### Pokomunia  
 Posileni zbawiennym Darem, pokornie błagamy Cię, Panie, aby to, co z radością przyjmujemy, przyniosło nam odnowienie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Piątek Suchych Dni Adwentu  
@@ -1150,7 +1147,7 @@ Który żyjesz.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 11:1-5*  
 To mówi Pan Bóg: I wyjdzie różdżka z korzenia Jessego, a kwiat z korzenia jego wzejdzie. I spocznie na nim duch Pana: duch mądrości i rozumu, duch rady i męstwa, duch umiejętności i pobożności, i napełni go duch Pańskiej bojaźni. Nie według tego będzie sądzić, co widzą oczy, ani według tego, co uszy słyszą, będzie strofować. Lecz sprawiedliwie ubogich będzie sądził i słuszny wyda wyrok na cichych na ziemi. I rózgą ust swoich ziemię uderzy, a tchnieniem warg swoich zabije niezbożnego. I będzie sprawiedliwość pasem biódr jego, a wierność opasaniem jego lędźwi.  
   
@@ -1198,7 +1195,6 @@ Oto przyjdzie Pan i wraz z Nim wszyscy Święci Jego: i zajaśnieje owego dnia �
 Niech nas odrodzi, o Panie, święta uczta ofiarna, na której pożywamy Twój Sakrament, i po oczyszczeniu ze starej przewiny niech nam da udział w tajemnicy zbawienia.  
 Przez Pana.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Sobota Suchych Dni Adwentu  
@@ -1226,7 +1222,7 @@ Który żyjesz.
 
 
 ### 1 Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 19:20-22*  
 *Prorok zapowiada, że poganie poznają prawdziwego Boga i będą Mu służyli.*  
 W one dni wołać będą do Pana przed trapiącym, i pośle im zbawiciela i obrońcę, który ich wybawi. I poznają Pana w Egipcie, i poznają Egipcjanie Pana w ów dzień, i będą Go czcić ofiarami i darami, i będą składać śluby Panu i oddadzą. I skarze Pan Egipt karą, i uzdrowi go, i nawrócą się do Pana, i da im się ubłagać, i uleczy ich Pan Bóg nasz.  
@@ -1248,7 +1244,7 @@ Który z Tobą.
 
 
 ### 2 Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 35:1-7*  
 *Prorocza wizja błogosławieństwa czasów mesjańskich. Przyroda bierze udział w radości.*  
 To mówi Pan: Rozraduje się ziemia, rozweseli się pustynia, i zakwitnie jak lilia. Rodząc rodzić będzie, i rozraduje się weseląc się i chwaląc, chwała Libanu dana jest jej, ozdoba Karmelu i Saronu; oni ujrzą chwałę Pańską i ozdobę Boga naszego. Wzmocnijcie ręce opadłe, a kolana omdlałe pokrzepcie! Rzeczcie bojaźliwym: Wzmocnijcie się, a nie bójcie się; oto Bóg wasz przywiedzie pomstę odpłaty, Bóg sam przyjdzie i zbawi was. Wtedy się otworzą oczy ślepych i uszy głuchych będą otwarte. Wtedy wyskoczy chromy jak jeleń i rozwiązany będzie język niemych; bo wytrysły wody na puszczy i potoki w pustyni. A która była sucha, będzie jeziorem i spragniona – źródłami wód. To mówi Pan wszechmogący.  
@@ -1270,7 +1266,7 @@ Który z Tobą.
 
 
 ### 3 Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 40:9-11*  
 *Odkupiciel to potężny Bóg, a zarazem troskliwy pasterz.*  
 To mówi Pan: Wstąp na górę wysoką, ty, który zwiastujesz wesołą nowinę Syjonowi; podnieś mocno głos twój, który opowiadasz wesołą nowinę Jeruzalem; podnoś, nie bój się! Mów miastom judzkim: Oto Bóg wasz! Oto Pan Bóg w mocy przyjdzie, a ramię Jego panować będzie; oto zapłata Jego z Nim, a dzieło Jego przed Nim. Jak pasterz trzodę swą paść będzie, ramieniem swym zgromadzi baranki i na łono swe podniesie On, Pan Bóg nasz.  
@@ -1292,7 +1288,7 @@ Przez tegoż Pana.
 
 
 ### 4 Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 45:1-8*  
 *Cyrus, król perski, który uwolnił Izraelitów z niewoli babilońskiej, jest typem Chrystusa, który nas wybawił z niewoli grzechu.*  
 To mówi Pan pomazańcowi memu, Cyrusowi, którego prawicę ująłem, aby podbić przed nim narody, a grzbiety królów obrócić, i otworzyć przed nim wrota, a bramy nie będą zamknięte: «Ja przed tobą pójdę i sławnych na ziemi poniżę, wrota miedziane skruszę i zawory żelazne połamię. I dam ci skarby ukryte i tajemnice kryjówek, abyś wiedział, żem ja Pan, który mianuję imię twoje, Bóg Izraelów. Dla Jakuba, sługi mego, i Izraela, wybranego mego, nazwałem cię imieniem twoim; upodobniłem cie, a nie poznałeś mnie. Ja Pan, a nie ma więcej, oprócz mnie nie ma Boga. Przepasałem cię, a nie poznałeś mnie, aby wiedzieli ci, którzy są od wschodu i którzy od zachodu, że nie ma oprócz mnie. Ja Pan, a nie ma innego, tworzący światło i stwarzający ciemność, czyniący pokój i stwarzający zło: ja Pan, który to wszystko czynię! Niebiosa, spuśćcie rosę z góry, a obłoki niech zleją z deszczem Sprawiedliwego. Niech się otworzy ziemia i zrodzi Zbawiciela, a sprawiedliwość niech wzejdzie zarazem: ja Pan stworzyłem go».  
@@ -1314,7 +1310,7 @@ Bogu dzięki.
 
 
 ### 5 Lekcja  
-Czytanie z Księgi proroka Daniela.  
+Czytanie z Księgi Proroka Daniela.  
 *Dn 3:47-51*  
 *Poważną przeszkodą do zbawienia są nasze namiętności, które wykorzystuje szatan i świat. Jak Anioł łagodził płomienie ognia, tak Chrystus uśmierzy nasze namiętności i wybawi nas od zła.*  
 W one dni Anioł Pański zstąpił z Azariaszem i z towarzyszami jego w piec i wyrzucił płomień ognia z pieca, i uczynił wśród pieca jakby wiatr rosisty przewiewający, a płomień rozchodził się nad piecem na czterdzieści dziewięć łokci, i wypadł, i popalił tych Chaldejczyków, których znalazł koło pieca, sługi królewskie, którzy podniecali ogień. (Azariasza i jego towarzyszy) nie dotknął się wcale ogień, ani ich nie zasmucił, ani żadnej przykrości nie uczynił. Wtedy ci trzej jakby jednymi usty chwalili i wysławiali, i błogosławili Boga w piecu mówiąc:  
@@ -1393,7 +1389,6 @@ Weseli się jak olbrzym, co drogę przebiega; jego wyjście na krańcu nieba si�
 ### Pokomunia  
 Prosimy Cię, Panie, Boże nasz, aby święte tajemnice, które ustanowiłeś dla zapewnienia naszego zbawienia, stały się zbawiennym lekarstwem dla życia doczesnego i przyszłego.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 4 Niedziela Adwentu  
@@ -1474,7 +1469,6 @@ Oto Panna pocznie i porodzi syna i nazwą imię Jego Emmanuel.
 Przyjąwszy Twe dary, prosimy Cię, Panie, aby przez częste uczestnictwo w tym Sakramencie wzrastał w nas jego zbawienny owoc.  
 Przez Pana.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 24 XII – Wigilia Bożego Narodzenia  
@@ -1552,7 +1546,6 @@ Objawi się chwała Pańska i ujrzy wszelkie ciało zbawienie Boga naszego.
 ### Pokomunia  
 Prosimy Cię, Panie, niech odnowi nasze życie obchód narodzin Jednorodzonego Syna Twojego, którego niebieska tajemnica nas karmi i poi.  
 Przez tegoż Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 # Okres Bożego Narodzenia
 
@@ -1639,7 +1632,6 @@ W blaskach świętości przed jutrzenką wydałem Cię z łona.
 ### Pokomunia  
 Panie, Boże nasz, z radością uczestniczymy w misteriach narodzenia Pana naszego Jezusa Chrystusa; daj nam, prosimy, abyśmy przez święte życie zasłużyli na obcowanie z Nim w wieczności:  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 25 XII – Boże Narodzenie — Msza o Świcie  
@@ -1745,7 +1737,6 @@ Przez tegoż Pana.
 *Wspomnienie św. Anastazji*  
 Nasyciłeś, Panie, rodzinę Twoją świętymi darami: wzmacniaj nas stale za wstawiennictwem tej, której uroczystość obchodzimy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 25 XII – Boże Narodzenie — Msza w Dzień  
@@ -1836,7 +1827,6 @@ Ujrzały wszystkie krańce ziemi zbawienie Boga naszego.
 ### Pokomunia  
 Wszechmogący Boże, narodzony dzisiaj Zbawiciel świata przywrócił nam synostwo Boże; spraw, prosimy, aby nam udzielił daru nieśmiertelności:  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Niedziela w Oktawie Bożego Narodzenia  
@@ -1940,7 +1930,6 @@ Przez Pana.
 *W Oktawie Narodzenia*  
 Wszechmogący Boże, narodzony dzisiaj Zbawiciel świata przywrócił nam synostwo Boże; spraw, prosimy, aby nam udzielił daru nieśmiertelności:  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 26 XII – Św. Szczepana, Pierwszego Męczennika  
@@ -2067,7 +2056,6 @@ Przez Pana.
 Wszechmogący Boże, narodzony dzisiaj Zbawiciel świata przywrócił nam synostwo Boże; spraw, prosimy, aby nam udzielił daru nieśmiertelności:  
 Który z Tobą.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 27 XII – Św. Jana, Apostoła i Ewangelisty  
@@ -2085,6 +2073,7 @@ W pośrodku Kościoła Pan otworzył jego usta, napełnił go duchem mądrości 
 Dobrze jest wysławiać Pana i śpiewać imieniu Twemu, o Najwyższy.  
 Chwała Ojcu.  
 W pośrodku Kościoła Pan otworzył jego usta, napełnił go duchem mądrości i rozumu i przyodział go szatą chwały.  
+  
   
 
 
@@ -2187,7 +2176,6 @@ Przez Pana.
 *W Oktawie Narodzenia*  
 Wszechmogący Boże, narodzony dzisiaj Zbawiciel świata przywrócił nam synostwo Boże; spraw, prosimy, aby nam udzielił daru nieśmiertelności:  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 28 XII – Świętych Młodzianków  
@@ -2221,7 +2209,7 @@ Przez tegoż Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi Apokalipsy świętego Jana.  
+Czytanie z Księgi Apokalipsy świętego Jana Apostoła.  
 *Ap 14:1-5*  
 *Przytaczając piękną wizję św. Jana, Kościół wskazuje na chwałę zgotowaną w niebie tym, którzy urzeczywistniają ideał dziewictwa i męczeństwa.*  
 W one dni widziałem Baranka stojącego na górze Syjon, a wraz z Nim sto czterdzieści cztery tysiące tych, którzy mają imię Jego i imię Ojca Jego napisane na czołach. I usłyszałem głos z nieba, niby głos wielu wód i niby huk wielkiego gromu, a ton, który dał się słyszeć, podobny był do tonu cytrzystów grających na cytrach. A śpiewali jakby nową pieśń przed tronem i przed czterema zwierzętami, i starszymi. A nikt nie mógł śpiewać onej pieśni, jeno one sto czterdzieści i cztery tysiące, którzy byli wykupieni z ziemi. To są ci, którzy nie pokalali się z niewiastami, bo dziewicami są. Podążają oni za Barankiem, dokądkolwiek idzie. Są oni wykupionymi z ludzi pierwocinami Bogu i Barankowi. W ustach ich nie postało kłamstwo, albowiem są nienaganni przed tronem Bożym.  
@@ -2309,7 +2297,6 @@ Przez Pana.
 *W Oktawie Narodzenia*  
 Wszechmogący Boże, narodzony dzisiaj Zbawiciel świata przywrócił nam synostwo Boże; spraw, prosimy, aby nam udzielił daru nieśmiertelności:  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 01 I – Oktawa Bożego Narodzenia  
@@ -2394,7 +2381,6 @@ Ujrzały wszystkie krańce ziemi zbawienie Boga naszego.
 ### Pokomunia  
 Niech ta Komunia, o Panie, oczyści nas z grzechów i za przyczyną Najświętszej Dziewicy Bogarodzicy Maryi stanie się dla nas niebieskim lekarstwem.  
 Przez tegoż Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Najświętszego Imienia Jezus  
@@ -2491,7 +2477,6 @@ Przyjdą wszystkie ludy, które uczyniłeś i będą Cię Panie wielbiły, i bę
 ### Pokomunia  
 Wszechmogący wieczny Boże, Tyś nas stworzył i odkupił, wejrzyj miłościwie na nasze prośby i racz łaskawie przyjąć tę zbawienną ofiarę, którą złożyliśmy majestatowi Twojemu na cześć imienia Syna Twojego, Pana naszego Jezusa Chrystusa. Spraw, abyśmy dzięki wlanej nam łasce Twojej, mogli się cieszyć, że imiona nasze zapisane są w niebie, pod chwalebnym imieniem Jezusa, które jest znamieniem wiekuistego przeznaczenia.  
 Przez tegoż Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 06 I – Objawienie Pańskie  
@@ -2528,7 +2513,7 @@ Przez tegoż Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 60:1-6*  
 *Jerozolima jest typem Kościoła katolickiego, do którego garną się wszystkie narody, otrzymując światło prawdziwej wiary.*  
 Powstań, Jeruzalem, i rozbłyśnij jasnością, bo przybywa światłość twoja i chwała Pańska wzeszła nad tobą. Bo oto ciemności okryją ziemię i mrok narody, nad tobą zaś wzejdzie Pan i ujrzą w tobie Jego chwałę. I będą poganie chodzić w świetle twoim, a królowie w blasku twego wschodu. Podnieś wokoło twe oczy, a oglądaj: wszyscy ci zgromadzili się, do ciebie przybyli. Synowie twoi z daleka przybędą, a córki twoje z boku powstaną. Wtedy ujrzysz i promieniować będziesz radością. Zadziwi się i rozszerzy twe serce, gdy zwróci się ku tobie bogactwo morza, moc pogan do ciebie przybędzie. Niby potop przykryje cię mnóstwo wielbłądów, dromaderów z Madianu i Efy. Wszyscy z Saby przybędą, przynosząc złoto i kadzidło i głosząc chwałę Panu.  
@@ -2585,7 +2570,6 @@ Ujrzeliśmy gwiazdę Jego na wschodzie i przybyliśmy z darami pokłonić się P
 ### Pokomunia  
 Spraw, prosimy, wszechmogący Boże, abyśmy czystym i jasnym umysłem pojęli tajemnicę uroczyście dziś obchodzoną.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Uroczystość Świętej Rodziny Jezusa, Maryi i Józefa.  
@@ -2715,7 +2699,6 @@ Przez Pana.
 *Przez Oktawę Objawienia*  
 Spraw, prosimy, wszechmogący Boże, abyśmy czystym i jasnym umysłem pojęli tajemnicę uroczyście dziś obchodzoną.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 13 I – Wspomnienie Chrztu Pańskiego  
@@ -2743,7 +2726,7 @@ Który z Tobą.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 60:1-6*  
 Powstań, Jeruzalem, i rozbłyśnij jasnością, bo przybywa światłość twoja i chwała Pańska wzeszła nad tobą. Bo oto ciemności okryją ziemię i mrok narody, nad tobą zaś wzejdzie Pan i ujrzą w tobie Jego chwałę. I będą poganie chodzić w świetle twoim, a królowie w blasku twego wschodu. Podnieś wokoło twe oczy, a oglądaj: wszyscy ci zgromadzili się, do ciebie przybyli. Synowie twoi z daleka przybędą, a córki twoje z boku powstaną. Wtedy ujrzysz i promieniować będziesz radością. Zadziwi się i rozszerzy twe serce, gdy zwróci się ku tobie bogactwo morza, moc pogan do ciebie przybędzie. Niby potop przykryje cię mnóstwo wielbłądów, dromaderów z Madianu i Efy. Wszyscy z Saby przybędą, przynosząc złoto i kadzidło i głosząc chwałę Panu.  
   
@@ -2793,7 +2776,6 @@ Ujrzeliśmy gwiazdę Jego na wschodzie i przybyliśmy z darami pokłonić się P
 ### Pokomunia  
 Prosimy Cię, Panie, niech nas uprzedza zawsze i wszędzie niebiańskie światło: abyśmy czystym wejrzeniem przeniknęli i z należną pobożnością przyjęli misterium, w którym pozwoliłeś nam uczestniczyć.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 # Okres po Objawieniu
 
@@ -2873,7 +2855,6 @@ Pan mówi: «Napełnijcie stągwie wodą i zanieście gospodarzowi wesela». A g
 ### Pokomunia  
 Niech wzrośnie w nas działanie Twojej mocy, prosimy Cię, Panie, aby łaska Twoja przygotowała nas do otrzymania dóbr wiekuistych, których zadatek otrzymaliśmy w Boskim Sakramencie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 3 Niedziela po Objawieniu  
@@ -2953,7 +2934,6 @@ Dziwili się wszyscy słowom, które wychodziły z ust Bożych.
 ### Pokomunia  
 Prosimy Cię, Panie, racz nas przysposobić do przyjęcia owoców wzniosłych misteriów, w których pozwalasz nam uczestniczyć.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 4 Niedziela po Objawieniu  
@@ -3032,7 +3012,6 @@ Dziwili się wszyscy słowom, które wychodziły z ust Bożych.
 ### Pokomunia  
 Niech Twoje dary, o Boże, oderwą nas od rozkoszy ziemskich i nieustannie wzmacniają pokarmem niebieskim.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 5 Niedziela po Objawieniu  
@@ -3111,7 +3090,6 @@ Dziwili się wszyscy słowom, które wychodziły z ust Bożych.
 Prosimy cię wszechmogący Boże, abyśmy osiągnęli zbawienie, którego zadatek otrzymaliśmy w tych tajemnicach.  
 Przez Pana.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 6 Niedziela po Objawieniu  
@@ -3189,7 +3167,6 @@ Dziwili się wszyscy słowom, które wychodziły z ust Bożych.
 ### Pokomunia  
 Posileni ucztą niebieską, prosimy, Panie, abyśmy zawsze pożądali tego pokarmu, który nam daje prawdziwe życie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 # Przedpoście
 
@@ -3277,7 +3254,6 @@ Ukaż Twe pogodne oblicze słudze Twemu, wybaw mnie w swym miłosierdziu, Panie,
 ### Pokomunia  
 Umocnij, Panie, Twoich wiernych Swoimi darami, aby przyjmując je, nieustannie ich szukali, a szukając, bez końca je przyjmowali.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Niedziela Sześćdziesiątnicy  
@@ -3365,7 +3341,6 @@ Przystąpię do ołtarza Bożego, do Boga, który radością napełnia młodoś�
 ### Pokomunia  
 Pokornie prosimy Cię, wszechmogący Boże, spraw, aby ci, których posilasz Twoim Sakramentem, godnie Tobie służyli wedłg Twego upodobania.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Niedziela Pięćdziesiątnicy  
@@ -3452,7 +3427,6 @@ Jedli i nasycili się bardzo, i pożądanie ich Pan zaspokoił: nie zawiedli si�
 ### Pokomunia  
 Prosimy Cię, wszechmogący Boże, aby pokarm niebieski, któryśmy przyjęli, chronił nas od wszelkich przeciwności.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 # Wielki Post
 
@@ -3548,7 +3522,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Joela.  
+Czytanie z Księgi Proroka Joela.  
 *Jl 2:12-19*  
 *Słowami proroka Joela Kościół wzywa nas do postu i wewnętrznego nawrócenia. Pokuta, którą głosił Prorok, miała charakter społeczny. Podobnie Wielki Post jest okresem wspólnego postu i wspólnej modlitwy całego Kościoła.*  
 To mówi Pan: Nawróćcie się do mnie całym sercem waszym przez post, płacz i żal. I rozdzierajcie serca wasze, a nie wasze szaty. I nawróćcie się do Pana Boga waszego, bo łaskawy jest i litościwy, cierpliwy i wielkiego miłosierdzia, a współczujący w nieszczęściu. Kto wie, może się odwróci i wybaczy i zostawi po sobie błogosławieństwo na ofiarę i płynną obiate dla Pana Boga waszego.  
@@ -3563,13 +3537,8 @@ Zmiłuj się nade mną, Boże, zmiłuj się nade mną, bo Tobie ufa dusza moja.
 V. Sięgnął nieba i wybawił mnie, hańbą okrył tych, co mnie dręczą.  
   
 *Traktus*  
-*Ps 102:10*  
-Panie, nie postępuj z nami według naszych grzechów ani nie odpłacaj nam według win naszych.  
-*Ps 78:8-9*  
-Nie pamiętaj, Panie, dawnych nieprawości naszych. Niech rychło wyjdzie ku nam miłosierdzie Twoje, bo jesteśmy bardzo nieszczęśliwi. (Tu się przyklęka)  
-V. Wspomóż nas, Boże, nasz Zbawicielu, i dla chwały imienia Twego wybaw nas, Panie, i odpuść nam grzechy dla imienia Twego.  
+@:Tractus1  
 *Powyższy traktus odmawia się w poniedziałki, środy i piątki Wielkiego Postu z wyjątkiem środy Suchych Dni i Wielkiej Środy.*  
-  
   
 
 
@@ -3622,7 +3591,6 @@ Pochylcie głowy wasze przed Bogiem.
   
 Wejrzyj łaskawie, o Panie, na wiernych, którzy chylą się przed Twoim majestatem, aby posileni Boskim darem zawsze byli podtrzymywani niebieską pomocą.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 1 Niedziela Wielkiego Postu  
@@ -3720,7 +3688,6 @@ Piórami swymi Pan cię okryje i pod skrzydła Jego się schronisz, wierność J
 ### Pokomunia  
 Niech nas odrodzi, o Panie, święta uczta, na której pożywamy Twój Sakrament, i po oczyszczeniu ze starej przewiny, niech nam da udział w tajemnicy zbawienia.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Środa Suchych Dni Wielkiego Postu  
@@ -3834,7 +3801,6 @@ Przez Pana.
   
   
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Piątek Suchych Dni Wielkiego Postu  
@@ -3862,7 +3828,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Ezechiela.  
+Czytanie z Księgi Proroka Ezechiela.  
 *Ez 18:20-28*  
 To mówi Pan Bóg: Człowiek, który zgrzeszy, sam śmierć poniesie: syn nie poniesie nieprawości ojca, a ojciec nie poniesie nieprawości syna. Sprawiedliwość sprawiedliwego będzie jego własnością, a niezbożność niezbożnego będzie jego własnością. Jeśli zaś niezbożny za wszystkie grzechy swe, jakie popełnił, będzie czynił pokutę, a strzec będzie wszystkich mych przykazań, a postępować będzie według sądu i sprawiedliwości: z pewnością żyć będzie, a nie umrze. Nie będę pomny na wszystkie nieprawości jego, jakie popełnił dzięki sprawiedliwości swej, jakiej dokonał, żyć będzie. Czyż chcę śmierci grzesznika, mówi Pan Bóg, a nie raczej, ażeby od dróg swych nawrócił się, a żył?  
 Jeśli zaś sprawiedliwy odwróci się od swej sprawiedliwości, a będzie czynił nieprawość podług wszystkich obrzydliwości, jakie zwykł czynić niezbożny – czyż będzie żył? Wszystkie jego czyny sprawiedliwe, jakie zdziałał, nie będą wspomniane; przez sprzeniewierzenie, którego dokonał, i przez grzech, który popełnił, przez nie umrze.  
@@ -3875,13 +3841,11 @@ I powiedzieliście: «Droga Pańska nie jest słuszna». Słuchajcie więc, domu
 Ratuj, mój Boże, sługę swego, który Ci zaufał.  
 V. Usłysz, Panie, modlitwę moją.  
   
-*Traktus*  
 *Ps 102:10*  
 Panie, nie postępuj z nami według naszych grzechów ani nie odpłacaj nam według win naszych.  
 *Ps 78:8-9*  
 Nie pamiętaj, Panie, dawnych nieprawości naszych. Niech rychło wyjdzie ku nam miłosierdzie Twoje, bo jesteśmy bardzo nieszczęśliwi. (Tu się przyklęka)  
 V. Wspomóż nas, Boże, nasz Zbawicielu, i dla chwały imienia Twego wybaw nas, Panie, i odpuść nam grzechy dla imienia Twego.  
-*Powyższy traktus odmawia się w poniedziałki, środy i piątki Wielkiego Postu z wyjątkiem środy Suchych Dni i Wielkiej Środy.*  
   
   
 
@@ -3934,7 +3898,6 @@ Módlmy się.
 Pochylcie głowy wasze przed Bogiem.  
 Wysłuchaj nas, miłosierny Boże, i ukaż naszym duszom światło Twojej łaski.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Sobota Suchych Dni Wielkiego Postu  
@@ -4053,7 +4016,7 @@ Przez Pana.
 
 
 ### 5 Lekcja  
-Czytanie z Księgi proroka Daniela.  
+Czytanie z Księgi Proroka Daniela.  
 *Dn 3:47-51*  
 *Poważną przeszkodą do zbawienia są nasze namiętności, które wykorzystuje szatan i świat. Jak Anioł łagodził płomienie ognia, tak Chrystus uśmierzy nasze namiętności i wybawi nas od zła.*  
 W one dni Anioł Pański zstąpił z Azariaszem i z towarzyszami jego w piec i wyrzucił płomień ognia z pieca, i uczynił wśród pieca jakby wiatr rosisty przewiewający, a płomień rozchodził się nad piecem na czterdzieści dziewięć łokci, i wypadł, i popalił tych Chaldejczyków, których znalazł koło pieca, sługi królewskie, którzy podniecali ogień. (Azariasza i jego towarzyszy) nie dotknął się wcale ogień, ani ich nie zasmucił, ani żadnej przykrości nie uczynił. Wtedy ci trzej jakby jednymi usty chwalili i wysławiali, i błogosławili Boga w piecu mówiąc:  
@@ -4144,7 +4107,6 @@ Módlmy się.
 Pochylcie głowy wasze przed Bogiem.  
 Panie, niech upragnione błogosławieństwo umocni Twoich wiernych, aby nigdy nie uchylali się od pełnienia Twojej woli i cieszyli się zawsze Twoimi dobrodziejstwami.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 2 Niedziela Wielkiego Postu  
@@ -4248,7 +4210,6 @@ Zważ na moje wołanie, zwróć się na głos modlitwy mojej, mój Królu i Boż
 ### Pokomunia  
 Pokornie prosimy Cię, wszechmogący Boże, spraw, aby ci, których posilasz Swoim sakramentem, godnie Tobie służyli życiem według Twego upodobania.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 3 Niedziela Wielkiego Postu  
@@ -4336,7 +4297,6 @@ Wróbel znajduje sobie dom i jaskółka gniazdo, gdzie złoży swoje pisklęta: 
 Prosimy Cię, Panie, uwolnij nas łaskawie od wszelkich przewinień i niebezpieczeństw, skoro pozwalasz nam uczestniczyć w tak wielkim Sakramencie.  
 Przez Pana.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 4 Niedziela Wielkiego Postu (Niedziela Laetare)  
@@ -4424,7 +4384,6 @@ O Jeruzalem, coś zbudowane jak miasto, zupełnie w sobie skupione. Tam wstępuj
 ### Pokomunia  
 Spraw, prosimy Cię, miłosierny Boże, abyśmy zbliżali się z prawdziwą czcią do świętych tajemnic Twoich, z których pełni nieustannie czerpiemy, i przyjmowali je zawsze z żywą wiarą.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 # Okres Męki Pańskiej
 
@@ -4516,7 +4475,6 @@ To jest Ciało moje, które za was będzie wydane; ten jest kielich Nowego Przym
 ### Pokomunia  
 Przybądź nam z pomocą Panie, Boże nasz i otaczaj nieustanną opieką tych, których pokrzepiłeś przez Twoje tajemnice.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 2 Niedziela Męki Pańskiej czyli Niedziela Palmowa  
@@ -4535,7 +4493,7 @@ Podobnie jak zmienia się kolor szat kapłana, tak zmienia się i treść liturg
 
 
 ### Poświęcenie Palm  
-*Kapłan, pomijając aspresję, podchodzi wraz z asystą by pobłogosławić palmy lub gałązki oliwne lub gałązki innych drzew, które znajdują się na ołtarzu, po stronie Lekcji. Westymenta Celbransa i asysty są czerwone.*  
+*Kapłan, pomijając aspersję, podchodzi wraz z asystą by pobłogosławić palmy lub gałązki oliwne lub gałązki innych drzew, które znajdują się na ołtarzu, po stronie Lekcji. Westymenta Celebransa i asysty są czerwone.*  
 *Mt 21:9*  
 Ant. Hosanna Synowi Dawidowemu, błogosławiony, który przychodzi w imię Pańskie. O Królu izraelski: Hosanna na wysokościach.  
   
@@ -4746,16 +4704,9 @@ V. Ludowi, który się narodzi: «Pan to uczynił».
 
 
 ### Ewangelia  
-Oczyść serce i wargi moje, wszechmogący Boże, któryś wargi proroka Izajasza oczyścił kamykiem ognistym. W łaskawym zmiłowaniu Swoim racz mię tak oczyścić, abym godnie zdołał głosić Twą świętą Ewangelię. Przez Chrystusa, Pana naszego. Amen.  
-D. Racz pobłogosławić, ojcze.  
-S. Pan niech będzie w sercu twoim i na wargach twoich, byś godnie i należycie głosił Jego Ewangelię. W imię Ojca, i Syna, ☩ i Ducha Świętego.  
-D. Amen.  
+@:Munda Cor Passionis  
   
-  
-Pasja Pana naszego Jezusa Chrystusa według Mateusza.  
-*Mt 26:36-75; 27:1-60*  
-*J = słowa Chrystusa; C = opowiadanie Ewangelisty; S = słowa innych osób.*  
-  
+@:Evangelium1  
 Onego czasu: Przyszedł Jezus z uczniami swymi do posiadłości wiejskiej, którą zowią Getsemami, i rzekł im J. Zostańcie tu, aż odejdę tam i będę się modlił. C. I wziąwszy Piotra i dwóch synów Zebedeuszowych, począł się smucić i cierpieć udrękę. Wówczas rzekł im: J. Smutna jest dusza moja aż do śmierci. Zostańcie tu i czuwajcie ze mną. C. A odszedłszy nieco padł na oblicze swoje, modląc się i mówiąc: J. Ojcze mój, jeśli to być może, niechaj odejdzie ode mnie ten kielich, wszakże nie jako ja chcę, ale jako Ty. I przyszedł do uczniów swoich i zastał ich śpiących. I powiedział Piotrowi: J. Tak to, nie mogliście jednej godziny czuwać ze mną? Czuwajcie i módlcie się, abyście nie popadli w pokuszenie: duch wprawdzie jest ochoczy, ale ciało omdlałe. C. I oddalił się powtórnie i modlił się mówiąc: J. Ojcze mój, jeżeli kielich ten nie może odjeść ode mnie, jeno abym go pił, niech się stanie wola Twoja. C. I przyszedł znowu i zastał ich śpiących, oczy ich bowiem były senne. A zostawiwszy ich, znowu się oddalił i modlił się po raz trzeci, te same wypowiadając słowa. Wtedy przyszedł do uczniów swoich i rzekł im: J. Śpijcie już i odpoczywajcie, oto nadeszła godzina i Syn Człowieczy będzie wydany w ręce grzeszników. Wstańcie, pójdźmy, oto przybliżył się ten, który mię wyda.  
 C. A gdy On jeszcze mówił, oto nadszedł Judasz, jeden z dwunastu, a z nim wielki tłum z mieczami i kijami, wysłany od przedniejszych kapłanów i starszych ludu. Zdrajca zaś Jego dał im znak mówiąc: S. Którego pocałuję, ten jest, chwytajcie Go. C. A natychmiast przystępując do Jezusa rzekł: S. Bądź pozdrowiony, Mistrzu! C. I pocałował Go. A Jezus rzekł do niego: J. Przyjacielu, po coś przyszedł? C. Wówczas przystąpili i rzucili się na Jezusa, i pojmali Go. A oto jeden z tych, którzy byli z Jezusem, wyciągnąwszy rękę dobył miecza swego i uderzywszy sługę księcia kapłańskiego uciął mu ucho. Wtedy rzekł mu Jezus: J. Schowaj miecz swój na miejsce. Wszyscy bowiem, którzy za miecz będą chwytali, od miecza poginą. Czyż mniemasz, żebym nie mógł prosić Ojca mego, a nie wystawiłby mi zaraz więcej niż dwanaście hufców Aniołów? Jakoż się tedy Pisma wypełnią, że się tak stać musi? W tymże czasie powiedział Jezus rzeszom: J. Wyszliście z mieczami i kijami jak na złoczyńcę, aby mnie pojmać. Codziennie wśród was przebywałem, nauczając w świątyni, a nie pojmaliście mnie. Ale wszystko to się stało, aby się wypełniły Pisma Proroków. C. Wtedy wszyscy uczniowie, opuściwszy Go pouciekali.  
 A oni pojmawszy Jezusa, wiedli Go do Kajfasza, najwyższego kapłana, gdzie się byli zebrali uczeni w Piśmie i starsi. Piotr zaś szedł za nim z daleka, aż na dziedziniec najwyższego kapłana. I wszedłszy do wnętrza, siedział ze sługami, aby widzieć, jak się sprawa zakończy. A przedniejsi kapłani i cała Rada szukali fałszywego świadectwa przeciw Jezusowi, aby Go na śmierć skazać. A nie znaleźli, chociaż przychodziło wielu fałszywych świadków. W końcu zjawili się dwaj fałszywi świadkowie i rzekli: S. Ten mówił: Mogę zburzyć świątynię Bożą, a po trzech dniach odbudować ją. C. I powstawszy, najwyższy kapłan rzekł Mu: S. Nic nie odpowiadasz na to, co ci przeciwko tobie świadczą? C. Ale Jezus milczał. I rzekł Mu najwyższy kapłan: S. Poprzysięgam cię przez Boga żywego, abyś nam powiedział, czy ty jesteś Chrystusem, Synem Bożym? C. Rzekł mu Jezus: J. Tyś powiedział. Wszakże powiadam wam, odtąd ujrzycie Syna Człowieczego siedzącego na prawicy mocy Bożej i przychodzącego w obłokach niebieskich. C. Wtedy najwyższy kapłan rozdarł swoje szaty, mówiąc: S. Zbluźnił, na cóż więcej potrzebujemy świadków? Otoście teraz słyszeli bluźnierstwo. Cóż tedy myślicie? C. Oni odpowiadając rzekli: S. Winien jest śmierci. C. Wtedy poczęli plwać na oblicze Jego i bić Go pięściami, a inni policzkowali Go, mówiąc: S. Prorokuj nam, Chrystusie, któryż cię uderzył?  
@@ -4805,7 +4756,6 @@ Ojcze, jeżeli ten kielich nie może Mnie minąć, ale mam Go wypić, niech się
 ### Pokomunia  
 Działanie tego Sakramentu, o Panie, niechaj oczyści nas z grzechów i spełni nasze słuszne pragnienia.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wielki Poniedziałek  
@@ -4832,7 +4782,7 @@ Który z Tobą.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 50:5-10*  
 *Izajasz przepowiada biczowanie i znieważanie Chrystusa. Wszystkie te udręki nie odebrały Mu pokoju duszy. Znosił je ze świadomością, że pełni wolę Ojca niebieskiego.*  
 W one dni: Rzekł Izajasz: Pan Bóg otworzył mi ucho, a ja się nie sprzeciwiam, wstecz nie odszedłem. Wydałem ciało moje bijącym, a szczypiącym policzki moje; nie odwróciłem twarzy mojej od krzyczących i plwających na mnie. Pan Bóg wspomożycielem moim, przetom nie został zawstydzony: dlatego twarz moją uczyniłem jakby skałą najtwardszą i wiem, że zawstydzony nie będę. Obok mnie jest Ten, który mnie usprawiedliwia; któż mi się sprzeciwi? Razem stańmy: któż jest moim przeciwnikiem? Niechaj zbliży się do mnie! Oto Pan Bóg wspomożycielem moim, któż może mnie potępić? Oto wszyscy niby szata będą starci: zniszczy ich mól. Któż z was boi się Boga i słucha głosu sługi Jego? Kto szedł wśród ciemności i brak mu światła, niech w imieniu Pańskim pokłada nadzieję, a polega na Bogu swoim.  
@@ -4844,13 +4794,11 @@ W one dni: Rzekł Izajasz: Pan Bóg otworzył mi ucho, a ja się nie sprzeciwiam
 Przebudź się, o Panie, powstań ku mojej obronie, wglądnij w mą sprawę, Boże mój i Panie.  
 V. Dobądź miecza i poskrom moich prześladowców.  
   
-*Traktus*  
 *Ps 102:10*  
 Panie, nie postępuj z nami według naszych grzechów ani nie odpłacaj nam według win naszych.  
 *Ps 78:8-9*  
 Nie pamiętaj, Panie, dawnych nieprawości naszych. Niech rychło wyjdzie ku nam miłosierdzie Twoje, bo jesteśmy bardzo nieszczęśliwi. (Tu się przyklęka)  
 V. Wspomóż nas, Boże, nasz Zbawicielu, i dla chwały imienia Twego wybaw nas, Panie, i odpuść nam grzechy dla imienia Twego.  
-*Powyższy traktus odmawia się w poniedziałki, środy i piątki Wielkiego Postu z wyjątkiem środy Suchych Dni i Wielkiej Środy.*  
   
   
 
@@ -4901,7 +4849,6 @@ Módlmy się.
 Pochylcie głowy wasze przed Bogiem.  
 Wspomóż nas, Boże, Zbawicielu nasz, i daj, abyśmy z radością doczekali obchodu Twych dobrodziejstw, przez które raczyłeś nas odrodzić.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wielki Wtorek  
@@ -4929,7 +4876,7 @@ Przez tegoż Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Jeremiasza.  
+Czytanie z Księgi Proroka Jeremiasza.  
 *Jer 11:18-20*  
 W one dni: Rzekł Jeremiasz: Panie, ukazałeś mi, a poznałem: wtedy objaśniłeś mi ich zamiary. A ja jako baranek łagodny, którego niosą na ofiarę. I nie poznałem, że co do mnie powzięli zamiary mówiąc: Wrzućmy drewno do chleba jego i zgładźmy go z ziemi żyjących, a imię jego niech już nie będzie wspomniane. Ty zaś, Panie Zastępów, który sądzisz sprawiedliwie i badasz sumienia i serca – niech ujrzę pomstę Twoją nad nimi: Tobie bowiem wyjawiłem sprawę moją, Panie, Boże mój.  
   
@@ -5009,7 +4956,6 @@ Módlmy się.
 Pochylcie głowy wasze przed Bogiem.  
 Boże, niech Twoje miłosierdzie oczyści nas ze wszystkich ukrytych pozostałości starego człowieka i uzdolni do odnowienia w świętości.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wielka Środa  
@@ -5036,7 +4982,7 @@ Który z Tobą.
 
 
 ### 1 Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 63:1-7*  
 *Proroctwo zawarte w lekcji jest dialogiem między zbroczonym krwią wojownikiem a mieszkańcami Syjonu, których ocalił. Chrystus pokonał grzech i szatana, lecz zbroczyła Go własna krew.*  
 To mówi Pan Bóg: Powiedzcie córce Syjonu: Oto nadchodzi twój Zbawca, oto zapłata Jego z Nim! Któż to, który przychodzi z ziemi edomskiej, w sukni szkarłatnej z miasta Bosry? Co tak wspaniale wygląda w szacie swojej i kroczy pełen potęgi?  
@@ -5062,7 +5008,7 @@ Przez tegoż Pana.
 
 
 ### 6 Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 53:1-12*  
 *Izajasz tak dokładnie przepowiedział szczegóły Męki Pańskiej, że nazwano go «piątym ewangelistą».*  
 W one dni: Rzekł Izajasz: Panie, któż uwierzył temu, cośmy słyszeli? I komu ramie Pańskie zostało objawione? W wzejdzie w obliczu Jego niby latorośl, i jako korzeń z wyschniętej ziemi: nie ma On piękna ni krasy. I widzieliśmy Go, a nie było w Nim okazałości. I pragnęliśmy Go: wzgardzonego i ostatniego wśród ludzi, męża boleści i znającego niemoc. A twarz Jego jakoby zasłoniona i wzgardzona, tak iż nawet Go nie uznaliśmy. Prawdziwie słabości nasze On sam nosił i cierpienia nasze On sam dźwigał. A myśmy Go uważali jakby za trędowatego i rażonego przez Boga, i poniżonego. On zaś zraniony jest dla nieprawości naszych, starty jest dla naszych zbrodni; na Nim karanie, dające nam pokój, a sinością Jego zostaliśmy uleczeni. Wszyscyśmy jako owce pobłądzili, każdy zboczył na swoją drogę: a Pan położył nań nieprawości nas wszystkich. Ofiarowany został, bo sam chciał, a nie otworzył ust swoich. Jako owcę na rzeź Go powiodą i zamilknie jako baranek przed strzygącymi Go, a ust swych nie otworzy. Z ucisku i z sądu jest wzięty: pochodzenie Jego któż wypowie? Ponieważ odcięty został z ziemi żyjących, dla zbrodni ludu mego zadałem Mu cios. I za pogrzeb dla bezbożnych, a bogatych za śmierć swoją: ponieważ nie uczynił nieprawości ani znaleziony jest podstęp w ustach Jego. A pan chciał Go zetrzeć w niemocy: jeśli położy duszę swoją za grzech, długowieczne ujrzy potomstwo, a wola Pańska Jego ręką będzie kierowana. Przez wiedzę swą sługa mój sprawiedliwy sam usprawiedliwi wielu, a nieprawości ich sam poniesie. Przeto wielu Jemu przydzielę i rozdzielać będzie łupy mocarzy: za to, że na śmierć wydał duszę swą i ze zbrodniarzami jest policzony. On sam nosił grzechy wielu i modlił się za przestępców.  
@@ -5156,7 +5102,6 @@ Módlmy się.
 Pochylcie głowy wasze przed Bogiem.  
 Wejrzyj łaskawie, prosimy Cię, Panie, na tę rodzinę Twoją, za którą Pan nasz Jezus Chrystus nie wahał się oddać w ręce grzeszników i wycierpieć mękę krzyżową:  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wielki Czwartek Wieczerzy Pańskiej  
@@ -5462,7 +5407,6 @@ Ant. Dzielą między siebie moje szaty i o suknię moją los rzucają.
  (21:32) Przyszłemu pokoleniu o Panu opowie, * a sprawiedliwość Jego ogłoszą ludowi, co się narodzi: «Pan to uczynił».  
 Ant. Dzielą między siebie moje szaty i o suknię moją los rzucają.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wielki Piątek Męki i Śmierci Pańskiej  
@@ -5898,7 +5842,6 @@ R. Amen.
 
 ### Część Piąta: Procesja do «Bożego Grobu»  
 *W Polsce i w kilku innych krajach przenosi się Najświętszy Sakrament do ołtarza przedstawiającego Boży Grób. Celebrans zmienia fioletowy ornat na fioletową kapę, umieszcza Najświętszy Sakrament w monstrancji, którą okrywa przejrzystym welonem, i procesjonalnie odnosi do «Bożego Grobu». W czasie procesji śpiewa się responsorium Recessit Pastor noster albo odpowiednią pieśń. Celebrans umieszcza Najświętszy Sakrament na tronie i okadza. Następnie przed wielkim ołtarzem odmawia się modlitwę wieczorną Kościoła (Kompletę), po czym obnaża się główny ołtarz. Wierni nawiedzają i adorują Najświętszy Sakrament aż do Wigilii Wielkanocnej.*  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 # Okres Wielkanocny
 
@@ -6517,7 +6460,6 @@ Przez Pana.
 V. Idźcie, ofiara spełniona, alleluja, alleluja.  
 R. Bogu dzięki, alleluja, alleluja.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Msza w Dzień Zmartwychwstania Pańskiego  
@@ -6623,7 +6565,6 @@ Na Paschę naszą został ofiarowany Chrystus, alleluja; świętujmy tedy w prza
 ### Pokomunia  
 Tchnij w nas, o Panie, Twojego Ducha miłości i w dobroci Swojej zjednocz tych, których nasyciłeś wielkanocnym Sakramentem.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Poniedziałek Wielkanocny  
@@ -6727,7 +6668,6 @@ Powstał Pan z martwych i ukazał się Piotrowi, alleluja.
 ### Pokomunia  
 Tchnij w nas, o Panie, Twojego Ducha miłości i w dobroci Swojej zjednocz tych, których nasyciłeś wielkanocnym Sakramentem.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wtorek Wielkanocny  
@@ -6827,7 +6767,6 @@ Jeżeli razem z Chrystusem powstaliście z martwych, szukajcie tego, co w górze
 ### Pokomunia  
 Spraw, prosimy, wszechmogący Boże, aby skutki Komunii wielkanocnej przetrwały na zawsze w naszych duszach.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Środa Wielkanocna  
@@ -6930,7 +6869,6 @@ Chrystus powstawszy z martwych więcej nie umiera, alleluja; śmierć więcej ju
 ### Pokomunia  
 Prosimy Cię, Panie, niechaj pełne czci przyjęcie Twojego Sakramentu oczyści nas z pozostałości starego człowieka i przemieni w nowe stworzenie:  
 Który żyjesz.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Czwartek Wielkanocny  
@@ -7033,7 +6971,6 @@ Ludu nabyty, opowiadaj wielkie sprawy Jego, alleluja: On ciebie wezwał z ciemno
 ### Pokomunia  
 Wysłuchaj, Panie, modlitwy nasze, aby to święte i zbawienne zjednoczenie było nam pomocą w życiu doczesnym i wyjednało radość wieczną.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Piątek Wielkanocny  
@@ -7136,7 +7073,6 @@ Dana mi jest wszelka władza na niebie i na ziemi, alleluja: idąc tedy nauczajc
 ### Pokomunia  
 Wejrzyj, prosimy Cię, Panie, na lud Swój, a skoro raczyłeś go odrodzić przez wiekuiste tajemnice, racz mu odpuścić winy doczesne.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Sobota Biała  
@@ -7237,7 +7173,6 @@ Wszyscy, którzyście zostali ochrzczeni w Chrystusie, przyoblekliście się w C
 ### Pokomunia  
 Umocnieni darem naszego Odkupienia prosimy Cię, Panie, aby dzięki temu Sakramentowi wiecznego zbawienia prawdziwa wiara czyniła nieustanne postępy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Niedziela Biała  
@@ -7320,7 +7255,6 @@ Włóż rękę twoją i rozpoznaj miejsce gwoździ, alleluja i nie bądź niewie
 ### Pokomunia  
 Prosimy Cię, Panie, Boże nasz, aby święte tajemnice, które ustanowiłeś dla zapewnienia naszego zbawienia, stały się lekarstwem dla życia doczesnego i przyszłego.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 2 Niedziela po Wielkanocy  
@@ -7398,7 +7332,6 @@ Jam jest Pasterz dobry, alleluja: znam owce moje i znają mnie moje, alleluja, a
 ### Pokomunia  
 Prosimy Cię wszechmogący Boże, spraw, abyśmy otrzymawszy Twoją życiodajną łaskę, zawsze szczycili się z Twojego daru.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 3 Niedziela po Wielkanocy  
@@ -7478,7 +7411,6 @@ Już niedługo, a nie będziecie Mnie oglądać, alleluja; i znowu niedługo, a 
 Prosimy Cię, Panie, niech Sakrament, który przyjęliśmy, nasyci nas pokarmem duchowym i udzieli pomocy doczesnej.  
 Przez Pana.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 4 Niedziela po Wielkanocy  
@@ -7559,7 +7491,6 @@ Gdy przyjdzie Pocieszyciel, Duch prawdy, przekona świat o grzechu, o sprawiedli
 ### Pokomunia  
 Przybądź nam z pomocą, Panie, Boże nasz, aby Sakrament, któryśmy z wiarą przyjęli, oczyścił nas z wad i uchronił od wszystkich niebezpieczeństw.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 5 Niedziela po Wielkanocy  
@@ -7638,7 +7569,6 @@ Przeto z Aniołami i Archaniołami, z Tronami i Państwami oraz ze wszystkimi hu
 ### Pokomunia  
 Spraw, Panie, abyśmy posileni niebieskim pokarmem, pragnęli tego, co prawe i osiągnęli to, czego pragniemy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wigilia Wniebowstąpienia Pańskiego  
@@ -7725,7 +7655,6 @@ Przeto z Aniołami i Archaniołami, z Tronami i Państwami oraz ze wszystkimi hu
 ### Pokomunia  
 Spraw, Panie, abyśmy posileni niebieskim pokarmem, pragnęli tego, co prawe i osiągnęli to, czego pragniemy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wniebowstąpienie Pańskie  
@@ -7813,7 +7742,6 @@ Zjednoczeni w Świętych Obcowaniu, obchodzimy prześwięty dzień, w którym Pa
 ### Pokomunia  
 Wszechmogący i miłosierny Boże, Ciebie prosimy, daj nam osiągnąć niewidzialny skutek tego, cośmy widomie w sakramencie spożyli.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Niedziela po Wniebowstąpieniu  
@@ -7915,7 +7843,6 @@ Przez Pana.
 *Przez Oktawę Wniebowstąpienia Pańskiego*  
 Spraw, Panie, abyśmy posileni niebieskim pokarmem, pragnęli tego, co prawe i osiągnęli to, czego pragniemy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wigilia Zesłania Ducha Świętego  
@@ -8003,7 +7930,6 @@ W ostatnim dniu święta mówił Jezus: Kto wierzy we mnie, rzeki wody żywej po
 ### Pokomunia  
 Panie, niech tchnienie Ducha Świętego oczyści nasze serca i użyźni je rosą Jego łaski.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Niedziela Zesłania Ducha Świętego  
@@ -8137,7 +8063,6 @@ Nagle dał się słyszeć z nieba szum jakby nadchodzącego wichru gwałtownego 
 ### Pokomunia  
 Panie, niech tchnienie Ducha Świętego oczyści nasze serca, i użyźni je rosą Jego łaski.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Poniedziałek w Oktawie Zesłania Ducha Świętego  
@@ -8269,7 +8194,6 @@ Duch Święty nauczy was, alleluja, wszystkiego, cokolwiek wam powiedziałem, al
 ### Pokomunia  
 Panie, przyjdź z pomocą ludowi Twojemu, który pouczyłeś niebieskimi tajemnicami, i broń go przed zaciekłością wrogów.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Wtorek w Oktawie Zesłania Ducha Świętego  
@@ -8400,7 +8324,6 @@ Duch, który od Ojca pochodzi, alleluja, On mnie uwielbi, alleluja, alleluja.
 ### Pokomunia  
 Prosimy Cię, Panie, niech Duch Święty odnowi nasze dusze przez ten Boski Sakrament, gdyż On sam jest odpuszczeniem wszystkich grzechów.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Środa Suchych Dni po Zesłaniu Ducha Świętego  
@@ -8550,7 +8473,6 @@ Pokój zostawiam wam, alleluja: pokój mój daję wam, alleluja, alleluja.
 ### Pokomunia  
 Przyjmując niebieski Sakrament, błagamy łaskawość Twoją, Panie, abyśmy w wieczności cieszyli się tym, co sprawujemy w doczesności.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Czwartek w Oktawie Zesłania Ducha Świętego  
@@ -8580,7 +8502,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Dziejów Apostolskich  
+Czytanie z Dziejów Apostolskich.  
 *Dz 8:5-8*  
 W one dni: Filip zaszedłszy do miasta Samarii głosił im Chrystusa. I rzesze słuchały zgodnie tego, co im powiadał Filip, widząc cuda, które czynił. Duchy nieczyste bowiem z wielu tych, którzy je mieli, wychodziły wołając głosem wielkim; wielu też sparaliżowanych i chromych uzdrowionych zostało. Toteż wielka radość zapanowała w tym mieście.  
   
@@ -8685,7 +8607,6 @@ Nagle dał się słyszeć z nieba szum jakby nadchodzącego wichru gwałtownego 
 ### Pokomunia  
 Panie, niech tchnienie Ducha Świętego oczyści nasze serca, i użyźni je rosą Jego łaski.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Piątek Suchych Dni po Zesłaniu Ducha Świętego  
@@ -8713,7 +8634,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Joela.  
+Czytanie z Księgi Proroka Joela.  
 *Jl 2:23-24; 2:26-27*  
 To mówi Pan Bóg: Synowie Syjonu weselcie się i radujcie się w Panu, Bogu waszym, bo wam dał nauczyciela sprawiedliwości i uczyni, że spadnie na was deszcz ranny i późny jak na początku. I napełnią się gumna wasze zbożem, a prasy opływać będą winem i oliwą. Będziecie jeść do syta i najecie się, i chwalić będziecie imię Pana, Boga waszego, który uczynił dziwy z wami, a nie zawstydzi się lud mój na wieki. Będziecie wiedzieć, że ja wpośród Izraela jestem, ja, Pan, Bóg wasz, i nie ma innego; i nie będzie zawstydzony lud mój na wieki. Mówi Pan wszechmogący.  
   
@@ -8816,7 +8737,6 @@ Nie zostawię was sierotami; przyjdę do was, i radować się będzie serce wasz
 ### Pokomunia  
 Przyjęliśmy, Panie, dary świętego misterium pokornie błagając, aby to, co kazałeś nam czynić na Twoją pamiątkę, przyniosło nam pomoc w naszych słabościach:  
 Który żyjesz.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Sobota Suchych Dni po Zesłaniu Ducha Świętego  
@@ -8845,7 +8765,7 @@ Przez Pana.
 
 
 ### 1 Lekcja  
-Czytanie z Księgi proroka Joela.  
+Czytanie z Księgi Proroka Joela.  
 *Jl 2:28-32*  
 *Na proroctwo Joela powołał się św. Piotr w dniu Zesłania Ducha Świętego.*  
 To mówi Pan Bóg; Wyleję Ducha mego na wszelkie ciało i prorokować będą synowie wasi i córki wasze; starcom waszym sny się śnić będą, a młodzieńcy wasi widzenia oglądać będą. Lecz i na sługi moje, i na służebnice w owe dni wyleję Ducha mego. I dam cuda na niebie i na ziemi, krew i ogień, i kłęby dymu. Słońce obróci się w ciemność, a księżyc w krew, zanim przyjdzie dzień Pański wielki i straszny. I będzie: Każdy, kto będzie wzywał imienia Pańskiego, zbawiony będzie; bo na górze Syjon i w Jeruzalem będzie wybawienie, jak rzekł Pan, i w pozostałych, których Pan wezwie.  
@@ -9060,7 +8980,6 @@ Duch tchnie, kędy chce: i głos Jego słyszysz, alleluja, alleluja, ale nie wie
 ### Pokomunia  
 Panie, niech Twoje święte tajemnice obudzą w nas Boży zapał, abyśmy czerpali radość zarówno z ich sprawowania, jak z owoców.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 # Okres po Zesłaniu Ducha Świętego
 
@@ -9163,7 +9082,6 @@ Przez Pana.
 *Wspomnienie 1 Niedzieli po Zesłaniu Ducha Świętego*  
 Nasyceni tak wielkim darem, prosimy Cię, Panie: daj, byśmy czerpali zbawienne łaski i nigdy nie przestawali Cię wielbić.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Uroczystość Bożego Ciała  
@@ -9354,7 +9272,6 @@ Ilekroć ten chleb pożywać, a kielich pić będziecie, śmierć Pańską będz
 ### Pokomunia  
 Spraw, prosimy Cię Panie, aby w wieczności napełniała nas radość z posiadania Bóstwa Twojego, co wyobraża już doczesne spożycie przenajświętszego Ciała i Krwi Twojej.  
 Który żyjesz.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 2 Niedziela po Zesłaniu Ducha Świętego  
@@ -9434,7 +9351,6 @@ Będę śpiewał Panu, który darzy mnie dobrem, zanucę psalm imieniu Najwyższ
 ### Pokomunia  
 Przyjąwszy Twoje święte dary, prosimy Cię, Panie, aby poprzez częste uczestnictwo w tym Sakramencie, wzrastał w nas jego zbawienny owoc.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Uroczystość Najświętszego Serca Pana Jezusa  
@@ -9542,7 +9458,6 @@ Jeśli kto pragnie, niech do mnie przyjdzie, a pije. Alleluja, alleluja.
 ### Pokomunia  
 Panie Jezu, niech Twoje święte tajemnice obudzą w nas Boży zapał, abyśmy skosztowawszy słodyczy najmilszego Serca Twojego nauczyli się gardzić rzeczami doczesnymi i miłować wieczne:  
 Który żyjesz.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 3 Niedziela po Zesłaniu Ducha Świętego  
@@ -9620,7 +9535,6 @@ Powiadam wam, iż radość panuje wśród Aniołów Bożych nawet z jednego grze
 ### Pokomunia  
 Niechaj nas ożywi spożycie Tych darów świętych, i oczyszczonych niechaj nas przygotuje do otrzymania zmiłowania wiecznego.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 4 Niedziela po Zesłaniu Ducha Świętego  
@@ -9647,7 +9561,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z listu świętego Pawła Apostoła do Rzymian.  
+Czytanie z Listu świętego Pawła Apostoła do Rzymian.  
 *Rz 8:18-23*  
 *Od chwili dokonania odkupienia ludzkość i cały świat materialny oczekuje powszechnego zmartwychwstania. Wtedy dopiero objawi się w pełni moc Odkupienia.*  
 Bracia: Sądzę, że utrapień czasu niniejszego ani porównać nie można z przyszłą chwałą, która się w nas objawi. Stworzenie bowiem z upragnieniem wyczekuje objawienia synów Bożych. Stworzenie bowiem poddane było znikomości nie ze swej woli, lecz dla tego, który je znikomości poddał w nadziei, że i samo stworzenie będzie wyzwolenie z niewoli skażenia na wolność chwały synów Bożych. Bo wiemy, że całe stworzenie wzdycha i aż dotychczas rodzi wśród boleści. A nie tylko ono, ale i my sami, którzy mamy pierwiastki ducha, i my także we wnętrzu naszym wzdychamy, wyczekując przybrania za synów Bożych, odkupienia ciała naszego: w Chrystusie Jezusie, Panu naszym.  
@@ -9700,7 +9614,6 @@ Pan opoką i ucieczką moją, On moim wybawicielem, Bóg, mój wspomożyciel.
 ### Pokomunia  
 Prosimy Cię, Panie, niech tajemnice, któreśmy przyjęli oczyszczą nas i chronią swoim działaniem.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 5 Niedziela po Zesłaniu Ducha Świętego  
@@ -9778,7 +9691,6 @@ O jedno proszę Pana, tego poszukuję, bym w domu Pańskim przebywał po wszystk
 ### Pokomunia  
 Nasyciwszy nas Panie, darem niebieskim, oczyść nas z ukrytych grzechów i wybaw od zasadzek nieprzyjacielskich.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 6 Niedziela po Zesłaniu Ducha Świętego  
@@ -9805,7 +9717,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z listu świętego Pawła Apostoła do Rzymian.  
+Czytanie z Listu świętego Pawła Apostoła do Rzymian.  
 *Rz 6:3-11*  
 *Święty Paweł czyni aluzję do obrzędu Chrztu przez zanurzenie, który obrazowo przedstawiał prawdę o wszczepieniu chrześcijanina w życie zmartwychwstałego Chrystusa. Chrześcijanin ma obowiązek naśladować Zbawiciela w całym życiu.*  
 Bracia: Wszyscy, którzykolwiek ochrzczeni jesteśmy w Chrystusie Jezusie, w śmierci Jego ochrzczeni jesteśmy. Przez Chrzest bowiem zostaliśmy razem z Nim pogrzebani w śmierć aby jako Chrystus zmartwychwstał przez chwałę Ojca, tak i my, byśmy w nowości życia chodzili. Bo jeśli zostaliśmy wszczepieni w podobieństwo śmierci Jego, to i w zmartwychwstanie będziemy. Wiedząc, że stary w nas człowiek został współukrzyżowany, aby zniszczone było ciało grzechu, oraz abyśmy nadal nie służyli grzechowi. Kto bowiem umarł, wyzwolony jest spod grzechu. Jeśliśmy jednak z Chrystusem umarli, wierzymy, że również z Chrystusem żyć będziemy, wiedząc, że Chrystus powstawszy z martwych więcej nie umiera i śmierć więcej już nad Nim nie zapanuje. Bo, że umarł dla grzechu, raz umarł, a że żyje, żyje w Bogu. Tak i wy rozumiejcie, żeście umarli dla grzechu, a żyjecie dla Boga w Chrystusie Jezusie, Panu naszym.  
@@ -9822,7 +9734,7 @@ Do Ciebie, Panie, się uciekam, niech się nie zawstydzę na wieki; w sprawiedli
 
 
 ### Ewangelia  
-Ciąg dalszy ☩ Ewangeli świętej według Marka.  
+Ciąg dalszy ☩ Ewangelii świętej według Marka.  
 *Mk 8:1-9*  
 Onego czasu: Gdy rzesza wielka była z Jezusem, a nie miała co jeść, przywoławszy uczniów rzekł im: «Żal mi tego ludu, bo oto już od trzech dni trwają przy mnie, a nie mają co jeść; a jeśli ich puszczę zgłodniałych do domów ich, ustaną w drodze, bo niektórzy z nich przyszli z daleka». Odpowiedzieli Mu uczniowie jego: «Skądże by ich mógł kto nakarmić chlebem tu na pustkowiu?» I zapytał ich: «Ile chlebów macie?» A oni rzekli: «Siedem». I rozkazał rzeszy usiąść na ziemi. I wziąwszy siedem chlebów, dzięki czyniąc, łamał i dawał uczniom swoim, aby przed nich kładli; i kładli przed rzeszą. Mieli też trochę rybek, i te błogosławił i kazał przed nich położyć. Jedli tedy i nasycili się, i zebrali, co zbywało z ułomków, siedem koszów. A było tych, co jedli, około czterech tysięcy; i odprawił ich.  
   
@@ -9857,7 +9769,6 @@ Złożę w Jego przybytku ofiary radości, zaśpiewam i psalm zanucę Panu.
 ### Pokomunia  
 Nasyceni Twoimi darami, prosimy Cię Panie, spraw, aby ich skuteczne działanie oczyściło nas, a ich pomoc wsparła.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 7 Niedziela po Zesłaniu Ducha Świętego  
@@ -9885,7 +9796,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z listu świętego Pawła Apostoła do Rzymian.  
+Czytanie z Listu świętego Pawła Apostoła do Rzymian.  
 *Rz 6:19-23*  
 *Człowiek, który ulega namiętnościom, żyje w prawdziwej niewoli, natomiast człowiek, który służy Bogu, opanowując swe namiętności rozumem i wolą, jest wolny.*  
 Bracia: Ludzkim sposobem przemawiam dla słabości ciała waszego: jako bowiem wydaliście członki wasze na służbę nieczystości i nieprawości, aby brnąć w nieprawość, tak teraz wydajecie członki wasze na służbę sprawiedliwości dla uświęcenia.  
@@ -9931,7 +9842,7 @@ Majestat ten chwalą Aniołowie i Archaniołowie, Cherubini i Serafini, którzy 
 
 
 ### Antyfona na Komunię  
-*Ps 30, 3*  
+*Ps 30:3*  
 Skłoń ku mnie ucho twoje i wybaw mnie prędko.  
   
 
@@ -9939,7 +9850,6 @@ Skłoń ku mnie ucho twoje i wybaw mnie prędko.
 ### Pokomunia  
 Panie! Łaski Twej zbawienne działanie niechaj nas uwolni od złych skłonności i doprowadzi do tego, co godziwe.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 8 Niedziela po Zesłaniu Ducha Świętego  
@@ -9965,7 +9875,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z listu świętego Pawła Apostoła do Rzymian.  
+Czytanie z Listu świętego Pawła Apostoła do Rzymian.  
 *Rz 8:12-17*  
 *«Abba (Ojcze)!» – to modlitwa Chrystusa, wyrażająca żar Jego miłości ku Ojcu; jest ona również najgłębszym wyrazem naszego miłosnego oddania się Bogu.*  
 Bracia: Nie ciała dłużnikami jesteśmy, abyśmy według ciała żyć mieli. Jeśli bowiem według ciała żyć będziecie, pomrzecie; ale jeśli duchem sprawy ciała umartwicie, żyć będziecie. Którychkolwiek bowiem ożywia Duch Boży, ci są synami Bożymi. Bo nie otrzymaliście ducha niewoli, znów ku bojaźni, ale otrzymaliście ducha przybrania za synów i w duchu tym wołamy: Abba (Ojcze)! A sam Duch daje świadectwo duchowi naszemu, żeśmy synami Bożymi. A jeśli synami, to i dziedzicami, dziedzicami Bożymi, a współdziedzicami Chrystusa.  
@@ -10020,7 +9930,6 @@ Skosztujcie i zobaczcie jak słodki jest Pan. Szczęśliwy człowiek, który mu 
 ### Pokomunia  
 Panie, niech niebieski Sakrament odnowi nasze dusze i ciała, abyśmy doznali skutków tego, co ze czcią sprawujemy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 9 Niedziela po Zesłaniu Ducha Świętego  
@@ -10047,7 +9956,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z listu świętego Pawła Apostoła do Koryntian.  
+Czytanie z Listu świętego Pawła Apostoła do Koryntian.  
 *1 Kor 10:6-13*  
 *Św. Paweł poucza nas, że dzieje Starego Testamentu są zapowiedzią i obrazem dziejów Kościoła. Dlatego warto je znać i rozważać.*  
 Bracia: nie pożądajmy złego, jako oni pożądali. I obyście się nie stali bałwochwalcami jak niektórzy z nich, jako napisane jest: Zasiadł lud, by jeść i pić, i powstawszy zaczęli się bawić. Ani też dopuszczajmy się rozpusty, jak niektórzy z nich rozpusty się dopuścili i legło ich dnia jednego dwadzieścia trzy tysiące. I abyśmy nie kusili Chrystusa, jak niektórzy z nich kusili i poginęli od wężów. Ani nie szemrajcie, jak niektórzy z nich szemrali i zginęli z ręki niszczyciela.  
@@ -10100,7 +10009,6 @@ Kto pożywa moje Ciało i pije moją Krew, we mnie mieszka, a ja w nim, mówi Pa
 ### Pokomunia  
 Panie, niech udział w Twoim Sakramencie, oczyści nas i zjednoczy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 10 Niedziela po Zesłaniu Ducha Świętego  
@@ -10127,7 +10035,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z listu świętego Pawła Apostoła do Koryntian.  
+Czytanie z Listu świętego Pawła Apostoła do Koryntian.  
 *1 Kor 12:2-11*  
 *Duch Święty nadal działa w Kościele, obdarzając świętych rozmaitymi charyzmatami. Są one potwierdzeniem obecności Boga w Kościele.*  
 Bracia: Wiecie, że gdy byliście poganami, prowadzono was przed niemych bożków, i szliście. Przeto oznajmiam wam, że nikt, kto przemawia w Duchu Bożym, nie złorzeczy Jezusowi. I nikt nie może wymówić «Panem jest Jezus», jeno w Duchu Świętym.  
@@ -10180,7 +10088,6 @@ Przyjmiesz ofiary prawe, dary i całopalenia, na ołtarzu Twoim, Panie.
 ### Pokomunia  
 Prosimy Cię, Panie, Boże nasz, racz nie odmawiać Twojej pomocy tym, których nieustannie posilasz Boskim Sakramentem.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 11 Niedziela po Zesłaniu Ducha Świętego  
@@ -10258,7 +10165,6 @@ Czyń Panu ofiary z majętności twojej i z pierwocin plonów twoich, a napełni
 ### Pokomunia  
 Prosimy cię, Panie, daj nam doznać spożywając Twój Sakrament, pomocy na duszy i ciele, abyśmy całkowicie uzdrowieni cieszyli się pełnią niebiańskiej łaski.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 12 Niedziela po Zesłaniu Ducha Świętego  
@@ -10342,7 +10248,6 @@ Owocem dzieł Twoich, Panie, nasyca się ziemia. Ty sprawiasz, że ziemia rodzi 
 ### Pokomunia  
 Prosimy Cię Panie, niech udział w świętym misterium wleje w nas nowe życie, uwolni od win i zapewni obronę.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 13 Niedziela po Zesłaniu Ducha Świętego  
@@ -10426,7 +10331,6 @@ Panie, dałeś nam chleb z nieba, mający w sobie wszystkie rozkosze i słodkoś
 ### Pokomunia  
 Prosimy Cię, Panie, aby przez przyjęcie niebieskiego Sakramentu wzrastała w nas łaska wiecznego Odkupienia.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 14 Niedziela po Zesłaniu Ducha Świętego  
@@ -10447,7 +10351,7 @@ Obrońco nasz, spojrzyj, Boże, i wejrzyj na oblicze Pomazańca swego. Zaiste, l
 
 
 ### Kolekta  
-Strzeż, Twój Kościół, prosimy Cię Panie, w nieustannym miłosierdziu swoim, a że bez Twej pomocy nie ostoi się człowiek śmiertelny, niechaj go stale Twa łaska od rzeczy zgubnych odciąga i prowadzi do zbawienia.  
+Strzeż Twój Kościół, prosimy Cię Panie, w nieustannym miłosierdziu swoim, a że bez Twej pomocy nie ostoi się człowiek śmiertelny, niechaj go stale Twa łaska od rzeczy zgubnych odciąga i prowadzi do zbawienia.  
 Przez Pana.  
   
 
@@ -10510,7 +10414,6 @@ Szukajcie naprzód Królestwa Bożego, a wszystko będzie wam przydane, tak Pan 
 ### Pokomunia  
 Boże, niechaj Twój Sakrament nas oczyści, wzmocni i doprowadzi do wiecznego zbawienia.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 15 Niedziela po Zesłaniu Ducha Świętego  
@@ -10592,7 +10495,6 @@ Chlebem, który Ja dam, jest Ciało moje na życie świata.
 ### Pokomunia  
 Prosimy Cię Panie, niechaj działanie Tego niebieskiego daru zawładnie naszą duszą i ciałem, aby stale miała w nas pierwszeństwo łaska, a nie nasze zapatrywania.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 16 Niedziela po Zesłaniu Ducha Świętego  
@@ -10673,7 +10575,6 @@ Wspominać będę sprawiedliwość: Tobie Panie jedynie właściwą. Tyś mnie, 
 ### Pokomunia  
 Panie, oczyść łaskawie umysły nasze i odnów je niebiańskim Sakramentem, tak żeby i ciała nasze czerpały zeń pomoc na teraz i na przyszłość.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Środa Suchych Dni Wrześniowych  
@@ -10723,7 +10624,7 @@ Przez Pana.
 
 
 ### 6 Lekcja  
-Czytanie z Księgi Nehemiasza  
+Czytanie z Księgi Proroka Nehemiasza.  
 *Neh 8:1-10*  
 *Po powrocie z wygnania uroczyście odczytano ludowi Prawo Mojżeszowe, aby odnowić przymierze Izraela z Bogiem.*  
 W one dni: Zebrał się wszystek lud jako jeden mąż na ulicy przed Bramą Wód; a kazano biegłemu w piśmie Ezdraszowi, by przyniósł księgę Zakonu Mojżeszowego, który nadał Pan Izraelowi. Dnia więc pierwszego miesiąca siódmego kapłan Ezdrasz przyniósł Zakon wobec mnóstwa mężów i niewiast, i wszystkich, którzy zdolni go byli rozumieć. I czytał zeń pod gołym niebem, na ulicy przed Bramą Wód, od rana aż do południa wobec mężów i niewiast, i wszystkich, którzy mogli zrozumieć, a uszy całego ludu nakłoniły się ku księdze. Stanął zaś biegły w Piśmie Ezdrasz na drewnianym stopniu, który sporządził celem przemawiania. I otworzył Ezdrasz księgę wobec całego ludu, bo ponad wszystkim ludem górował; i gdy księgę otworzył, lud cały stanął. I błogosławił Ezdrasz Panu Bogu wielkiemu, a cały lud odpowiedział: Amen, amen, unosząc ręce swoje. I skłonili się, i uwielbili Boga pochyleni ku ziemi.  
@@ -10775,7 +10676,6 @@ Pożywajcie z tłuszczem, pijcie miód, a część tym poślijcie, którzy sobie
 ### Pokomunia  
 Spożywając niebieskie dary, pokornie prosimy Cię, Panie, abyśmy dzięki Twojej łasce z godnym usposobieniem przyjęli to, co pozwalasz nam sprawować z uległą wiernością.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Piątek Suchych Dni Wrześniowych  
@@ -10853,7 +10753,6 @@ Oddal ode mnie szyderstwo i wzgardę, bo chowam Twoje przykazania, o Panie, bo s
 ### Pokomunia  
 Spraw, prosimy, wszechmogący Boże, abyśmy składając dzięki za przyjęte dary otrzymywali coraz większe dobrodziejstwa.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Sobota Suchych Dni Wrześniowych  
@@ -10950,7 +10849,7 @@ Przez Pana.
 
 
 ### 4 Lekcja  
-Czytanie z Księgi proroka Zachariasza  
+Czytanie z Księgi Proroka Zachariasza.  
 *Zch 8:14-19*  
 W one dni: Przemówiło słowo Pańskie do mnie: To mówi Pan Zastępów: «Jak umyśliłem, aby was utrapić, gdy mię do gniewu pobudzili ojcowie wasi, mówi Pan, a nie zmiłowałem się, tak rozmyśliwszy się postanowiłem w te dni dobrze uczynić domowi Judy i Jeruzalem. Nie bójcie się! Te więc są rzeczy, które czynić będziecie: Mówcie prawdę, każdy z bliźnim swoim, prawdą i sądem Pokoju sądźcie w bramach waszych. A nikt przeciw przyjacielowi swemu niech nie myśli złego w sercu swoim przysięgi kłamliwej nie miłujcie; bo to wszystko jest, czego nienawidzę, mówi Pan». – I stało się słowo Pana Zastępów do mnie mówiąc: «To mówi Pan Zastępów: Post  
 czwartego i post piątego, i post siódmego, i post dziesiątego miesiąca obróci się domowi Judy w wesele i radość, i znamienite uroczyste święta; tylko prawdę i pokój miłujcie!» – mówi Pan Zastępów.  
@@ -10972,7 +10871,7 @@ Przez Pana.
 
 
 ### 5 Lekcja  
-Czytanie z Księgi proroka Daniela.  
+Czytanie z Księgi Proroka Daniela.  
 *Dn 3:47-51*  
 *Poważną przeszkodą do zbawienia są nasze namiętności, które wykorzystuje szatan i świat. Jak Anioł łagodził płomienie ognia, tak Chrystus uśmierzy nasze namiętności i wybawi nas od zła.*  
 W one dni Anioł Pański zstąpił z Azariaszem i z towarzyszami jego w piec i wyrzucił płomień ognia z pieca, i uczynił wśród pieca jakby wiatr rosisty przewiewający, a płomień rozchodził się nad piecem na czterdzieści dziewięć łokci, i wypadł, i popalił tych Chaldejczyków, których znalazł koło pieca, sługi królewskie, którzy podniecali ogień. (Azariasza i jego towarzyszy) nie dotknął się wcale ogień, ani ich nie zasmucił, ani żadnej przykrości nie uczynił. Wtedy ci trzej jakby jednymi usty chwalili i wysławiali, i błogosławili Boga w piecu mówiąc:  
@@ -11056,7 +10955,6 @@ W miesiącu siódmym będziecie obchodzić święto, bo sprawiłem, że synowie 
 ### Pokomunia  
 Prosimy Cię, Panie, niech Twój Sakrament udzieli nam łaski, którą zawiera, abyśmy w rzeczywistości posiedli to, co teraz sprawujemy pod osłoną.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 17 Niedziela po Zesłaniu Ducha Świętego  
@@ -11136,7 +11034,6 @@ Czyńcie śluby i wypełniajcie Panu, Bogu waszemu. Wszyscy wokoło dary przyno�
 ### Pokomunia  
 Prosimy Cię, Panie Boże nasz, aby przenajświętsza Tajemnica, którą ustanowiłeś dla utrwalenia odkupienia naszego, była zbawienna pomocą  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 18 Niedziela po Zesłaniu Ducha Świętego  
@@ -11214,7 +11111,6 @@ Ofiary nieście i wchodźcie do Jego przedsieni: uczcijcie Pana w świętym Jego
 ### Pokomunia  
 Posileni świętym darem dzięki Ci składamy, Panie, i błagamy Twe miłosierdzie, abyś nas uczynił godnymi pełnego w nim uczestnictwa.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 19 Niedziela po Zesłaniu Ducha Świętego  
@@ -11234,7 +11130,7 @@ Ja jestem zbawieniem ludu, mówi Pan: w jakimkolwiek ucisku wołać będą do mn
 
 
 ### Kolekta  
-Wszechmogący i miłosierny Boże, usuń łaskawie wszystko, co nam się sprzeciwia, abyśmy wolni od niebezpieczeństw duszy i ciała, mogli swobodnie pełnić Twą służbę.Prosimy Cię Panie, kieruj litościwie naszymi sercami, bez Ciebie bowiem nie możemy się Tobie podobać.  
+Wszechmogący i miłosierny Boże, usuń łaskawie wszystko, co nam się sprzeciwia, abyśmy wolni od niebezpieczeństw duszy i ciała, mogli swobodnie pełnić Twą służbę.  
 Przez Pana.  
   
 
@@ -11292,7 +11188,6 @@ Ty wydałeś Swoje przykazania, by pilnie ich przestrzegano. Oby me drogi były 
 ### Pokomunia  
 Panie, niech Twoje uzdrawiające działanie uwolni nas łaskawie od naszych złych skłonności i przywiąże do Twoich przykazań.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 20 Niedziela po Zesłaniu Ducha Świętego  
@@ -11374,7 +11269,6 @@ Pomnij na obietnicę daną słudze Twemu, Panie, w którą kazałeś mi wierzyć
 ### Pokomunia  
 Spraw, prosimy Cię, Panie, abyśmy przez pilne posłuszeństwo Twoim przykazaniom stali się godnymi świętych darów Twoich.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 21 Niedziela po Zesłaniu Ducha Świętego  
@@ -11459,7 +11353,6 @@ Dusza moja słabnie z tęsknoty za Twą pomocą. W słowie Twoich cała nadzieja
 ### Pokomunia  
 Otrzymawszy pokarm nieśmiertelności, prosimy Cię, Panie, abyśmy czystą duszą poszli za tym, co usta nasze przyjęły.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 22 Niedziela po Zesłaniu Ducha Świętego  
@@ -11473,7 +11366,7 @@ Przez Chrzest święty Chrystus rozpoczął dzieło uświęcenia naszych dusz. �
 *Ps 129:3-4*  
 Jeśli zachowasz pamięć o występkach, Panie, Panie, któż się ostoi? Ale u Ciebie, Boże Izraela, jest przebaczenie grzechów.  
 *Ps 129:1-2*  
-Z głębokości wołam do Ciebie, Panie,o Panie, słuchaj głosu mego.  
+Z głębokości wołam do Ciebie, Panie, o Panie, słuchaj głosu mego.  
 Chwała Ojcu.  
 Jeśli zachowasz pamięć o występkach, Panie, Panie, któż się ostoi? Ale u Ciebie, Boże Izraela, jest przebaczenie grzechów.  
   
@@ -11538,7 +11431,6 @@ Wzywam Cię, Boże, bo Ty mnie wysłuchasz. Nakłoń ku mnie Twe ucho, usłysz m
 ### Pokomunia  
 Przyjęliśmy, Panie, dary świętego misterium, pokornie błagając, aby to, co kazałeś nam czynić na Twoją pamiątkę, przyniosło pomoc w naszych słabościach.  
 Który żyjesz.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## Chrystusa Króla  
@@ -11622,7 +11514,6 @@ Po przyjęciu pokarmu, który jest zadatkiem nieśmiertelności, prosimy Cię, P
 w siedzibach niebieskich królować na wieki:  
 Który z Tobą.  
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 23 Niedziela po Zesłaniu Ducha Świętego  
@@ -11703,7 +11594,6 @@ Zaprawdę powiadam wam: wierzcie, że otrzymacie wszystko, o cokolwiek modląc s
 ### Pokomunia  
 Prosimy Cię, wszechmogący Boże, nie dopuść, aby Ci, którym pozwalasz się cieszyć udziałem w Boskich tajemnicach, podlegali ludzkim niebezpieczeństwom.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 24 Niedziela po Zesłaniu Ducha Świętego  
@@ -11789,7 +11679,6 @@ Zaprawdę powiadam wam: wierzcie, że otrzymacie wszystko, o cokolwiek modląc s
 ### Pokomunia  
 Prosimy Cię, Panie, spraw, aby uzdrawiająca moc Sakramentu, który przyjęliśmy, uleczyła nasze dusze ze wszystkich złych skłonności.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 # Msze Własne o Świętych
 
@@ -11890,7 +11779,6 @@ Maryjo, głoszą o Tobie rzeczy pełne chwały, albowiem uczynił Ci wielkie rze
 ### Pokomunia  
 Panie Boże nasz, niech Sakrament, który przyjęliśmy, wyleczy nas z ran tego grzechu, od którego w wyjątkowy sposób zachowałeś Najświętszą Maryję od chwili niepokalanego poczęcia.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 21 XII – Św. Tomasza, Apostoła  
@@ -11985,7 +11873,6 @@ V. Alleluja, alleluja
 Sprawiedliwi, weselcie się w Panu: prawym przystoi Go chwalić. Alleluja.  
 *Ps 88:6*  
 V. Niebiosa wielbią cuda Twoje, Panie, a wierność Twoją zgromadzenie świętych. Alleluja.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 02 II – Oczyszczenie N. M. P.  
@@ -12104,7 +11991,7 @@ Przez tegoż Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Malachiasza.  
+Czytanie z Księgi Proroka Malachiasza.  
 *Ml 3:1-4*  
 *Przyjście Chrystusa do świątyni rozpoczyna dzieło oczyszczenia i uświęcenia zapowiedziane przez Proroków.*  
 To mówi Pan Bóg: Oto ja posyłam Anioła mego i przygotuje droge przed obliczem moim. A przyjdzie natychmiast do swojej świątyni Władca, którego wy szukacie i Anioł Przymierza, którego wy pragniecie. Oto przybywa – mówi Pan Zastępów; i któż zdoła myślą objąć dzień przyjścia Jego, i któż się ostoi na Jego widok. On bowiem jest jako ogień, co topi, i jako ziele farbiarzy. I usiądzie topiąc i oczyszczając srebro; i oczyści synów Lewi, i przecedzi ich niby złoto i srebro, a będą Panu składać ofiary według sprawiedliwości. I będzie się podobać Panu ofiara Judy i Jeruzalem jako za dawnych dni i jako za lat dawno minionych: mówi Pan Wszechmogący.  
@@ -12167,7 +12054,6 @@ Symeon otrzymał zapowiedź od Ducha Świętego, że nie umrze, dopóki by pierw
 ### Pokomunia  
 Prosimy Cię, Panie Boże nasz, aby święte tajemnice, które ustanowiłeś dla zapewnienia naszego zbawienia, stały się nam, za przyczyną Najświętszej Maryi zawsze Dziewicy, zbawiennym lekarstwem dla życia doczesnego i przyszłego.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 22 II – Katedry św. Piotra Apostoła  
@@ -12238,7 +12124,7 @@ V. Ty jesteś Opoką, a na tej Opoce zbuduję Kościół mój. Alleluja.
 ### Ewangelia  
 Ciąg dalszy ☩ Ewangelii świętej według Mateusza.  
 *Mt 16:13-19*  
-*Ewangelia ze Mszy wspólnej nr 8 Si digilis*  
+*Ewangelia ze Mszy wspólnej nr 8 Si diligis*  
 Onego czasu: Przyszedł Jezus w okolice Cezarei Filipowej i pytał uczniów swoich, mówiąc: «Za kogo mają ludzie Syna Człowieczego?» A oni powiedzieli: «Jedni za Jana Chrzciciela, drudzy za Eliasza, a inni za Jeremiasza albo jednego z proroków».  
 Rzekł im Jezus: «A wy za kogo mię macie?» Odpowiadając Szymon Piotr rzekł: «Tyś jest Chrystus, Syn Boga żywego». A odpowiadając Jezus rzekł mu: «Błogosławionyś, Szymonie Bar Jona, bo ciało i krew nie objawiły tobie, jeno Ojciec mój, który jest w niebiesiech. A ja ci powiadam, że ty jesteś Opoką, a na tej Opoce zbuduje Kościół mój i bramy piekielne nie zwycięża go. I tobie dam klucze Królestwa Niebieskiego: a cokolwiek zwiążesz na ziemi, będzie związane i w niebiesiech; a cokolwiek rozwiążesz na ziemi, będzie rozwiązane i w niebiesiech».  
   
@@ -12269,7 +12155,8 @@ Przeto z Aniołami i Archaniołami, z Tronami i Państwami oraz ze wszystkimi hu
 
 ### Antyfona na Komunię  
 *Mt 16:18*  
-Ty jesteś Opoką, a na tej Opoce zbuduje Kościół.  
+Ty jesteś Opoką, a na tej opoce zbuduję Kościół mój.  
+  
   
 
 
@@ -12280,7 +12167,6 @@ Przez Pana.
 *Wspomnienie św. Pawła Apostoła*  
 Uświęceni zbawiennym misterium, prosimy Cię, Panie, aby nie brakło nam wstawiennictwa tego, pod którego opiekę i rządy nas oddałeś.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 24 II – Św. Macieja Apostoła  
@@ -12369,7 +12255,6 @@ Wy, którzy za mną poszli, zasiądziecie na stolicach, sądząc dwanaście poko
 ### Pokomunia  
 Prosimy Cię, wszechmogący Boże, spraw, abyśmy dzięki przyjęciu świętego daru, za wstawiennictwem świętego Apostoła Twego Macieja, otrzymali przebaczenie i pokój.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 19 III – Św. Józefa, Oblubieńca N. M. P.  
@@ -12401,6 +12286,7 @@ Który żyjesz.
 Czytanie z Księgi Syracydesa.  
 *Syr 45:1-6*  
 Umiłowany przez Boga i ludzi, którego pamięć jest błogosławiona. Pan dał mu chwałę podobną jako innym świętym, uczynił go potężnym na postrach nieprzyjaciół, a na jego słowa uśmierzał srogie klęski. On go też wsławił wobec królów, dawał przezeń rozkazy ludowi swemu i dozwolił mu oglądać chwałę swoją. Dla jego wiary i łagodności poświęcił go i wybrał spośród wszystkich ludzi. Pozwolił mu słyszeć swój głos i wprowadził go do obłoku. Sam mu też zwierzył swe przykazania, prawa żywota i umiejętności.  
+  
   
 
 
@@ -12460,7 +12346,6 @@ Józefie, Synu Dawidów, nie bój się przyjąć Maryi, małżonki swojej, albow
 ### Pokomunia  
 Przyjdź nam z pomocą, miłosierny Boże, a za wstawiennictwem św. Józefa, Wyznawcy, strzeż w nas łaskawie Swoich darów.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 25 III – Zwiastowanie N. M. P.  
@@ -12491,9 +12376,10 @@ Przez tegoż Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Izajasza.  
+Czytanie z Księgi Proroka Izajasza.  
 *Iz 7:10-15*  
 W one dni: Rzeki Pan do Achaza, mówiąc: «Proś Pana Boga twego o znak dla siebie: w głębinie piekła lub na wysokości w górze». I rzekł Achaz: «Nie będę prosił i nie będę kusił Pana». I rzekł: «Słuchajcie więc, domie Dawida: Czyż to mało dla was dręczyć ludzi, że dręczycie także Boga mojego? Przeto sam Pan da wam znak: Oto Panna pocznie i porodzi Syna i nazwą imię Jego Emmanuel. Masło i miód będzie pożywał, by umiał zło odrzucać, a wybierać dobro».  
+  
   
 
 
@@ -12559,7 +12445,6 @@ Oto Panna pocznie i porodzi Syna i nazwą imię Jego Emmanuel. (O. W. Alleluja.)
 ### Pokomunia  
 Prosimy Cię, Panie, wlej w nasze serca swoją łaskę, abyśmy poznawszy za zwiastowaniem anielskim wcielenie Chrystusa, Syna Twego, przez Jego mękę i krzyż zostali doprowadzeni do chwały zmartwychwstania.  
 Przez tegoż Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 23 IV – Św. Wojciecha, Biskupa i Męczennika  
@@ -12589,6 +12474,7 @@ Przez Pana.
 Czytanie z Listu świętego Pawła Apostoła do Hebrajczyków.  
 *Hbr 5:1-6*  
 Bracia: Każdy arcykapłan, spośród ludzi wzięty, dla ludzi jest postanowiony w tym, co do Boga należy, aby składał dary i ofiary za grzechy. Aby też mógł współczuć z tymi, którzy są w nieświadomości i błędzie, ponieważ i on sam poddany jest słabości. I dlatego tak za lud, jak i za siebie składać winien ofiary za grzechy. A nikt niechaj się nie waży brać tej godności, chyba że jest powołany przez Boga, jak Aaron. Toteż i Chrystus nie sam siebie wywyższył, aby się stać najwyższym kapłanem, ale (wywyższył Go) Ten, który do Niego powiedział: Tyś Synem moim, jam dziś zrodził Ciebie. Jako też na innym miejscu mówi: Tyś jest kapłanem na wieki według porządku Melchizedeka.  
+  
   
 
 
@@ -12634,7 +12520,6 @@ Jam jest pasterz dobry, alleluja; znam swoje owce i one mnie znają, alleluja, a
 ### Pokomunia  
 Pokrzepieni świętymi darami, kornie błagamy Cię, Panie, aby orędownictwo św. Wojciecha, Męczennika Twego i Biskupa, zawsze nam wyjednywało Twoje zbawienie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 25 IV – Św. Marka Ewangelisty  
@@ -12667,12 +12552,10 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Ezechiela.  
+Czytanie z Księgi Proroka Ezechiela.  
 *Ez 1:10-14*  
 *Proroctwo Ezechiela rozpoczyna się wizją tronu Bożego, unoszonego przez cztery symboliczne zwierzęta. Każde z nich ma cztery oblicza. Tradycja chrześcijańska upatruje w nich symbole Ewangelistów. Ponieważ św. Marek rozpoczyna swoją Ewangelię opisem działalności św. Jana na puszczy, symbolem jego jest lew.*  
-Podobieństwo wyglądu czterech zwierząt: po prawej ich stronie cztery ludzkie oblicza i lwie; cztery zaś oblicza wołu po lewej ich stronie, ponad nimi cztery oblicza orła. Oblicza ich i skrzydła ku górze wyciągnięte: dwa skrzydła każdego łączyły się ze sobą, a dwa okrywały ich ciała. A każde z nich poruszało się na wprost swego oblicza; gdzie był gwałtowny poryw wichru, tamtędy kroczyły, a idąc nie obracały się.  
-A podobieństwo zwierząt: wygląd ich niby węgli ogniem rozżarzonych i jakby wygląd pochodni. To było widzenie przebiegające wśród zwierząt: blask ognia, a z ognia wychodząca błyskawica. A zwierzęta szły i wracały na podobieństwo połyskującego ognia.  
-  
+@:Lectio1  
   
 
 
@@ -12733,7 +12616,6 @@ Przez Pana.
 *Wspomnienie Dni Krzyżowych*  
 Prosimy Cię, Panie, przyjmij nasze modlitwy z ojcowską dobrocią, a gdy wśród utrapień otrzymujemy Twoje dary, niechaj Twa pociecha wzmaga naszą miłość ku Tobie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 01 V – Św. Józefa Robotnika, Oblubieńca N. M. P  
@@ -12809,12 +12691,12 @@ Skądże Mu ta mądrość i moc? Czyż nie jest to syn cieśli i czyż matki Jeg
 ### Pokomunia  
 Panie, niech te święte dary, które spożyliśmy, dopełnią za wstawiennictwem św. Józefa nasze działanie i zapewnią nam nagrodę.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 03 V – N. M. P., Królowej Polski, Głównej Patronki Polski  
 *1 klasy*  
 *Szaty białe*  
+*W Polsce*  
 Naród polski wiele razy doświadczył w ciągu swoich dziejów opieki Matki Bożej. Moc Jej orędownictwa zajaśniała szczególnie w czasie tzw. «potopu». Po cudownej obronie Jasnej Góry przed Szwedami król Jan Kazimierz dnia 1 kwietnia 1656 roku uroczystym aktem oddał kraj pod opiekę Matki Bożej, obierając Ją Królową Polski. W roku 1924 na prośbę biskupów polskich papież Pius XI ustanowił specjalne święto Najświętszej Maryi Panny Królowej Polski i pozwolił je obchodzić w pamiętnym dniu uchwalenia Konstytucji 3 Maja. Dnia 3 sierpnia 1962 roku Ojciec św. Jan XXIII ustanowił Najświętszą Maryję Pannę Królową Polski główną Patronką kraju razem ze świętymi Biskupami i Męczennikami Wojciechem i Stanisławem. Teksty mszalne wysławiają opiekę Maryi nad naszym narodem i proszą o dalszą Jej pomoc.  
   
 
@@ -12855,6 +12737,7 @@ Ciąg dalszy ☩ Ewangelii świętej według Jana.
 Onego czasu: Pod krzyżem Jezusowym stała Matka Jego i siostra Matki Jego, Maria Kleofasowa, oraz Maria Magdalena. Gdy więc Jezus ujrzał Matkę i ucznia, którego miłował, stojącego obok, rzekł do Matki swojej: «Niewiasto, oto syn Twój!» Potem rzekł uczniowi: «Oto Matka twoja!» I od onej godziny wziął ją uczeń pod swoją opiekę.  
   
   
+  
 
 
 ### Antyfona na Ofiarowanie  
@@ -12885,12 +12768,12 @@ Najdostojniejsza Królowo świata, Maryjo, zawsze Dziewico, któraś porodziła 
 ### Pokomunia  
 Boże, któryś dał nam Najświętszą Dziewicę Maryję za szczególną Patronkę, spraw łaskawie, abyśmy zasileni Twoim świętym darem doznawali Jej opieki we wszystkich przeciwnościach.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 08 V – Św. Stanisława, Biskupa i Męczennika  
 *1 klasy*  
 *Szaty czerwone*  
+*W Polsce*  
 Św. Stanisław urodził się w Szczepanowie (dzisiejsza diecezja tarnowska), w roku 1030. Po studiach w Gnieźnie i w Paryżu został kapłanem i kanonikiem diecezji krakowskiej. W roku 1071 został biskupem Krakowa, który był już stolicą Polski. Jako gorliwy pasterz wypominał nadużycia nawet królowi, Bolesławowi Śmiałemu. Gdy napomnienia nie pomagały, św. Stanisław wyłączył króla ze społeczności kościelnej. Oburzony król kazał zabić biskupa. Rozkaz ten wykonano 11 kwietnia 1079 roku, gdy św. Stanisław odprawiał Mszę świętą w kościele Św. Michała na Skałce. Św. Stanisław został kanonizowany w Asyżu 8 września 1253 roku. Relikwie jego spoczywają w katedrze na Wawelu. Św. Stanisław jest głównym Patronem Polski. Ginąc w obronie moralności katolickiej św. Stanisław stał się naśladowcą Dobrego Pasterza, który daje życie za swoje owce (ewangelia).  
   
 
@@ -12916,6 +12799,7 @@ Przez Pana.
 Czytanie z Listu świętego Pawła Apostoła do Hebrajczyków.  
 *Hbr 5:1-6*  
 Bracia: Każdy arcykapłan, spośród ludzi wzięty, dla ludzi jest postanowiony w tym, co do Boga należy, aby składał dary i ofiary za grzechy. Aby też mógł współczuć z tymi, którzy są w nieświadomości i błędzie, ponieważ i on sam poddany jest słabości. I dlatego tak za lud, jak i za siebie składać winien ofiary za grzechy. A nikt niechaj się nie waży brać tej godności, chyba że jest powołany przez Boga, jak Aaron. Toteż i Chrystus nie sam siebie wywyższył, aby się stać najwyższym kapłanem, ale (wywyższył Go) Ten, który do Niego powiedział: Tyś Synem moim, jam dziś zrodził Ciebie. Jako też na innym miejscu mówi: Tyś jest kapłanem na wieki według porządku Melchizedeka.  
+  
   
   
 
@@ -12966,7 +12850,6 @@ Jam jest pasterz dobry, alleluja; znam swoje owce i one mnie znają, alleluja, a
 ### Pokomunia  
 Niech ta Komunia, o Panie, oczyści nas z grzechów i za przyczyną św. Stanisława, Twego Męczennika i Biskupa, stanie się dla nas niebieskim lekarstwem.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 11 V – Świętych Filipa i Jakuba, Apostołów  
@@ -13046,12 +12929,12 @@ Tak długo jestem z wami, a nie poznaliście mnie? Filipie, kto widzi mnie, widz
 ### Pokomunia  
 Nasyceni zbawiennym Sakramentem prosimy Cię, Panie, aby wspierały nas modły tych, których uroczystość obchodzimy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 24 V – N. M. P. Wspomożycielki Wiernych  
 *2 klasy*  
 *Szaty białe*  
+*W Polsce*  
 W roku 1815 papież Pius VII po powrocie do Rzymu z pięcioletniej niewoli w Fontainebleau na podziękowanie za opiekę Matki Bożej nad Kościołem ustanowił dzisiejsze święto dla miasta Rzymu i państwa kościelnego. W roku 1959 na prośbę biskupów polskich święto zostało rozciągnięte na nasz kraj.  
   
 
@@ -13144,7 +13027,6 @@ Błogosławione wnętrzności Maryi Panny, które nosiły Syna Ojca Przedwieczne
 ### Pokomunia  
 Boże, któryś dał nam Najświętszą Dziewicę Maryję za szczególną Patronkę, spraw łaskawie, abyśmy zasileni Twoim świętym darem doznawali Jej opieki we wszystkich przeciwnościach.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 31 V – N. M. P. Królowej  
@@ -13239,7 +13121,6 @@ Przez Pana.
 *Wspomnienie św. Petroneli*  
 Nasyciłeś, Panie, rodzinę Twoją świętymi darami: wzmacniaj nas za wstawiennictwem tej, której uroczystość obchodzimy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 23 VI – Wigilia Narodzenia Św. Jana Chrzciciela  
@@ -13266,7 +13147,7 @@ Który z Tobą.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Jeremisza.  
+Czytanie z Księgi Proroka Jeremiasza.  
 *Jer 1:4-10*  
 W one dni: Stało się słowo Pańskie do mnie, mówiąc: «Pierwej, niźlim cię utworzył w żywocie, znałem cię, i pierwej, niżeliś wyszedł z żywota, poświęciłem cię, i prorokiem między narodami ustanowiłem cię». I rzekłem: «A, a, a, Panie Boże oto nie umiem mówić, bom ja jest dziecina!»  
 I rzekł Pan do mnie: «Nie mów: Jestem dziecina, bo na wszystko, na co cię poślę, pójdziesz i wszystko, cokolwiek ci rozkażę, mówić będziesz. Nie bój się oblicza ich, bo ja jestem z tobą, aby cię wybawić, mówi Pan». – I wyciągnął Pan rękę swą i dotknął się ust moich, i rzekł Pan do mnie: «Otom dał słowa moje w usta twoje; otom cię dziś postawił nad narodami i nad królestwami, abyś wyrywał i budował, i wytracał i rozwalał, i budował i sadził, mówi Pan wszechmogący».  
@@ -13314,7 +13195,6 @@ Chwała jego jest wielka dzięki Twej pomocy: blask i dostojeństwo na niego wł
 ### Pokomunia  
 Panie, niechaj nam towarzyszy dostojna modlitwa świętego Jana Chrzciciela i niech nam uprosi zmiłowanie u Tego, którego przyjście zapowiedział, u Pana naszego Jezusa Chrystusa, Syna Twego:  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 24 VI – Narodzenie Św. Jana Chrzciciela  
@@ -13392,7 +13272,6 @@ Ty, dzieciątko nazwane będziesz prorokiem Najwyższego, bo pójdziesz przed ob
 ### Pokomunia  
 Kościół Twój Boże, niech czerpie radość z narodzin świętego Jana Chrzciciela, przez którego poznał sprawcę odrodzenia swojego, Pana naszego Jezusa Chrystusa, Syna Twojego. Który z Tobą żyje i króluje w jedności Ducha Świętego Bóg przez wszystkie wieki wieków. Amen.  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 28 VI – Wigilia ŚŚ. Apostołów Piotra i Pawła  
@@ -13466,7 +13345,6 @@ Szymonie, synu Jana, miłujesz mnie więcej niż ci? Panie, Ty wszystko wiesz, T
 ### Pokomunia  
 Panie, za przyczyną świętych Apostołów strzeż od wszelkich przeciwności tych, których posiliłeś niebieskim pokarmem.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 29 VI – Świętych Piotra i Pawła, Apostołów  
@@ -13513,7 +13391,9 @@ Ty jesteś Opoką, a na tej Opoce zbuduję Kościół mój. Alleluja.
 ### Ewangelia  
 Ciąg dalszy ☩ Ewangelii świętej według Mateusza.  
 *Mt 16:13-19*  
-Onego czasu: Przyszedł Jezus w okolice Cezarei Filipowej i pytał uczniów swoich mówiąc: «Za kogo mają ludzie Syna Człowieczego?» A oni powiedzieli: «Jedni za Jana Chrzciciela, drudzy za Eliasza, a inni za Jeremiasza albo jednego z proroków». Rzekł im Jezus: «A wy za kogo mię macie?» Odpowiadając Szymon Piotr rzekł: «Tyś jest Chrystus, Syn Boga żywego». A odpowiadając Jezus rzekł mu: «Błogosławionyś Szymonie Bar Jona, bo ciało i krew nie objawiły tobie, jeno Ojciec mój, który jest w niebiesiech. A ja ci powiadam, że ty jesteś Opoką, i na tej Opoce zbuduję Kościół mój i bramy piekielne nie zwyciężą go. I tobie dam klucze Królestwa Niebieskiego: a cokolwiek zwiążesz na ziemi, będzie związane i w niebiesiech; a cokolwiek rozwiążesz na ziemi, będzie rozwiązane i w niebiesiech».  
+Onego czasu: Przyszedł Jezus w okolice Cezarei Filipowej i pytał uczniów swoich mówiąc: «Za kogo mają ludzie Syna Człowieczego?» A oni powiedzieli: «Jedni za Jana Chrzciciela, drudzy za Eliasza, a inni za Jeremiasza albo jednego z proroków».  
+Rzekł im Jezus: «A wy za kogo mię macie?» Odpowiadając Szymon Piotr rzekł: «Tyś jest Chrystus, Syn Boga żywego». A odpowiadając Jezus rzekł mu: «Błogosławionyś Szymonie Bar Jona, bo ciało i krew nie objawiły tobie, jeno Ojciec mój, który jest w niebiesiech. A ja ci powiadam, że ty jesteś Opoką, i na tej Opoce zbuduję Kościół mój i bramy piekielne nie zwyciężą go. I tobie dam klucze Królestwa Niebieskiego: a cokolwiek zwiążesz na ziemi, będzie związane i w niebiesiech; a cokolwiek rozwiążesz na ziemi, będzie rozwiązane i w niebiesiech».  
+  
   
 
 
@@ -13540,12 +13420,12 @@ Przeto z Aniołami i Archaniołami, z Tronami i Państwami oraz ze wszystkimi hu
 *Mt 16:18*  
 Ty jesteś Opoką, a na tej opoce zbuduję Kościół mój.  
   
+  
 
 
 ### Pokomunia  
 Panie, za przyczyną świętych Apostołów strzeż od wszelkich przeciwności tych, których posiliłeś niebieskim pokarmem.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 01 VII – Uroczystość Najdroższej Krwi Pana Naszego Jezusa Chrystusa  
@@ -13626,13 +13506,15 @@ Chrystus raz jeden był ofiarowany dla usunięcia grzechów wielu, drugi raz uka
 ### Pokomunia  
 Dopuszczeni do świętej uczty, z radością czerpaliśmy, Panie, wodę ze źródeł Zbawiciela: błagamy, niech Krew Jego stanie się nam źródłem wody, tryskającej ku żywotowi wiecznemu:  
 Który z Tobą.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 02 VII – Nawiedzenia N. M. P.  
 *2 klasy*  
 *Szaty białe*  
 Wkrótce po Zwiastowaniu Maryja nawiedziła swoją krewną Elżbietę, oczekującą narodzenia Jana Chrzciciela. Było to równocześnie pierwsze zbliżenie Chrystusa i Jego Przesłańca. Elżbieta powitała Maryję słowami, które powtarzamy w modlitwie Zdrowaś Maryjo, a Matka Boża wypowiedziała natchniony kantyk Magnificat.  
+  
+Wspomnienie świętych Męczenników Procesa i Martyniana.  
+Według tradycji święci Proces i Martynian byli strażnikami więzienia Mamertyńskiego, w którym przebywał św. Piotr. Nawróceni i ochrzczeni przez św. Piotra zostali ścięci za wiarę w roku 67.  
   
 
 
@@ -13719,13 +13601,19 @@ Przez Pana.
 *Wspomnienie świętych Męczenników Procesa i Martyniana*  
 Posileni w czasie uczty ofiarnej Najświętszym Ciałem i Najdroższą Krwią Twoją, prosimy Cię, Panie Boże nasz, aby ofiara, którą sprawujemy z żarliwą miłością, zapewniła nam niezawodnie zbawienie.  
 Przez tegoż Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 25 VII – Św. Jakuba, Apostoła  
 *2 klasy*  
 *Szaty czerwone*  
 Św. Jakub, zwany «Starszym», był synem Zebedeusza i bratem św. Jana Ewangelisty. Razem z Piotrem i Janem był świadkiem Przemienienia Chrystusa i Jego konania w Ogrodzie Oliwnym. Uwięziony w Jerozolimie na rozkaz Heroda Agryppy, został ścięty około roku 43. Jako pierwszy z Apostołów przelał swoją krew za Chrystusa. Relikwie jego spoczywają w Kompostelli w Hiszpanii i od wieków są celem pielgrzymek.  
+  
+Św. Krzysztofa, Męczennika  
+*Wspomnienie*  
+*Szaty czerwone*  
+Św. Krzysztof poniósł śmierć męczeńską w Małej Azji około roku 250. Znaczenie jego imienia «nosiciel Chrystusa» stało się źródłem legendy o przeniesieniu przez rzekę Chrystusa. Jest patronem podróżnych.  
+  
+Msza wspólna nr 11 In virtute  
   
 
 
@@ -13815,7 +13703,6 @@ Przez Pana.
 *Wspomnienie św. Krzysztofa*  
 Daj, prosimy Cię, Panie Boże nasz, abyśmy się tak cieszyli widokiem Twoich Świętych w wieczności, jak z radością czcimy ich pamięć obchodem doczesnym.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 26 VII – Św. Anny, Matki N. M. P.  
@@ -13869,6 +13756,7 @@ Również podobne jest Królestwo Niebieskie do sieci zapuszczonej w morze i zag
 Tak będzie przy końcu świata. Wyjdą Aniołowie i wyłączą złych spośród sprawiedliwych, i wrzucą ich w piec ognisty. Tam będzie płacz i zgrzytanie zębów. Zrozumieliście to wszystko?» Mówią Mu: «Tak».  
 Rzekł im: «Przeto każdy uczony w Piśmie, biegły w nauce o Królestwie Niebieskim, podobny jest do człowieka gospodarza, który dobywa ze skarbca swego rzeczy nowe i stare».  
   
+  
 
 
 ### Antyfona na Ofiarowanie  
@@ -13898,7 +13786,6 @@ Wdzięk rozlał się na twoich wargach, przeto Bóg pobłogosławił cię na wie
 ### Pokomunia  
 Prosimy Cię, Panie Boże nasz, abyśmy pokrzepieni niebieskim Sakramentem, za przyczyną św. Anny, która z woli Twojej była matką Rodzicielki Syna Twego, mogli dojść do wiecznego zbawienia.  
 Przez tegoż Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 06 VIII – Przemienienie Pańskie  
@@ -13906,6 +13793,13 @@ Przez tegoż Pana.
 *Szaty białe*  
 Celem tajemnicy Przemienienia było utwierdzenie wiary Apostołów oraz ukazanie im chwały przeznaczonej wyznawcom Chrystusa. «Całe ciało mistyczne miało poznać, jaka przemiana jest dlań przeznaczona i jaki będzie udział członków w tej chwale, którą już uprzednio zajaśniała Głowa» (św., Leon). Cała liturgia Kościoła zmierza do tego, aby nas przygotować do udziału w chwale Chrystusa. W dzisiejszej Mszy świętej wielbimy Zbawiciela jako Króla chwały i prosimy o dopuszczenie nas do Jego Królestwa.  
 Święto Przemienienia Pańskiego było od wieków obchodzone na Wschodzie oraz w niektórych kościołach na Zachodzie. Na pamiątkę zwycięstwa odniesionego w tym dniu w 1457 roku nad Turkami papież Kalikst III polecił obchodzić je w całym Kościele.  
+  
+Śś. Sykstusa II, Papieża oraz Felicysyma i Agapita, Męczenników  
+*Wspomnienie*  
+*Szaty czerwone*  
+Papież Sykstus II był jedną z pierwszych ofiar prześladowania za cesarza Waleriana. Bezpośrednio po odprawienia Mszy świętej w katakumbach św. Kaliksta został on ścięty razem z czterema diakonami: Januarym, Magnusem, Wincentym i Stefanem, którzy mu asystowali. Tego samego dnia zostali ścięci dwaj inni diakoni, Felicysym i Agapit. Kilka dni później został umęczony archidiakon Wawrzyniec. Imię św. Sykstusa wymienia się w kanonie Mszy świętej.  
+  
+Msza wspólna nr 14 Sapientiam  
   
 
 
@@ -13932,7 +13826,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Listu świętego Piotra Apostoła  
+Czytanie z Listu świętego Piotra Apostoła.  
 *2 P 1:16-19*  
 *Św. Piotr, naoczny świadek Przemienienia, powołuje się na świadectwo Ojca Niebieskiego o Chrystusie.*  
 Najmilsi: Nie w oparciu o zmyślone baśnie oznajmiliśmy wam moc i przyjście Pana naszego Jezusa Chrystusa, lecz oglądaliśmy na własne oczy Jego wielkość. Albowiem odebrał On od Boga Ojca cześć i chwałę i gdy doszedł do Niego taki głos z przedziwnego obłoku: Ten jest Syn mój miły, w którym upodobałem sobie, Jego słuchajcie – my słyszeliśmy ten głos, który dochodził z nieba, gdy byliśmy z Nim na górze świętej. I tak potwierdzona była mowa Proroków, której trzymając się jako świecy w ciemnym świecącej miejscu, dobrze uczynicie. Póki dzień nie zaświta i nie wzejdzie jutrzenka w sercach waszych.  
@@ -13996,7 +13890,6 @@ Przez tegoż Pana.
 *Wspomnienie śś. Sykstusa II, Papieża, oraz Felicysyma i Agapita*  
 Prosimy Cię, Panie, za wstawiennictwem Twoich Męczenników Sykstusa, Felicysyma i Agapita, daj nam przyjąć czystą duszą to, co spożyliśmy ustami.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 10 VIII – Św. Wawrzyńca  
@@ -14075,13 +13968,19 @@ Kto mnie służy, niech idzie za mną; a gdzie ja jestem, tam będzie i sługa m
 ### Pokomunia  
 Darem świętym nasyceni, kornie błagamy Cię, Panie, abyśmy składając przez tę ofiarę należny Ci hołd, za wstawiennictwem św. Wawrzyńca, Twego Męczennika, otrzymali obfitsze owoce Twego odkupienia.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 14 VIII – Wigilia Wniebowzięcia N. M. P.  
 *2 klasy*  
 *Szaty fioletowe*  
 Największe święto Najświętszej Maryi Panny poprzedzamy dniem skupienia i modlitwy.  
+  
+Św. Euzebiusza, Wyznawcy  
+*Wspomnienie*  
+*Szaty białe*  
+Św. Euzebiusz, kapłan rzymski z IV wieku, ufundował na wzgórzu Eskwilińskim kościół, który nosi jego imię.  
+  
+Msza jak w dniu 15 stycznia Iustus ut palma, z wyjątkiem kolekty, sekrety i pokomunii  
   
 
 
@@ -14108,9 +14007,9 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi Syracydesa.  
 *Syr 24:23-31*  
-Jako krzew winny wydałam wdzięczną woń, a kwiaty moje owocem czci i godności. Jam matką Pięknej miłości i bojaźni, i rozeznania, i świętej nadziei. We mnie łaska wszelkiej drogi i prawdy, we mnie cała nadzieja życia i cnoty. Przyjdźcie do mnie wszyscy, którzy mnie pragniecie, i na- pełnijcie się owocami moimi. Duch mój bowiem słodszy jest nad miód, a dziedzictwo moje nad plaster miodu. Pamięć moja na wieczne pokolenia. Którzy mnie pożywają, nadal mnie będą łaknąć, a którzy mnie piją, nadal będą mnie pragnąć. Kto mnie słucha, nie będzie zawstydzon, a którzy przeze mnie działają – nie zgrzeszą. Którzy mnie objaśniają, posiądą żywot wieczny.  
+Jako krzew winny wydałam wdzięczną woń, a kwiaty moje owocem czci i godności. Jam matką pięknej miłości i bojaźni, i rozeznania, i świętej nadziei. We mnie łaska wszelkiej drogi i prawdy, we mnie cała nadzieja życia i cnoty. Przyjdźcie do mnie wszyscy, którzy mnie pragniecie, i napełnijcie się owocami moimi. Duch mój bowiem słodszy jest nad miód, a dziedzictwo moje nad plaster miodu. Pamięć moja na wieczne pokolenia. Którzy mnie pożywają, nadal mnie będą łaknąć, a którzy mnie piją, nadal będą mnie pragnąć. Kto mnie słucha, nie będzie zawstydzon a którzy przeze mnie działają nie zgrzeszą. Którzy mnie objaśniają, posiada żywot wieczny.  
+  
   
 
 
@@ -14164,7 +14063,6 @@ Przez tegoż Pana.
 *Wspomnienie św. Euzebiusza, Wyznawcy*  
 Pokrzepieni niebieskim pokarmem i napojem, błagamy Cię pokornie, Boże nasz, niech nas bronią modlitwy tego, w którego święto przyjęliśmy te dary.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 15 VIII – Wniebowzięcie N. M. P.  
@@ -14249,7 +14147,6 @@ Błogosławioną zwać mnie będą wszystkie narody, albowiem uczynił mi wielki
 ### Pokomunia  
 Przyjąwszy zbawczy Sakrament, prosimy Cię, Panie, daj, byśmy przez zasługi i wstawiennictwo Najświętszej Maryi Panny Wniebowziętej zostali doprowadzeni do chwały zmartwychwstania.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 16 VIII – Św. Joachima, Ojca N. M. P.  
@@ -14279,6 +14176,7 @@ Przez tegoż Pana.
 Czytanie z Księgi Syracydesa.  
 *Syr 31:8-11*  
 Błogosławiony mąż, który okazał się bez zmazy i który nie ubiegał się za złotem, i nadziei nie pokładał w pieniądzach i skarbach. Któż to jest? – a chwalić go będziemy. Bo w życiu swym dziwów dokonał. Kto w tej sprawie jest doświadczony i doskonały, będzie miał wieczną chwałę: który mógł przestąpić, a nie przestąpił, źle czynić, a nie uczynił; przeto pewne są skarby jego u Pana, a jałmużny jego wysławiać będzie zgromadzenie świętych.  
+  
   
 
 
@@ -14325,13 +14223,19 @@ Oto wierny i roztropny sługa, którego Pan postanowił nad swoją czeladzią, b
 ### Pokomunia  
 Prosimy Cię, wszechmogący Boże, aby Sakrament, któryśmy przyjęli, przez zasługi i modlitwy świętego Joachima, ojca Rodzicielki umiłowanego Syna Twego, Pana naszego Jezusa Chrystusa, dał nam udział teraz w Twojej łasce, a w przyszłości w chwale wiecznej.  
 Przez tegoż Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 22 VIII – Uroczystość Niepokalanego Serca N. M. P.  
 *2 klasy*  
 *Szaty białe*  
 Zachowane od zepsucia i wzięte do nieba cielesne serce Matki Bożej jest symbolem Jej życia wewnętrznego oraz macierzyńskich uczuć dla odkupionej ludzkości. Maryja, wolna od skłonności do grzechu, zawsze była doskonale uległa Duchowi Świętemu (kolekta, graduał, sekreta); dlatego spełniły się na Niej słowa Zbawiciela : «Błogosławieni czystego serca, albowiem oni Boga oglądać będą». Z doskonałej miłości Boga wypływa miłość ku ludziom, przez Boga stworzonym i odkupionym. Niepokalane Serce Maryi to serce Matki. Dlatego z ufnością zbliżamy się do Niej (antyfona na wejście) i słuchamy Jej pouczeń.  
+  
+Śś. Tymoteusza, Hipolita i Symforiana, Męczenników  
+*Wspomnienie*  
+*Szaty czerwone*  
+Św. Tymoteusz został umęczony w Rzymie około roku 305. Św. Hipolit poniósł śmierć męczeńską w Ostii koło Rzymu w III wieku. Św. Symforian, młodociany męczennik z Autun w Galii, zginął z końcem II wieku.  
+  
+Msza wspólna nr 15 Salus autem, z wyjątkiem kolekty, sekrety i pokomunii  
   
 
 
@@ -14351,17 +14255,10 @@ Przez Pana.
   
 
 
-*Wspomnienie śś. Tymoteusza, Hipolita i Symforiana*  
-Panie, udziel nam łaskawie Twej pomocy i za wstawiennictwem świętych Twoich Męczenników Tymoteusza, Hipolita i Symforian, wyciągnij ku nam Twoją litościwą prawicę.  
-Przez Pana.  
-  
-  
-
-
 ### Lekcja  
-Czytanie z Księgi Syracydesa.  
 *Syr 24:23-31*  
-Jako krzew winny wydałam wdzięczną woń, a kwiaty moje owocem czci i godności. Jam matką Pięknej miłości i bojaźni, i rozeznania, i świętej nadziei. We mnie łaska wszelkiej drogi i prawdy, we mnie cała nadzieja życia i cnoty. Przyjdźcie do mnie wszyscy, którzy mnie pragniecie, i na- pełnijcie się owocami moimi. Duch mój bowiem słodszy jest nad miód, a dziedzictwo moje nad plaster miodu. Pamięć moja na wieczne pokolenia. Którzy mnie pożywają, nadal mnie będą łaknąć, a którzy mnie piją, nadal będą mnie pragnąć. Kto mnie słucha, nie będzie zawstydzon, a którzy przeze mnie działają – nie zgrzeszą. Którzy mnie objaśniają, posiądą żywot wieczny.  
+Jako krzew winny wydałam wdzięczną woń, a kwiaty moje owocem czci i godności. Jam matką pięknej miłości i bojaźni, i rozeznania, i świętej nadziei. We mnie łaska wszelkiej drogi i prawdy, we mnie cała nadzieja życia i cnoty. Przyjdźcie do mnie wszyscy, którzy mnie pragniecie, i napełnijcie się owocami moimi. Duch mój bowiem słodszy jest nad miód, a dziedzictwo moje nad plaster miodu. Pamięć moja na wieczne pokolenia. Którzy mnie pożywają, nadal mnie będą łaknąć, a którzy mnie piją, nadal będą mnie pragnąć. Kto mnie słucha, nie będzie zawstydzon a którzy przeze mnie działają nie zgrzeszą. Którzy mnie objaśniają, posiada żywot wieczny.  
+  
   
 
 
@@ -14396,6 +14293,7 @@ Ciąg dalszy ☩ Ewangelii świętej według Jana.
 *J 19:25-27*  
 Onego czasu: Pod krzyżem Jezusowym stała Matka Jego i siostra Matki Jego, Maria Kleofasowa, oraz Maria Magdalena. Gdy więc Jezus ujrzał Matkę i ucznia, którego miłował, stojącego obok, rzekł do Matki swojej: «Niewiasto, oto syn Twój!» Potem rzekł uczniowi: «Oto Matka twoja!» I od onej godziny wziął ją uczeń pod swoją opiekę.  
   
+  
 
 
 ### Antyfona na Ofiarowanie  
@@ -14418,13 +14316,6 @@ Przez Niego majestat Twój chwalą Aniołowie, uwielbiają Państwa, z lękiem c
   
 
 
-*Wspomnienie śś. Tymoteusza, Hipolita i Symforiana*  
-Przyjmij, Panie, ofiarę, którą lud Tobie oddany składa ku czci świętych Twoich, uznając, że dzięki ich zasługom doznał pomocy w ucisku.  
-Przez Pana.  
-  
-  
-
-
 ### Antyfona na Komunię  
 *J 19:27*  
 Rzekł Jezus do Matki swojej: Niewiasto, oto syn Twój; potem rzekł uczniowi: Oto Matka twoja! I od onej godziny wziął ją uczeń pod swoją opiekę.  
@@ -14438,9 +14329,20 @@ Przez Pana.
 
 
 *Wspomnienie śś. Tymoteusza, Hipolita i Symforiana*  
+Panie, udziel nam łaskawie Twej pomocy i za wstawiennictwem świętych Twoich Męczenników Tymoteusza, Hipolita i Symforian, wyciągnij ku nam Twoją litościwą prawicę.  
+Przez Pana.  
+  
+
+
+*Wspomnienie śś. Tymoteusza, Hipolita i Symforiana*  
+Przyjmij, Panie, ofiarę, którą lud Tobie oddany składa ku czci świętych Twoich, uznając, że dzięki ich zasługom doznał pomocy w ucisku.  
+Przez Pana.  
+  
+
+
+*Wspomnienie śś. Tymoteusza, Hipolita i Symforiana*  
 Darem Bożym szczodrze nasyceni prosimy Cię, Panie, Boże nasz, abyśmy za wstawiennictwem świętych Twoich Męczenników Tymoteusza, Hipolita i Symforiana, zawsze czerpali zeń życie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 24 VIII – Św. Bartłomieja, Apostoła  
@@ -14517,12 +14419,12 @@ Wy, którzyście poszli za mną, zasiądziecie na stolicach, sądząc dwanaście
 ### Pokomunia  
 Prosimy Cię, Panie, niech przyjęty zadatek zbawienia wiecznego, za przyczyną św. Bartłomieja, Twojego Apostoła, stanie się nam pomocą w życiu doczesnym i wiecznym.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 26 VIII – N. M. P. Jasnogórskiej czyli Częstochowskiej  
 *1 klasy*  
 *Szaty białe*  
+*W Polsce*  
 Władysław, książę opolski, wybudował na Jasnej Górze klasztor dla OO. Paulinów i oddał im pod opiekę obraz Matki Bożej, czczony na jego zamku. Wkrótce obraz zasłynął cudami. Cześć jego wzrosła od czasów cudownej obrony Jasnej Góry przed Szwedami. W roku 1717 obraz został uroczyście ukoronowany i Jasna Góra stała się głównym ośrodkiem kultu Matki Bożej w Polsce. Teksty mszalne wysławiają opiekę Matki Bożej nad Polską i porównują twierdzę Jasnogórska z Syjonem, siedzibą arki Przymierza w Starym Testamencie.  
   
 
@@ -14611,7 +14513,6 @@ Głoszą o tobie rzeczy pełne chwały, o miasto Boże; miłuje Pan bramy Syjonu
 ### Pokomunia  
 Wspomagaj, Panie, lud, który pokrzepiasz uczestnictwem w Ciele i Krwi Twojej, i przy pomocy Najświętszej Rodzicielki Twojej uwalniaj go od wszelkiego zła i niebezpieczeństwa i strzeż w każdym dobrym poczynaniu:  
 Który żyjesz.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 08 IX – Narodzenie N. M. P.  
@@ -14707,7 +14608,6 @@ Przez Pana.
 *Wspomnienie św. Hadriana*  
 Daj, prosimy Cię, Panie Boże nasz, abyśmy się tak cieszyli widokiem Twoich Świętych w wieczności, jak z radością czcimy ich pamięć obchodem doczesnym.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 14 IX – Podwyższenia Świętego Krzyża  
@@ -14783,7 +14683,6 @@ Boże nasz, przez znak świętego Krzyża wyzwól nas od naszych nieprzyjaciół
 ### Pokomunia  
 Przybądź nam z pomocą, Panie Boże nasz, i otaczaj nieustanną opieką tych, którym dajesz się cieszyć z oddawania czci Krzyżowi świętemu.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 15 IX – Siedmiu Boleści N. M. P.  
@@ -14794,6 +14693,8 @@ Przez Pana.
 *Szaty białe*  
 W czasie ofiarowania Pana Jezusa w świątyni starzec Symeon przepowiedział Maryi, że miecz boleści przeniknie Jej duszę. Przepowiednia ta spełniła się przede wszystkim w czasie Męki Zbawiciela. Maryja towarzyszyła Mu w bolesnej drodze krzyżowej, patrzyła na Jego konanie i śmierć, a w końcu przyjęła w swoje ramiona Jego martwe Ciało. Żadne serce ludzkie nie wczuło się tak w cierpienia Chrystusa, jak Serce Maryi. Chociaż nie przelała Ona swojej krwi, stała się Królową Męczenników. Kościół wysławia nie tylko boleści Maryi, lecz również Jej męstwo. Maryja ofiarowała Bogu cierpienia swojego Syna i własne jako zadośćuczynienie za grzechy świata. W ten sposób stała się Matką ludzkości.  
 Święto Siedmiu Boleści Najświętszej Maryi Panny wprowadził w XVII wieku zakon Serwitów. W roku 1814 Pius VII rozszerzył je na cały Kościół.  
+  
+Wspomnienie św. Nikomedesa, Męczennika. Św. Nikomedes poniósł śmierć męczeńską w Rzymie i został pochowany przy drodze Nomentańskiej. Papież Paschalis I przeniósł jego ciało do bazyliki św. Praksedy.  
   
 
 
@@ -14922,6 +14823,7 @@ Ciąg dalszy ☩ Ewangelii świętej według Jana.
 *J 19:25-27*  
 Onego czasu: Pod krzyżem Jezusowym stała Matka Jego i siostra Matki Jego, Maria Kleofasowa, oraz Maria Magdalena. Gdy więc Jezus ujrzał Matkę i ucznia, którego miłował, stojącego obok, rzekł do Matki swojej: «Niewiasto, oto syn Twój!» Potem rzekł uczniowi: «Oto Matka twoja!» I od onej godziny wziął ją uczeń pod swoją opiekę.  
   
+  
 
 
 ### Antyfona na Ofiarowanie  
@@ -14967,7 +14869,6 @@ Przez Pana.
   
   
   
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 21 IX – Św. Mateusza, Apostoła i Ewangelisty  
@@ -14994,7 +14895,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi proroka Ezechiela.  
+Czytanie z Księgi Proroka Ezechiela.  
 *Ez 1:10-14*  
 *Tradycja upatruje w czterech istotach z wizji Ezechiela symbole Ewangelistów. Ponieważ św. Mateusz rozpoczyna swą Ewangelię rodowodem Chrystusa, symbolem jego jest twarz ludzka.*  
 Podobieństwo wyglądu czterech zwierząt: po prawej ich stronie cztery ludzkie oblicza i lwie; cztery zaś oblicza wołu po lewej ich stronie, ponad nimi cztery oblicza orła. Oblicza ich i skrzydła ku górze wyciągnięte: dwa skrzydła każdego łączyły się ze sobą, a dwa okrywały ich ciała. A każde z nich poruszało się na wprost swego oblicza; gdzie był gwałtowny poryw wichru, tamtędy kroczyły, a idąc nie obracały się.  
@@ -15046,7 +14947,6 @@ Chwała jego jest wielka dzięki Twej pomocy: blask i dostojeństwo na niego wł
 ### Pokomunia  
 Po przyjęciu Sakramentu, błagamy Cię, Panie, za przyczyną św. Mateusza, Twego Apostoła i Ewangelisty, aby ofiara, złożona ku jego chwale, przyniosła nam uzdrowienie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 29 IX – Świętego Michała Archanioła  
@@ -15073,7 +14973,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi Apokalipsy świętego Jana.  
+Czytanie z Księgi Apokalipsy świętego Jana Apostoła.  
 *Ap 1:1-5*  
 W one dni: Bóg jawnym uczynił to, co ma się stać niebawem, i oznajmił przez poselstwo swojego Anioła słudze swemu Janowi. On to daje świadectwo słowu Bożemu i świadczy o Jezusie Chrystusie, o wszystkim, co widział. Błogosławiony, który czyta i słucha słów tego proroctwa i strzeże tego, co w nim jest napisane: albowiem czas jest blisko. Jan do siedmiu kościołów w Azji. Łaska wam i pokój od Tego, który jest i który był, i który nadejdzie, i od siedmiu duchów, stojących przed tronem Jego. I od Jezusa Chrystusa, będącego świadkiem wiernym, pierworodnym spośród umarłych i księciem królów ziemskich. On to nas umilowai, omył nas z grzechów naszych we Krwi swojej.  
   
@@ -15123,7 +15023,6 @@ Błogosławcie Pana, wszyscy Aniołowie Pańscy, wysławiajcie Go hymnem i wywy�
 ### Pokomunia  
 Wsparci wstawiennictwem św. Archanioła Twego Michała, kornie błagamy Cię Panie, abyśmy pojęli umysłem to, cośmy spożyli ustami.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 07 X – N. M. P. Różańcowej  
@@ -15222,7 +15121,6 @@ Który żyjesz.
 *Wspomnienie św. Marka, Papieża i Wyznawcy*  
 Prosimy Cię, Panie, rządź miłościwie Twoim Kościołem, krzepionym przez święty pokarm, aby pod Twoim możnym panowaniem rosła wolność Kościoła, a związek jego z Tobą trwał niezachwiany.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 11 X – Macierzyństwa N. M. P.  
@@ -15251,9 +15149,9 @@ Przez tegoż Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi Syracydesa.  
 *Syr 24:23-31*  
-Jako krzew winny wydałam wdzięczną woń, a kwiaty moje owocem czci i godności. Jam matką Pięknej miłości i bojaźni, i rozeznania, i świętej nadziei. We mnie łaska wszelkiej drogi i prawdy, we mnie cała nadzieja życia i cnoty. Przyjdźcie do mnie wszyscy, którzy mnie pragniecie, i na- pełnijcie się owocami moimi. Duch mój bowiem słodszy jest nad miód, a dziedzictwo moje nad plaster miodu. Pamięć moja na wieczne pokolenia. Którzy mnie pożywają, nadal mnie będą łaknąć, a którzy mnie piją, nadal będą mnie pragnąć. Kto mnie słucha, nie będzie zawstydzon, a którzy przeze mnie działają – nie zgrzeszą. Którzy mnie objaśniają, posiądą żywot wieczny.  
+Jako krzew winny wydałam wdzięczną woń, a kwiaty moje owocem czci i godności. Jam matką pięknej miłości i bojaźni, i rozeznania, i świętej nadziei. We mnie łaska wszelkiej drogi i prawdy, we mnie cała nadzieja życia i cnoty. Przyjdźcie do mnie wszyscy, którzy mnie pragniecie, i napełnijcie się owocami moimi. Duch mój bowiem słodszy jest nad miód, a dziedzictwo moje nad plaster miodu. Pamięć moja na wieczne pokolenia. Którzy mnie pożywają, nadal mnie będą łaknąć, a którzy mnie piją, nadal będą mnie pragnąć. Kto mnie słucha, nie będzie zawstydzon a którzy przeze mnie działają nie zgrzeszą. Którzy mnie objaśniają, posiada żywot wieczny.  
+  
   
 
 
@@ -15301,7 +15199,6 @@ Błogosławione wnętrzności Maryi Panny, które nosiły Syna Ojca Przedwieczne
 ### Pokomunia  
 Niech ta Komunia, o Panie, oczyści nas z grzechów i za przyczyną Najświętszej Dziewicy Bogarodzicy Maryi stanie się dla nas niebieskim lekarstwem.  
 Przez tegoż Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 18 X – Św. Łukasza, Ewangelisty  
@@ -15383,13 +15280,12 @@ Wy, którzyście poszli za mną, zasiądźcie na stolicach, sądząc dwanaście 
 ### Pokomunia  
 Prosimy Cię, wszechmogący Boże, aby przez modlitwy świętego Ewangelisty Twego Łukasza Sakrament, któryśmy przyjęli z Twojego świętego ołtarza, uświęcił nasze dusze i zapewnił nam bezpieczeństwo.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 28 X – Świętych Szymona i Judy Tadeusza, Apostołow  
 *2 klasy*  
 *Szaty czerwone*  
-Św. Szymon miał przydomek Zelota — Gorliwiec, ze względu na gorliwość w zachowywaniu Prawa Mojżeszowego. Przynależność jego do stronnictwa zelotów jest wątpliwa. Św. Juda Tadeusz, brat Jakuba Młodszego, był krewnym Pana Jezusa. Jest autorem listu zaliczonego do ksiąg Nowego Testamentu. Wierni wzywają go jako orędownika w sprawach beznadziejnych. Według tradycji obaj Apostołowie początkowo głosili Ewangelię od­dzielnie, Św. Szymon w Egipcie, a Św. Tadeusz w Mezopotamii. Później spotkali się w Persji i tam ponieśli śmierć męczeńską.  
+Św. Szymon miał przydomek Zelota — Gorliwiec, ze względu na gorliwość w zachowywaniu Prawa Mojżeszowego. Przynależność jego do stronnictwa zelotów jest wątpliwa. Św. Juda Tadeusz, brat Jakuba Młodszego, był krewnym Pana Jezusa. Jest autorem listu zaliczonego do ksiąg Nowego Testamentu. Wierni wzywają go jako orędownika w sprawach beznadziejnych. Według tradycji obaj Apostołowie początkowo głosili Ewangelię oddzielnie, Św. Szymon w Egipcie, a Św. Tadeusz w Mezopotamii. Później spotkali się w Persji i tam ponieśli śmierć męczeńską.  
   
 
 
@@ -15404,7 +15300,7 @@ Ogromnie zaszczyceni są w oczach moich przyjaciele Twoi, Boże; na zawsze jest 
 
 
 ### Kolekta  
-Boże, któryś raczył doprowa­dzić nas do poznania Twojego imienia przez świętych Aposto­łów Twoich Szymona i Judę, spraw, abyśmy postępując w cnocie czcili ich wieczną chwałę, a czcząc ją czynili większe po­stępy. Przez Pana.  
+Boże, któryś raczył doprowadzić nas do poznania Twojego imienia przez świętych Apostołów Twoich Szymona i Judę, spraw, abyśmy postępując w cnocie czcili ich wieczną chwałę, a czcząc ją czynili większe postępy. Przez Pana.  
 Przez Pana.  
   
 
@@ -15412,7 +15308,7 @@ Przez Pana.
 ### Lekcja  
 Czytanie z Listu świętego Pawła Apostoła do Efezjan.  
 *Ef 4:7-13*  
-*Każdy chrześcijanin w sposób właściwy swemu powołaniu jest obo­wiązany starać się o budowanie Ciała Mistycznego Chrystusa przez wzrost w doskonałości.*  
+*Każdy chrześcijanin w sposób właściwy swemu powołaniu jest obowiązany starać się o budowanie Ciała Mistycznego Chrystusa przez wzrost w doskonałości.*  
 Bracia: Każdemu z nas dana jest łaska według miary daru Chrystusowego. Dlatego powiada (Pismo): Wstąpiwszy na wysokość wywiódł więźniów pojmanych i ludzi darami obdarzył.  
 A cóż znaczy to, że wstąpił, jak tylko, że pierwej zstąpił był do niskości ziemskich? Ten, który zstąpił, jest Tym samym, co wstąpił ponad wszystkie nieba, aby napełnił wszystko.  
 I On ustanowił jednych apostołami, a drugich prorokami, innych ewangelistami, a innych jeszcze pasterzami i doktorami ku doskonaleniu świętych w dziele posługiwania, ku budowaniu ciała Chrystusowego. Aż wszyscy zejdziemy się w jedności wiary i poznania Syna Bożego, stawszy się mężami doskonałymi na miarę pełnego wzrostu dojrzałości Chrystusowej.  
@@ -15421,8 +15317,8 @@ I On ustanowił jednych apostołami, a drugich prorokami, innych ewangelistami, 
 
 ### Graduał  
 *Ps 44:17-18*  
-Ustanowisz ich książętami po całej ziemi, przez wszystkie po­kolenia głosić będą Twe imię, o Panie.  
-V. Synowie twoi zaj­mą miejsce twoich ojców: dlate­go będą Cię sławić wszystkie ludy. Alleluja, alleluja.  
+Ustanowisz ich książętami po całej ziemi, przez wszystkie pokolenia głosić będą Twe imię, o Panie.  
+V. Synowie twoi zajmą miejsce twoich ojców: dlatego będą Cię sławić wszystkie ludy. Alleluja, alleluja.  
 *Ps 138:17*  
 Ogromnie zaszczyceni są w oczach moich przyjaciele Twoi, Boże; na zawsze jest utrwalone ich władanie.  
   
@@ -15442,7 +15338,7 @@ Na całą ziemię ich głos się rozchodzi i aż po krańce świata ich mowy.
 
 
 ### Sekreta  
-Czcząc wieczną chwałę świę­tych Apostołów Twoich Szymo­na i Judy, prosimy Cię, Panie, abyśmy oczyszczeni przez święte misteria, godniej ją święcili. Przez Pana.  
+Czcząc wieczną chwałę świętych Apostołów Twoich Szymona i Judy, prosimy Cię, Panie, abyśmy oczyszczeni przez święte misteria, godniej ją święcili. Przez Pana.  
 Przez Pana.  
   
 
@@ -15461,9 +15357,8 @@ Wy, którzyście poszli za mną, zasiądziecie na stolicach, sądząc dwanaście
 
 
 ### Pokomunia  
-Po przyjęciu Sakramentu, bła­gamy Cię, Panie, za przyczyną świętych Apostołów Twoich Szy­mona i Judy, aby ofiara złożona ku uczczeniu ich męki przyniosła nam uzdrowienie.  
+Po przyjęciu Sakramentu, błagamy Cię, Panie, za przyczyną świętych Apostołów Twoich Szymona i Judy, aby ofiara złożona ku uczczeniu ich męki przyniosła nam uzdrowienie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 01 XI – Uroczystość Wszystkich Świętych  
@@ -15493,7 +15388,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi Apokalipsy świętego Jana.  
+Czytanie z Księgi Apokalipsy świętego Jana Apostoła.  
 *Ap 7:2-12*  
 W one dni: Oto ja, Jan, ujrzałem innego Anioła, wstępującego od wschodu słońca, mającego pieczęć Boga żywego. I zawołał głosem donośnym, mówiąc do Aniołów, którym dozwolone szkodzić ziemi i morzu: Nie czyńcie szkody ziemi ani morzu, ani też drzewom, dopóki nie popieczętujemy sług Boga naszego na czołach ich.  
 I usłyszałem liczbę pieczętowanych sto czterdzieści cztery tysiące, pieczętowanych z każdego pokolenia synów izraelskich. Z pokolenia Judy dwanaście tysięcy pieczętowanych. Z pokolenia Rubena dwanaście tysięcy pieczętowanych. Z pokolenia Gada dwanaście tysięcy pieczętowanych. Z pokolenia Asera dwanaście tysięcy pieczętowanych. Z pokolenia Neftalego dwanaście tysięcy pieczętowanych. Z pokolenia Manassesa dwanaście tysięcy pieczętowanych. Z pokolenia Symeona dwanaście tysięcy pieczętowanych. Z pokolenia Lewiego dwanaście tysięcy pieczętowanych. Z pokolenia Issachara dwanaście tysięcy pieczętowanych. Z pokolenia Zabulona dwanaście tysięcy pieczętowanych. Z pokolenia Józefa dwanaście tysięcy pieczętowanych. Z pokolenia Beniamina dwanaście tysięcy pieczętowanych.  
@@ -15545,7 +15440,6 @@ Błogosławieni czystego serca, albowiem oni Boga oglądać będą. Błogosławi
 ### Pokomunia  
 Prosimy Cię, Panie, daj, aby wierny lud zawsze z radością czcił Wszystkich Świętych i za ich nieustannym wstawiennictwem doznawał pomocy.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 02 XI – Dzień Zaduszny – Pierwsza Msza  
@@ -15717,7 +15611,6 @@ V. Wieczny odpoczynek racz im dać, Panie, a światłość wiekuista niechaj im 
 ### Pokomunia  
 Prosimy Cię, Panie, niech pokorna modlitwa pomocną będzie duszom sług i służebnic Twoich; racz je oczyścić z wszelkich grzechów i dopuścić do udziału w owocach Twojego odkupienia:  
 Który żyjesz.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 02 XI – Dzień Zaduszny – Druga Msza  
@@ -15887,7 +15780,6 @@ V. Wieczny odpoczynek racz im dać, Panie, a światłość wiekuista niechaj im 
 ### Pokomunia  
 Spraw, prosimy Cię, Panie, aby dusze sług i służebnic Twoich, oczyszczone przez tę ofiarę, otrzymały przebaczenie i wieczny odpoczynek.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 02 XI – Dzień Zaduszny – Trzecia Msza  
@@ -15911,7 +15803,7 @@ Przez Pana.
 
 
 ### Lekcja  
-Czytanie z Księgi Apokalipsy świętego Jana.  
+Czytanie z Księgi Apokalipsy świętego Jana Apostoła.  
 *Ap 14:13*  
 W one dni: Usłyszałem głos z nieba mówiący do mnie: Napisz, błogosławieni umarli, którzy umierają w Panu. Odtąd już, mówi Duch, niech odpoczywają od prac swoich, albowiem uczynki ich idą za nimi.  
   
@@ -16058,7 +15950,6 @@ V. Wieczny odpoczynek racz im dać, Panie, a światłość wiekuista niechaj im 
 ### Pokomunia  
 Wszechmogący i miłosierny Boże, spraw, aby dusze sług i służebnic Twoich, za które złożyliśmy majestatowi Twemu tę ofiarę uwielbienia, oczyszczone mocą tego Sakramentu ze wszystkich grzechów, otrzymały z miłosierdzia Twego szczęście w światłości wiekuistej.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 09 XI – Rocznica Konsekracji Bazyliki Najświętszego Zbawiciela na Lateranie  
@@ -16075,6 +15966,7 @@ Bojaźnią przejmuje to miejsce: tu jest dom Boży i brama niebios, i zwać się
 Jak miłe są przybytki Twoje, Panie Zastępów; dusza moja wzdycha i tęskni do świątyni Pana.  
 Chwała Ojcu.  
 Bojaźnią przejmuje to miejsce: tu jest dom Boży i brama niebios, i zwać się będzie mieszkaniem Boga.  
+  
   
 
 
@@ -16093,15 +15985,18 @@ Przez Pana.
 ### Lekcja  
 Czytanie z Księgi Apokalipsy świętego Jana Apostoła.  
 *Ap 21:2-5*  
+*Kościół materialny jest obrazem «Jeruzalem niebieskiego», wiekuistego zjednoczenia ludzi z Bogiem.*  
 W one dni: Ujrzałem święte miasto, Jeruzalem nowe, zstępujące z nieba od Boga, gotowe jak oblubienica strojna dla męża swego. I usłyszałem z tronu głos donośny, mówiący: «Oto przybytek Boga z ludźmi i zamieszka z nimi. Oni będą ludem Jego, a sam Bóg z nimi będzie ich Bogiem. I otrze Bóg wszelką łzę z oczu ich, a śmierci już nie będzie ani smutku, ani wołania, ani bólu już nie będzie, bo dawne rzeczy przeminęły. I rzekł Ten, który siedział na tronie: «Oto wszystko nowym czynię».  
+  
   
 
 
 ### Graduał  
-Z tego miejsca bez skazy Bóg uczynił bezcenny znak swojej obecności.  
-V. Boże, którego otacza chór aniołów, wysłuchaj prośby sług Twoich. Alleluja, alleluja.  
+Bóg uczynił z tego miejsca bez skazy bezcenny znak swojej obecności.  
+V. Boże, którego otacza chór aniołów, wysłuchaj prośby sług Swoich. Alleluja, alleluja.  
 *Ps 137:2*  
 Upadnę na twarz w Twoim świętym przybytku i będę sławił Twe imię. Alleluja.  
+  
   
 
 
@@ -16110,17 +16005,21 @@ Ciąg dalszy ☩ Ewangelii świętej według Łukasza.
 *Łk 19:1-10*  
 Onego czasu: Jezus przechodził przez Jerycho. I oto mąż imieniem Zacheusz, który był zwierzchnikiem celników i bogaczem, usiłował zobaczyć Jezusa, kim by On był, a nie mógł z powodu rzeszy: był bowiem małego wzrostu. I pobiegł naprzód, wspiął się na drzewo sykomory, aby Go ujrzeć, bo tamtędy miał przechodzić. A gdy Jezus przybył na miejsce i spojrzał wzwyż, ujrzał go i rzekł do niego: «Zacheuszu, zejdź zaraz, dziś bowiem muszę stanąć w domu twoim». I zszedł spiesznie, a przyjął Go z radością. A wszyscy widząc to, szemrali mówiąc, że zatrzymał się u człowieka grzesznego. Zacheusz wszakże stanąwszy, rzekł do Pana: «Panie, oto połowę dóbr moich rozdam ubogim, a jeślim kogo skrzywdził, zwracam w czwórnasób». Rzekł mu Jezus: «Dzisiaj domowi temu stało się zbawienie, gdyż i on jest synem Abrahama. Syn Człowieczy bowiem przyszedł szukać i zbawiać, co było zginęło».  
   
+  
 
 
 ### Antyfona na Ofiarowanie  
 *1 Krn 29:17-18*  
+*Modlitwa Dawida, który przygotował budowę pierwszej świątyni w Jerozolimie.*  
 Panie Boże, w szczerości mego serca ochotnie ofiarowałem Ci wszystko; widziałem również lud Twój zebrany z wielkim weselem; Boże Izraela, zachowaj jego dobrą wolę, alleluja.  
+  
   
 
 
 ### Sekreta  
 Prosimy Cię Panie, wysłuchaj nasze modlitwy, a gdy Ci składamy te dary doczesne, spraw, byśmy doszli do wiecznej nagrody.  
 Przez Pana.  
+  
   
 
 
@@ -16138,25 +16037,27 @@ Przez Pana.
 
 ### Antyfona na Komunię  
 *Mt 21:13*  
-Pan mówi: dom mój będzie nazwany domem modlitwy; każdy, kto w nim prosi otrzymuje, i kto szuka znajduje, a pukającemu otworzą.  
+Dom mój będzie nazwany domem modlitwy, mówi Pan. Każdy, kto w nim prosi otrzymuje; a kto szuka, znajduje; a kołaczącemu będzie otworzone.  
+  
   
 
 
 ### Pokomunia  
-Boże, Ty z żywych i wybranych kamieni przygotowujesz swojemu majestatowi wiekuisty przybytek; wspomóz lud Twój, który pokornie Cię błaga, aby pomnożenie liczny widzialnych świątyń Twojego Kościoła przyczyniło się do jego duchowego wzrostu.  
+Boże, Ty z żywych i wybranych kamieni przygotowujesz Swemu majestatowi wiekuisty przybytek; wspomóż lud Twój, który kornie Cię błaga, aby materialne pomnożenie budowli Twego Kościoła przyczyniło się do wzrostu duchowego.  
 Przez Pana.  
+  
   
 
 
 *Wspomnienie św. Teodora Męczennika*  
 Prosimy Cię, Panie, za wstawiennictwem świętego Teodora, Twego Męczennika, daj nam przyjąć czystą duszą to, co spożyliśmy ustami.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 13 XI – Św. Stanisława Kostki, Wyznawcy  
 *2 klasy*  
 *Szaty białe*  
+*W Polsce*  
 Św. Stanisław Kostka urodził się w Rostkowie 28 października 1550 roku jako drugi syn kasztelana zakroczymskiego. Od dzieciństwa odznaczał się nabożeństwem do Najświętszego Sakramentu i do Matki Bożej. Razem z bratem został wysłany do szkół jezuickich w Wiedniu. Gdy ciężko zachorował w domu luteranina Kimberkera, który nie chciał dopuścić kapłana, otrzymał Komunię świętą z ręki Anioła (sekreta). Miał również widzenie Matki Bożej, która poleciła mu wstąpić do zakonu Jezuitów. Ponieważ nie mógł liczyć na pozwolenie rodziców, w przebraniu uciekł z Wiednia, pieszo dotarł do Dylingi w Bawarii i zgłosił się u św. Piotra Kanizjusza. Święty ten wysłał go do Rzymu, gdzie św. Franciszek Borgiasz przyjął Stanisława do nowicjatu. W nowicjacie Stanisław budował całe otoczenie wzorowym życiem. Trawiony ogniem miłości Bożej wyprosił sobie śmierć w święto Wniebowzięcia Najświętszej Maryi Panny 1568 roku. Relikwie jego spoczywają w Rzymie w Kościele św. Andrzeja na Кwirуnale. Św. Stanisław jest drugorzędnym patronem Polski.  
   
 
@@ -16227,7 +16128,6 @@ Nakarmił go Pan Chlebem żywota i rozumienia, i napoił go wodą zbawiennej mą
 ### Pokomunia  
 Prosimy Cię, Panie, za wstawiennictwem św. Stanisława, Twojego Wyznawcy, aby Pokarm niebieski, któryśmy przyjęli, przyniósł nam życie; niech stanie się dla nas chlebem rozumienia, a napój wodą zbawiennej mądrości.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>
 
 
 ## 30 XI – Św. Andrzeja, Apostoła  
@@ -16301,6 +16201,5 @@ Pójdźcie za mną, a sprawię, że staniecie się rybakami ludzi. A oni natychm
 
 
 ### Pokomunia  
-Ciesząc się z uroczystości św. Andrzeja, Apostoła, przyjęliśmy, Panie, Boski Sakrament; prosimy, aby pomnożył on chwalę Twoich Świętych, a nam przyniósł przebaczenie.  
+Ciesząc się z uroczystości św. Andrzeja, Apostoła, przyjęliśmy, Panie, Boski Sakrament; prosimy, aby pomnożył on chwałę Twoich Świętych, a nam przyniósł przebaczenie.  
 Przez Pana.  
-<div style="text-align:center"><img src ="img/x-par-end2.png" /></div>

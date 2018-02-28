@@ -86,7 +86,7 @@ PATERNOSTER = "Ojcze nasz, któryś jest w niebie: " \
               "I nie wódź nas na pokuszenie. " \
               "Ale nas zbaw ode złego. Amen."
 
-REF_REGEX = re.compile('^@([\w/\-]+):([\w]+)[: ]*(.*)')
+REF_REGEX = re.compile('^@([\w/\-]+):([^:]+)[: ]*(.*)')
 SECTION_REGEX = re.compile(r'^### *(.*)')
 
 TRANSFORMATIONS = (

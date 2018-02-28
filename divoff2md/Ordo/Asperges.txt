@@ -1,7 +1,7 @@
 [Prelude]
-# Aspresja
+# Aspersja
 
-! Przed Mszą uroczystą następuje aspresja. Kapłan przechodzi przez kościół i kropi wiernych wodą święconą. Wszyscy śpiewają antyfonę Asperges Me.
+! Przed Mszą uroczystą następuje aspersja. Kapłan przechodzi przez kościół i kropi wiernych wodą święconą. Wszyscy śpiewają antyfonę Asperges Me.
 
 ! Ps 50:9
 **Asperges me, Domine, hyssopo et mundabor, lavabis me, et super nivem dealbabor.**
