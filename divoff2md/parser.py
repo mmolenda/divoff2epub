@@ -21,6 +21,13 @@ def normalize(ln):
     return ln
 
 
+def strip_contents(d):
+    for section, content in d.items():
+        while content and not content[-1]:
+            content.pop(-1)
+    return d
+
+
 def resolve_conditionals(d):
     for section, content in d.items():
         new_content = []
@@ -50,7 +57,7 @@ def resolve_conditionals(d):
     return d
 
 
-def read_file(path, lookup_section=None):
+def read_file(path, divoff_dir, lookup_section=None):
     """
     Read the file and organize the content as ordered dictionary
     where `[Section]` becomes a key and each line below - an item of related
@@ -59,7 +66,7 @@ def read_file(path, lookup_section=None):
     d = OrderedDict()
     section = None
     concat_line = False
-    full_path = path if os.path.exists(path) else DIVOFF_DIR + path
+    full_path = path if os.path.exists(path) else divoff_dir + path
     with open(full_path) as fh:
         for ln in fh:
             ln = normalize(ln.strip())
@@ -75,9 +82,9 @@ def read_file(path, lookup_section=None):
                     if ref_search_result:
                         # Recursively read referenced file
                         path_bit, nested_section, substitution = ref_search_result.groups()
-                        nested_path = DIVOFF_DIR + path_bit + '.txt' \
+                        nested_path = divoff_dir + path_bit + '.txt' \
                                       if path_bit else path
-                        nested_content = read_file(nested_path, nested_section)
+                        nested_content = read_file(nested_path, divoff_dir, nested_section)
                         d[section].extend(nested_content[nested_section])
                     else:
                         # Line ending with `~` indicates that next line
@@ -88,6 +95,7 @@ def read_file(path, lookup_section=None):
                         else:
                             d[section].append(appendln)
                         concat_line = True if ln.endswith('~') else False
+    d = strip_contents(d)
     d = resolve_conditionals(d)
     return d
 
@@ -126,7 +134,7 @@ def print_contents(path, contents, pref, comm):
         print('■')
 
 def main(input_=PROPERS_INPUT):
-    prefationes = read_file('Ordo/Prefationes.txt')
+    prefationes = read_file('Ordo/Prefationes.txt', DIVOFF_DIR)
     for i in input_:
         if len(i) == 1:
             # Printing season's title
@@ -135,7 +143,7 @@ def main(input_=PROPERS_INPUT):
             # Printing propers
             path, pref_key, comm_key = i
             try:
-                contents = read_file(path)
+                contents = read_file(path, DIVOFF_DIR)
             except Exception as e:
                 sys.stderr.write("Cannot parse {}: {}\n".format(path, e))
                 raise
