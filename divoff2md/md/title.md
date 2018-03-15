@@ -1,3 +1,6 @@
+% Mszalik Trydencki
+% Marcin Molenda
+
 **Mszalik trydencki z czytaniami na niedziele i święta**
 
 Teksty mszalne oraz propria w języku polskim. Wersję łacińską podano w przypadku dialogów oraz części wypowiadanych przez wiernych.    
