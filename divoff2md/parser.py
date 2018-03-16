@@ -12,7 +12,7 @@ import argparse
 from collections import OrderedDict
 from consts import DIVOFF_DIR, TRANSLATION, \
     TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
-    DIVOFF_DIR, PROPERS_INPUT, REF_SECTION_REGEX, REF_FILE_REGEX, SECTION_REGEX, LANG1, LANG2, OUTPUT_DIR
+    DIVOFF_DIR, PROPERS_INPUT, REFERENCE_REGEX, SECTION_REGEX, LANG1, LANG2, OUTPUT_DIR
 import logging
 import sys
 
@@ -102,36 +102,38 @@ def parse_file(path, lang=LANG1, lookup_section=None):
                 # Skipping empty lines in the beginning of the file
                 continue
 
-            if section is None and REF_FILE_REGEX.search(ln):
+            if section is None and REFERENCE_REGEX.match(ln):
                 # reference outside any section as a first non-empty line - load all sections
-                # from referenced file and update them with the sections from current one.
-                ref_search_result = REF_FILE_REGEX.search(ln)
+                # from the referenced file and continue with the sections from the current one.
+                path_bit, _, _ = REFERENCE_REGEX.findall(ln)[0]
                 # Recursively read referenced file
-                path_bit = ref_search_result.groups()[0]
                 nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else path
                 d = parse_file(nested_path)
                 continue
 
-            ln = normalize(ln.strip(), lang)
+            ln = normalize(ln, lang)
+
             if re.search(SECTION_REGEX, ln):
                 section = re.sub(SECTION_REGEX, '\\1', ln)
 
-            if (not lookup_section and section not in EXCLUDE_SECTIONS) or \
-                    (lookup_section == section):
+            if not lookup_section or lookup_section == section:
                 if re.match(SECTION_REGEX, ln):
                     d[section] = []
                 else:
-                    ref_search_result = REF_SECTION_REGEX.search(ln)
-                    if ref_search_result:
-                        # Recursively read referenced file
-                        path_bit, nested_section, substitution = ref_search_result.groups()
-                        nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else path
-                        nested_content = parse_file(nested_path, lookup_section=nested_section)
-                        try:
-                            d[section].extend(nested_content[nested_section])
-                        except KeyError:
-                            log.warning("Section `%s` referenced from `%s` is missing in `%s`",
-                                        nested_section, full_path, nested_path)
+                    if REFERENCE_REGEX.match(ln):
+                        path_bit, nested_section, substitution = REFERENCE_REGEX.findall(ln)[0]
+                        if path_bit:
+                            # Reference to external file - parse it recursively
+                            nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else path
+                            nested_content = parse_file(nested_path, lookup_section=nested_section)
+                            try:
+                                d[section].extend(nested_content[nested_section])
+                            except KeyError:
+                                log.warning("Section `%s` referenced from `%s` is missing in `%s`",
+                                            nested_section, full_path, nested_path)
+                        else:
+                            # Reference to the other section in current file
+                            d[section].extend(d[nested_section])
                     else:
                         # Line ending with `~` indicates that next line
                         # should be treated as its continuation
@@ -175,6 +177,8 @@ def write_contents(out_path, contents, in_path='', pref='', comm='', stdout=Fals
 
         # Printing sections
         for section, lines in contents.items():
+            if section in EXCLUDE_SECTIONS:
+                continue
             _write_section(section, lines, fh)
 
             # After Secreta print Prefation and (optionally) Communicantes
@@ -193,10 +197,8 @@ def main(input_=PROPERS_INPUT, stdout=False):
     prefationes = parse_file('Ordo/Prefationes.txt')
     for i, block in enumerate(input_, 1):
         out_path = os.path.join(OUTPUT_DIR, "{:02}.md".format(i))
-        try:
+        if os.path.exists(out_path) and not stdout:
             os.remove(out_path)
-        except OSError:
-            pass
         for item in block:
             if len(item) == 1:
                 # Printing season's title

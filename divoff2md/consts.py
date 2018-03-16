@@ -98,8 +98,7 @@ PATERNOSTER_LAT = "Pater noster, qui es in caelis, " \
                   "Et ne nos inducas in tentationem: " \
                   "Sed libera nos a malo. "
 
-REF_SECTION_REGEX = re.compile('^@([\w/\-]+):([^:]+)[: ]*(.*)')
-REF_FILE_REGEX = re.compile('^@([\w/\-]+)')
+REFERENCE_REGEX = re.compile('^@([\w/\-]*):?([^:]*)[: ]*(.*)')
 SECTION_REGEX = re.compile(r'^### *(.*)')
 
 TRANSFORMATIONS = (
