@@ -4,7 +4,7 @@
 TODO:
 * eundem/eundem w plikach zrodlowych
 """
-
+import contextlib
 import sys
 import re
 import os
@@ -12,7 +12,7 @@ import argparse
 from collections import OrderedDict
 from consts import DIVOFF_DIR, TRANSLATION, \
     TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
-    DIVOFF_DIR, PROPERS_INPUT, REF_REGEX, SECTION_REGEX, LANG1, OUTPUT_DIR
+    DIVOFF_DIR, PROPERS_INPUT, REF_SECTION_REGEX, REF_FILE_REGEX, SECTION_REGEX, LANG1, LANG2, OUTPUT_DIR
 import logging
 import sys
 
@@ -20,8 +20,22 @@ import sys
 logging.basicConfig(
     stream=sys.stdout,
     level=logging.INFO,
-    format='%(levelname)s: %(message)s')
+    format='%(asctime)s %(levelname)s: %(message)s')
 log = logging.getLogger(__name__)
+
+
+@contextlib.contextmanager
+def smart_open(filename=None):
+    if filename:
+        fh = open(filename, 'a')
+    else:
+        fh = sys.stdout
+
+    try:
+        yield fh
+    finally:
+        if fh is not sys.stdout:
+            fh.close()
 
 
 def normalize(ln, lang):
@@ -81,10 +95,23 @@ def parse_file(path, lang=LANG1, lookup_section=None):
     concat_line = False
     full_path = path if os.path.exists(path) else get_full_path(path, lang)
     with open(full_path) as fh:
-        for ln in fh:
-            if section is None and ln.strip() == '':
+        for itr, ln in enumerate(fh):
+            ln = ln.strip()
+
+            if section is None and ln == '':
                 # Skipping empty lines in the beginning of the file
                 continue
+
+            if section is None and REF_FILE_REGEX.search(ln):
+                # reference outside any section as a first non-empty line - load all sections
+                # from referenced file and update them with the sections from current one.
+                ref_search_result = REF_FILE_REGEX.search(ln)
+                # Recursively read referenced file
+                path_bit = ref_search_result.groups()[0]
+                nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else path
+                d = parse_file(nested_path)
+                continue
+
             ln = normalize(ln.strip(), lang)
             if re.search(SECTION_REGEX, ln):
                 section = re.sub(SECTION_REGEX, '\\1', ln)
@@ -94,13 +121,17 @@ def parse_file(path, lang=LANG1, lookup_section=None):
                 if re.match(SECTION_REGEX, ln):
                     d[section] = []
                 else:
-                    ref_search_result = REF_REGEX.search(ln)
+                    ref_search_result = REF_SECTION_REGEX.search(ln)
                     if ref_search_result:
                         # Recursively read referenced file
                         path_bit, nested_section, substitution = ref_search_result.groups()
                         nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else path
                         nested_content = parse_file(nested_path, lookup_section=nested_section)
-                        d[section].extend(nested_content[nested_section])
+                        try:
+                            d[section].extend(nested_content[nested_section])
+                        except KeyError:
+                            log.warning("Section `%s` referenced from `%s` is missing in `%s`",
+                                        nested_section, full_path, nested_path)
                     else:
                         # Line ending with `~` indicates that next line
                         # should be treated as its continuation
@@ -115,7 +146,7 @@ def parse_file(path, lang=LANG1, lookup_section=None):
     return d
 
 
-def write_contents(out_path, contents, in_path='', pref='', comm=''):
+def write_contents(out_path, contents, in_path='', pref='', comm='', stdout=False):
 
     def _write_section(section, lines, fh):
         fh.write('\n\n')
@@ -126,7 +157,7 @@ def write_contents(out_path, contents, in_path='', pref='', comm=''):
             if section == 'Comment' and line.startswith('## ') and img_exists:
                 fh.write('\n<div style="text-align:center"><img src ="{}" /></div>\n\n'.format(img_path))
 
-    with open(out_path, 'a') as fh:
+    with smart_open(out_path if not stdout else None) as fh:
 
         if isinstance(contents, list):
             for ln in contents:
@@ -156,7 +187,7 @@ def write_contents(out_path, contents, in_path='', pref='', comm=''):
             fh.write('■\n')
 
 
-def main(input_=PROPERS_INPUT):
+def main(input_=PROPERS_INPUT, stdout=False):
     log.info("Starting the process")
     log.debug("Reading Ordo/Prefationes.txt")
     prefationes = parse_file('Ordo/Prefationes.txt')
@@ -169,20 +200,29 @@ def main(input_=PROPERS_INPUT):
         for item in block:
             if len(item) == 1:
                 # Printing season's title
-                write_contents(out_path, ['\n\n', '# ' + item[0]])
+                write_contents(out_path, ['\n\n', '# ' + item[0]], stdout=stdout)
                 log.info("Processing block `%s`", item[0])
             else:
                 # Printing propers
                 in_path, pref_key, comm_key = item
                 try:
                     log.debug("Parsing file `%s`", in_path)
-                    contents = parse_file(in_path)
+                    contents = parse_file(in_path, LANG1)
+                    # TODO: local latin translation for Polish particular days
+                    # try:
+                    #     contents2 = parse_file(in_path, LANG2)
+                    # except FileNotFoundError:
+                    #     if 'pl' in in_path:
+                    #         pass
+                    #     else:
+                    #         raise
                 except Exception as e:
                     log.error("Cannot parse file `%s`: %s", in_path, e)
                     raise
                 else:
                     log.debug("Writing file `%s`", out_path)
-                    write_contents(out_path, contents, in_path, prefationes.get(pref_key), prefationes.get(comm_key))
+                    write_contents(out_path, contents, in_path, prefationes.get(pref_key), prefationes.get(comm_key),
+                                   stdout=stdout)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
@@ -193,9 +233,11 @@ if __name__ == '__main__':
                         default="Communis", help="Prefacio, e.g. Trinitate")
     parser.add_argument("--comm_key",
                         help="Commune, e.g. C-Nat1962")
+    parser.add_argument("--stdout", action='store_true',
+                        help="Write to stdout instead of writing to the files.")
     args = parser.parse_args()
     if 'file_name' not in args:
-        main()
+        main(stdout=args.stdout)
     else:
-        main(((args.file_name, args.pref_key, args.comm_key), ))
+        main((((args.file_name, args.pref_key, args.comm_key), ), ), stdout=args.stdout)
 

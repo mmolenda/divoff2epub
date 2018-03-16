@@ -5,7 +5,7 @@ import re
 DIVOFF_DIR = '/Users/mmolenda/prv/divinum-officium/'
 OUTPUT_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'md')
 LANG1 = 'Polski'
-# LANG1 = 'Latin'
+LANG2 = 'Latin'
 
 EXCLUDE_SECTIONS = (
     'Evangelium1',
@@ -98,7 +98,8 @@ PATERNOSTER_LAT = "Pater noster, qui es in caelis, " \
                   "Et ne nos inducas in tentationem: " \
                   "Sed libera nos a malo. "
 
-REF_REGEX = re.compile('^@([\w/\-]+):([^:]+)[: ]*(.*)')
+REF_SECTION_REGEX = re.compile('^@([\w/\-]+):([^:]+)[: ]*(.*)')
+REF_FILE_REGEX = re.compile('^@([\w/\-]+)')
 SECTION_REGEX = re.compile(r'^### *(.*)')
 
 TRANSFORMATIONS = (
