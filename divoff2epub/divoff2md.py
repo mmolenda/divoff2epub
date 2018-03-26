@@ -12,7 +12,7 @@ import argparse
 from collections import OrderedDict
 from consts import DIVOFF_DIR, TRANSLATION, \
     TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
-    DIVOFF_DIR, PROPERS_INPUT, REFERENCE_REGEX, SECTION_REGEX, LANG1, LANG2, OUTPUT_DIR
+    DIVOFF_DIR, PROPERS_INPUT, REFERENCE_REGEX, SECTION_REGEX, LANG1, LANG2, MD_OUTPUT_DIR, THIS_DIR
 import logging
 import sys
 
@@ -51,8 +51,11 @@ def strip_contents(d):
     return d
 
 
-def get_full_path(path, lang):
-    return os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', lang, path)
+def get_full_path(partial_path, lang):
+    full_path = os.path.join('.', 'data', 'divinum-officium', 'web', 'www', 'missa', lang, partial_path)
+    if not os.path.exists(full_path):
+        full_path = os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', lang, partial_path)
+    return full_path
 
 
 def resolve_conditionals(d):
@@ -84,7 +87,7 @@ def resolve_conditionals(d):
     return d
 
 
-def parse_file(path, lang=LANG1, lookup_section=None):
+def parse_file(partial_path, lang=LANG1, lookup_section=None):
     """
     Read the file and organize the content as ordered dictionary
     where `[Section]` becomes a key and each line below - an item of related
@@ -93,7 +96,7 @@ def parse_file(path, lang=LANG1, lookup_section=None):
     d = OrderedDict()
     section = None
     concat_line = False
-    full_path = path if os.path.exists(path) else get_full_path(path, lang)
+    full_path = get_full_path(partial_path, lang)
     with open(full_path) as fh:
         for itr, ln in enumerate(fh):
             ln = ln.strip()
@@ -107,7 +110,7 @@ def parse_file(path, lang=LANG1, lookup_section=None):
                 # from the referenced file and continue with the sections from the current one.
                 path_bit, _, _ = REFERENCE_REGEX.findall(ln)[0]
                 # Recursively read referenced file
-                nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else path
+                nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else partial_path
                 d = parse_file(nested_path)
                 continue
 
@@ -124,7 +127,7 @@ def parse_file(path, lang=LANG1, lookup_section=None):
                         path_bit, nested_section, substitution = REFERENCE_REGEX.findall(ln)[0]
                         if path_bit:
                             # Reference to external file - parse it recursively
-                            nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else path
+                            nested_path = get_full_path(path_bit + '.txt', lang) if path_bit else partial_path
                             nested_content = parse_file(nested_path, lookup_section=nested_section)
                             try:
                                 d[section].extend(nested_content[nested_section])
@@ -148,7 +151,7 @@ def parse_file(path, lang=LANG1, lookup_section=None):
     return d
 
 
-def write_contents(out_path, contents, in_path='', pref='', comm='', stdout=False):
+def write_contents(out_path, contents, in_partial_path='', pref='', comm='', stdout=False):
 
     def _write_section(section, lines, fh):
         fh.write('\n\n')
@@ -166,7 +169,7 @@ def write_contents(out_path, contents, in_path='', pref='', comm='', stdout=Fals
                 fh.write(ln.strip() + '\n')
             return
 
-        img_path = in_path.replace('txt', 'png')
+        img_path = get_full_path(in_partial_path.replace('txt', 'png'), LANG1)
         img_exists = os.path.exists(img_path)
 
         # Preparing translations
@@ -187,7 +190,7 @@ def write_contents(out_path, contents, in_path='', pref='', comm='', stdout=Fals
                 if comm:
                     _write_section('Communicantes', comm, fh)
 
-        if not in_path.startswith('Ordo'):
+        if 'Ordo' not in in_partial_path:
             fh.write('■\n')
 
 
@@ -196,7 +199,7 @@ def main(input_=PROPERS_INPUT, stdout=False):
     log.debug("Reading Ordo/Prefationes.txt")
     prefationes = parse_file('Ordo/Prefationes.txt')
     for i, block in enumerate(input_, 1):
-        out_path = os.path.join(OUTPUT_DIR, "{:02}.md".format(i))
+        out_path = os.path.join(MD_OUTPUT_DIR, "{:02}.md".format(i))
         if os.path.exists(out_path) and not stdout:
             os.remove(out_path)
         for item in block:
@@ -206,10 +209,10 @@ def main(input_=PROPERS_INPUT, stdout=False):
                 log.info("Processing block `%s`", item[0])
             else:
                 # Printing propers
-                in_path, pref_key, comm_key = item
+                in_partial_path, pref_key, comm_key = item
                 try:
-                    log.debug("Parsing file `%s`", in_path)
-                    contents = parse_file(in_path, LANG1)
+                    log.debug("Parsing file `%s`", in_partial_path)
+                    contents = parse_file(in_partial_path, LANG1)
                     # TODO: local latin translation for Polish particular days
                     # try:
                     #     contents2 = parse_file(in_path, LANG2)
@@ -219,12 +222,12 @@ def main(input_=PROPERS_INPUT, stdout=False):
                     #     else:
                     #         raise
                 except Exception as e:
-                    log.error("Cannot parse file `%s`: %s", in_path, e)
+                    log.error("Cannot parse file `%s`: %s", in_partial_path, e)
                     raise
                 else:
                     log.debug("Writing file `%s`", out_path)
-                    write_contents(out_path, contents, in_path, prefationes.get(pref_key), prefationes.get(comm_key),
-                                   stdout=stdout)
+                    write_contents(out_path, contents, in_partial_path, prefationes.get(pref_key),
+                                   prefationes.get(comm_key), stdout=stdout)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()

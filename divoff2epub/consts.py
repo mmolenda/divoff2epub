@@ -2,8 +2,9 @@
 import os
 import re
 
+THIS_DIR = os.path.dirname(os.path.realpath(__file__))
 DIVOFF_DIR = '/Users/mmolenda/prv/divinum-officium/'
-OUTPUT_DIR = os.path.join(os.path.dirname(os.path.realpath(__file__)), 'md')
+MD_OUTPUT_DIR = os.path.join(THIS_DIR, 'data', 'md')
 LANG1 = 'Polski'
 LANG2 = 'Latin'
 
