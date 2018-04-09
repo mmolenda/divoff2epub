@@ -42,12 +42,13 @@ class Divoff(object):
 
     prefationes_a = None
     prefationes_b = None
+    footnotes = []
 
     def run(self, input_, stdout):
         log.info("Starting the process")
         log.debug("Reading Ordo/Prefationes.txt")
         self.prefationes_a = self.parse_file('Ordo/Prefationes.txt')
-        self.prefationes_b = {}  #self.parse_file('Ordo/Prefationes.txt', lang=LATIN)
+        self.prefationes_b = self.parse_file('Ordo/Prefationes.txt', lang=LATIN) if LATIN else {}
         for i, block in enumerate(input_, 1):
             out_path = os.path.join(MD_OUTPUT_DIR, "{:02}.md".format(i))
             if os.path.exists(out_path) and not stdout:
@@ -63,7 +64,7 @@ class Divoff(object):
                     try:
                         log.debug("Parsing file `%s`", in_partial_path)
                         contents_a = self.parse_file(in_partial_path, POLSKI)
-                        contents_b = {}  #self.parse_file(in_partial_path, LATIN)
+                        contents_b = self.parse_file(in_partial_path, LATIN) if LATIN else {}
                     except Exception as e:
                         log.error("Cannot parse file `%s`: %s", in_partial_path, e)
                         raise
@@ -71,6 +72,11 @@ class Divoff(object):
                         log.debug("Writing file `%s`", out_path)
                         self.write_contents(out_path, contents_a, contents_b, in_partial_path, pref_key,
                                             comm_key, stdout=stdout)
+
+            if self.footnotes:
+                with open(os.path.join(MD_OUTPUT_DIR, "footnotes.md"), 'a') as fh:
+                    for footnote_itr, footnote in enumerate(self.footnotes, 1):
+                        fh.write('[^{}]: {}\n'.format(i, footnote))
 
     @staticmethod
     def _normalize(ln, lang):
@@ -191,12 +197,17 @@ class Divoff(object):
             fh.write('\n\n')
             if section not in EXCLUDE_SECTIONS_TITLES:
                 fh.write('### ' + translation.get(section, section) + '  \n')
-            for line in lines_a:
-                fh.write(line + '  \n')
+            for i, line in enumerate(lines_a, 1):
                 if section == 'Comment' and line.startswith('## ') and img_exists:
                     fh.write('\n<div style="text-align:center"><img src ="{}" /></div>\n\n'.format(img_path))
-            if lines_b:
-                fh.write('*' + ' '.join(lines_b) + '*')
+                if i < len(lines_a):
+                    fh.write(line + '\n')
+                else:
+                    if lines_b:
+                        self.footnotes.append(' '.join(lines_b))
+                        fh.write(line + '[^{}]'.format(len(self.footnotes) + 1) + '\n')
+                    else:
+                        fh.write(line + '\n')
 
         with smart_open(out_path if not stdout else None) as fh:
 
