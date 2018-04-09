@@ -73,10 +73,13 @@ class Divoff(object):
                         self.write_contents(out_path, contents_a, contents_b, in_partial_path, pref_key,
                                             comm_key, stdout=stdout)
 
-            if self.footnotes:
-                with open(os.path.join(MD_OUTPUT_DIR, "footnotes.md"), 'a') as fh:
-                    for footnote_itr, footnote in enumerate(self.footnotes, 1):
-                        fh.write('[^{}]: {}\n'.format(i, footnote))
+        if self.footnotes:
+            fn_path = os.path.join(MD_OUTPUT_DIR, "footnotes.md")
+            if os.path.exists(fn_path) and not stdout:
+                os.remove(fn_path)
+            with open(fn_path, 'w') as fh:
+                for footnote_itr, footnote in enumerate(self.footnotes, 1):
+                    fh.write('[^{}]: {}\n'.format(footnote_itr, footnote))
 
     @staticmethod
     def _normalize(ln, lang):
@@ -201,13 +204,13 @@ class Divoff(object):
                 if section == 'Comment' and line.startswith('## ') and img_exists:
                     fh.write('\n<div style="text-align:center"><img src ="{}" /></div>\n\n'.format(img_path))
                 if i < len(lines_a):
-                    fh.write(line + '\n')
+                    fh.write(line + '   \n')
                 else:
                     if lines_b:
                         self.footnotes.append(' '.join(lines_b))
-                        fh.write(line + '[^{}]'.format(len(self.footnotes) + 1) + '\n')
+                        fh.write(line + '[^{}]'.format(len(self.footnotes)) + '   \n')
                     else:
-                        fh.write(line + '\n')
+                        fh.write(line + '   \n')
 
         with smart_open(out_path if not stdout else None) as fh:
 

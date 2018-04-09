@@ -6,7 +6,7 @@ THIS_DIR = os.path.dirname(os.path.realpath(__file__))
 DIVOFF_DIR = '/Users/mmolenda/prv/divinum-officium/'
 MD_OUTPUT_DIR = os.path.join(THIS_DIR, 'data', 'md')
 POLSKI = 'Polski'
-LATIN = None  #'Latin'
+LATIN = 'Latin'
 
 EXCLUDE_SECTIONS = (
     'Evangelium1',
