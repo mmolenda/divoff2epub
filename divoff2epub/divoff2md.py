@@ -232,14 +232,15 @@ class Divoff(object):
             for section_a, lines_a in contents_a.items():
                 if section_a in EXCLUDE_SECTIONS:
                     continue
-                lines_b = contents_b.get(section_a)
-                _write_section(section_a, lines_a, lines_b, fh)
 
-                # After Secreta print Prefation and (optionally) Communicantes
-                if section_a == 'Secreta':
+                # Before Communio print Prefatio and (optionally) Communicantes
+                if section_a == 'Communio':
                     _write_section('Prefatio', self.prefationes_a[pref], self.prefationes_b.get(pref), fh)
                     if comm:
                         _write_section('Communicantes', self.prefationes_a[comm], self.prefationes_b.get(comm), fh)
+
+                lines_b = contents_b.get(section_a)
+                _write_section(section_a, lines_a, lines_b, fh)
 
             if 'Ordo' not in in_partial_path:
                 fh.write('■\n')
