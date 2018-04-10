@@ -201,8 +201,6 @@ class Divoff(object):
             if section not in EXCLUDE_SECTIONS_TITLES:
                 fh.write('### ' + translation.get(section, section) + '  \n')
             for i, line in enumerate(lines_a, 1):
-                if section == 'Comment' and line.startswith('## ') and img_exists:
-                    fh.write('\n<div style="text-align:center"><img src ="{}" /></div>\n\n'.format(img_path))
                 if i < len(lines_a):
                     fh.write(line + '   \n')
                 else:
@@ -211,6 +209,8 @@ class Divoff(object):
                         fh.write(line + '[^{}]'.format(len(self.footnotes)) + '   \n')
                     else:
                         fh.write(line + '   \n')
+                if section == 'Comment' and line.startswith('## ') and img_exists:
+                    fh.write('\n<div style="text-align:center"><img src ="{}" /></div>\n\n'.format(img_path))
 
         with smart_open(out_path if not stdout else None) as fh:
 
