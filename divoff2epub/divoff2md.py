@@ -77,7 +77,7 @@ class Divoff(object):
             fn_path = os.path.join(MD_OUTPUT_DIR, "footnotes.md")
             if os.path.exists(fn_path) and not stdout:
                 os.remove(fn_path)
-            with open(fn_path, 'w') as fh:
+            with smart_open(fn_path if not stdout else None) as fh:
                 for footnote_itr, footnote in enumerate(self.footnotes, 1):
                     fh.write('[^{}]: {}\n'.format(footnote_itr, footnote))
 
