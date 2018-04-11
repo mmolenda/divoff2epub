@@ -12,7 +12,8 @@ import argparse
 from collections import OrderedDict
 from consts import DIVOFF_DIR, TRANSLATION, \
     TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
-    DIVOFF_DIR, PROPERS_INPUT, REFERENCE_REGEX, SECTION_REGEX, POLSKI, LATIN, MD_OUTPUT_DIR, THIS_DIR
+    DIVOFF_DIR, PROPERS_INPUT, REFERENCE_REGEX, SECTION_REGEX, POLSKI, LATIN, MD_OUTPUT_DIR, THIS_DIR, \
+    FOOTNOTE_REF_REGEX, FOOTNOTE_REGEX
 import logging
 import sys
 
@@ -157,9 +158,9 @@ class Divoff(object):
                     fh.write(line + '   \n')
                 else:
                     # Handling footnote defined in-line
-                    if '[^0]' in line:
-                        self.footnotes.append(contents_a['Footnotes'].pop(0))
-                        line = line.replace('[^0]', '[^{}]'.format(len(self.footnotes)))
+                    if re.search(FOOTNOTE_REF_REGEX, line):
+                        self.footnotes.append(re.sub(FOOTNOTE_REGEX, '', contents_a['Footnotes'].pop(0)))
+                        line = re.sub(FOOTNOTE_REF_REGEX, '[^{}]'.format(len(self.footnotes)), line)
                     # Generate footnote out of respective Latin translation
                     if lines_b:
                         self.footnotes.append(' '.join(lines_b))

@@ -102,6 +102,8 @@ PATERNOSTER_LAT = "Pater noster, qui es in caelis, " \
 
 REFERENCE_REGEX = re.compile('^@([\w/\-]*):?([^:]*)[: ]*(.*)')
 SECTION_REGEX = re.compile(r'^### *(.*)')
+FOOTNOTE_REF_REGEX = re.compile(r'\[\^\d+\][^:]*')
+FOOTNOTE_REGEX = re.compile(r'^\[\^\d+\]: ')
 
 TRANSFORMATIONS = (
     (re.compile(r'\+\+'), {None: '☩'}),
