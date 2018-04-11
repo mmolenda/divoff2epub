@@ -81,56 +81,6 @@ class Divoff(object):
                 for footnote_itr, footnote in enumerate(self.footnotes, 1):
                     fh.write('[^{}]: {}\n'.format(footnote_itr, footnote))
 
-    @staticmethod
-    def _normalize(ln, lang):
-        for r, s in TRANSFORMATIONS:
-            ln = re.sub(r, s.get(lang, s.get(None)), ln)
-        return ln
-
-    @staticmethod
-    def strip_contents(d):
-        for section, content in d.items():
-            while content and not content[-1]:
-                content.pop(-1)
-        return d
-
-    @staticmethod
-    def get_full_path(partial_path, lang):
-        full_path = os.path.join('.', 'data', 'divinum-officium', 'web', 'www', 'missa', lang, partial_path)
-        if not os.path.exists(full_path):
-            full_path = os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', lang, partial_path)
-        return full_path
-
-    @staticmethod
-    def resolve_conditionals(d):
-        for section, content in d.items():
-            new_content = []
-            omit = False
-            itercontent = iter(content)
-            for i, ln in enumerate(itercontent):
-                if '(sed rubrica 1960 dicuntur)' in ln:
-                    # delete previous line; do not append current one
-                    del new_content[i - 1]
-                    continue
-                if '(rubrica 1570 aut rubrica 1910 aut rubrica divino afflatu dicitur)' in ln:
-                    # skip next line; do not append current one
-                    next(itercontent)
-                    continue
-                if '(deinde dicuntur)' in ln:
-                    # start skipping lines from now on
-                    omit = True
-                    continue
-                if '(sed rubrica 1955 aut rubrica 1960 haec versus omittuntur)' in ln:
-                    # stop skipping lines from now on
-                    omit = False
-                    continue
-                if omit:
-                    continue
-                new_content.append(ln)
-            d[section] = new_content
-        return d
-
-
     def parse_file(self, partial_path, lang=POLSKI, lookup_section=None):
         """
         Read the file and organize the content as ordered dictionary
@@ -140,7 +90,7 @@ class Divoff(object):
         d = OrderedDict()
         section = None
         concat_line = False
-        full_path = self.get_full_path(partial_path, lang)
+        full_path = self._get_full_path(partial_path, lang)
         with open(full_path) as fh:
             for itr, ln in enumerate(fh):
                 ln = ln.strip()
@@ -154,7 +104,7 @@ class Divoff(object):
                     # from the referenced file and continue with the sections from the current one.
                     path_bit, _, _ = REFERENCE_REGEX.findall(ln)[0]
                     # Recursively read referenced file
-                    nested_path = self.get_full_path(path_bit + '.txt', lang) if path_bit else partial_path
+                    nested_path = self._get_full_path(path_bit + '.txt', lang) if path_bit else partial_path
                     d = self.parse_file(nested_path)
                     continue
 
@@ -171,7 +121,7 @@ class Divoff(object):
                             path_bit, nested_section, substitution = REFERENCE_REGEX.findall(ln)[0]
                             if path_bit:
                                 # Reference to external file - parse it recursively
-                                nested_path = self.get_full_path(path_bit + '.txt', lang) if path_bit else partial_path
+                                nested_path = self._get_full_path(path_bit + '.txt', lang) if path_bit else partial_path
                                 nested_content = self.parse_file(nested_path, lookup_section=nested_section)
                                 try:
                                     d[section].extend(nested_content[nested_section])
@@ -190,8 +140,8 @@ class Divoff(object):
                             else:
                                 d[section].append(appendln)
                             concat_line = True if ln.endswith('~') else False
-        d = self.strip_contents(d)
-        d = self.resolve_conditionals(d)
+        d = self._strip_contents(d)
+        d = self._resolve_conditionals(d)
         return d
 
     def write_contents(self, out_path, contents_a, contents_b, in_partial_path='', pref='', comm='', stdout=False):
@@ -219,7 +169,7 @@ class Divoff(object):
                     fh.write(ln.strip() + '\n')
                 return
 
-            img_path = self.get_full_path(in_partial_path.replace('txt', 'png'), POLSKI)
+            img_path = self._get_full_path(in_partial_path.replace('txt', 'png'), POLSKI)
             img_exists = os.path.exists(img_path)
 
             # Preparing translations
@@ -244,6 +194,55 @@ class Divoff(object):
 
             if 'Ordo' not in in_partial_path:
                 fh.write('■\n')
+
+    @staticmethod
+    def _normalize(ln, lang):
+        for r, s in TRANSFORMATIONS:
+            ln = re.sub(r, s.get(lang, s.get(None)), ln)
+        return ln
+
+    @staticmethod
+    def _strip_contents(d):
+        for section, content in d.items():
+            while content and not content[-1]:
+                content.pop(-1)
+        return d
+
+    @staticmethod
+    def _get_full_path(partial_path, lang):
+        full_path = os.path.join('.', 'data', 'divinum-officium', 'web', 'www', 'missa', lang, partial_path)
+        if not os.path.exists(full_path):
+            full_path = os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', lang, partial_path)
+        return full_path
+
+    @staticmethod
+    def _resolve_conditionals(d):
+        for section, content in d.items():
+            new_content = []
+            omit = False
+            itercontent = iter(content)
+            for i, ln in enumerate(itercontent):
+                if '(sed rubrica 1960 dicuntur)' in ln:
+                    # delete previous line; do not append current one
+                    del new_content[i - 1]
+                    continue
+                if '(rubrica 1570 aut rubrica 1910 aut rubrica divino afflatu dicitur)' in ln:
+                    # skip next line; do not append current one
+                    next(itercontent)
+                    continue
+                if '(deinde dicuntur)' in ln:
+                    # start skipping lines from now on
+                    omit = True
+                    continue
+                if '(sed rubrica 1955 aut rubrica 1960 haec versus omittuntur)' in ln:
+                    # stop skipping lines from now on
+                    omit = False
+                    continue
+                if omit:
+                    continue
+                new_content.append(ln)
+            d[section] = new_content
+        return d
 
 
 def main(input_=PROPERS_INPUT, stdout=False):

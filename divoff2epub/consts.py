@@ -101,6 +101,8 @@ PATERNOSTER_LAT = "Pater noster, qui es in caelis, " \
 
 REFERENCE_REGEX = re.compile('^@([\w/\-]*):?([^:]*)[: ]*(.*)')
 SECTION_REGEX = re.compile(r'^### *(.*)')
+FOOTNOTE_REF_REGEX = re.compile(r'\[\^\d+\]')
+FOOTNOTE_REF = re.compile(r'^\[\^\d+\]:')
 
 TRANSFORMATIONS = (
     (re.compile(r'\+\+'), {None: '☩'}),
@@ -108,7 +110,7 @@ TRANSFORMATIONS = (
     (re.compile(r'^#'), {None: '##'}),
     (re.compile(r'^!x!'), {None: '!'}),
     (re.compile(r'^!! *(.*)'), {None: '### \\1'}),
-    (re.compile(r'^\[([^\]]*)\]'), {None: '### \\1'}),
+    (re.compile(r'^\[([^\]^]*)\]'), {None: '### \\1'}),
     (re.compile(r'^! *(.*)'), {None: '*\\1*'}),
     (re.compile(r'^v\. *'), {None: ''}),
     (re.compile(r'^_'), {None: ''}),
@@ -116,14 +118,17 @@ TRANSFORMATIONS = (
     (re.compile(r'\)\)'), {None: ')'}),
     (re.compile(r'\['), {None: '('}),
     (re.compile(r'\]'), {None: ')'}),
+    (re.compile(r'\((\^\d+)\)'), {None: '[\\1]'}),  # preserving footnotes, like [^1], [^1]:
     (re.compile(r'^.*`.*$'), {None: ''}),
-    (re.compile(r'^[&$]Gloria.*'), {'Polski': 'Chwała Ojcu.', 'Latin': 'Glória Patri.'}),
-    (re.compile(r'^\$Per Dominum.*'), {'Polski': 'Przez Pana.', 'Latin': 'Per Dominum.'}),
-    (re.compile(r'^\$Per eu[mn]dem.*'), {'Polski': 'Przez tegoż Pana.', 'Latin': 'Per eúndem.'}),
-    (re.compile(r'^\$Qui tecum.*'), {'Polski': 'Który z Tobą.', 'Latin': 'Qui tecum.'}),
-    (re.compile(r'^\$Qui vivis.*'), {'Polski': 'Który żyjesz.', 'Latin': 'Qui vivis.'}),
-    (re.compile(r'^\$Deo [Gg]ratias.*'), {'Polski': 'Bogu dzięki.', 'Latin': 'Deo gratias.'}),
-    (re.compile(r'^[&$]Dominus *[Vv]obiscum.*'), {'Polski': 'V. Pan z wami.    \n\rR. I z duchem twoim.',
+    (re.compile(r'^[&$]Gloria\.*'), {'Polski': 'Chwała Ojcu.', 'Latin': 'Glória Patri.'}),
+    (re.compile(r'^\$Per Dominum eiusdem\.*'), {'Polski': 'Przez Pana.', 'Latin': 'Per Dominum.'}),
+    (re.compile(r'^\$Per Dominum\.*'), {'Polski': 'Przez Pana.', 'Latin': 'Per Dominum.'}),
+    (re.compile(r'^\$Per eu[mn]dem\.*'), {'Polski': 'Przez tegoż Pana.', 'Latin': 'Per eúndem.'}),
+    (re.compile(r'^\$Qui tecum eiusdem\.*'), {'Polski': 'Który z Tobą.', 'Latin': 'Qui tecum.'}),
+    (re.compile(r'^\$Qui tecum\.*'), {'Polski': 'Który z Tobą.', 'Latin': 'Qui tecum.'}),
+    (re.compile(r'^\$Qui vivis\.*'), {'Polski': 'Który żyjesz.', 'Latin': 'Qui vivis.'}),
+    (re.compile(r'^\$Deo [Gg]ratias\.*'), {'Polski': 'Bogu dzięki.', 'Latin': 'Deo gratias.'}),
+    (re.compile(r'^[&$]Dominus *[Vv]obiscum\.*'), {'Polski': 'V. Pan z wami.    \n\rR. I z duchem twoim.',
                                                   'Latin': 'V. Dóminus vobíscum.    \n\rR. Et cum spíritu tuo.'}),
     (re.compile(r'^\*Modlitwa nad ludem\*.*'), {None: ''}),
     (re.compile(r'^\$Pater noster.*'), {'Polski': PATERNOSTER_PL, 'Latin': PATERNOSTER_LAT}),
