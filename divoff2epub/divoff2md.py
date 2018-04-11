@@ -132,6 +132,7 @@ class Divoff(object):
                                 # Reference to the other section in current file
                                 d[section].extend(d[nested_section])
                         else:
+                            # Finally, a regular line...
                             # Line ending with `~` indicates that next line
                             # should be treated as its continuation
                             appendln = ln.replace('~', ' ')
@@ -146,14 +147,20 @@ class Divoff(object):
 
     def write_contents(self, out_path, contents_a, contents_b, in_partial_path='', pref='', comm='', stdout=False):
 
-        def _write_section(section, lines_a, lines_b, fh):
+        def _write_section(contents_a, section, lines_a, lines_b, fh):
             fh.write('\n\n')
             if section not in EXCLUDE_SECTIONS_TITLES:
                 fh.write('### ' + translation.get(section, section) + '  \n')
             for i, line in enumerate(lines_a, 1):
                 if i < len(lines_a):
+                    # Newline after each line but last
                     fh.write(line + '   \n')
                 else:
+                    # Handling footnote defined in-line
+                    if '[^0]' in line:
+                        self.footnotes.append(contents_a['Footnotes'].pop(0))
+                        line = line.replace('[^0]', '[^{}]'.format(len(self.footnotes)))
+                    # Generate footnote out of respective Latin translation
                     if lines_b:
                         self.footnotes.append(' '.join(lines_b))
                         fh.write(line + '[^{}]'.format(len(self.footnotes)) + '   \n')
@@ -163,7 +170,6 @@ class Divoff(object):
                     fh.write('\n<div style="text-align:center"><img src ="{}" /></div>\n\n'.format(img_path))
 
         with smart_open(out_path if not stdout else None) as fh:
-
             if isinstance(contents_a, list):
                 for ln in contents_a:
                     fh.write(ln.strip() + '\n')
@@ -185,12 +191,12 @@ class Divoff(object):
 
                 # Before Communio print Prefatio and (optionally) Communicantes
                 if section_a == 'Communio':
-                    _write_section('Prefatio', self.prefationes_a[pref], self.prefationes_b.get(pref), fh)
+                    _write_section(contents_a, 'Prefatio', self.prefationes_a[pref], self.prefationes_b.get(pref), fh)
                     if comm:
-                        _write_section('Communicantes', self.prefationes_a[comm], self.prefationes_b.get(comm), fh)
+                        _write_section(contents_a, 'Communicantes', self.prefationes_a[comm], self.prefationes_b.get(comm), fh)
 
                 lines_b = contents_b.get(section_a)
-                _write_section(section_a, lines_a, lines_b, fh)
+                _write_section(contents_a, section_a, lines_a, lines_b, fh)
 
             if 'Ordo' not in in_partial_path:
                 fh.write('■\n')
