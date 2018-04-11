@@ -253,8 +253,8 @@ def main(input_=PROPERS_INPUT, stdout=False):
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument("file_name", nargs='?', default=argparse.SUPPRESS,
-                        help="File name containing given proper from divinumofficium, "
+    parser.add_argument("file_names", nargs='*', default=argparse.SUPPRESS,
+                        help="File names containing given proper from divinumofficium, "
                              "e.g. web/www/missa/Polski/Sancti/11-11.txt")
     parser.add_argument("--pref_key",
                         default="Communis", help="Prefacio, e.g. Trinitate")
@@ -263,8 +263,9 @@ if __name__ == '__main__':
     parser.add_argument("--stdout", action='store_true',
                         help="Write to stdout instead of writing to the files.")
     args = parser.parse_args()
-    if 'file_name' not in args:
+    if 'file_names' not in args:
         main(stdout=args.stdout)
     else:
-        main((((args.file_name, args.pref_key, args.comm_key), ), ), stdout=args.stdout)
+        for file_name in args.file_names:
+            main((((file_name, args.pref_key, args.comm_key), ), ), stdout=args.stdout)
 
