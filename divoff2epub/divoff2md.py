@@ -153,14 +153,15 @@ class Divoff(object):
             if section not in EXCLUDE_SECTIONS_TITLES:
                 fh.write('### ' + translation.get(section, section) + '  \n')
             for i, line in enumerate(lines_a, 1):
+                # Handling footnote defined in-line
+                if re.search(FOOTNOTE_REF_REGEX, line):
+                    self.footnotes.append(re.sub(FOOTNOTE_REGEX, '', contents_a['Footnotes'].pop(0)))
+                    line = re.sub(FOOTNOTE_REF_REGEX, '[^{}]'.format(len(self.footnotes)), line)
+
                 if i < len(lines_a):
                     # Newline after each line but last
                     fh.write(line + '   \n')
                 else:
-                    # Handling footnote defined in-line
-                    if re.search(FOOTNOTE_REF_REGEX, line):
-                        self.footnotes.append(re.sub(FOOTNOTE_REGEX, '', contents_a['Footnotes'].pop(0)))
-                        line = re.sub(FOOTNOTE_REF_REGEX, '[^{}]'.format(len(self.footnotes)), line)
                     # Generate footnote out of respective Latin translation
                     if lines_b:
                         self.footnotes.append(' '.join(lines_b))
