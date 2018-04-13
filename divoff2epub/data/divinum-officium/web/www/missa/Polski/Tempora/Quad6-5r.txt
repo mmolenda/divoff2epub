@@ -455,7 +455,7 @@ _
 [^34]: Indulgentiam, absolutionem ☩ et remissionem peccatorum vestrorum tribuat vobis omnipotens et misericors Dominus. R. Amen.
 [^35]: Ecce Agnus Dei, ecce qui tollit peccata mundi.
 [^36]: Domine, non sum dignus, ut intres sub tectum meum: sed tantum die verbo, et sanabitur anima mea
- [^37]: Oremus. Super populum tuum quǽsumus, Domine, qui passionem et mortem Filii tui devota mente recoluit, benedictio copiosa descendat, indulgentia veniat, consolatio tribuatur, fides sancta succrescat, redemptio sempiterna firmetur. Per eundem Christum Dominum nostrum. Amen. R. Amen. 
- [^38]: Oremus. Omnipotens et misericors Deus, qui Christi tui beata passione et morte nos reparasti: conserva in nobis operam misericordiae tuae; ut huius mysterii participatione, perpetua devotione vivamus. Per eundem Christum Dominum nostrum. Amen. R. Amen. 
- [^39]: Oremus. Reminiscere miserationum tuarum, Domine, et famulos tuos aeterna protectione sanctifica, pro quibus Christus, Filius tuus, per suum cruorem instituit paschale mysterium. Per eundem Christum Dominum nostrum. Amen. R. Amen.
+[^37]: Oremus. Super populum tuum quǽsumus, Domine, qui passionem et mortem Filii tui devota mente recoluit, benedictio copiosa descendat, indulgentia veniat, consolatio tribuatur, fides sancta succrescat, redemptio sempiterna firmetur. Per eundem Christum Dominum nostrum. R. Amen.
+[^38]: Oremus. Omnipotens et misericors Deus, qui Christi tui beata passione et morte nos reparasti: conserva in nobis operam misericordiae tuae; ut huius mysterii participatione, perpetua devotione vivamus. Per eundem Christum Dominum nostrum. R. Amen.
+[^39]: Oremus. Reminiscere miserationum tuarum, Domine, et famulos tuos aeterna protectione sanctifica, pro quibus Christus, Filius tuus, per suum cruorem instituit paschale mysterium. Per eundem Christum Dominum nostrum. R. Amen.
  
