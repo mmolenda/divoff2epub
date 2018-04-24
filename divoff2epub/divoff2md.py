@@ -222,7 +222,7 @@ class Divoff(object):
             return partial_path
         full_path = os.path.join('.', 'data', 'divinum-officium-custom', 'web', 'www', 'missa', lang, partial_path)
         if not os.path.exists(full_path):
-            full_path = os.path.join(DIVOFF_DIR, 'web', 'www', 'missa', lang, partial_path)
+            full_path = os.path.join('.', 'data', 'divinum-officium', 'web', 'www', 'missa', lang, partial_path)
         return full_path
 
     @staticmethod

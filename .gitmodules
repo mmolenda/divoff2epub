@@ -1,0 +1,3 @@
+[submodule "divoff2epub/data/divinum-officium"]
+	path = divoff2epub/data/divinum-officium
+	url = git@github.com:DivinumOfficium/divinum-officium.git
