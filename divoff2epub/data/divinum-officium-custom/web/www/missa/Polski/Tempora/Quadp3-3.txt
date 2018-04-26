@@ -87,11 +87,11 @@ v. Wszystkim okazujesz miłosierdzie, Panie, i żadnego ze swych stworzeń nie m
 !Ps 56:2
 Zmiłuj się nade mną, Boże, zmiłuj się nade mną, bo Tobie ufa dusza moja.
 &Gloria
-v. Wszystkim okazujesz miłosierdzie, Panie, i żadnego ze swych stworzeń nie masz w nienawiści. Darowujesz grzechy ludziom, aby się nawrócili, i przebaczasz im: albowiem Ty jesteś Panem, Bogiem naszym. [^11]
+v. Wszystkim okazujesz miłosierdzie, Panie, i żadnego ze swych stworzeń nie masz w nienawiści. Darowujesz grzechy ludziom, aby się nawrócili, i przebaczasz im: albowiem Ty jesteś Panem, Bogiem naszym.
 
 [Oratio]
 Udziel, Panie, wiernym Twoim łaski, aby rozpoczęli ten czcigodny i uroczysty post z należną pobożnością i przebyli go służąc Tobie w pokoju.
-$Per Dominum [^12]
+$Per Dominum
 
 [Lectio]
 Czytanie z Księgi Proroka Joela.
@@ -99,7 +99,7 @@ Czytanie z Księgi Proroka Joela.
 !x!Słowami proroka Joela Kościół wzywa nas do postu i wewnętrznego nawrócenia. Pokuta, którą głosił Prorok, miała charakter społeczny. Podobnie Wielki Post jest okresem wspólnego postu i wspólnej modlitwy całego Kościoła.
 To mówi Pan: Nawróćcie się do mnie całym sercem waszym przez post, płacz i żal. I rozdzierajcie serca wasze, a nie wasze szaty. I nawróćcie się do Pana Boga waszego, bo łaskawy jest i litościwy, cierpliwy i wielkiego miłosierdzia, a współczujący w nieszczęściu. Kto wie, może się odwróci i wybaczy i zostawi po sobie błogosławieństwo na ofiarę i płynną obiate dla Pana Boga waszego.
 Uderzcie w trąbę na Syjonie, uświęćcie post, zwołajcie zgromadzenie, zbierzcie lud, poświęćcie zebranie, w jedno zbierzcie starców, zgromadźcie dzieci i niemowlęta. Niech wynijdzie oblubieniec z łożnicy swojej, a oblubienica ze swej komnaty. Pomiędzy przedsionkiem a ołtarzem płakać będą kapłani, słudzy Pańscy, i mówić będą: «Przepuść, Panie, przepuść ludowi Twemu, a dziedzictwa Twego na wzgardę nie wydawaj, by mieli nad nimi panować poganie. Czemuż mówią pomiędzy narodami: Gdzież jest ich Bóg?»
-Zapłonął Pan miłością ku ziemi swojej i przepuścił swemu ludowi. I odpowiedział Pan, i rzekł ludowi swemu: Oto ja ześle wam pszenicę i wino, i oliwę, a nasycicie się nimi. I nie wydam was na wzgardę poganom – mówi Pan wszechmogący. [^13]
+Zapłonął Pan miłością ku ziemi swojej i przepuścił swemu ludowi. I odpowiedział Pan, i rzekł ludowi swemu: Oto ja ześle wam pszenicę i wino, i oliwę, a nasycicie się nimi. I nie wydam was na wzgardę poganom – mówi Pan wszechmogący.
 
 [Tractus1]
 !Ps 102:10
@@ -111,47 +111,43 @@ V. Wspomóż nas, Boże, nasz Zbawicielu, i dla chwały imienia Twego wybaw nas,
 [Graduale]
 !Ps 56:2; 56:4
 Zmiłuj się nade mną, Boże, zmiłuj się nade mną, bo Tobie ufa dusza moja.
-V. Sięgnął nieba i wybawił mnie, hańbą okrył tych, co mnie dręczą. [^14]
+V. Sięgnął nieba i wybawił mnie, hańbą okrył tych, co mnie dręczą.
 _
 !Traktus
-!Ps 102:10
-Panie, nie postępuj z nami według naszych grzechów ani nie odpłacaj nam według win naszych.
-!Ps 78:8-9
-Nie pamiętaj, Panie, dawnych nieprawości naszych. Niech rychło wyjdzie ku nam miłosierdzie Twoje, bo jesteśmy bardzo nieszczęśliwi. (Tu się przyklęka)
-V. Wspomóż nas, Boże, nasz Zbawicielu, i dla chwały imienia Twego wybaw nas, Panie, i odpuść nam grzechy dla imienia Twego. [^15]
+@:Tractus1
 !x!Powyższy traktus odmawia się w poniedziałki, środy i piątki Wielkiego Postu z wyjątkiem środy Suchych Dni i Wielkiej Środy.
 
 [Evangelium]
 Ciąg dalszy ++ Ewangelii świętej według Mateusza.
 !Mt 6:16-21
 Onego czasu: Mówił Jezus uczniom swoim: «Gdy pościcie, nie bądźcie smutni jako obłudnicy. Twarze bowiem swoje wyniszczają, aby okazali ludziom, że poszczą. Zaprawdę powiadam wam, że wzięli nagrodę swoją.
-Ale ty, gdy pościsz, namaść głowę swoją i obmyj oblicze swoje, abyś nie okazał ludziom, że pościsz, ale Ojcu twojemu, który jest w skrytości. A Ojciec twój, który widzi w skrytości, odda tobie. Nie skarbcie sobie skarbów na ziemi, gdzie rdza i mól psuje i gdzie złodzieje wykopują i kradną. Ale skarbcie sobie skarby w niebie, gdzie ani rdza zepsuje, ani mól stoczy i gdzie złodzieje nie wykopują ani kradną. Albowiem gdzie jest skarb twój, tam i serce twoje». [^16]
+Ale ty, gdy pościsz, namaść głowę swoją i obmyj oblicze swoje, abyś nie okazał ludziom, że pościsz, ale Ojcu twojemu, który jest w skrytości. A Ojciec twój, który widzi w skrytości, odda tobie. Nie skarbcie sobie skarbów na ziemi, gdzie rdza i mól psuje i gdzie złodzieje wykopują i kradną. Ale skarbcie sobie skarby w niebie, gdzie ani rdza zepsuje, ani mól stoczy i gdzie złodzieje nie wykopują ani kradną. Albowiem gdzie jest skarb twój, tam i serce twoje».
 
 [Offertorium]
 !Ps 29:2-3
-Sławić Cię będę, Panie, bo mnie wybawiłeś i nie sprawiłeś ze mnie uciechy mym wrogom. Panie, do Ciebie wołałem, a Tyś mnie uzdrowił. [^17]
+Sławić Cię będę, Panie, bo mnie wybawiłeś i nie sprawiłeś ze mnie uciechy mym wrogom. Panie, do Ciebie wołałem, a Tyś mnie uzdrowił.
 
 [Secreta]
 Spraw, prosimy Cię, Panie, abyśmy należycie się usposobili do ofiarowania Tobie tych darów, przez które obchodzimy początek czcigodnego misterium postu.
-$Per Dominum [^18]
+$Per Dominum
 
 [Communio]
 !Ps 1:2,3
-Kto rozważa Prawo Pańskie dniem i nocą, ten wyda owoc w swym czasie. [^19]
+Kto rozważa Prawo Pańskie dniem i nocą, ten wyda owoc w swym czasie.
 
 [Postcommunio]
 Niech nas wspomaga, Panie, przyjęty Sakrament, aby nasze posty były miłe Tobie, a nam przyniosły wyleczenie.
-$Per Dominum [^20]
+$Per Dominum
 
 [Super populum]
-!Modlitwa nad ludem 
+!Modlitwa nad ludem
 v. Módlmy się.
 !Diakon, jeżeli służy do Mszy, zwrócony w stronę ludu, ze złączonymi rękoma mówi. W przeciwnym razie mówi Celebrans, stojąc w tym samym miejscu, przed księgą, nie zwracając się w stronę ludu.
 
 v. Pochylcie głowy wasze przed Bogiem.
 _
 v. Wejrzyj łaskawie, o Panie, na wiernych, którzy chylą się przed Twoim majestatem, aby posileni Boskim darem zawsze byli podtrzymywani niebieską pomocą.
-$Per Dominum [^21]
+$Per Dominum
 
 [Footnotes]
 [^1]: Exáudi nos, Dómine, quóniam benígna est misericórdia tua: secúndum multitúdinem miseratiónum tuárum réspice nos, Dómine. Salvum me fac, Deus: quóniam intravérunt aquæ usque ad ánimam meam. V. Glória Patri. Exáudi nos, Dómine, quóniam benígna est misericórdia tua: secúndum multitúdinem miseratiónum tuárum réspice nos, Dómine.
@@ -164,14 +160,3 @@ $Per Dominum [^21]
 [^8]: Emendémus in mélius, quæ ignoránter peccávimus: ne, subito præoccupáti die mortis, quærámus spátium pæniténtiæ, et inveníre non póssimus. Atténde, Dómine, et miserére: quia peccávimus tibi, Adiuva nos, Deus, salutáris noster: et propter honórem nóminis tui, Dómine, líbera nos. Atténde, Dómine, V. Glória Patri, et Fílio, et Spirítui Sancto. Atténde, Dómine.
 [^9]: Memento, homo, quia pulvis es, et in púlverem revertéris.
 [^10]: V. Dóminus vobíscum. R. Et cum spíritu tuo. Orémus. Concéde nobis, Dómine, præsídia milítiæ christiánæ sanctis inchoáre ieiúniis: ut, contra spiritáles nequítias pugnatúri, continéntiæ muniámur auxíliis. Per Christum, Dóminum nostrum. R. Amen.
-[^11]: *Sap 11:24 11:25; 11:27* Miseréris ómnium, Dómine, et nihil odísti eórum quæ fecísti, dissímulans peccáta hóminum propter pæniténtiam et parcens illis: quia tu es Dóminus, Deus noster. *Ps 56:2* Miserére mei, Deus, miserére mei: quóniam in te confídit ánima mea. V. Glória Patri. Miseréris ómnium, Dómine, et nihil odísti eórum quæ fecísti, dissímulans peccáta hóminum propter pæniténtiam et parcens illis: quia tu es Dóminus, Deus noster.
-[^12]: Orémus. Præsta, Dómine, fidélibus tuis: ut ieiuniórum veneránda sollémnia, et cóngrua pietáte suscípiant, et secúra devotióne percúrrant. Per Dominum.
-[^13]: Léctio Ioélis Prophétæ. *Ioel 2:12-19* Hæc dicit Dóminus: Convertímini ad me in toto corde vestro, in ieiúnio, et in fletu, et in planctu. Et scíndite corda vestra, et non vestiménta vestra, et convertímini ad Dóminum, Deum vestrum: quia benígnus et miséricors est, pátiens, et multæ misericórdiæ, et præstábilis super malítia. Quis scit, si convertátur, et ignóscat, et relínquat post se benedictiónem, sacrifícium et libámen Dómino, Deo vestro? Cánite tuba in Sion, sanctificáte ieiúnium, vocáte coetum, congregáte pópulum, sanctificáte ecclésiam, coadunáte senes, congregáte parvulos et sugéntes úbera: egrediátur sponsus de cubíli suo, et sponsa de thálamo suo. Inter vestíbulum et altare plorábunt sacerdótes minístri Dómini, et dicent: Parce, Dómine, parce pópulo tuo: et ne des hereditátem tuam in oppróbrium, ut dominéntur eis natiónes. Quare dicunt in pópulis: Ubi est Deus eórum? Zelátus est Dóminus terram suam, et pepércit pópulo suo. Et respóndit Dóminus, et dixit populo suo: Ecce, ego mittam vobis fruméntum et vinum et óleum, et replebímini eis: et non dabo vos ultra oppróbrium in géntibus: dicit Dóminus omnípotens. R. Deo gratias.
-[^14]: *Ps 56:2; 56:4* Miserére mei, Deus, miserére mei: quóniam in te confídit ánima mea. V. Misit de coelo, et liberávit me, dedit in oppróbrium conculcántes me.
-[^15]: *Ps 102:10* Dómine, non secúndum peccáta nostra, quæ fécimus nos: neque secúndum iniquitátes nostras retríbuas nobis. *Ps 78:8-9* Dómine, ne memíneris iniquitátum nostrarum antiquarum: cito antícipent nos misericórdiæ tuæ, quia páuperes facti sumus nimis. (Hic genuflectitur) V. Adiuva nos, Deus, salutáris noster: et propter glóriam nóminis tui, Dómine, libera nos: et propítius esto peccátis nostris, propter nomen tuum.
-[^16]: Sequéntia ✠ sancti Evangélii secúndum Matthaeum. *Matt 6:16-21* In illo témpore: Dixit Iesus discípulis suis: Cum ieiunátis, nolíte fíeri, sicut hypócritæ, tristes. Extérminant enim fácies suas, ut appáreant homínibus ieiunántes. Amen, dico vobis, quia recepérunt mercédem suam. Tu autem, cum ieiúnas, unge caput tuum, et fáciem tuam lava, ne videáris homínibus ieiúnans, sed Patri tuo, qui est in abscóndito: et Pater tuus, qui videt in abscóndito, reddet tibi. Nolíte thesaurizáre vobis thesáuros in terra: ubi ærúgo et tínea demólitur: et ubi fures effódiunt et furántur. Thesaurizáte autem vobis thesáuros in coelo: ubi neque ærúgo neque tínea demólitur; et ubi fures non effódiunt nec furántur. Ubi enim est thesáurus tuus, ibi est et cor tuum. R. Laus tibi, Christe!
-[^17]: *Ps 29:2-3* Exaltábo te, Dómine, quóniam suscepísti me, nec delectásti inimícos meos super me: Dómine, clamávi ad te, et sanásti me.
-[^18]: Fac nos, quǽsumus, Dómine, his munéribus offeréndis conveniénter aptári: quibus ipsíus venerábilis sacraménti celebrámus exórdium. Per Dominum.
-[^19]: *Ps 1:2 et 3.* Qui meditábitur in lege Dómini die ac nocte, dabit fructum suum in témpore suo.
-[^20]: Orémus. Percépta nobis, Dómine, praebeant sacraménta subsídium: ut tibi grata sint nostra ieiúnia, et nobis profíciant ad medélam. Per Dominum.
-[^21]: Orémus. Humiliáte cápita vestra Deo. Inclinántes se, Dómine, maiestáti tuæ, propitiátus inténde: ut, qui divíno múnere sunt refécti, coeléstibus semper nutriántur auxíliis. Per Dominum.
