@@ -29,7 +29,8 @@ EXCLUDE_SECTIONS = (
     'Tractus1',
     'Munda Cor Passionis',
     'GradualeF',
-    'Footnotes'
+    'Footnotes',
+    'Name'
 )
 EXCLUDE_SECTIONS_TITLES = (
     'Commemoratio Oratio',
@@ -369,5 +370,10 @@ PROPERS_INPUT = (
         ('Sancti/11-09.txt', 'Communis', None),
         ('Sancti/11-13pl.txt', 'Communis', None),
         ('Sancti/11-30.txt', 'Apostolis', None),
+        ('Tempora/C10.txt', 'Maria', None),
+        ('Tempora/C10a.txt', 'Maria', None),
+        ('Tempora/C10b.txt', 'Maria', None),
+        ('Tempora/C10c.txt', 'Maria', None),
+        ('Tempora/C10Pasc.txt', 'Maria', None),
     )
 )
