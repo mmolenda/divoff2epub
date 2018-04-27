@@ -106,7 +106,7 @@ class Divoff(object):
                     path_bit, _, _ = REFERENCE_REGEX.findall(ln)[0]
                     # Recursively read referenced file
                     nested_path = self._get_full_path(path_bit + '.txt', lang) if path_bit else partial_path
-                    d = self.parse_file(nested_path)
+                    d = self.parse_file(nested_path, lang=lang)
                     continue
 
                 ln = self._normalize(ln, lang)
@@ -123,7 +123,7 @@ class Divoff(object):
                             if path_bit:
                                 # Reference to external file - parse it recursively
                                 nested_path = self._get_full_path(path_bit + '.txt', lang) if path_bit else partial_path
-                                nested_content = self.parse_file(nested_path, lookup_section=nested_section)
+                                nested_content = self.parse_file(nested_path, lang=lang, lookup_section=nested_section)
                                 try:
                                     d[section].extend(nested_content[nested_section])
                                 except KeyError:
