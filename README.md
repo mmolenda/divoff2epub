@@ -12,7 +12,7 @@ Skrypt generuje Mszalik na niedziele i święta w formacie *epub* i *mobi* na po
 
 * Ściągnij repozytorium https://github.com/DivinumOfficium/divinum-officium
 * W pliku `consts.py` ustaw zmienną `DIVOFF_DIR` tak, aby wskazywała katalog z polskim tłumaczeniem Mszy
-* Uruchom skrypt `run.sh`, który wygeneruje plik `md/mszalik.md` oraz `mszalik.epub` i `mszlik.kindle`
+* Uruchom skrypt `divoff2epub.sh`, który wygeneruje plik `md/mszalik.md` oraz `mszalik.epub` i `mszlik.kindle`
 
 # Historia zmian
 
