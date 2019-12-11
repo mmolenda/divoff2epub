@@ -8,7 +8,7 @@ Opracowanie na podstawie Mszału Rzymskiego wyd. Pallotinum 1963 oraz DivinumOff
 
 Digitalizacja i opracowanie wydania elektronicznego: Agnieszka Molenda, Marcin Molenda.        
 
-Wersja 2.0 20180427    
+Wersja 2.1 20191211    
 kontakt: support@molenda.eu    
 
-Warszawa 2018
+Warszawa 2019
