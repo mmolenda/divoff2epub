@@ -5,7 +5,6 @@ TODO:
 * eundem/eundem w plikach zrodlowych
 """
 import contextlib
-import sys
 import re
 import os
 import argparse
@@ -13,7 +12,7 @@ from collections import OrderedDict
 from consts import DIVOFF_DIR, TRANSLATION, \
     TRANSLATION_MULTI, TRANSFORMATIONS, EXCLUDE_SECTIONS, EXCLUDE_SECTIONS_TITLES, \
     DIVOFF_DIR, PROPERS_INPUT, REFERENCE_REGEX, SECTION_REGEX, POLSKI, LATIN, MD_OUTPUT_DIR, THIS_DIR, \
-    FOOTNOTE_REF_REGEX, FOOTNOTE_REGEX
+    FOOTNOTE_REF_REGEX, FOOTNOTE_REGEX, MD_NEWLINE
 import logging
 import sys
 
@@ -148,7 +147,7 @@ class Divoff(object):
 
     def write_contents(self, out_path, contents_a, contents_b, in_partial_path='', pref='', comm='', stdout=False):
 
-        def _write_section(contents_a, section, lines_a, lines_b, fh):
+        def _write_section(contents_a, section, lines_a, lines_b, fh, md_newlines=True):
             fh.write('\n\n')
             if section not in EXCLUDE_SECTIONS_TITLES:
                 fh.write('### ' + translation.get(section, section) + '  \n')
@@ -160,14 +159,16 @@ class Divoff(object):
 
                 if i < len(lines_a):
                     # Newline after each line but last
-                    fh.write(line + '   \n')
+                    fh.write(line)
+                    fh.write(MD_NEWLINE if md_newlines else "\n")
                 else:
                     # Generate footnote out of respective Latin translation
                     if lines_b:
                         self.footnotes.append(' '.join(lines_b))
-                        fh.write(line + '[^{}]'.format(len(self.footnotes)) + '   \n')
+                        fh.write(line + '[^{}]'.format(len(self.footnotes)) + MD_NEWLINE)
                     else:
-                        fh.write(line + '   \n')
+                        fh.write(line)
+                        fh.write(MD_NEWLINE if md_newlines else "\n")
                 if section == 'Comment' and line.startswith('## ') and img_exists:
                     fh.write('\n<div style="text-align:center"><img src ="{}" /></div>\n\n'.format(img_path))
 
@@ -199,6 +200,13 @@ class Divoff(object):
 
                 lines_b = contents_b.get(section_a)
                 _write_section(contents_a, section_a, lines_a, lines_b, fh)
+
+            supplement_path = self._get_full_path(in_partial_path.replace('txt', 'supplement.md'), POLSKI)
+            if os.path.exists(supplement_path):
+                with open(supplement_path) as supplfh:
+                    log.info("Adding supplement for {}".format(supplement_path))
+                    lines = [i.strip() for i in supplfh.readlines()]
+                    _write_section({}, "Objaśnienia Ewangelii", lines, None, fh, md_newlines=False)
 
             if 'Ordo' not in in_partial_path:
                 fh.write('■\n')
