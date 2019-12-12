@@ -1,11 +1,11 @@
 
-\(1\) *Były gody małżeńskie w Kanie Galilejskiej.* O małżeństwie mówi
-św. Paweł Apostoł: *Sakrament to wielki jest; a ja mówię w Chrystusie
-i Kościele.* Tak P. Jezus postanowił, tak też zostanie aż do końca
+\(1\) «Były gody małżeńskie w Kanie Galilejskiej.» O małżeństwie mówi
+św. Paweł Apostoł: «Sakrament to wielki jest; a ja mówię w Chrystusie
+i Kościele.» Tak P. Jezus postanowił, tak też zostanie aż do końca
 świata. Tego zaś, co Chrystus Pan postanowił, nikt w świecie zmienić nie
 może. Jeżeli więc tu i ówdzie wydano ustawę, że można poprzestać
 na ślubie cywilnym, jest to najzupełniejszą nieprawdą, przeciwną Bogu
-i Kościołowi świętemu; a jeżeliby ktoś *„cywilne"* tylko małżeństwo
+i Kościołowi świętemu; a jeżeliby ktoś «cywilne» tylko małżeństwo
 zawarł, grzeszy i tak długo w grzechu śmiertelnym zostaje, póki się
 z tego nie wyspowiada i nie naprawi źle zawartego małżeństwa w sposób
 przez Kościół przepisany.
@@ -49,36 +49,36 @@ rozejść bez grzechu niepodobna. Małżeństwo jest nierozerwalne, jest
 zobowiązaniem na całe życie; tem więcej przeto potrzeba do niego pomocy
 Boga i Najśw. Panny.
 
-\(3\) *Była tam Matka Jezusowa; wezwan też był Jezus i uczniowie Jego.*
+\(3\) «Była tam Matka Jezusowa; wezwan też był Jezus i uczniowie Jego.»
 Widocznie nie masz nic w tem złego, zabawić się czasem uczciwie i więcej
 niż w dzień powszedni używać darów Bożych. Rozważ jednak, że wesele
 to odbywało się w domu, a nie w karczmie albo w domu zajezdny. Dalej nie
 było tam marnotrawstwa, a całe wesele odbywało się w obecności P. Jezusa
 i Matki Najświętszej. Więc zabawić się można, byle to nie było zbyt
-często, w miejscu i otoczeniu uczciwem, -- bez wielkiego kosztu, a nade
+często, w miejscu i otoczeniu uczciwem, – bez wielkiego kosztu, a nade
 wszystko tak, aby nie tracić pamięci na obecność wszystko widzącego
 i słyszącego Boga.
 
-\(4\) *Nie stawało wina,* nie jakoby go używano bezmiary, ale ponieważ
+\(4\) «Nie stawało wina,» nie jakoby go używano bezmiary, ale ponieważ
 nowożeńcy nie byli bogaci. Matce Najśw. żal ich i radaby im oszczędzić
 zawstydzenia, że sprosili gości, a nie mają ich czem uraczyć. Zna Ona
 Serce Syna swego, zna Boską moc Jego, więc prosząc, przedkłada mu ich
 położenie, ale ani słowa nie dodaje, w jaki sposób ma zaradzić
 niedostatkowi. W taki sam sposób prosiły później dwie siostry Łazarzowe,
-donosząc P. Jezusowi: *Panie, oto którego miłujesz, choruje.*
+donosząc P. Jezusowi: «Panie, oto którego miłujesz, choruje.»
 Powściągliwość ta wskazuje, że kto tak prosi, ten dobrze wie, iż
 P. Jezus nie potrzebuje naszych wskazówek, jak ma nas poratować. Najśw.
 Panna otrzymuje na pozór odmowną odpowiedź, ale się nie zraża tem, bo
 wie, że nie dozna zawodu, kto zaufał w P. Jezusie. Idzie do służby
-i mówi jej: *cokolwiek wam rzecz, czyńcie.* Możemy z tego wnosić,
+i mówi jej: «cokolwiek wam rzecz, czyńcie.» Możemy z tego wnosić,
 że może słudzy pierwsi oznajmili Jej o braku wina. Oto też główny
 warunek, który trzeba spełnić, jeśli chcemy, żeby Matka Najśw. prośby
-i potrzeby nasze skutecznie polecała Sercu Syna swego: *cokolwiek wam
-rzecze, czyńcie.* Bo jeżeli my nie jesteśmy gotowi słuchać Najśw. Panny
+i potrzeby nasze skutecznie polecała Sercu Syna swego: «cokolwiek wam
+rzecze, czyńcie.» Bo jeżeli my nie jesteśmy gotowi słuchać Najśw. Panny
 i P. Jezusa, jakże możemy pragnąć, żeby oni nas wysłuchali?
 
-\(5\) *Było tam sześć stągiew ... biorących się każda dwa albo trzy
-wiadra.* Wiadra ówczesne obejmowały około trzydziestu litrów
+\(5\) «Było tam sześć stągiew ... biorących się każda dwa albo trzy
+wiadra.» Wiadra ówczesne obejmowały około trzydziestu litrów
 dzisiejszych. P. Jezus kazał je napełnić wodą. Niejeden z nas, gdyby był
 tam obecnym a usłyszał cichą prośbę Matki i rozkaz Syna, byłby może
 z przekąsem pomyślał: Tu wina potrzeba, a On wodę każe nosić. Boć nie
@@ -86,7 +86,7 @@ brak podobno takich, co każde zrządzenie Opatrzności Bożej mierzą
 i krytykują krótkim swoim rozumem. Ale gdzie jest obecny Jezus i Matka
 Jego, tam chyba zatwardziałe i faryzejskie serca odważyłyby się na takie
 i podobne szemrania. Słudzy, choć musieli około pięćset litrów wody
-przynieść, ochotnie *napełnili stągwie aż do wierzchu* i zaczerpnąwszy
+przynieść, ochotnie «napełnili stągwie aż do wierzchu» i zaczerpnąwszy
 na rozkaz P. Jezusa donieśli do starosty weselnego. Jakież było ich
 zdumienie, a zarazem jaka radość, kiedy od tej wody, którą własnemi
 rękami byli przynieśli, zaleciał ich zapach wina, potem usłyszeli
@@ -107,8 +107,9 @@ ich ten dobry uczynek wynagrodzi. Radbyś P. Jezusa w domu swoim ugościć,
 ugość sieroty, ugaszczaj ubogich, a ugościsz w nich P. Jezusa, i obfitą
 weźmiesz nagrodę.
 
-\(6\) *Ten początek cudów uczynił Jezus w Kanie Galilejskiej: i okazał
-chwałę swą, i uwierzyli weń uczniowie Jego.* Uwierz i ty, zaufaj Mu,
+\(6\) «Ten początek cudów uczynił Jezus w Kanie Galilejskiej: i okazał
+chwałę swą, i uwierzyli weń uczniowie Jego.» Uwierz i ty, zaufaj Mu,
 kochaj i wychwalaj Go sercem, słowem i uczynkiem.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

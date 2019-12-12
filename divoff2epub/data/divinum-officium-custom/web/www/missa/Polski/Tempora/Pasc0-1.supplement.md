@@ -1,8 +1,8 @@
 
 \(1\) Na przykładzie uczniów idących do Emmaus doskonale widzimy, jakie
 zwątpienie i przygnębienie ogarnęło apostołów i uczniów po śmierci Pana
-na krzyżu. *Myśmy się spodziewali,* mówią, *iż On miał był odkupić
-Izraela.* Spodziewaliśmy się, a więc jakby chcieli powiedzieć: ale teraz
+na krzyżu. «Myśmy się spodziewali,» mówią, «iż On miał był odkupić
+Izraela.» Spodziewaliśmy się, a więc jakby chcieli powiedzieć: ale teraz
 już się niczego nie spodziewamy, nadzieja nasza spełzła na niczem.
 A choć już coś posłyszeli o zmartwychwstaniu Pańskiem, to im się
 w głowie pomieścić nie chciało; bo któż kiedy słyszał, żeby umarły
@@ -15,8 +15,8 @@ Zmartwychwstania, bo nie rozumieli tajemnicy krzyża.
 \(2\) Z tem wszystkiem uczniowie ci nie przestali kochać P. Jezusa,
 o Nim myśleć i mówić. Ale i P. Jezus nawzajem nie przestał o nich dbać.
 Spólna ku P. Jezusowi miłość sprawiła, że razem ze sobą odbywają drogę
-i o Panu rozmawiają, więc i Pan dotrzymuje im obietnicy swojej: *Gdzie
-są dwaj albo trzej zgromadzeniu w Imię moje, tamem jest pośrodku nich.*
+i o Panu rozmawiają, więc i Pan dotrzymuje im obietnicy swojej: «Gdzie
+są dwaj albo trzej zgromadzeniu w Imię moje, tamem jest pośrodku nich.»
 Oby chcieli pamiętać na tę obietnicę i zapowiedź wszyscy, co są
 zgromadzeniu w Imię Pańskie, tzn. z woli Pańskiej. Mąż i żona, rodzice
 i dzieci w jedno są złączeni w Imię Pańskie, więc Pan pośrodku nich.
@@ -25,33 +25,33 @@ ustawicznie jest obecny; a jakimże prawem się dzieje, że tak często mąż
 żonę znieważa, a żona mężowi dokucza; dzieci zaś nauczywszy się od ojca
 własnego nie szanować matki, a od matki rodzonej nie słuchać ojca,
 zamiast czcić rodziców, stają się dla nich w najsmutniejszem tego słowa
-znaczeniu *„skaraniem Pańskiem"*. W Imię Pańskie, bo w imię obowiązku
+znaczeniu «skaraniem Pańskiem». W Imię Pańskie, bo w imię obowiązku
 przez Opatrzność Bożą na nich włożonego, gromadzą się ludzie do wspólnej
 pracy po biurach, fabrykach i warsztatach, gromadzą się w polu i po
 domach a więc P. Jezus w pośrodku nich; mimo to jakaż tam nieraz obraza
 Boża, kłótnie, rozmowy, najohydniejsze, obmowy, krytykowania
 przełożonych, narzekania itp.
 
-\(3\) Na dwie szczególnie rzeczy zwraca Pan Jezus uwagę: *Co to są
-za rozmowy, jakie macie między sobą i jesteście smętni?* Na rozmowy; bo
+\(3\) Na dwie szczególnie rzeczy zwraca Pan Jezus uwagę: «Co to są
+za rozmowy, jakie macie między sobą i jesteście smętni?» Na rozmowy; bo
 jeżeli z każdego słowa próżnego przyjdzie nam zdać liczbę na sądzie
 Bożym, cóż dopiero czeka nas za tyle obmów i plotek, za tyle przezwisk
 i przekleństw, za tyle kłamstw i wykrętów, a najgorzej za tyle słów,
 żartów i gadania niewstydliwego, o którym to występku mówi Pismo św.:
-*porubstwo i wszelka nieczystość niechaj nie będzie ani pomieniona
-między wami, jako przystoi świętym.* Oj, ciężko i bardzo ciężko będzie
+«porubstwo i wszelka nieczystość niechaj nie będzie ani pomieniona
+między wami, jako przystoi świętym.» Oj, ciężko i bardzo ciężko będzie
 na sądzie Bożym tym, którzy żarty i śmiechy sobie stroją, z grzechu
 tego, za który podobno najwięcej ludzi idzie na wieczne potępienie.
 A smutek? Czem rdza dla żelaza, tem smutek dla duszy. Niepodobnać
 sprawić, żeby nigdy smutek nas nie napadał, kiedy i P. Jezusa ogarnął
 w ogrojcu. Ale ręce złożyć i beznadziejnie poddawać się, albo nawet
-niejako hodować smutek -- rzecz jest niepożyteczna i szkodliwa.
+niejako hodować smutek – rzecz jest niepożyteczna i szkodliwa.
 Niepożyteczna, bo tem, że się smucisz, przyczyny smutku nie usuniesz; co
 się stało, nie odstanie się; szkodliwa zaś, bo smutek dobrowolny
 utrudnia zarówno pracę, jak i modlitwę, a tem samem niesłychanie łatwo
 naraża na rozmaite pokusy.
 
-\(4\) *O głupi leniwego serca,* mówi P. Jezus uczniom, i nic tem nie
+\(4\) «O głupi leniwego serca,» mówi P. Jezus uczniom, i nic tem nie
 ujmuje ani łaskawości, ani cichości serca swego. Bo też cichość
 i słodycz serca bynajmniej nie są ślamazarnością, ani niedołęstwem.
 Ktokolwiek dzierży władzę, czyli jest przełożonym, nie może zawsze
@@ -68,16 +68,16 @@ Bożemu, a zarazem też skutecznie powiesz albo i uczynisz, coś powiedzieć
 albo uczynić powinien.
 
 \(5\) Wielkie słowo wypowiada P. Jezus w dzisiejszej Ewangelii:
-*Potrzeba było, aby to był cierpiał Chrystus i tak wszedł do Chwały
-swojej.* Chwała P. Chrystusowa na tem polega i stąd płynie, że odkupił
+«Potrzeba było, aby to był cierpiał Chrystus i tak wszedł do Chwały
+swojej.» Chwała P. Chrystusowa na tem polega i stąd płynie, że odkupił
 rodzaj ludzki i stał się początkiem i sprawcą naszego zbawienia. Według
 odwiecznych wyroków Bożych tak było postanowione, że przez Krzyż i Mękę
 Swoją miał P. Jezus odkupić świat, więc dlatego było potrzeba, aby
 to wszystko cierpiał. Ale ponieważ, według słów św. Augustyna P. Jezus
 stworzył nas bez nas, ale nie zbawi nas bez naszego z Nim spółdziałania,
 dlatego potrzeba też, abyśmy i my współcierpieli z P. Jezusem. I dlatego
-wyraźnie mówi Pismo św. i jest to jednym z artykułów Wiaty, *iż przez
-wiele ucisków trzeba nam wnijść do Królestwa Bożego*. Mimo to nie
+wyraźnie mówi Pismo św. i jest to jednym z artykułów Wiaty, «iż przez
+wiele ucisków trzeba nam wnijść do Królestwa Bożego». Mimo to nie
 umiemy, ani nawet nie chcemy oswoić się potrzebą cierpienia. Niech kogo
 najmniejsza spotka przeciwność, zdaje mu się to być jakąś rzeczą
 nadzwyczajną i niesłychaną. I narzeka na siebie i dolę swoją
@@ -91,4 +91,5 @@ grzechu przestała być rajem, zawsze i dla każdego pozostanie padołem
 płaczu, że nie masz kącika bez krzyżyka, że każdy ma i musi mieć swego
 mola, który go gryzie.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

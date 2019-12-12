@@ -8,7 +8,7 @@ Kościół św. skrócił nam czas postu, ale chce, żebyśmy te dwa tygodnie,
 Wielki post poprzedzające, uważali za czas przygotowania się
 do rozpamiętywania Męki Pańskiej i do pokuty przedwielkanocnej. Dlatego
 z dniem dzisiejszym przestaje Kościół w modlitwach kapłańskich używać
-wesołego *„Alleluja"*. Zupełnie w duchu Kościoła odbywają się w tym
+wesołego «Alleluja». Zupełnie w duchu Kościoła odbywają się w tym
 czasie po wielu miejscach czterdziestogodzinne nabożeństwa;
 ale przeciwnem zupełnie myśli Kościoła jest to, niestety tak bardzo
 rozpowszechnione, przemienianie zapust w prawdziwą rozpustę.
@@ -37,12 +37,12 @@ ma drugie jeszcze znaczenie, do każdego z nas się odnoszące, mianowicie,
 że łaska powołania i wszelkie inne łaski nie stanowią jeszcze wybrania
 do nieba, ale na to potrzeba pilnie i wytrwale aż do końca współdziałać
 z tąż łaską. Ponieważ zaś wszyscy na świat przychodzący są powołani, bo
-Bóg chce, *aby wszyscy ludzie byli zbawieni i przyszli ku uznaniu
-prawdy,* ale mało stosunkowo jest tych, którzy by z wolą Bożą
+Bóg chce, «aby wszyscy ludzie byli zbawieni i przyszli ku uznaniu
+prawdy,» ale mało stosunkowo jest tych, którzy by z wolą Bożą
 współpracowali, dlatego kończy P. Jezus przypowieść swoją temi
-słowy: *wiele jest wezwanych, ale mało wybranych*. Powinniśmy przeto
-przyjmować pilnie napomnienia św. Pawła: *z bojaźnią i ze drżeniem
-zbawienie wasze sprawujcie.*
+słowy: «wiele jest wezwanych, ale mało wybranych». Powinniśmy przeto
+przyjmować pilnie napomnienia św. Pawła: «z bojaźnią i ze drżeniem
+zbawienie wasze sprawujcie.»
 
 \(4\) Objaśnię najprzód pewne szczegóły przypowieści, a potem zwrócę
 uwagę na niektóre ważniejsze nauki w niej zawarte. W Ziemi świętej aż
@@ -64,28 +64,28 @@ naszej piątej po południu.
 i bliskich. Do tej dwojakiej pracy wszyscy bez wyjątku, od pierwszej
 chwili używania rozumu są powołani i obowiązani; do pierwszej pracy,
 tj. około zbawienia własnego powołuje nas Bóg onemi słowy
-św. Pawła: *z bojaźnią i ze drżeniem zbawienie wasze sprawujcie,* --
+św. Pawła: «z bojaźnią i ze drżeniem zbawienie wasze sprawujcie,» –
 do drugiej, czyli około zbawienia drugich, słowami Eklezjastyka:
-P. Bóg* każdemu z osobna dał rozkazanie o bliskim swoim.* Toć praca jest
+P. Bóg «każdemu z osobna dał rozkazanie o bliskim swoim.» Toć praca jest
 najważniejsza, a nawet jedyna i niezbędnie potrzebna, bo P. Jezus
-powiedział do Marty: *Marto, Marto, troszczysz się i frasujesz około
-bardzo wiela, ale jednego potrzeba.* Wszelka praca około naszego
+powiedział do Marty: «Marto, Marto, troszczysz się i frasujesz około
+bardzo wiela, ale jednego potrzeba.» Wszelka praca około naszego
 i bliźnich powiedzenia ziemskiego podrzędne tylko ma znaczenie; doczesne
 bowiem tylko i przemijające korzyści przez tę pracę zdobyć
-możemy, *a cóż pomoże człowiekowi, jeśliby wszystek świat zyskał, a na
-duszy swej szkodę podjął?* Nie potrafi drugim dopomagać do zbawienia,
-kto nie dba o swoje własne; bo, jak mówi łacińskie przysłowie: *„kto
-sobie jest złym, komuż dobrym będzie?"* Praca nad sobą polega głównie
-na tych rzeczach: 1) Staraj się poznać P. Boga i prawdę Jego; bo *ten
+możemy, «a cóż pomoże człowiekowi, jeśliby wszystek świat zyskał, a na
+duszy swej szkodę podjął?» Nie potrafi drugim dopomagać do zbawienia,
+kto nie dba o swoje własne; bo, jak mówi łacińskie przysłowie: «kto
+sobie jest złym, komuż dobrym będzie?» Praca nad sobą polega głównie
+na tych rzeczach: 1) Staraj się poznać P. Boga i prawdę Jego; bo «ten
 jest żywot wieczny, aby poznali Ciebie samego, Boga prawdziwego
-i któregoś posłał Jezusa Chrystusa.* Bez należytej znajomości wiary św.,
+i któregoś posłał Jezusa Chrystusa.» Bez należytej znajomości wiary św.,
 czyli katechizmu, nie może być mowy o jakiejkolwiek rozumnej pracy około
 własnego lub bliźnich zbawienia. 2) Potrzeba przestrzegać przykazań
 Bożych i kościelnych, a chronić się grzechu, czyli jak mówi Apostoł,
-potrzeba *abyśmy zaprzawszy się niepobożności i świeckich pożądliwości,
+potrzeba «abyśmy zaprzawszy się niepobożności i świeckich pożądliwości,
 trzeźwie i sprawiedliwie i pobożnie żyli na tym świecie, oczekiwając
 błogosławionej nadziei i przyjścia chwały wielkiego Boga i Zbawiciela
-naszego Jezusa Chrystusa.* 3) Ponieważ ani pierwszego ani drugiego nie
+naszego Jezusa Chrystusa.» 3) Ponieważ ani pierwszego ani drugiego nie
 zdolniśmy dokazać o własnych przyrodzonych siłach, ale potrzebujemy
 do tego łaski Bożej, łaskę zaś czerpiemy z św. Sakramentów, potrzeba,
 abyśmy pilni byli w przyjmowaniu tych Sakramentów i w gotowaniu się
@@ -93,16 +93,16 @@ do nich.
 
 \(6\) Podrzędną wprawdzie, w porównaniu z pracą około zbawienia, jest
 wszelka inna praca około rzeczy doczesnych, a jednak i ona jest
-koniecznie potrzebna: *bo człowiek się rodzi na pracę, a ptak
-na latanie.* W raju nawet chciał P. Bóg, aby człowiek uprawiał ziemię;
+koniecznie potrzebna: «bo człowiek się rodzi na pracę, a ptak
+na latanie.» W raju nawet chciał P. Bóg, aby człowiek uprawiał ziemię;
 po utracie zaś raju dał mu za pokutę pracę i to ciężką a często
 niewdzięczną. Bez pracy i najlepszy człowiek nie tylko zgnuśnieje,
 ale psuć się poczyna; bo jak mówi Pismo św., a potwierdza
-doświadczenie: *wielkiej złości nauczyło próżnowanie.* Dzieci nawet, nie
+doświadczenie: «wielkiej złości nauczyło próżnowanie.» Dzieci nawet, nie
 zdolne jeszcze do pracy, jeśli nie mają odpowiedniego zajęcia, albo
 przynajmniej zabawy, z samych nudów uczą się złego i popadają
 w najgorsze nieraz grzechy. Dlatego to w dzisiejszej przypowieści
-gospodarz upomina: *Co tu stoicie cały dzień próżny?* Wglądnijże każdy
+gospodarz upomina: «Co tu stoicie cały dzień próżny?» Wglądnijże każdy
 w sumienie swoje, czy i do ciebie nie stosuje się to pytanie: Czemuż
 całemi dniami, albo przynajmniej godzinami stoisz lub wałęsasz się
 próżnujący? Bywają też tacy, co to niby pracują, a jednak w samej rzeczy
@@ -116,10 +116,10 @@ uczciwą, którą im też rzetelnie wypłacono; ale spostrzegłszy się,
 że inni, co krócej od nich pracowali, taką samą otrzymali zapłatę,
 roszczą sobie prawo, że powinni dostać więcej, niż się byli zgodzili.
 I zamiast powiedzieć sobie: dobry to pan, że i tym, którzy ani pół dnia
-nie pracowali, za cały dzień płaci, -- szemrzą przeciw gospodarzowi
-i zuchwale mu przyganiają, mówiąc: *ci ostatni jedną godzinę robili,
+nie pracowali, za cały dzień płaci, – szemrzą przeciw gospodarzowi
+i zuchwale mu przyganiają, mówiąc: «ci ostatni jedną godzinę robili,
 a uczyniłeś je równymi nam, którzyśmy nieśli ciężar dnia
-i upalenia.* Wierutna to zazdrość z nich przemawia, a nie poczucie
+i upalenia.» Wierutna to zazdrość z nich przemawia, a nie poczucie
 sprawiedliwości i słuszności. W naszych czasach nie brak nie tylko
 pomiędzy robotnikami, ale i gdzie indziej takich, którzy wiecznie i na
 wszystko narzekają, a nigdy nie są zadowoleni. Zwykli się powoływać
@@ -131,4 +131,5 @@ w dzisiejszej ewangelii, choć im umówioną zapłatę dają, o równości
 wiedzieć nie chcą; narzekają, że krzywda im się dzieje, i że nie ma
 sprawiedliwości na świecie.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

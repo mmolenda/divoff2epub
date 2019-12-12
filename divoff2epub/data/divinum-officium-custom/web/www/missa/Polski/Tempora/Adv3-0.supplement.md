@@ -1,5 +1,5 @@
 
-\(1\) *Posłali Żydowie z Jeruzalem Kapłany i Lewity do Jana*. Żydowie
+\(1\) «Posłali Żydowie z Jeruzalem Kapłany i Lewity do Jana». Żydowie
 w Jeruzalem, rozumie się, że niektórzy bądź, ale ci, co zasiadali
 w najwyższej radzie, w t. zw. Sanhedrynie, a zatem Arcykapłani, uczeni
 w Piśmie i książęta narodu. Tak głośnym był św. Jan Chrzciciel, że choć
@@ -21,7 +21,7 @@ do obowiązku, postanowił dochodzić prawdy i w tym celu wysłał do Jana
 św. urzędowe poselstwo z zapytaniem, kim jest i jakiem prawem chrzci
 i nawołuje do pokuty.
 
-\(2\) *Ktoś ty jest?* pytają kapłani i Lewici, spełniając wiernie dane
+\(2\) «Ktoś ty jest?» pytają kapłani i Lewici, spełniając wiernie dane
 sobie polecenie. Prawdopodobnie dodali także, o czem Pismo św. nie
 wspomina: czyś ty Chrystus, za którego wielu uczniów twoich cię ma; albo
 czyś Enoch, (który ma poprzedzić drugie przyjście Chrystusa na sąd,
@@ -34,25 +34,25 @@ chcą też, żeby ich kto miał za coś lepszego lub większego, niżeli są
 w oczach Bożych i własnych; dlatego nie bywają ani zarozumiali, ani
 chciwi i pochwał ludzkich. Tak N. Panna, Królowa wszystkich Świętych,
 nie wynosi się z powodu zwiastowania, że będzie Matką Boga i ma na to tę
-tylko odpowiedź: *oto ja służebnica Pańska*. Św. Paweł mówi o sobie:
-*choćbym się chciał przechwalać, nie będę głupim; bo prawdę powiem, lecz
+tylko odpowiedź: «oto ja służebnica Pańska». Św. Paweł mówi o sobie:
+«choćbym się chciał przechwalać, nie będę głupim; bo prawdę powiem, lecz
 folguję, żeby kto o mnie nie rozumiał więcej nad to, co widzi we mnie,
-nie rozumiał więcej nad to, co widzi we mnie, albo co słyszy ode mnie.*
-P. Jezus wszystkim zaleca: *gdy uczynicie wszystko, co wam rozkazano,
+nie rozumiał więcej nad to, co widzi we mnie, albo co słyszy ode mnie.»
+P. Jezus wszystkim zaleca: «gdy uczynicie wszystko, co wam rozkazano,
 mówcie: słudzy niepożyteczni jesteśmy, cośmy winni byli uczynić,
-uczyniliśmy.* Podobnież i Jan św. Chrzciciel nie myśli korzystać
+uczyniliśmy.» Podobnież i Jan św. Chrzciciel nie myśli korzystać
 z przesadnych przypuszczeń ludzkich, raczej dziwi się im i z wszelką
-stanowczością zaprzecza: *że nie jest Chrystusem, ani Eljaszem, ani
-prorokiem.*
+stanowczością zaprzecza: «że nie jest Chrystusem, ani Eljaszem, ani
+prorokiem.»
 
-\(3\) *Ktoś ty jest?* niechaj każdy zapyta sam siebie, żeby się
-dokładnie znać i należycie ocenić. Kim jesteś? -- stworzeniem Bożem,
+\(3\) «Ktoś ty jest?» niechaj każdy zapyta sam siebie, żeby się
+dokładnie znać i należycie ocenić. Kim jesteś? – stworzeniem Bożem,
 zawdzięczającem wszystko, czem jesteś i co posiadasz jedynie Bogu.
-Dobrze o tem mówi Apostoł: *cóż masz czegoś nie wziął* od Boga,
-*a jeśliżeś wziął, przeczże się chlubisz, jakobyś nie wziął?*
+Dobrze o tem mówi Apostoł: «cóż masz czegoś nie wziął» od Boga,
+«a jeśliżeś wziął, przeczże się chlubisz, jakobyś nie wziął?»
 We wszystkiem zależny jesteś od Boga, dlaczego tedy tak swobodnie
-i dowolnie sobą rozporządzasz, jakbyś jedynie od siebie zależał? *Ktoś
-ty jest?* Jesteś człowiekiem, tzn. istotą rozumem i wolną wolą
+i dowolnie sobą rozporządzasz, jakbyś jedynie od siebie zależał? «Ktoś
+ty jest?» Jesteś człowiekiem, tzn. istotą rozumem i wolną wolą
 obdarzoną, a zatem też za czyny, słowa i myśli swoje odpowiedzialną.
 Czemuż tedy w całem postępowaniu twojem tak mało bywa rozumnego
 zastanowienia się, a tak wiele powodowanie się chwilowem widzimisię,
@@ -61,7 +61,7 @@ chciwości itp. Czemu, zamiast używać wolnej swojej woli, jesteś
 niewolnikiem nałogów twoich, np. opilstwa, lenistwa, ciekawości,
 plotkarstwa, swarliwości itd.? A jakże za to wszystko odpowiesz
 przed własnem sumieniem, przed ludźmi, a co najważniejsza, przed samym
-Panem Bogiem? *Kto ty jesteś?* Tu na ziemi i do czasu jesteś ojcem albo
+Panem Bogiem? «Kto ty jesteś?» Tu na ziemi i do czasu jesteś ojcem albo
 matką, córką albo synem, panem albo sługą, bogatym albo ubogim, uczonym
 albo prostakiem, kupcem, rzemieślnikiem, zarobnikiem itd. itd. Ale czy
 tem, czem jesteś, jesteś należycie? Czy jesteś dobrym ojcem? matką?
@@ -71,7 +71,7 @@ synem? panem? sługą? itd.
 mówił, skoro z daleka i z urzędu przychodzą go pytać, kimby był; bo nie
 sądził, aby warto było ludziom mówić o sobie, kiedy miał im tyle ważnych
 i potrzebnych rzeczy do powiedzenia o Bogu, o królestwie Bożem,
-o pokucie i zbawieniu. Mówi P. Jezus: *z obfitości serca usta mówią*;
+o pokucie i zbawieniu. Mówi P. Jezus: «z obfitości serca usta mówią»;
 kto lubi wiele mówić i rozpowiada o sobie, u tego serce tak dalece pełne
 jest miłości własnej, iż mu się zdaje, że dla ludzi nic nie masz
 ciekawszego ani pożyteczniejszego, jak słuchać i dowiadywać się o nim:
@@ -84,16 +84,16 @@ ostatecznym tak samo oszuka, jak oszukał ludzi na ziemi? Ktokolwiek
 jesteś samochwalcą, przestań tą brzydką wadą twoją nudzić ludzi,
 szkodzić sobie, obrażać P. Boga.
 
-\(5\) Wysłańcy Sanhedrynu nastają na Jana św.: *Ktoś, jest, żebyśmy dali
+\(5\) Wysłańcy Sanhedrynu nastają na Jana św.: «Ktoś, jest, żebyśmy dali
 odpowiedź tym, którzy nas posłali? Co powiadasz sam o sobie? ... Czemuś
-tedy chrzcisz, jeśliżeś ty nie jest Chrystus, ani Eljasz, ani Prorok?*
+tedy chrzcisz, jeśliżeś ty nie jest Chrystus, ani Eljasz, ani Prorok?»
 Jest czego się uczyć od tych wysłańców, którym widocznie zależy na tem,
 żeby dojść prawdy, nie tylko jako tylko powierzchownie, ale gruntownie
 i jasno. Obyś i ty chciał dbać więcej o to, żeby wszelką prawdę,
 zwłaszcza odnoszącą się do twego zbawienia, poznać nie pobieżnie,
 ale dokładnie, taką jaką ją Bóg objawił i przez Kościół św. do wierzenia
-podaje. Pomiędzy uczonymi i uchodzącymi za wykształconych jak mało --
-niestety -- bywa gruntownej znajomości, już nie mówię wszystkich prawd
+podaje. Pomiędzy uczonymi i uchodzącymi za wykształconych jak mało –
+niestety – bywa gruntownej znajomości, już nie mówię wszystkich prawd
 Bożych, ale choćby tylko najprostszych zasad katechizmu? Wielu z nich,
 dziećmi będąc, jaśniejsze mieli pojęcie o prawdach świętych
 i rozstrzygających o wieczności naszej, niż mają teraz, kiedy już
@@ -106,35 +106,36 @@ prawie nic nie wiedzą nawet o sześciu prawdach, które każdy
 Chrześcijanin pod utratą zbawienia obowiązany jest znać i wierzyć, skoro
 bez ich znajomości nikomu niepodobna otrzymać ważnego na spowiedzi
 rozgrzeszenia. Jak temu zaradzić? Pilnem i uważnem słuchaniem słowa
-Bożego; mówi Jan św. Ewangelista, że *kto zna Boga, słucha nas, kto nie
-jest z Boga, nie słucha nas; stąd znamy ducha prawdy i ducha błędu.*
+Bożego; mówi Jan św. Ewangelista, że «kto zna Boga, słucha nas, kto nie
+jest z Boga, nie słucha nas; stąd znamy ducha prawdy i ducha błędu.»
 Zaradzić temu może przynajmniej po części czytanie książek pobożnych,
 a przez władzę duchowną pochwalonych. Ale ktokolwiek słucha czy czyta
 o rzeczach Bożych, powinien szczerze szukać prawdy Bożej, aby ją poznać
-i zachować; bo nie mamy być *słuchaczami tylko słowa Bożego,
-ale czynicielami ,* jak naucza św. Jakób Apostoł.
+i zachować; bo nie mamy być «słuchaczami tylko słowa Bożego,
+ale czynicielami ,» jak naucza św. Jakób Apostoł.
 
-\(6\) *Jam głos wołającego na puszczy.* Jan św. słusznie zwie się
-*głosem* Boga, powołującego nas z pustyni i od marności tego świata
-do pokuty. Był On rzeczywiście *głosem*, bo nie tylko usta jego,
+\(6\) «Jam głos wołającego na puszczy.» Jan św. słusznie zwie się
+«głosem» Boga, powołującego nas z pustyni i od marności tego świata
+do pokuty. Był On rzeczywiście «głosem», bo nie tylko usta jego,
 ale cały tryb życia, ubranie, pożywienie, samotność, szczerość
 i prostota, wszystko w nim głośniej, niż wszelkie słowa, nawoływało
-ludzi do Boga, do pokuty. *Prostujcie drogę Pańską, jako powiedział
-Izajasz Prorok.* Oto słowa Izajasza, objaśniającego nam, co to znaczy
-prostować drogę Pańską: *Niech opuści złośnik drogę swoją, a mąż
+ludzi do Boga, do pokuty. «Prostujcie drogę Pańską, jako powiedział
+Izajasz Prorok.» Oto słowa Izajasza, objaśniającego nam, co to znaczy
+prostować drogę Pańską: «Niech opuści złośnik drogę swoją, a mąż
 nieprawy myśli swoje, i niech się nawróci do Pana, a zmiłuje się
-nad nim, i do Boga naszego, bo hojny jest ku odpuszczeniu.* Kto pragnie,
+nad nim, i do Boga naszego, bo hojny jest ku odpuszczeniu.» Kto pragnie,
 żeby Pan nasz w jego narodził się sercu i założył tam królestwo swoje,
 ten musi usłuchać tego napomnienia. Dobrze to rozumieli dawni ojcowie
 nasi i zostawili nam zwyczaj, po dziś dzień jeszcze się utrzymujący,
 że w Adwencie podobnie jak i w czasie wielkanocnym ludzie, co poczciwsi,
 poczuwają się do obowiązku spowiedzi świętej.
 
-\(7\) *W pośrodku nas stanął, którego wy nie znacie. Ten jest, który za
+\(7\) «W pośrodku nas stanął, którego wy nie znacie. Ten jest, który za
 mną przyjdzie, który przede mną stał się, któregom ja nie godzien, żebym
-rozwiązał rzemyk u trzewika Jego.* Oto wyraźne świadectwo, jakie wobec
+rozwiązał rzemyk u trzewika Jego.» Oto wyraźne świadectwo, jakie wobec
 żydów daje św. Jan Chrzciciel o posłannictwie i o Bóstwie Chrystusa
 Pana. Mimo to nie uwierzyli, że Mesjasz już przyszedł, bo nie chcieli
 prostować drogi Pańskiej do serc swoich i złe były ich uczynki.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

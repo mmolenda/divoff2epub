@@ -11,7 +11,7 @@ więc, że i książęta i bogaci, a nie sami tylko ludzie biednego stanu
 cierpią ciężkie dolegliwości, a P. Jezus ich bynajmniej nie opuszcza,
 chociaż bardziej kocha ubogich i maluczkich. I księcia onego
 i Chananejkę jednak dopiero potrzeba przywiodła do P. Jezusa: i znów
-sprawdziło się przysłowie: *„kiedy trwoga, to do Boga",* abyś i ty wśród
+sprawdziło się przysłowie: «kiedy trwoga, to do Boga,» abyś i ty wśród
 różnych dolegliwości i smutków życia niniejszego nie mniemał, że Pan Bóg
 cię opuścił i o tobie zapomniał, ale abyś korzystał z nich, żeby tem
 szczerzej garnąć się do Boga, im więcej zawodzi cię świat i ziemia.
@@ -20,8 +20,8 @@ szczerzej garnąć się do Boga, im więcej zawodzi cię świat i ziemia.
 tryb życia P. Jezusa, lepiej więc niż inni panowie i faryzeusze
 wiedział, co sądzić o Nim, i chociaż nie był jeszcze przekonany, że On
 jest obiecanym Mesjaszem i Synem Bożym, przecież nie wątpił, że jest
-od Boga posłanym prorokiem, *potężnym w uczynku i mowie przed Bogiem
-i wszystkim ludem.* Przy pierwszej więc, jaka mu się nadarza
+od Boga posłanym prorokiem, «potężnym w uczynku i mowie przed Bogiem
+i wszystkim ludem.» Przy pierwszej więc, jaka mu się nadarza
 sposobności, wiara i ufność jego się ożywia, a sposobnością tą jest
 ciężki smutek rodzinny, choroba i śmierć jedynaczki. Pełen wiary
 w cudowną moc P. Jezusa i ufności w dobroć i łaskawość Jego, kiedy
@@ -29,18 +29,18 @@ wszystkie środki ludzkie wyczerpały się i zawiodły, idzie do P, Jezusa,
 przypada do stóp jego świętych z wielkim uszanowaniem, opowiada mu
 o smutku swoim tak, jak tylko ojciec zagrożony utratą jedynego,
 ukochanego dziecka swego wypowiedzieć umie i kończy serdeczną, usilną
-i zarazem pokorną prośbą: *pójdź, włóż na nią rękę twoją, a żyć będzie.*
-Na taką prośbę P. Jezus od razu *wstawszy szedł za nim i uczniowie
-Jego.* Czyż tylko w owych czasach i tylko ten jeden ojciec był zagrożony
+i zarazem pokorną prośbą: «pójdź, włóż na nią rękę twoją, a żyć będzie.»
+Na taką prośbę P. Jezus od razu «wstawszy szedł za nim i uczniowie
+Jego.» Czyż tylko w owych czasach i tylko ten jeden ojciec był zagrożony
 utratą dziecka, umiłowanego nad wszystkie skarby świata? Czyż w naszych
 czasach mało jest takich, co usiłują wyprosić u P. Jezusa  życie dla
 swoich najdroższych? I niejeden w smutku swoim pyta: czemuż tego jednego
 P. Jezus poratował i pocieszył, a setki i tysiące innych, a między
 innymi i mnie nie wysłuchał? Wszak Jego nic by to nie kosztowało, bo
 gdyby tylko zechciał, stałoby się według woli Jego. Podobne pytanie
-zadano P. Jezusowi w Nazarecie, gdzie żadnego nie uczynił cudu: *Jako
-wiele rzeczy słyszeliśmy uczynionych w Kafarnaum, uczyń* *i tu
-w ojczyźnie Twojej.* P. Jezus, odpowiadając na ten zarzut powołał się
+zadano P. Jezusowi w Nazarecie, gdzie żadnego nie uczynił cudu: «Jako
+wiele rzeczy słyszeliśmy uczynionych w Kafarnaum, uczyń» «i tu
+w ojczyźnie Twojej.» P. Jezus, odpowiadając na ten zarzut powołał się
 na przykład Eljasza, który z wielu wdów potrzebujących jedną tylko
 poratował w Sarepcie Sydońskiej, i na Elizeusza, który z pośród wielu
 trędowatych uzdrowił tylko Naamana Syryjczyka. Dlaczego P. Jezus jednych
@@ -50,7 +50,7 @@ dobra naszego daje lub odmawia; umiejmyż tedy korzystać jak z jednego,
 tak też z drugiego.
 
 \(3\) Już cieszy się Jair i uwielbia dobroć P. Jezusa, że od razu
-spieszy do jego córeczki, *a oto niewiasta* niespodzianie i dla niego
+spieszy do jego córeczki, «a oto niewiasta» niespodzianie i dla niego
 bardzo niepożądanie, wstrzymuje cały pochód. Niewiasta ta z daleka
 przybyła. Od dwunastu lat cierpi dolegliwą chorobę, do której nawet
 przyznać się wstydzi. Lekarzy radziła się różnych, niemało pieniędzy
@@ -59,9 +59,9 @@ Jair, posłyszała o dobroci i mocy P. Jezusa: nie żąda, jak Jair, żeby P
 Jezus włożył na nią rękę swoją, nie śmie też jak on przedłożyć
 P. Jezusowi tego, co jej dolega, nie śmie nawet pokazać Mu się na oczy,
 ale wiara i ufność jej większa jest niżu Jaira. Ona pewna tego,
-że *bym tylko dotknęła się szaty Jego, będę zdrowa.* Nie zawiodła jej
-wiara, bo Pan *Jezus obróciwszy się i ujrzawszy ją, rzekł: Ufaj córko,
-wiara twoja uzdrowiła ciebie.* Dał jej zdrowie, o które prosiła, a nadto
+że «bym tylko dotknęła się szaty Jego, będę zdrowa.» Nie zawiodła jej
+wiara, bo Pan «Jezus obróciwszy się i ujrzawszy ją, rzekł: Ufaj córko,
+wiara twoja uzdrowiła ciebie.» Dał jej zdrowie, o które prosiła, a nadto
 nazwał ją i uczynił córką swoją, wzmocnił jej ufność, a wreszcie okazał
 jej, że nic przed nim nie ma ukrytego, bo On wszystko wie, a zatem jest
 Bogiem wcielonym. Obyś i ty miał wiarę tej niewiasty! Jak ta niewiasta
@@ -77,7 +77,7 @@ i potwarzy, z bluźnierstw, przekleństw, kłamstw, mów bezwstydnych
 i innych nieprawości? Dotykasz się szat Jezusowych podniebieniem swojem,
 a czy ono wyzdrowiało z obżarstwa i opilstwa? Przyjmujesz Go do serca,
 a czyż nauczyłeś się przynajmniej tej jedne, tak króciuchnej nauki
-P. Jezusa: *uczcie się ode mnie, żem jest cichy i pokornego serca?*
+P. Jezusa: «uczcie się ode mnie, żem jest cichy i pokornego serca?»
 Po onej niewieście aż do śmierci było znać, że dotknęła się P. Jezusa;
 a po tobie czy przynajmniej przez kilka tygodni albo choć kilka dni
 znać, że nie tylko dotknąłeś się P. Jezusa, ale że On był zamieszkał
@@ -92,7 +92,7 @@ P. Jezusa, to przecież i serce ojca w nim się odzywa i trwoży się
 o dziecko i kusi go podobno niecierpliwość na niewiastę i gniew
 na tłumy, utrudniające szybszy pochód ku domowi.
 
-\(5\) *Nie umarła dzieweczka, ale śpi; i nie śmiali się z Niego.* Często
+\(5\) «Nie umarła dzieweczka, ale śpi; i nie śmiali się z Niego.» Często
 P. Jezus i Pismo św. śmierć nazywa snem, a i między chrześcijanami utarł
 się zwyczaj mówić o zmarłych, że zasnęli w Panu. Tem słuszniej o tej
 dzieweczce, którą P. Jezus miał niebawem przywołać do życia, mógł
@@ -105,4 +105,5 @@ były za to prędko zawstydzone. I w naszych czasach nie brak takich, co
 żartują sobie z P. Jezusa i z nauki i z przykazań i z piekła i z nieba.
 I oni doczekają się gorszego niestety, niż te płaczki, zawstydzenia.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

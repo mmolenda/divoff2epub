@@ -4,7 +4,7 @@ błogosławieństwach, w którem P. Jezus w wielkich rysach wykłada na czem
 polega służba Boża i jakie są jej główne przeszkody. W części
 przeznaczonej na bieżącą niedzielę poucza nas P. Jezus, że nie można
 dwom panom służyć, a w szczególności Bogu i mamonie, czyli cielcowi
-złotemu, dobrom tego świata. *Żaden nie może dwom panom służyć,* oto
+złotemu, dobrom tego świata. «Żaden nie może dwom panom służyć,» oto
 nieomylny wyrok Prawdy odwiecznej. Mimo to dziś wielu jest Chrześcijan,
 usiłujących Bogu służyć, a zarazem, jak to mówią, i djabłu świeczkę
 palić. Jedni z nich nazywają się katolikami i uważają odstępstwo
@@ -25,9 +25,9 @@ tako uczęszczają na nabożeństwa i do śś. Sakramentów, a nawet zachowuj
 te przykazania Boże, które nie przedstawiają dla nich żadnych większych
 trudności, a od przykazań kościelnych mają mniej albo więcej legalne
 dyspenzy; ale z tem wszystkiem nie rządzą się duchem Bożym, jako
-przystało na synów Bożych, lecz służą duchowi tego świata. *Świat zaś,*
-mówi św. Jan Ewangelista, *jest pożądliwość ciała, pożądliwość oczu
-i pycha żywota.* Więc bywają na Mszy św., albo i u Komunji św.,
+przystało na synów Bożych, lecz służą duchowi tego świata. «Świat zaś,»
+mówi św. Jan Ewangelista, «jest pożądliwość ciała, pożądliwość oczu
+i pycha żywota.» Więc bywają na Mszy św., albo i u Komunji św.,
 a wieczorem flirty, wyuzdane widowiska w teatrze, rozmowy dwuznaczne,
 książki obrażające wstydliwość i odpowiednie tym książkom długie
 marzenia, a nieraz przebywanie w miejscach podejrzanych rozrywek,
@@ -51,9 +51,9 @@ Chrystusa Pana i Jego Kościoła. A o pożądliwości oczu, czy chciwości,
 o służeniu mamonie, albo złotemu cielcowi, cała dzisiejsza Ewangelia
 mówi, jak niepodobna połączyć chciwości z służbą Bożą.
 
-\(2\) *Dlatego powiadam wam, nie troszczcie się.* Nie mówi Pan: nie
-starajcie się, nie pracujcie ale *nie troszczcie się* o rzeczy doczesne,
-o których i sam *Ojciec wasz niebieski wie, że ich potrzebujecie.* Nie
+\(2\) «Dlatego powiadam wam, nie troszczcie się.» Nie mówi Pan: nie
+starajcie się, nie pracujcie ale «nie troszczcie się» o rzeczy doczesne,
+o których i sam «Ojciec wasz niebieski wie, że ich potrzebujecie.» Nie
 zabrania P. Jezus roztropnego starania i umiarkowanego zabiegania
 o rzeczy potrzebne, pożyteczne, a nawet przyjemne, ale zabrania tylko
 wiecznie niespokojnej i przesadnej troski, która bywa zabójcza dla
@@ -61,8 +61,8 @@ pobożności i dla wszelkiego starania o pożytki duchowne i wieczne. Czego
 więc w szczególności P. Jezus zabrania, a na co pozwala względem rzeczy
 doczesnych? Zakazaną, bo złą jest troska o rzeczy doczesne głównie
 w sześciu wypadkach: \[1\] jeżeli połączona jest z przenoszeniem rzeczy
-doczesnych nad wieczne; tak bywa np. u socjalistów, bluźniących: *„co mi
-tam niebo, byłem miał za co wyżyć i użyć"*. \[2\] Jeżeli pociąga za sobą
+doczesnych nad wieczne; tak bywa np. u socjalistów, bluźniących: «co mi
+tam niebo, byłem miał za co wyżyć i użyć». \[2\] Jeżeli pociąga za sobą
 gwałcenie przykazań Bożych lub kościelnych, np. tak powszechne i nas
 zaniedbywanie Mszy św. dla interesu, pracowanie w niedzielę i święta dla
 zarobku. \[3\] Jeżeli używa się złych, grzesznych środków dla zdobycia
@@ -74,10 +74,10 @@ i dusić pieniądze, żeby pozostawić po sobie taką a taką fortunę, bez
 wszelkiej wyższej i szlachetniejszej myśli. \[6\] Jeżeli nasze
 troszczenie się jest nad miarę trwożliwe i niespokojne, bo to dowodzi
 zawsze zbytniego przywiązania do rzeczy doczesnych i braku ufności
-w Bogu i Opatrzności Jego. Dobrze o tem mówi św. Jan Złotousty: *„To,
+w Bogu i Opatrzności Jego. Dobrze o tem mówi św. Jan Złotousty: «To,
 że tych rzeczy potrzebujemy, wcale nie jest racją, żebyśmy mieli o niej
 zbyt troskliwie się starać, ale żeby raczej jak najspokojniej ufać,
-że Pan Bóg do nich dopomoże, kiedy są potrzebne".*
+że Pan Bóg do nich dopomoże, kiedy są potrzebne.»
 
 \(3\) Dozwolone, godziwe i pochwały godne jest staranie o zarobek
 i dorobek, jeżeli \[1\] jest podporządkowane staraniu o chwałę Bożą
@@ -86,8 +86,8 @@ doczesne ze względu na życie i jako o środki do prowadzenia życia
 zbożnego i do wykonywania dobrych uczynków; \[3\] umiarkowane, bez
 zbytniej trwogi o przyszłość i bez niepokoje, ale pełne ufności i zdania
 się na Opatrzność Bożą. P. Bóg doświadcza, ale nie opuszcza swoich.
-Pracuj, oszczędzaj, a modląc się *wrzuć na Pana staranie swoje, a On Cię
-wychowa, nie dopuści na wieki zachwiania sprawiedliwego.* Wolno też,
+Pracuj, oszczędzaj, a modląc się «wrzuć na Pana staranie swoje, a On Cię
+wychowa, nie dopuści na wieki zachwiania sprawiedliwego.» Wolno też,
 owszem obowiązkiem chrześcijańskim jest starać się o rzeczy doczesne,
 zwłaszcza o ile one są potrzebne i odpowiednie stanowi każdego; wolno
 nawet starać się o więcej, niż to jest ściśle potrzebne i odpowiednie
@@ -96,7 +96,8 @@ o fundusz potrzebny do posunięcia się na wyższy szczebel społeczny,
 np. z wyrobnika na gospodarza lub rzemieślnika, z rzemieślnika
 na właściciela kamienicy, z stanu zarabiającego ręką, do stanu
 zarabiającego głową. W tym ostatnim atoli wypadku, gdzie chodzi
-o posunięcie się na wyższy szczebel, łatwo wkrada się do serca *pycha
-żywota*, i dlatego potrzeba w tej mierze wielkiej oględności.
+o posunięcie się na wyższy szczebel, łatwo wkrada się do serca «pycha
+żywota», i dlatego potrzeba w tej mierze wielkiej oględności.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

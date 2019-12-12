@@ -2,19 +2,19 @@
 \(1\) Dwa razy P. Jezus cudownie rozmnażał chleby: raz kiedy pięciorgiem
 chlebów nakarmił pięciotysięczną rzeszę i teraz kiedy było siedm chlebów
 na cztery tysiące narodu. Sam P. Jezus dwa te cuda przypomina Apostołom:
-*Jeszcze nie rozumiecie, ani nie pamiętacie pięciorga chleba na pięć
+«Jeszcze nie rozumiecie, ani nie pamiętacie pięciorga chleba na pięć
 tysięcy ludzi, i wieleście koszów wzięli? Ani siedmiorga chleba
-na cztery tysiące ludzi, i wieleście koszów wzięli?* Oba te cuda, choć
+na cztery tysiące ludzi, i wieleście koszów wzięli?» Oba te cuda, choć
 są do siebie podobne, każe nam Kościół św. w ciągu roku kościelnego
 rozważać, żebyśmy nad miarę nie gonili za chlebem, ani w niedostatku nie
 przestawali ufać Bogu.
 
-\(2\) *Wezwawszy uczniów swoich rzekł im: żal mi ludu.* Jak wtenczas,
+\(2\) «Wezwawszy uczniów swoich rzekł im: żal mi ludu.» Jak wtenczas,
 tak po wszystkie czasy wzywa P. Jezus uczniów swoich, aby spełniali
 dobre uczynki. Są np. w naszych czasach po miastach, a tu i ówdzie
 po wsiach towarzystwa św. Wincentego i im podobne towarzystwa
 dobroczynności, w których P. Jezus gromadzi ludzi dobrej woli,
-prawdziwych uczniów swoich. Oni przejęci słowem Pańskim: *żal mi ludu,*
+prawdziwych uczniów swoich. Oni przejęci słowem Pańskim: «żal mi ludu,»
 pod Jego przewodnictwem i za przykładem Apostołów myślą i starają się,
 jakby zaradzić wielorakim potrzebom ludzi. Jedni odwiedzają i wspomagają
 chorych i ubogich opuszczonych, inni dostarczają roboty i zarobku tym,
@@ -24,8 +24,8 @@ prawdziwie dobroczynnych? Czy masz zrozumienie i serce dla potrzeb ludu?
 Cóżeś dotychczas uczynił, albo cóżeś przynajmniej dał, aby potrzebom tym
 o ile możności zaradzić lub ulżyć?
 
-\(3\) *Żal mi ludu, iż oto już trzy dni trwają przy mnie, a nie mają,
-coby jedli.* Pan Jezus tak samo trzy dni trwał z tym ludem i bez
+\(3\) «Żal mi ludu, iż oto już trzy dni trwają przy mnie, a nie mają,
+coby jedli.» Pan Jezus tak samo trzy dni trwał z tym ludem i bez
 wytchnienia nauczał, odpowiadał na pytania, uzdrawiał chorych, musiał
 więc być także zmęczony i wyczerpany. Ale Pan Jezus o sobie nie myśli,
 o swoje wygody i potrzeby nie dba, dla siebie jakby serca nie ma, dla
@@ -35,7 +35,7 @@ musi zapominać o sobie, zapierać się samego siebie; i na odwrót bywa,
 że im kto więcej zajęty jest sobą, im więcej lituje się nad sobą, taki
 tem mniej ma serca i poświęcenia dla drugich.
 
-\(4\) *Oto już trzy dni trwają przy mnie.* Święta i zbawienna to rzecz
+\(4\) «Oto już trzy dni trwają przy mnie.» Święta i zbawienna to rzecz
 ta wytrwałość przy Panu Jezusie. Możeś miał sposobność być kiedy
 na misji lub rekolekcjach, kiedy to nabożeństwo prawie trwa bez przerwy
 przez trzy, pięć albo i óśm dni. Wielkie i obfite łaski zwykł P. Jezus
@@ -57,8 +57,8 @@ do serca, żeby nie rychło zapomnieć, owszem, żeby całem sercem, całą
 duszą, ze wszystkich sił swoich pokochać i umiłować tę świętą prawdę
 Bożą i za nic w świecie jej na przyszłość już nie zdradzić, nie
 odstąpić. 3) Aby trwać przy P. Jezusie na rekolekcjach potrzeba wiele
-i szczerze się modlić, bo wyraźnie P. Jezus mówi: *proście
-a otrzymacie*, dając tem do zrozumienia, że kto nie prosi, ten też nie
+i szczerze się modlić, bo wyraźnie P. Jezus mówi: «proście
+a otrzymacie», dając tem do zrozumienia, że kto nie prosi, ten też nie
 otrzyma; każdy tyle tylko otrzymuje, ile albo sam sobie, albo inni jemu
 uprosili. Więc nie tylko sam się módl, ale staraj się, żeby też inni
 począwszy od Matki Najświętszej w niebie, aż do dziatek twoich w domu,
@@ -76,4 +76,5 @@ prędzej nim się spodziewasz. Jeżeli zaś nie możesz, to dowiedz się
 u swego ks. Proboszcza, czy nie będzie wkrótce gdzie w pobliżu misji lub
 rekolekcyj, na którebyś i ty mógł się wybrać.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

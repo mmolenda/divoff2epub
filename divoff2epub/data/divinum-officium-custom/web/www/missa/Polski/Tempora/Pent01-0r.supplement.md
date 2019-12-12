@@ -24,16 +24,16 @@ spojrzało Świętemu w oczy i powiada: A ty wielki i mądry Augustynie, nie
 pojmujesz, że Bóg jest nieskończenie wielki, a głowa twoja tak mała,
 a chciałbyś krótkim rozumem twoim objąć całego Boga? Dziecko rzekłszy
 to, znikło: Był to Anioł Stróż Świętego, który w ten sposób przypomniał
-mu słowa Pisma św.: *Wyższych rzeczy nas cię nie pytaj się, a mocniejsze
+mu słowa Pisma św.: «Wyższych rzeczy nas cię nie pytaj się, a mocniejsze
 nad cię nie badaj się, ale coś Bóg rozkazał, to rozmyślaj zawzdy,
-a w wielu uczynkach Jego nie bądź ciekawy.*
+a w wielu uczynkach Jego nie bądź ciekawy.»
 
 \(2\) Zamiast własnego nieudolnego objaśnienia o tajemnicy Trójcy św.,
 kładę tu dwa ustępy z nabożeństw przez Kościół św. przepisanych, które
 zawierają dostateczny wykład tej największej tajemnicy Wiary naszej
 świętej. Pierwszy z nich wyjęty jest z wyznania wiary św. Atanazego,
 (żył św. Atanazy temu lat 1600), które znajduje się w niedzielnych
-pacierzach kapłańskich, a brzmi tak: *„Ktokolwiek chce być zbawiony,
+pacierzach kapłańskich, a brzmi tak: «Ktokolwiek chce być zbawiony,
 przede wszystkiem potrzeba, żeby trzymał się Wiary katolickiej,
 której jeśliby kto całej i nienaruszonej nie zachował, ten bez wątpienia
 na wieki zginie. Wiara zaś katolicka ta jest: że jednego Boga w Trójcy,
@@ -61,9 +61,9 @@ Duchy Święte. A w tej Trójcy nic nie jest pierwsze albo pośledniejsze,
 nic większe albo mniejsze, ale trzy Osoby ze wszystkiem są sobie
 spółwieczne i równe, tak iż we wszystkiem, jak się już powiedziało,
 jedność w Trójcy, a Trójcę w jedności uznawać potrzeba. Ktokolwiek więc
-chce być zbawinym, niech tak o Trójcy św. rozumie."*\
+chce być zbawinym, niech tak o Trójcy św. rozumie.»\
 Drugi ustęp jest w Prefacji, którą prawie w każdej Mszy św. niedzielnej
-powtarzamy: *„Panie Święty, Ojcze wszechmogący, wiekuisty Boże,
+powtarzamy: «Panie Święty, Ojcze wszechmogący, wiekuisty Boże,
 który z jednorodzonym Synem Twoim i  z Duchem Świętym jednym jesteś
 Bogiem, jednym jesteś Panem, nie w pojedynczości jednej osoby, lecz
 w Trójcy jednej Istoty. Bo cokolwiek o chwale Twojej z objawienia
@@ -73,13 +73,13 @@ uwielbiamy też w Osobach odrębność, w Istocie jedność, a w Majestacie
 równość. Którą chwałą Aniołowie i Archaniołowie, Cherubini też
 i Serafini, którzy nie przestają jednym głosem wołać: Święty, Święty,
 Święty, Pan Bóg zastępów, pełne są nieba i ziemia Majestatu Chwały Jego!
-Hosanna na wysokościach!"*
+Hosanna na wysokościach!»
 
 \(3\) Poleca P. Jezus Apostołom wszystkie narody nauczać i chrzcić.
 Z tego widać, że i Chrzest św. jest do zbawienia koniecznie potrzebny.
-Wyraźniej jeszcze mówi P. Jezus do Nikodema: *Zaprawdę, zaprawdę
+Wyraźniej jeszcze mówi P. Jezus do Nikodema: «Zaprawdę, zaprawdę
 powiadam ci, jeśli się kto nie odrodzi z wody i Ducha Św., nie może
-wnijść do Królestwa Bożego.* Z tego powodu Kościół św. kierowany Duchem
+wnijść do Królestwa Bożego.» Z tego powodu Kościół św. kierowany Duchem
 Św. rozporządził, żeby dzieci chrzczono jak najwcześniej po ich
 narodzeniu, bo dzieci umierający bez Chrztu św. nie idą wprawdzie
 do piekła, ale oglądać Boga z powodu grzechu pierworodnego nie mogą.
@@ -95,8 +95,8 @@ obawy zawieść do kościoła. Żeby Chrzest taki był ważny, potrzeba, aby
 udzielający chrztu miał szczerą wolę dać dziecku to, co Kościół
 św. przez Chrzest dać mu zamierza i żeby w tym celu wodą czystą,
 zwyczajną, bez żadnej przymieszki polewał trzykrotnie głowę dziecka
-i równocześnie (koniecznie równocześnie) mówił: *„N.* (imię dziecka) *ja
-ciebie chrzczę w imię Ojca †* *i Syna †* *i Ducha †* *Świętego Amen"*.
+i równocześnie (koniecznie równocześnie) mówił: «N.» (imię dziecka) «ja
+ciebie chrzczę w imię Ojca †» «i Syna †» «i Ducha †» «Świętego Amen».
 Z tych słów żadnego zmienić ani opuścić nie wolno. Również należy uważać
 na to, żeby woda rzeczywiście dotykała się ciała dziecka, czyli skóry,
 a nie spłynęła np. po włoskach. Chrztu z wody może udzielić każdy
@@ -106,25 +106,26 @@ mężczyzna niż kobieta, a tylko w ostatniej potrzebie rodzony ojciec lub
 matka, bo między chrzczącym a rodzicami dziecka wytwarza się
 powinowactwo duchowne.
 
-\(4\) *Oto ja jestem z wami po wszystkie dni, aż do skończenia świata.*
+\(4\) «Oto ja jestem z wami po wszystkie dni, aż do skończenia świata.»
 Obietnicy tej dotrzymuje nam P. Jezus wielorakim sposobem. Jest z nami:
 1) w Przenajśw. Sakramencie, w którym chce być pokarmem i pociechą
 naszą, oraz ofiarą za nas, ale też chce odbierać od nas cześć powinną;
 2) jako Głowa Kościoła, w którym za sprawą Ducha Świętego przez
-Apostołów i następców ich, tj. Biskupów i kapłanów *naucza nas chować
-wszystko, co nam przykazał:* 3) jest Pan Jezus z nami, ilekroć
+Apostołów i następców ich, tj. Biskupów i kapłanów «naucza nas chować
+wszystko, co nam przykazał:» 3) jest Pan Jezus z nami, ilekroć
 i gdziekolwiek choćby dwóch lub trzech wiernych jest zgromadzonych
-w Imię Jego; 4) nawiedza nas przez *najmniejszych* swoich. Najmniejszym
+w Imię Jego; 4) nawiedza nas przez «najmniejszych» swoich. Najmniejszym
 jest ten, kto w oczach twoich nie wiele znaczy i na żadne nie zasługuje
 względy, a jednak cokolwiek mu powiedziałeś lub uczyniłeś, toś
 P. Jezusowi uczynił i powiedział, gdyś ulitował się i poratował
 potrzebującego pomocy, rady albo pociechy, P. Jezusowi to uczyniłeś; 5)
-mówi Paweł święty o łasce poświęcającej: *żyję, już nie ja, ale żyje
-we mnie Chrystus*: jest tedy P. Jezus z nami i w nas przez łaskę
+mówi Paweł święty o łasce poświęcającej: «żyję, już nie ja, ale żyje
+we mnie Chrystus»: jest tedy P. Jezus z nami i w nas przez łaskę
 poświęcającą. Tu możemy P. Jezusa karmić pokarmem Jemu właściwym,
 tj. spełnianiem woli Ojca niebieskiego. Tu możemy też naśladować złość
 żydowską, kiedy przez grzech śmiertelny pozbawiamy Go życia, którem żył
 w naszych sercach, lub kiedy przez powszednie grzechy ponawiamy
 to wszystko, co Mu uczyniono przed ukrzyżowaniem.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

@@ -1,30 +1,30 @@
 
 \(1\) Na różne sposoby P. Jezus czyni cuda swoje i okazuje, że jest
 Panem wszechwładnym nad wszystkiem stworzeniem. Czasem czyni tak jak
-onemu trędowatemu, któremu rzekł: *chcę, bądź oczyszczon;* innym, jak
-setnikowi, oznajmia: *idź, a jakoś uwierzył, niech ci się stanie;*
+onemu trędowatemu, któremu rzekł: «chcę, bądź oczyszczon;» innym, jak
+setnikowi, oznajmia: «idź, a jakoś uwierzył, niech ci się stanie;»
 najczęściej uzdrawia P. Jezus chorych dotknięciem ręki, jak to widać
-w dzisiejszej Ewangelji. Proszą Go, *aby nań rękę włożył*, ufając, że to
+w dzisiejszej Ewangelji. Proszą Go, «aby nań rękę włożył», ufając, że to
 zupełnie wystarczy, aby głuchoniemy, którego my przyprowadzili, uzyskał
 zdrowie. Tym razem P. Jezus spełnia cud w sposób pełny zbawiennych dla
 nas nauk.
 
-\(2\) *Wziąwszy go na stronę od rzeszy ...* Kto pragnie usłyszeć głos
+\(2\) «Wziąwszy go na stronę od rzeszy ...» Kto pragnie usłyszeć głos
 Boży, potrzeba, aby usunął się od wrzawy i ludzi. Nie nauczył się nigdy
-*mówić dobrze ten,* kto wiele z ludźmi a mało na samotności rozmawia
-z Bogiem i z duszą własną. *Wpuścił palce swoje w uszy jego ...* jakby
+«mówić dobrze ten,» kto wiele z ludźmi a mało na samotności rozmawia
+z Bogiem i z duszą własną. «Wpuścił palce swoje w uszy jego ...» jakby
 chciał wyjąć z nich to, co je zatkało, i co nie dopuszcza do wnętrza
 żadnego głosu. Chociaż P. Bóg nieraz bardzo głośno do serca grzesznika
 przemawia, on jednak Go nie słyszy, bo w uszach jego wciąż jeszcze
 dźwięczy wszystko, czego przez długie może lata nasłuchał się przeciw
-wierze i dobrym obyczajom. *A splunąwszy dotknął języka jego:* gdy śliny
+wierze i dobrym obyczajom. «A splunąwszy dotknął języka jego:» gdy śliny
 w ustach zabraknie, to i zdrowemu nie podobna mówić zrozumiale; ślina
 z ust Pańskich potrzebna, żeby ten niemy mógł mówić dobrze i zbożnie. Bo
-to ślina Słowa przedwiecznego, więc i daje dar słowa. *A wejrzawszy
-w niebo,* żeby Ojcu niebieskiemu, do którego wszystko zawsze odnosił,
-dać chwałę, *westchnął*, już to z politowania nad głuchoniemym, już też
-z gorącości modlitwy wzniesionej do Boga. *I rzekł mu: Effeta! To jest:
-otwórz się.* Jest to już rozkaz stanowczy, który sam jeden wystarczał
+to ślina Słowa przedwiecznego, więc i daje dar słowa. «A wejrzawszy
+w niebo,» żeby Ojcu niebieskiemu, do którego wszystko zawsze odnosił,
+dać chwałę, «westchnął», już to z politowania nad głuchoniemym, już też
+z gorącości modlitwy wzniesionej do Boga. «I rzekł mu: Effeta! To jest:
+otwórz się.» Jest to już rozkaz stanowczy, który sam jeden wystarczał
 bez poprzednich ceremonij, tak samo jako i każda z tych ceremonij byłaby
 wystarczyła, jeżeliby tak by chciał P. Jezus.
 
@@ -48,8 +48,8 @@ dowiaduje się, jak się tam powinien zachować, żeby się nie narazić
 na zawstydzenie, albo na śmieszność; a przecież i najpotężniejszy cesarz
 jest mizernym prochem w porównaniu z Panem Bogiem.
 
-\(4\) * I mówił dobrze.* O języku bardzo ostro mówi Pismo św. Mianowicie
-Jakób św. Apostoł tak pisze: *Jeśli kto w słowie nie upada, ten jest mąż
+\(4\) «I mówił dobrze.» O języku bardzo ostro mówi Pismo św. Mianowicie
+Jakób św. Apostoł tak pisze: «Jeśli kto w słowie nie upada, ten jest mąż
 doskonały; może też wędzidłem kierować wszystko ciało. A jeśli koniom
 wędzidła w gębę wprawiamy, aby nam posłuszne były, i wszystko ich ciało
 obracamy. Oto i okręty wielkie będąc, i gdy je srogie wiatry pędzą,
@@ -69,7 +69,7 @@ Izali może, bracia moi, figa winne jagody rodzić; albo winna macica
 figi? Tak ani słona słodkiej wody uczynić może. Który mądry i ćwiczony
 między wami? Niech pokaże z dobrego obcowania sprawę swą w cichości
 i mądrości. Lecz jeżeli zazdrość gorzką macie i sporyby były w sercach
-waszych; nie chciejcie się chlubić i kłamcami być przeciwko prawdzie.*
+waszych; nie chciejcie się chlubić i kłamcami być przeciwko prawdzie.»
 Prócz przekleństwa, swarów i kłamstwa, o których tu Apostoł wspomina,
 wiele innych jeszcze jest grzechów językowych, jako to: plotki, obmowy
 i potwarze, rozmowy i żarty niewstydliwe, podjudzanie do niezgody
@@ -80,18 +80,19 @@ wszystkiego i wszystkich itd.
 \(5\) Przykazał P. Jezus tym, którzy chorego do Niego przyprowadzili
 i byli świadkami cudownego uzdrowienia, żeby nikomu nie powiadali, co
 byli widzieli. Nie lubi P. Jezus rozgłosu, ale sam zachowuje, co
-wszystkim zaleca: *niechaj nie wie lewica twoja, co prawica twoja
-czyni.* A ludzie nieraz całkiem przeciwnie postępują; nie tylko pragną
+wszystkim zaleca: «niechaj nie wie lewica twoja, co prawica twoja
+czyni.» A ludzie nieraz całkiem przeciwnie postępują; nie tylko pragną
 pochwał ludzkich, ale i przechwalają się z rzeczy, których nigdy nie
 uczynili.
 
-\(6\) *Dobrze wszystko uczynił*. Przykazaniem swojem o zamilczeniu tego
+\(6\) «Dobrze wszystko uczynił». Przykazaniem swojem o zamilczeniu tego
 cudu nie chciał P. Jezus onych ludzi zobowiązywać pod grzechem,
 ale tylko objawił usposobienie Serca swojego, nie ubiegającego się
 za sławą. Z serca wezbranego podziwem i wdzięcznością rozgłaszają co się
 stało i porywają lud wszystek do wychwalania P. Jezusa i wyznawania Mu,
-*że dobrze wszystko uczynił*. Oby i ciebie można przekonać, że cokolwiek
+«że dobrze wszystko uczynił». Oby i ciebie można przekonać, że cokolwiek
 P. Jezus względem ciebie i twoich zarządza, czy nawiedza krzyżami, czy
 też darzy powodzeniem, wszystko dobrze, bo z dobrego robi serca.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

@@ -1,9 +1,9 @@
 
-\(1\) *Józef i Marja dziwowali się temu, co o nim mówiono.* Poprzedza
+\(1\) «Józef i Marja dziwowali się temu, co o nim mówiono.» Poprzedza
 dzisiejszą Ewangelję św. ta, którą czytamy na Matkę Boską Gromniczną,
-i w której są przytoczone słowa Symeona: *Oczy moje oglądały Zbawienie
+i w której są przytoczone słowa Symeona: «Oczy moje oglądały Zbawienie
 Twoje, któreś zgotował przed oblicznością wszystkich narodów; światło
-naobjawienie pogan, i chwałę ludu Twego Izraelskiego.* Niektórzy
+naobjawienie pogan, i chwałę ludu Twego Izraelskiego.» Niektórzy
 tłumacze Pisma św. przypuszczają, że Matka Najśw. dopiero przez Symeona
 się dowiedziała, że P. Jezus ma nie tylko żydom ale i poganom być
 Zbawicielem i że dlatego dziwiła się. Inni mniemają, że Matka Najśw.
@@ -16,18 +16,18 @@ się dziwić nie przestajemy. I gdy, Bóg da, dostaniemy się do nieba,
 chociaż już i tysiąc lat tam przebędziem, nigdy to niebo nowem i podziwu
 godnem nam być nie przestanie.
 
-\(2\) *I pobłogosławił im Symeon* tak jak błogosławiła Elżbieta mówiąc:
+\(2\) «I pobłogosławił im Symeon» tak jak błogosławiła Elżbieta mówiąc:
 Błogosławionaś Ty między niewiastami i błogosławiony owoc żywota
 Twojego. Błogosławmyż i my, wiedzą, że co niegdyś życzył Izaak Jakubowi,
-to w pełnej mierze daje P. Bóg Najświętszej Pannie: *Ktoby Cię
-błogosławił, niech będzie błogosławieństwa pełen.* Toż samo i o Józefie
+to w pełnej mierze daje P. Bóg Najświętszej Pannie: «Ktoby Cię
+błogosławił, niech będzie błogosławieństwa pełen.» Toż samo i o Józefie
 św. powiedzieć należy.
 
-\(3\) *Oto ten jest położon na upadek i na powstanie wielu w Izraelu
-i na znak, któremu sprzeciwiać się będą.* Jest artykułem wiary, że --
-jak mówi Pismo św. -- PanBóg *chce, aby wszyscy ludzie byli zbawieni
+\(3\) «Oto ten jest położon na upadek i na powstanie wielu w Izraelu
+i na znak, któremu sprzeciwiać się będą.» Jest artykułem wiary, że –
+jak mówi Pismo św. – PanBóg «chce, aby wszyscy ludzie byli zbawieni
 i przyszli ku uznaniu prawdy, i że nie posłał Syna swego na świat, aby
-sądził świat, ale iżby świat był zbawion przezeń.* Jednak Pan Bóg
+sądził świat, ale iżby świat był zbawion przezeń.» Jednak Pan Bóg
 ludziom wolnej woli nie odbiera i nikogo do nieba nie zmusza, chociaż je
 wszystkim na oścież otwiera, i więcej czyni dla naszego zbawienia niż my
 pojąć jesteśmy zdolni. Nie P. Bóg temu winien, że tylu ludzi idzie
@@ -41,25 +41,25 @@ nie chcą, inni dla lenistwa lub dla doczesnych zajęć należycie ją poznać
 zaniedbują, inni wreszcie mając i znając wiarę świętą, nie postępują
 tak, jak ona wymaga.
 
-\(4\) *Ten położon jest na upadek i na powstanie wielu w Izraelu i na
-znak któremu sprzeciwiać się będą.* Z powodu P. Jezusa świat na dwa
+\(4\) «Ten położon jest na upadek i na powstanie wielu w Izraelu i na
+znak któremu sprzeciwiać się będą.» Z powodu P. Jezusa świat na dwa
 podzielił się obozy: na tych, którzy stoją przy Nim, i tych,
 którzy przeciw Niemu walczą; tak jest teraz i tak też będzie aż
 do skończenia świata, a raczej aż do dni Antychrysta, którzy za
 dopuszczeniem Bożem poruszy ziemię i piekło całe, żeby zawojować Kościół
 święty, czyli królestwo Boże na ziemi. Walka ta zapowiedziana była już
-w raju: *Położę nieprzyjaźń między tobą, a między niewiastą: i między
+w raju: «Położę nieprzyjaźń między tobą, a między niewiastą: i między
 nasieniem twem a nasieniem jej; ona zetrze głową twoją, a ty czyhać
-będziesz na piętę jej.* O tej walce często mówi Pismo św. Starego
+będziesz na piętę jej.» O tej walce często mówi Pismo św. Starego
 Zakonu, ilekroć np. wspomina o synach Bożych a synach Beljalowych. Walkę
 tę zaciętą i nieustającą, w której chodzi o chwałę Bożą, a zarazem
 o zbawienie nasze, bardzo wyraźnie przepowiada sam P. Jezus, kiedy
 ostrzega uczniów swoich, że prześladowanie cierpieć będą dla Imienia
-Jego i kiedy im mówi: *Zaprawdę, zaprawdę powiadam wam, iż będziecie
-płakać i lamentować wy, a świat się będzie weselił.* Apostołowie też
+Jego i kiedy im mówi: «Zaprawdę, zaprawdę powiadam wam, iż będziecie
+płakać i lamentować wy, a świat się będzie weselił.» Apostołowie też
 często wspominają o tej walce, jaka wre między światem, ciałem i czartem
-z jednej strony, a między tymi wszystkimi, którzy *chcą pobożnie żyć
-w Jezusie Chrystusie*. Walka toczy się na zewnątrz i na wewnątrz każdego
+z jednej strony, a między tymi wszystkimi, którzy «chcą pobożnie żyć
+w Jezusie Chrystusie». Walka toczy się na zewnątrz i na wewnątrz każdego
 z nas; z ktokolwiek jej nie doznaje, najczęściej bywa to znakiem, że już
 poddał się wrogom Pana Chrystusowym i że mało, albo wcale nie dba
 o chwałę Bożą i własne zbawienie. Na zewnątrz była taka walka od czasów
@@ -72,8 +72,8 @@ i starali się nie dopuścić, żeby na Boga więcej się oglądano, niżeli
 na nich. Ta walka z herezją nie ustała po dni nasze, ale trwać będzie aż
 do skończenia świata. Było tak, jest i będzie, że wciąż znajdować się
 będą ludzie, którzy wymysły swoje przekładają nad słowo Boże, i wbrew
-onemu słowu Pisma św., że *nie jest pod niebem inne dane ludziom,
-w którembyśmy mieli być zbawieni,* zwodzą drugich płonnemi obiecankami,
+onemu słowu Pisma św., że «nie jest pod niebem inne dane ludziom,
+w którembyśmy mieli być zbawieni,» zwodzą drugich płonnemi obiecankami,
 byle ich odwieść od P. Jezusa i Oblubienicy Jego, św. Kościoła
 katolickiego. Takiemi wymysłami są oprócz innych herezyj jawnych, które
 z dawnych czasów dotrwały, nowsze, jakoto liberalizm i socjalizm. Są one
@@ -84,20 +84,20 @@ a zarazem pozostać katolikiem. Wierutne to kłamstwo, bo Kościół
 i socjalizmu, i ktokolwiek tych zasad się trzyma, ten odstąpił Boga
 i prawdy jego. Bo jako jeden jest tylko Bóg, tak też jedna tylko jest
 prawda Jego. Wewnątrz nas zaś odbywa się ta walka w trojakim głównie
-kierunku, o którym mówi Jan św.: *Nie miłujcie świata, ani tego, co jest
+kierunku, o którym mówi Jan św.: «Nie miłujcie świata, ani tego, co jest
 na świecie; jeśli kto miłuje świat, niemasz w nim ojcowskiej miłości.
 Albowiem wszystko co jest na świecie, jest pożądliwość ciała
-i pożądliwość oczu i pycha żywota.* Ktokolwiek ceni sobie dobrobyt
+i pożądliwość oczu i pycha żywota.» Ktokolwiek ceni sobie dobrobyt
 i więcej niż spokój sumienia, kto rozkosze i przyjemności połączone
 z używaniem stawia ponad przykazania Boże i kościelne, kto wreszcie
-szuka chwały i wziętości u ludzi więcej niż chwały u Boga -- taki
-niechaj wie, że do niego stosuje się owo straszne słowo P. Jezusa: *Kto
+szuka chwały i wziętości u ludzi więcej niż chwały u Boga – taki
+niechaj wie, że do niego stosuje się owo straszne słowo P. Jezusa: «Kto
 nie jest ze mną, przeciw mnie jest; a kto nie zgromadza ze mną,
-rozprasza.* Wglądnijże każdy z siebie, czy z zasad i z życia swego
+rozprasza.» Wglądnijże każdy z siebie, czy z zasad i z życia swego
 należysz do obozu Chrystusowego, czy też raczej do obozu szatana?
 
-\(5\) *I duszę twą własną przeniknie miecz, aby myśli z wiela serc były
-objawione.* Matka Najświętsza, dlatego że najściślej jest zjednoczona
+\(5\) «I duszę twą własną przeniknie miecz, aby myśli z wiela serc były
+objawione.» Matka Najświętsza, dlatego że najściślej jest zjednoczona
 z P. Jezusem, tem samem bierze udział we wszystkiem co Chrystusowe, jak
 w niebie podziela chwałę Jego, tak tu na ziemi podzielać musiała
 koniecznie Jego ucisk i mękę. Jeżeli zatem P. Jezus, który najlepszym
@@ -107,12 +107,13 @@ to w jakmimże świetle przedstawią się myśli serca twego, które przy
 najmniejszym cierpieniu skore jest do szemrania i radeby bez cierpienia
 używać tu na ziemi, a o niebo wcale nie dbać?
 
-\(7\) *A dziecię rosło i umacniało się pełne mądrości, a łaska Boża byłe
-w Niem.* O tym postępie P. Jezusa dobrze naucza św. Tomasz: *„Dwojakim
+\(7\) «A dziecię rosło i umacniało się pełne mądrości, a łaska Boża byłe
+w Niem.» O tym postępie P. Jezusa dobrze naucza św. Tomasz: «Dwojakim
 sposobem może kto róść w mądrości i łasce, albo mu przybywa samejże
-mądrości i łaski, -- o takim postępie u P. Jezusa nie może być mowy;
+mądrości i łaski, – o takim postępie u P. Jezusa nie może być mowy;
 albo w działaniu swojem okazuje coraz więcej mądrości i cnoty. Tak było
 u P. Jezusa, który postępując w lata, objawiał zarazem coraz większą
-prawdziwie zdumiewającą mądrość i zacność".*
+prawdziwie zdumiewającą mądrość i zacność.»
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

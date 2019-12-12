@@ -1,15 +1,15 @@
 
 \(1\) Przemienienie Pańskie, to jedna z tych, tak rzadkich, jasnych
 chwil w życiu Pana naszego Jezusa Chrystusa. P. Jezus, według słów Pawła
-św., *przyjąwszy postać sługi*, ustawicznie sprawdzał na sobie, co o Nim
-przepowiedział Izajasz prorok: *Jako się zdumieli nad Tobą mnodzy, tak
+św., «przyjąwszy postać sługi», ustawicznie sprawdzał na sobie, co o Nim
+przepowiedział Izajasz prorok: «Jako się zdumieli nad Tobą mnodzy, tak
 niepoczesna będzie między ludźmi osoba Jego, a postawa Jego między
-synami człowieczymi.* Dziwny wprawdzie urok wywierał P. Jezus na ludzi,
+synami człowieczymi.» Dziwny wprawdzie urok wywierał P. Jezus na ludzi,
 nie tylko zewnętrzną postacią swoją, według tego, co jest w Pieśni
-nad pieśniami: *otoś Ty jest piękny, umiłowany mój i wdzięczny* -- nie
-tylko wymową swoją, o której nawet nieprzyjaciele Jego mówili, że *nigdy
-tak człowiek nie mówił ... uczył, jako władzę mający* -- i nie tylko
-licznemi cudami, -- ale nad to wszystko swoją przedziwną słodyczą serca,
+nad pieśniami: «otoś Ty jest piękny, umiłowany mój i wdzięczny» – nie
+tylko wymową swoją, o której nawet nieprzyjaciele Jego mówili, że «nigdy
+tak człowiek nie mówił ... uczył, jako władzę mający» – i nie tylko
+licznemi cudami, – ale nad to wszystko swoją przedziwną słodyczą serca,
 jaka przejawiała się w każdem słowie, w całem Jego postępowaniu. Tym
 sposobem działo się, że Apostołowie na Jego jedno słowo porzucili
 wszystko i poszli za nim, że dziatwa lgnęła do Niego, że tłumy wielkie
@@ -26,7 +26,7 @@ Majestatu Swojego.
 \(2\) Ilekroć nędza grozi albo już i nawet dolega, w ogóle w każdem
 trudnem położeniu, zwykli ludzie modlić się do Przemienienia Pańskiego.
 Nie można tego zganić, byleć prosząc o przemienienie, zawsze zachowali
-w sercu oną prośbę P. Jezusa: *Nie moja bądź wola, ale Twoja*. A jednak
+w sercu oną prośbę P. Jezusa: «Nie moja bądź wola, ale Twoja». A jednak
 często nieroztropnie myślą sobie ludzie, że byle było inaczej niż jest,
 to będzie tem samem i lepiej. Łudzą się tem, tak samo jak łudzą się ci,
 którym się zdaje, że wszędzie lepiej, niż tam gdzie oni są. Jeżeli komuś
@@ -49,25 +49,25 @@ też, że diabeł za dopuszczeniem Bożem przemienia się w anioła
 światłości, by ludzi w błąd wprowadzać, a nierzadką wreszcie jest
 rzeczą, że i sami ludzie, dla rozmaitych pobudek, zmyślają jakieś rzeczy
 nadzwyczajne. Bywają więc objawienia i prawdziwe i fałszywe. Jakże jedne
-od drugich rozeznać i zachować przestrogę św. Jana: *Nie każdemu duchowi
-wierzcie, ale doświadczajcie duchów, jeśli z Boga są?*
+od drugich rozeznać i zachować przestrogę św. Jana: «Nie każdemu duchowi
+wierzcie, ale doświadczajcie duchów, jeśli z Boga są?»
 Najbezpieczniejszy na to sposób jest, uważać jakie te objawienia wydają
 owoce? Komu P. Bóg dał łaskę prawdziwego objawienia, ten staje się
 pokorniejszym i posłuszniejszy,. Pokorniejszym stajemy się, kiedy nam
 ubywa wysokiego o sobie rozumienia, a zarazem pretensyj i wymagać
 rozmaitych, kiedy coraz mniej rościmy sobie prawa do tego, żeby o nas
-pamiętano, dogadzano, z nami się rachowano; -- potulniejszymi, kiedy
+pamiętano, dogadzano, z nami się rachowano; – potulniejszymi, kiedy
 coraz rzadziej się obrażamy, coraz mniej wybuchamy gniewem
 i niecierpliwością; poczciwszymi, kiedy stajemy się dla ludzi
-wyrozumialszymi, miłosierniejszymi; -- posłuszniejszymi wreszcie
+wyrozumialszymi, miłosierniejszymi; – posłuszniejszymi wreszcie
 będziemy, kiedy coraz chętniej, nie tylko uczynkiem spełniamy,
 ale i w sercu pochwalamy (a nigdy nie krytykujemy) rozkazy i polecenia
 tych, którym Bóg dał jakąkolwiek nad nami władzę: rodzicielską, doczesną
 lub duchowną. Daj Boże każdemu w tych czterech, tak bardzo potrzebnych
 cnotach, czynić ciągły postęp, czy za pomocą objawień, czy też bez nich.
 Na fałszywe objawienia szczególniej narażeni są tacy, którzy przez pustą
-ciekawość radziby doświadczyć sami na sobie takich nadzwyczajności, --
-dalej zarozumiali, -- że mają siebie jeśli nie za lepszych,
+ciekawość radziby doświadczyć sami na sobie takich nadzwyczajności, –
+dalej zarozumiali, – że mają siebie jeśli nie za lepszych,
 to przynajmniej nie za gorszych od wielkich nawet Świętych, i dlatego
 mniemają, że Święci z nieba powinni do nich przychodzić na pogadanki,
 jak równi do równych; wreszcie wiele próżnujący. Ktoby zaś umyślnie
@@ -80,16 +80,16 @@ z proroków. I jak Stary Zakon i prorocy zapowiadają przyjście Boskiego
 Zbawiciela, tak tu Mojżesz i Eljasz niejako poświadczają Apostołom, aby
 oni dalej świadczyli aż po krańce świata i aż do końca wieków, że tenci
 jest prawy Mesjasz, Bóg-Człowiek, Zbawiciel świata. I więcej jeszcze,
-sam Ojciec niebieski daje świadectwo: *Ten jest Syn mój miły, w którymem
-sobie dobrze upodobał; Jego słuchajcie*. Świadectwo to tak mocno wraziło
+sam Ojciec niebieski daje świadectwo: «Ten jest Syn mój miły, w którymem
+sobie dobrze upodobał; Jego słuchajcie». Świadectwo to tak mocno wraziło
 się w umysł i pamięć Apostołów, że św. Piotr jeszcze krótko
-przed śmiercią swoją mówi o niem te słowa: *Oznajmiliśmy wam moc
+przed śmiercią swoją mówi o niem te słowa: «Oznajmiliśmy wam moc
 i obecność Pana naszego, nie uwiedzeniu baśniami misternemi,
 ale przypatrzywszy się sami Wielmożności Jego. Bo wziął od Boga Ojca
 cześć i chwałę, gdy do Niego szedł głos takowy: Ten jest Syn mój,
 w którymem sobie ulubił, tego słuchajcie. A głos ten myśmy słyszeli
-z nieba przyniesiony, będąc z Nim na górze świętej*. I oparty na tem
-świadectwie wszystek Kościół św. wyznaje: *„Koniecznem jest do wiecznego
+z nieba przyniesiony, będąc z Nim na górze świętej». I oparty na tem
+świadectwie wszystek Kościół św. wyznaje: «Koniecznem jest do wiecznego
 zbawienia szczerze też wierzyć we Wcielenie Pana naszego Jezusa
 Chrystusa. Zatem prawdziwa wiara polega na tem, żeby wierzyć i wyznawać,
 iż P. N. Jezus Chrystus, Syn Boży, Bogiem jest i człowiekiem; Bogiem
@@ -106,8 +106,9 @@ ale przez to, że jedną tylko jest osobą, a to Osobą Boską. Bo jak dusza
 rozumna i ciało nie dwóch, ale jednego tylko stanowi człowieka, tak też
 Bóg i człowiek jednego stanowią Chrystusa Pana. Tac jest wiara
 katolicka, której kto nie trzyma się szczerze i mocno, ten nie może być
-zbawion"*. Tak czytamy w brewiarzu, przez Kościół św. dla księży
+zbawion». Tak czytamy w brewiarzu, przez Kościół św. dla księży
 do odmawiania wyraźnie nakazanym. Jest to wyznanie wiary, ułożone przez
 św. Atanazego.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

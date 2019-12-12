@@ -1,11 +1,11 @@
 
-\(1\) *Strzeżcie się fałszywych proroków.* Już w starym Zakonie bywali
-fałszywi prorocy, o których tak mówi P. Bóg u Jeremiasza: *Nie posyłałem
-proroków, a oni biegali; nie mówiłem do nich, a oni prorokowali.*
-Za czasów Apostołów również zjawiali się *mężowie mówiący przewrotności,
-aby odwiedli ucznie za sobą.* Przed przyjściem Antychrysta, przepowiada
-P. Jezus, że *powstaną fałszywi Chrystusowie i fałszywi prorocy,*
-a nawet i *czynić będą znaki wielkie i cuda,* oczywiście także fałszywe
+\(1\) «Strzeżcie się fałszywych proroków.» Już w starym Zakonie bywali
+fałszywi prorocy, o których tak mówi P. Bóg u Jeremiasza: «Nie posyłałem
+proroków, a oni biegali; nie mówiłem do nich, a oni prorokowali.»
+Za czasów Apostołów również zjawiali się «mężowie mówiący przewrotności,
+aby odwiedli ucznie za sobą.» Przed przyjściem Antychrysta, przepowiada
+P. Jezus, że «powstaną fałszywi Chrystusowie i fałszywi prorocy,»
+a nawet i «czynić będą znaki wielkie i cuda,» oczywiście także fałszywe
 tylko. Cóż dziwnego, że plemię to wyginąć nie może, i że gdy jedni
 zginą, rychło inni na ich miejsce powstają. Nie brak ich i w tych
 naszych czasach. Nie brak ich i w tych naszych czasach. Bo jak fałszywe
@@ -15,25 +15,25 @@ się fałszywych proroków w nieczem nie osłabia, ale przeciwnie potwierdza
 tę prawdę, że są i muszą być prawdziwi opowiadacze prawdy i wyroków
 Bożych, tj. rzeczywiście od Boga posłani. Fałszywych proroków słusznie
 P. Jezus każe się wystrzegać, żeby nie podkopali w nas wiary i powinnej
-uległości dla prawdziwych wysłanników Bożych, *miasto Chrystusa
-sprawujących do nas poselstwo* od Boga, i żeby nie zatruli w nas innych
+uległości dla prawdziwych wysłanników Bożych, «miasto Chrystusa
+sprawujących do nas poselstwo» od Boga, i żeby nie zatruli w nas innych
 cnót chrześcijańskich.
 
 \(2\) Po czemże poznać można fałszywych proroków? Różne są znaki.
-Najważniejszy jest ten, o którym mówi Paweł św.: *choćby my, albo Anioł
+Najważniejszy jest ten, o którym mówi Paweł św.: «choćby my, albo Anioł
 z nieba przepowiadał wam mimo to cośmy wam przepowiadali, niech będzie
-przeklęctwem.* Ktokolwiek głosi naukę przeciwną lub niezgodną z prawdą
+przeklęctwem.» Ktokolwiek głosi naukę przeciwną lub niezgodną z prawdą
 katolicką, ten fałszywym jest prorokiem. Takimi są nie tylko jawni
 heretycy, ale bywają też tacy, którzy urodzili się katolikami i jawnie
 nigdy Wiary świętej się nie wyparli. Mimo to głoszą po gazetach, przy
 wykładach, na wiecach lub w rozmowach zasady katolickim przeciwne, albo
 szkalują księży, biskupów i Papieża; i oni także są fałszywymi prorokami
-i do nich odnosi się przestroga Pisma św.: *Człowieka heretyka,
+i do nich odnosi się przestroga Pisma św.: «Człowieka heretyka,
 po pierwszem i wtórem strofowania się strzeż, wiedząc, iż jest wywrócony
-i grzeszy, gdyż jest własnym sądem potępiony.*\
+i grzeszy, gdyż jest własnym sądem potępiony.»\
 Drugi znak jest ten, że fałszywi prorocy żadnem nie mogą się wykazać
 posłannictwem ale są samozwańcami, jak to mamy w wyżej już przytoczonym
-ustępie Pisma św.: *Nie posyłałem proroków, a oni biegali.* Przybywają
+ustępie Pisma św.: «Nie posyłałem proroków, a oni biegali.» Przybywają
 ludzie nie wiedzieć skąd i po co, nie pytani ani nie proszeni
 i poczynają prawić, że to złe i owo złe, że oni mają i wiedzą sposoby,
 żeby wszystkiemu złemu zaradzić, aż w końcu poczynają przepowiadać, niby
@@ -51,9 +51,9 @@ w Królestwie swoim, a więc od Papieża, Biskupa, albo przynajmniej
 od miejscowego duszpasterstwa. Kto nie może się wykazać ani jednem, ani
 drugiem, ten fałszywym jest prorokiem.\
 Trzeci wreszcie znak, po którym najłatwiej poznać fałszywych proroków,
-jest ten, który Pan Jezus podaj w dzisiejszej Ewangelii: *z owoców ich
-poznacie je.* Owocem najznamienitszym, jaki wydaje nauka P. N. Jezusa
-Chrystusa, jest pokój. *Pokój mój daję wam, pokój mój zostawuję wam.*
+jest ten, który Pan Jezus podaj w dzisiejszej Ewangelii: «z owoców ich
+poznacie je.» Owocem najznamienitszym, jaki wydaje nauka P. N. Jezusa
+Chrystusa, jest pokój. «Pokój mój daję wam, pokój mój zostawuję wam.»
 Pokój ten jest trojaki: Rozpatrz się, czy ci samozwańczy prorocy
 przyczyniają pokoju z Bogiem, czyli raczej sprawiają, że ludzie o P.
 Bogu, czyli raczej sprawiają, że ludzie o P. Bogu coraz mniej pamiętają,
@@ -67,9 +67,9 @@ niezadowolenie, narzekanie, oraz miotać tobą poczęły rozmaite żądze
 i pragnienia zemsty, wywyższenia własnego itp.?
 
 \(3\) Najgorszego ze wszystkich fałszywych proroków nosimy w samym
-sobie, a jest nim przewrotna miłość własna, o której mówi P. Jezus: *Kto
+sobie, a jest nim przewrotna miłość własna, o której mówi P. Jezus: «Kto
 miłuje duszę swą traci ją, a kto nienawidzi duszę swą na tym świecie, ku
-wiecznemu żywotom i strzeże jej.* Ona to wbrew prawdzie Bożej po grzechu
+wiecznemu żywotom i strzeże jej.» Ona to wbrew prawdzie Bożej po grzechu
 usiłuje w nas wmówić, że nie jesteśmy tak winni, jak sumienie nas sądzi;
 przed grzechem i podczas pokusy przekonywa nas, że to nam koniecznie
 potrzebne, że bez tego żadną miarą się nie obejdziemy, że to dopiero
@@ -78,8 +78,8 @@ samo jak fałszywi prorocy, tyle ta miłość własna umie przywodzić racyj
 i tak wszystko pięknie i niby rozumnie przedstawia, że często w błąd
 wprowadza nawet i dobrych.
 
-\(4\) *Przychodzą do was w odzieniu owcze.* Ta przenośnia: *odzienie
-owcze,* poucza nas o sztuczkach, jakich zwykli używać fałszywi prorocy,
+\(4\) «Przychodzą do was w odzieniu owcze.» Ta przenośnia: «odzienie
+owcze,» poucza nas o sztuczkach, jakich zwykli używać fałszywi prorocy,
 żeby pozyskać zaufanie tych, do których przychodzą. Mianowicie więc
 starają się zastosować do zwyczajów i wymagań ludzkich. Choć o P. Jezusa
 nic nie dbają, przecież witają ludzi, mówiąc: Pochwalony Jezus Chrystus,
@@ -93,13 +93,14 @@ i skuteczną pomoc, a zarazem każdemu z osobna pochlebiają i każdemu się
 łaszą. Ganią zaś i surowo sadzą tylko nieobecnych. Tymczasem miłość ich
 tylko na ustach; wiele mówią i gadają, wiele też obiecują i wiele
 agitują, ale bardzo mało robią, a jeszcze to co robią, nie idzie
-na pożytek. O nich tak mówi P. Bóg u Ezechiela: *Będzie ręka moja
+na pożytek. O nich tak mówi P. Bóg u Ezechiela: «Będzie ręka moja
 na proroki, którzy widzą próżności a prorokują kłamstwo, w radzie ludu
 mego nie będą, a do pisma domu Izraelowego nie wnijdą ... przeto,
-że zwiedli lud mój, mówiąc: Pokój, a nie masz pokoju.* Nie porywajże się
+że zwiedli lud mój, mówiąc: Pokój, a nie masz pokoju.» Nie porywajże się
 na rzeczy, których ci P. Bóg nie zlecił, ale pilnuj tego, co do ciebie
 należy. Bardzo grzeszą fałszywi prorocy; ale nie małą też winę mają ci,
-co im się dają uwodzić. Otóż chowajmy napomnienie Pańskie: *Strzeżcie
-się pilnie fałszywych proroków.*
+co im się dają uwodzić. Otóż chowajmy napomnienie Pańskie: «Strzeżcie
+się pilnie fałszywych proroków.»
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+
