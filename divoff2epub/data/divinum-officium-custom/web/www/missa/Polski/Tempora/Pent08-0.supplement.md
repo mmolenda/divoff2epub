@@ -11,7 +11,7 @@ się nie zastanawia, i skutkiem tego niedokładnie je rozumie, ten
 niewiele więcej z tego słuchania odniesie pożytku, niż gdyby go wcale
 nie słuchał.
 
-\(2\) *Był niektóry człowiek bogaty, który miał włodarza.* Tym
+\(2\) «Był niektóry człowiek bogaty, który miał włodarza.» Tym
 człowiekiem bogatym jest P. Jezus, do którego należy niebo i ziemia.
 Wielcy panowie zwykli zlecać zarząd majątków swoich swoim pełnomocnikom,
 którzy w pewnych czasach obowiązani są składać Panu rachunki i dochody.
@@ -26,7 +26,7 @@ w swoim czasie przed Panem zdać liczbę z włodarstwa i z dorobku swego.
 Jeszcze niedawno temu, kiedy stary obyczaj i prawo Boże było w większem
 poszanowaniu, jeżeliś gdzie na wsi zapytał gospodarza, czyje to pole
 i czyje to woły, którym rolę uprawiał, zawsześ otrzymywał odpowiedź, że:
-*„najprzód Boże, a potem moje"*. Niejeden tak odpowiadając, może nawet
+«najprzód Boże, a potem moje». Niejeden tak odpowiadając, może nawet
 nie pomyślał o tem, jak rozumną i prawdziwie chrześcijańską dawał
 odpowiedź. Ale ty, z łaski Opatrzności w tem ziemskiem życiu wyżej
 stanąwszy nad innymi majątkiem, władzą, staowiskiem, nauką, rozumem,
@@ -37,7 +37,7 @@ Pan i Bóg twój, a ty tylko jesteś u Niego rządcą odpowiedzialnym,
 obowiązanym do dorobku czyli przyczyniania chwały Bogu i do zdania
 ścisłej liczby z włodarstwa twego.
 
-\(3\) *Rozproszył dobra jego.* O tym włodarzu nie mówi Ewangelja,
+\(3\) «Rozproszył dobra jego.» O tym włodarzu nie mówi Ewangelja,
 żeby był się wzbogacił krzywdą pana swego, ale rozproszył, żyjąc ad stan
 i możność swoją. Był kiedyś pewien rządca, pobierający kilkaset złotych
 rocznej płacy i skromną ordynarję, a gości przyjmował często i suto,
@@ -51,13 +51,13 @@ i dziś narzekają ludzie na P. Boga, że chyba zapomniał o tylu biednych,
 co przy wielkich wysiłkach nieraz wyżywić się nie mogą, a niejedni
 gorzej jeszcze robią, bo poczynają wygadywać, że P. Boga chyba wcale nie
 ma, kiedy tak źle na świecie. Któż temu winien? Po wielkiej części
-plenipotenci, rządcy i włodarze Boży, którzy, z małymi wyjątkami, *co
-ich jest, szukają,* jak mówi Pismo św., *nie co jest Jezusa Chrystusa,*
+plenipotenci, rządcy i włodarze Boży, którzy, z małymi wyjątkami, «co
+ich jest, szukają,» jak mówi Pismo św., «nie co jest Jezusa Chrystusa,»
 i rozpraszają dobra Pańskie na swoje wygórowane potrzeby, zamiast niemi
 zawiadywać według Jego woli.
 
-\(4\) *Oddaj liczbę włodarstwa twego, albowiem już włodarzyć nie
-będziesz mógł.* Słowo to każdy z ust Pańskich słyszy, a niejeden w sercu
+\(4\) «Oddaj liczbę włodarstwa twego, albowiem już włodarzyć nie
+będziesz mógł.» Słowo to każdy z ust Pańskich słyszy, a niejeden w sercu
 już nieraz je usłyszał, ale niestety podobno go nie usłuchał. Słowa te
 są groźbą nie słabego człowieka, który nie zawsze może spełnić swą
 groźbę, ale Boga wszechpotężnego, który w każdej chwili, jako najwyższy
@@ -65,16 +65,16 @@ Pan, zawezwać może niewiernego sługę do ciężkiej odpowiedzialności.
 Ale Pan Bóg jest zarazem Ojcem naszym i miłuje nas, więc poucza
 i ostrzega, żebyśmy na oślep nie narażali się na straszne i nieuniknione
 skutki lekkomyślności i przewrotności. Ile razy śmierć zaglądała ci
-w oczy, to P. Bóg cię ostrzegał: *oddaj liczbę ... już włodarzyć nie
-będziesz.* Nieraz sumienie głośniej przemawiało, -- to P. Bóg
-przestrzegał: *zdawaj liczbę, już włodarzyć nie będziesz.* Czasem
+w oczy, to P. Bóg cię ostrzegał: «oddaj liczbę ... już włodarzyć nie
+będziesz.» Nieraz sumienie głośniej przemawiało, – to P. Bóg
+przestrzegał: «zdawaj liczbę, już włodarzyć nie będziesz.» Czasem
 groziło niebezpieczeństwo utraty majątku, stanowiska, dobrej sławy lub
-innych dóbr, -- to P. Bóg przestrzegał: *zdaj liczbę, już włodarzyć nie
-będziesz.* Dzisiejsze, tak groźne i niespokojne czasy, kiedy zanosi się
+innych dóbr, – to P. Bóg przestrzegał: «zdaj liczbę, już włodarzyć nie
+będziesz.» Dzisiejsze, tak groźne i niespokojne czasy, kiedy zanosi się
 na powszechny kataklizm i przewrót wszystkich stosunków istniejących,
 kiedy trwoga i bezradność coraz szersze ogarnia koła, są jeno jednem
 wielkiem ostrzeżeniem Bożem do wszystkich, którzy coś w świecie znaczą:
-*zdawajcie liczbę ... już włodarzyć nie będziecie.*
+«zdawajcie liczbę ... już włodarzyć nie będziecie.»
 
 \(5\) Chociaż po swojemu, a prawdziwie po złodziejsku, a przecież
 skorzystał z danej mu przestrogi włodarz ewangeliczny i za to go pan
@@ -92,11 +92,11 @@ plam. Porachuj się, zalęknij i zawstydź i bodaj raz wyspowiadaj się
 z sercem skruszonem i upokorzonem.
 
 \(6\) Wyspowiadawszy się, radź o swej przyszłości, póki jeszcze Pan
-zostawia cię przy włodarstwie twojem i *czyń sobie przyjaciołu z mamony
+zostawia cię przy włodarstwie twojem i «czyń sobie przyjaciołu z mamony
 niesprawiedliwości, aby gdy ustaniesz, przyjęli cię do wiecznych
-przybytków.* Powiedział P. Jezus najprzód *ubogich w duchu,* a po wtóre
-o tych, *którzy prześladowanie cierpią dla sprawiedliwości, że ich jest
-królestwo niebieskie.* Pomiędzy tymi więc *jednaj sobie przyjaciół.*
+przybytków.» Powiedział P. Jezus najprzód «ubogich w duchu,» a po wtóre
+o tych, «którzy prześladowanie cierpią dla sprawiedliwości, że ich jest
+królestwo niebieskie.» Pomiędzy tymi więc «jednaj sobie przyjaciół.»
 Ubogim wedle możności twojej dostarczaj chleba, innym zarobku, dbaj
 o sługi twoje, jakby o dzieci przybrane. Cierpiących dla sprawiedliwości
 pocieszaj, a dziękuj P. Bogu, jeżeli pozwoli ci razem z nimi pracować,
@@ -105,4 +105,5 @@ Wtenczas życie twoje przestanie być czczem i szarem, a Pan pozwoli ci
 włodarzyć tak długo, aż sam, wraz z Świętymi, będzie mógł cię przyjąć
 do przybytków wiecznych.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

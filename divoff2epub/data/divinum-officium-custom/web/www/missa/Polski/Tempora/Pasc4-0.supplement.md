@@ -4,12 +4,12 @@ ostatniej wieczerzy. Kładzie ją zaś Kościół św. na tę niedzielę dlateg
 że zawiera w sobie jakby przygotowanie na uroczystość Wniebowstąpienia
 i Zesłanie Ducha Św.
 
-\(1\) *Idę do tego, który mię posłał.* Zapowiada P. Jezus uczniom
+\(1\) «Idę do tego, który mię posłał.» Zapowiada P. Jezus uczniom
 bliskie odejście swoje przez śmierć, powrót Swój do Ojca i chwały
 wiekuistej przez Wniebowstąpienie, a wreszcie Zesłanie Ducha Św.
 po Wniebowstąpieniu. Uczniowie jednak tak są pogrążeni w smutku, że nic
 nie rozumieją z tego wszystkiego, co im P. Jezus mówi, i chociaż ich
-pociesza i tłumaczy im: *pożyteczno wam, abym ja odszedł*, oni jakby
+pociesza i tłumaczy im: «pożyteczno wam, abym ja odszedł», oni jakby
 tego nie słyszą. To samo bywa i z nami, że kiedy nas ogarnie smutek,
 trwoga, gniew lub jakakolwiek inna namiętność, nic już prawie nie
 pojmujemy z tego, co nam mówi wiara i zdrowy rozsądek. W takich też
@@ -20,14 +20,14 @@ wobec samego siebie rozmaitemi racjami ten nasz smutek, trwogę, gniew
 i tym podobne namiętności nie godzi się, bo to niechybnie prowadzi
 do różnych, nieraz bardzo ciężkich, upadków.
 
-\(2\) *Żaden z was nie pyta mię: dokąd idziesz.* Słuszniej jeszcze
+\(2\) «Żaden z was nie pyta mię: dokąd idziesz.» Słuszniej jeszcze
 mógłby P. Jezus nam podobny uczynić zarzut: Żaden z was nie pyta samego
-siebie: dokąd idziesz? P. Jezus na pytanie: *dokąd idziesz?* mógł
+siebie: dokąd idziesz? P. Jezus na pytanie: «dokąd idziesz?» mógł
 bezpiecznie i z prawdą odpowiedzieć, że idzie do Ojca, do nieba. Ale ja?
-Dokąd ja idę? Wyrokiem Bożym *postanowiono ludziom raz umrzeć, a potem
-sąd.* Wszyscyśmy skazani na śmierć; ile godzin, dni i lat żyjemy, tyle
+Dokąd ja idę? Wyrokiem Bożym «postanowiono ludziom raz umrzeć, a potem
+sąd.» Wszyscyśmy skazani na śmierć; ile godzin, dni i lat żyjemy, tyle
 zbliżamy się do śmierci, a tem samem idziemy na sąd, a po sądzie
-*pójdzie człowiek do domu wieczności swej*. Jest przysłowie, które mówi,
+«pójdzie człowiek do domu wieczności swej». Jest przysłowie, które mówi,
 że wszystkie drogi prowadzą do Rzymu; ale z daleko większą prawdą można
 i trzeba powiedzieć, że jakiemikolwiek drogami przejdziesz przez życie,
 ostatecznie zawsze dojdziesz do śmierci, zajdziesz na sąd, a zatrzymasz
@@ -38,7 +38,7 @@ zajdziesz do piekła. Pytaj zatem samego siebie dokąd idziesz? Czy idąc
 dalej dotychczasową drogą twoją, będziesz zbawiony, czy też będziesz
 musiał być potępiony?
 
-\(3\) *Prawdę wam powiadam, pożyteczno wam, abym ja odszedł.* Pociesza
+\(3\) «Prawdę wam powiadam, pożyteczno wam, abym ja odszedł.» Pociesza
 P. Jezus uczniów swoich, zasmuconych zapowiedzią Jego odejścia, nie jak
 to ludzie nieraz czynią, jakiemiś złudnemi obietnicami, ale szczerą
 prawdą, tj. ukazując im pożytek, jaki to odejście Jego miało na nich
@@ -68,7 +68,7 @@ kapłańskie. Biada takim fałszywym przyjaciołom i zwodniczym
 pocieszycielom, bo ciężka czeka ich odpowiedzialność na sądzie Bożym!
 A grzeszą w ten sposób nie tyle ludzie prości, bo oni z niczem sobie,
 więc i ze śmiercią, nie robią ceremonji, jak raczej inteligentni
-i wykształceni. Oni to nierzadko -- mimo swego wykształcenia -- nie chcą
+i wykształceni. Oni to nierzadko – mimo swego wykształcenia – nie chcą
 jakoś zrozumieć, że jeżeli chodzi rzeczywiście o oszczędzenie choremu
 przykrego wrażenia, to należałoby nie dopuszczać do niego nie tylko
 księdza, ale też nie więcej niż jednego lekarza, ani też nie sprowadzać
@@ -85,17 +85,17 @@ także i zdrowiu ciała. Mów choremu prawdę, że stan jego jest groźny,
 oddał, a wyświadczysz mu tem przysługę, za którą ci będzie wdzięczny
 przez wdzięczność całą.
 
-\(4\) *Duch św. Pocieszyciel ma karać świat z grzechu, sądu
-i sprawiedliwości.* Jakież znaczenie tych słów? Mowa tu nie o martwym
+\(4\) «Duch św. Pocieszyciel ma karać świat z grzechu, sądu
+i sprawiedliwości.» Jakież znaczenie tych słów? Mowa tu nie o martwym
 świecie Bożym czyli naturze, ale o ludziach takich, którzy poza tym
 światem widzialnym nie chcą nic widzieć. Jest to ten świat, o którym
-mówi Jan św.: *Nie miłujcie świata, ani tego, co jest na świecie. Jeśli
+mówi Jan św.: «Nie miłujcie świata, ani tego, co jest na świecie. Jeśli
 kto miłuje świat, nie masz w nim synowskiej miłości. Albowiem wszystko,
 co jest na świecie, jest pożądliwość ciała, i pożądliwość oczu i pycha
 żywota, która nie jest z Ojca, ale jest z świata. A świat przemija,
-i pożądliwość jego. Lecz kto czyni wolę Bożą, trwa na wieki.* Ten świat
-więc Duch Św. *przekona*, *dowiedzie mu*, bo łacińskie słowo *arguet*
-to raczej oznacza, niż *będzie karał*, jak jest w polskiem tłumaczeniu
+i pożądliwość jego. Lecz kto czyni wolę Bożą, trwa na wieki.» Ten świat
+więc Duch Św. «przekona», «dowiedzie mu», bo łacińskie słowo «arguet»
+to raczej oznacza, niż «będzie karał», jak jest w polskiem tłumaczeniu
 Ewangelji. Przekona go 1) o grzechu, tj. że świat i ludzie za światem
 idący nie wierzący P. Jezusowi, trwają w grzechu, bo bez szczerej wiary
 w Pana Jezusa nie masz odpuszczenia grzechów; 2) o sprawiedliwości, tzn.
@@ -108,14 +108,15 @@ pogańskich, oraz w sercach, a nieraz i w ciałach ludzkich. To niniejsze
 zaś pokonanie szatana jest tylko zapowiedzią i początkiem wiecznego
 potępienia, jakie jego i jego zwolenników czeka w dniu ostatecznym.
 
-\(5\) *Gdy przyjdzie on Duch prawdy, nauczy was wszelkiej prawdy.*
+\(5\) «Gdy przyjdzie on Duch prawdy, nauczy was wszelkiej prawdy.»
 Patrz, jak wysoko ceni P. Jezus prawdę? Ducha Świętego, trzecią osobę
-Trójcy św. nazywa *Duchem prawdy.* O sobie mówi: *Jam jest prawda*,
-do Piłata: *Jam się na to narodził i na tom przyszedł na świat, abym
+Trójcy św. nazywa «Duchem prawdy.» O sobie mówi: «Jam jest prawda»,
+do Piłata: «Jam się na to narodził i na tom przyszedł na świat, abym
 świadectwo dał prawdzie. Wszelki, który jest z prawdy, słucha głosu
-mego,* do uczniów zaś powiada: *Poznacie prawdę, a prawda was
-wyswobodzi.* Czy cenisz prawdę, czy dbasz o nią i starasz się ją poznać?
+mego,» do uczniów zaś powiada: «Poznacie prawdę, a prawda was
+wyswobodzi.» Czy cenisz prawdę, czy dbasz o nią i starasz się ją poznać?
 Jak jej przestrzegasz w słowach i mowach swoich, w postępowaniu i życiu
 swojem?
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

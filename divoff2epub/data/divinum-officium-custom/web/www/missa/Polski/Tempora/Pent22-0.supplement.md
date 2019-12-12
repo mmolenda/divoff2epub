@@ -1,5 +1,5 @@
 
-\(1\) *Faryzeuszowie radzili się, jakoby Jezusa podchwycili w mowie.*
+\(1\) «Faryzeuszowie radzili się, jakoby Jezusa podchwycili w mowie.»
 W nienawiści swojej do P. Jezusa na różne wpadali pomysły, żeby Go
 zgubić, już to sami, już też przez sługi swoje. Chcieli Go porwać,
 ale się lękali ludu, który Go czcił jako Proroka posłanego od Boga;
@@ -29,39 +29,39 @@ wolny od tak właściwej ludziom miłości własnej, która sprawia, że sło
 uznania ujmują nas i pod ich wpływem stajemy się podatniejszymi dla
 tych, co nas niemi obdarzają. Po ludzku mówiąc, faryzeusze obmyślili
 zasadzkę bardzo mądrze, ale przez to stwierdzili tylko słowa Pisma ś.
-*Mądrość świata tego głupstwem jest u Boga; bo napisano jest: Pojman
-mędrce w chytrości ich,* i: *Pan zna myśli mędrców, iż są próżne,*
-tudzież, *nie masz rady przeciw Bogu.*
+«Mądrość świata tego głupstwem jest u Boga; bo napisano jest: Pojman
+mędrce w chytrości ich,» i: «Pan zna myśli mędrców, iż są próżne,»
+tudzież, «nie masz rady przeciw Bogu.»
 
-\(3\) *Nauczycielu, wiemy, iżeś jest prawdziwy i drogi Bożej w prawdzie
+\(3\) «Nauczycielu, wiemy, iżeś jest prawdziwy i drogi Bożej w prawdzie
 nauczasz, a nie dbasz na nikogo, albowiem nie oglądasz sią na osobę
-ludzką.* Trzy zalety, choć podstępnie, a jednak zgodnie z prawdą
+ludzką.» Trzy zalety, choć podstępnie, a jednak zgodnie z prawdą
 przyznają faryzeusz P. Jezusowi: (1) Że jest prawdziwy, czyli
 prawdomówny, bo mówi tak jak rozumie i myśli, a nigdy nie kłamie ani nie
 udaje. (2) Przyznają P. Jezusowi, że naucza drogi Bożej, to znaczy zasad
-wiodących do Boga, i że naucza tych zasad *w prawdzie*, bo prawdę ich
+wiodących do Boga, i że naucza tych zasad «w prawdzie», bo prawdę ich
 stwierdza dowodami z Pisma św. i cudami, a przede wszystkiem własnym
-przykładem. (3) Chwalą faryzeusze P. Jezusa, że ni *ogląda się na osobę
-ludzką*, to znaczy, że nie powoduje się względami ludzkimi, ale wobec
+przykładem. (3) Chwalą faryzeusze P. Jezusa, że ni «ogląda się na osobę
+ludzką», to znaczy, że nie powoduje się względami ludzkimi, ale wobec
 maluczkich i wielkich, wobec prostaczków i uczonych wszędzie i zawsze ma
 odwagę wyznawać prawdę Bożą. Obyśmy i my mieli tę świętą szlachetną
 odwagę katolickich przekonań, a nigdy ani słowem, ani czynem ich się nie
 zapierali dla względów ludzkich!
 
-\(3\) *Jezus poznawszy złość ich rzekł: Czemu mię kusicie obłudnicy?*
+\(3\) «Jezus poznawszy złość ich rzekł: Czemu mię kusicie obłudnicy?»
 Wobec Boga nic nie ma ukrytego i tylko to, co jest szczere, u Niego
 popłaca. Brak szczerości sprawił, że Ananjasz i Safira zamiast nagrody
 za ofiarę swoją, nagłą ponieśli śmierć. Szymon czarnoksiężnik niby
-nawrócony, iż *serce jego nie było proste przed Bogiem,* kiedy
+nawrócony, iż «serce jego nie było proste przed Bogiem,» kiedy
 za pieniądze chciał otrzymać Ducha Świętego, usłyszał z ust Piotra
-św. to straszne słowo: *pieniądze twoje niech z tobą będą
-na zaginienie.* Podobnież brak szczerości w wyznawaniu grzechów
+św. to straszne słowo: «pieniądze twoje niech z tobą będą
+na zaginienie.» Podobnież brak szczerości w wyznawaniu grzechów
 śmiertelnych lub w postanowieniu poprawienia się z nich ze Sakramentu
 pokuty czyni świętokradztwo. Brak szczerości w składaniu ofiary, choćby
 najhojniejszej i na najświętsze cele, jeżeli ją dajesz dla samolubnych
 pobudek, pozbawia cię wszelkiej nagrody u Boga.
 
-\(4\) *Czyj jest ten obraz i napis?* *Rzekli mu: Cesarski.* Pytaniem
+\(4\) «Czyj jest ten obraz i napis?» «Rzekli mu: Cesarski.» Pytaniem
 swojem zmusza Pan Jezus przeciwników swoich do przyznania, że korzystali
 z rządów cesarskich w tem, co im było potrzebne, pożyteczne lub dogodne,
 jako to: z pieniędzy dających im dobrobyt, z wojska, broniącego
@@ -71,8 +71,8 @@ z rządów cesarskich, przyjęli też tem samem obowiązki względem tychże
 rządów. Tak uzasadniwszy wprzód odpowiedź swoją, udaremnia Pan Jezus
 złość faryzeuszów.
 
-\(5\) *Oddajcież tedy, co jest cesarskiego, cesarzowi, a co Bożego
-Bogu.* Przyznaje więc Pan Jezus słuszność herodjanom, że należy podatki
+\(5\) «Oddajcież tedy, co jest cesarskiego, cesarzowi, a co Bożego
+Bogu.» Przyznaje więc Pan Jezus słuszność herodjanom, że należy podatki
 płacić cesarzowi, przyznaje ją i faryzeuszom, że i Bogu należy oddawać,
 co Mu się należy, ale zarazem jednych i drugich poucza, że dwa te
 obowiązki względem Boga i cesarza bynajmniej się nie wykluczają,
@@ -80,18 +80,18 @@ ale doskonale powinny i mogą ze sobą się godzić. Nauka ta P. Jezusa
 odnosi się nie tylko do owych czasów, ale obowiązuje i dziś i po
 wszystkie wieki. Bo dwie są władze, jedna duchowna a druga świecka:
 każda z nich ma odrębny swój zakres działania. Obie jednak postanowione
-są *od Boga* i dlatego jak o jednej tak i o drugiej napisano: *Kto się
-sprzeciwia zwierzchności, sprzeciwia się postanowieniu Bożemu;* a którzy
-się *sprzeciwiają, ci potępienia sobie nabywają.* Z drugiej strony atoli
-wszelka zwierzchność tak duchowna jak świecka, dla tego samego, że *jest
-od Boga* nie tylko ustanowiona, ale i zależna, ma obowiązek nie
+są «od Boga» i dlatego jak o jednej tak i o drugiej napisano: «Kto się
+sprzeciwia zwierzchności, sprzeciwia się postanowieniu Bożemu;» a którzy
+się «sprzeciwiają, ci potępienia sobie nabywają.» Z drugiej strony atoli
+wszelka zwierzchność tak duchowna jak świecka, dla tego samego, że «jest
+od Boga» nie tylko ustanowiona, ale i zależna, ma obowiązek nie
 zarządzać nic takiego, coby sprzeciwiało się przykazaniom Bożym i nigdy
 nie przekraczać granic zakresu jej powierzonego. Ilekroć więc jaka
 zwierzchność, czy to papież, biskup czy ksiądz, czy też minister lub
 urzędnik jaki nakazwywałby coś przeciwnego przykazaniom Bożym, czyli coś
 takiego, coby jawnym było grzechem, w takim razie nie tylko nie ma
 obowiązku, ale nawet nie wolno rozkazu lub ustawy takiej słuchać, bo
-*więcej trzeba słuchać Boga niż ludzi.* To jednak, co niektórzy twierdz,
+«więcej trzeba słuchać Boga niż ludzi.» To jednak, co niektórzy twierdz,
 jakoby należało każde rozporządzenie zwierzchności pilnie badać, czy
 zgodne jest z wolą Bożą, jest przesadą przeciwną nauce Kościoła, według
 której rozkaz zwierzchności obowiązuje, skoro nie nakazuje jawnego
@@ -102,4 +102,5 @@ do małżeństw i rozwodów, a sprzeczne z takiemiż rozporządzeniami wład
 duchownej, to przekracza granice swego zakresu i rozporządzenie jej
 do niczego nie upoważnia, bo jest nieważne.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

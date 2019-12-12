@@ -4,15 +4,15 @@ uczestnikami szczególniejszych darów Bożych. Jak trędowaci byli dobrze
 świadomi swojej nędzy, gorąco pragnęli jej się pozbyć, rozumieli też,
 że łaska P. Jezusa może im to sprawić i dlatego dowiedziawszy się
 o zbliżaniu się Jego, prędko bez straty czasu porozumieli się ze sobą
-i *zabieżyli Mu drogę,* a z uszanowania i pokory *stanęli z daleka
-i podnieśli głos, mówiąc: Jezusie Nauczycielu, zmiłuj się nad nami,*
+i «zabieżyli Mu drogę,» a z uszanowania i pokory «stanęli z daleka
+i podnieśli głos, mówiąc: Jezusie Nauczycielu, zmiłuj się nad nami,»
 i wreszcie ściśle spełnili, co im P. Jezus nakazał, tak samo i nam
 potrzeba czynić. Jeśli chcemy być wysłuchani, musimy gorąco pragnąć
 tego, o co prosimy, musimy być przejęci świadomością naszej własnej
-niemocy, *nie iżbyśmy byli dostateczni sami z siebie co myśleć, jako
-sami z siebie, ale dostateczność nasza z Boga jest,* musimy wreszcie tem
+niemocy, «nie iżbyśmy byli dostateczni sami z siebie co myśleć, jako
+sami z siebie, ale dostateczność nasza z Boga jest,» musimy wreszcie tem
 więcej ufać w P. Boga, im więcej wątpimy o sobie. Gdzie są te trzy
-warunki, tam nie trudno też o ono *zabieżenie P. Jezusowi,* czyli
+warunki, tam nie trudno też o ono «zabieżenie P. Jezusowi,» czyli
 o korzystanie z każdej okazji zbliżenia się P. Jezusa ku nam. Taką
 okazją jest obecność ustawiczna P. Jezusa w Przenajśw. Sakramencie,
 zwłaszcza w tych porach dnia, w których on przez innych jest prawie
@@ -22,45 +22,45 @@ uproszenia wszelkich, choćby największych i nadzwyczajnych łask, jest
 Msza św. Są i inne nadzwyczajne okazje, mianowicie miejsca cudowne
 i odpusty jubileuszowe, przy których masz zarazem i one zwyczajne okazje
 Gdyby ludzie chcieli to zrozumieć i należycie korzystać z różnych i tak
-łatwych sposobności, to prędkoby się przekonali, że *nie ukróciła się
-ręka Pańska*, i że modlitwa przestała być prawdziwą potęgą.
+łatwych sposobności, to prędkoby się przekonali, że «nie ukróciła się
+ręka Pańska», i że modlitwa przestała być prawdziwą potęgą.
 
-\(2\) *Gdy ujrzał.* Spojrzenie Pana i Boga naszego jest niepojęcie
-potężne i dobroczynne. Tak masz w Piśmie św.: *Bóg pojrzał na ziemię
-i ... napełnił ją dobrami swemi:* Matka Najświętsza mówi: *Wejrzał
+\(2\) «Gdy ujrzał.» Spojrzenie Pana i Boga naszego jest niepojęcie
+potężne i dobroczynne. Tak masz w Piśmie św.: «Bóg pojrzał na ziemię
+i ... napełnił ją dobrami swemi:» Matka Najświętsza mówi: «Wejrzał
 na nizkość służebnicy swojej, a ... oto odtąd błogosławioną mię zwać
-będą wszystkie narody.* I o Piotrze św. czytamy, że *Pan, obróciwszy
-się, pojrzał na Piotra ... a Piotr wyszedłszy precz, gorzko płakał.*
+będą wszystkie narody.» I o Piotrze św. czytamy, że «Pan, obróciwszy
+się, pojrzał na Piotra ... a Piotr wyszedłszy precz, gorzko płakał.»
 A wreszcie ono spojrzenie P. Jezusa, które dało nam Matkę Jego
-Najświętszą za Matkę najlepszą i najserdeczniejszą: *gdy tedy ujrzał
+Najświętszą za Matkę najlepszą i najserdeczniejszą: «gdy tedy ujrzał
 Jezus Matkę i ucznia, którego miłował, stojącego, rzekł Matce swojej:
-Niewiasto, oto syn Twój; potem rzekł uczniowi: Oto Matka twoja.* Daj
+Niewiasto, oto syn Twój; potem rzekł uczniowi: Oto Matka twoja.» Daj
 Boże każdemu z nas, aby P. Jezus spoglądał na nas i teraz w życiu,
 a szczególnie w godzinie  śmierci łaskawem swojem i miłościwem okiem;
 ale też daj nam to Boże, żebyśmy nigdy ani na chwilę nie zapominali,
 że jesteśmy pod okiem Twojem, serce i wnętrzności nasze przenikającem
-i *widzącem w skrytości.*
+i «widzącem w skrytości.»
 
-\(3\) *Idźcie, ukażcie się kapłanom.* Mógł P. Jezus i tych dziesięciu
-trędowatych uzdrowić jednym aktem swej woli: *chcę, bądźcie
-oczyszczeni.* Dlaczego tedy odsyła ich do kapłanów? Podobno są tego
+\(3\) «Idźcie, ukażcie się kapłanom.» Mógł P. Jezus i tych dziesięciu
+trędowatych uzdrowić jednym aktem swej woli: «chcę, bądźcie
+oczyszczeni.» Dlaczego tedy odsyła ich do kapłanów? Podobno są tego
 główne trzy przyczyny. Pierwsza, że chciał P. Jezus zaznaczyć, jak
 wielka jest powaga kapłanów przez Niego postanowionych, gdyby nawet byli
 tak, jak większa część ówczesnych kapłanów, obłudnikami w najgorszem
 tego słowa znaczeniu. Wszak i odpuszczenie grzechów daje ni kto inny,
 jeno sam P. Jezus, a jednak grzeszników po nie odsyła do kapłanów swoich
-z wyraźnym nakazem: *okażcie się kapłanom*, to znaczy okażcie im grzechy
+z wyraźnym nakazem: «okażcie się kapłanom», to znaczy okażcie im grzechy
 swoje, wyznajcie je szczerze, bez ogródki, niczego przed nimi nie
 ukrywając. Ma też każdy dozwolony przystęp do P. Boga i każdy, by też
-ostatni nędzarz, ma prawo wołać i prosić: *Ojcze nasz, któryś jest
-w niebiesiech*, a jednak najskuteczniejszą modlitwę, którą jest Msza
+ostatni nędzarz, ma prawo wołać i prosić: «Ojcze nasz, któryś jest
+w niebiesiech», a jednak najskuteczniejszą modlitwę, którą jest Msza
 św., zlecił P. Bóg wyłącznie kapłanom i po nią odsyła wszystkich
-do kapłanów, jako jest u proroka: *Między przysionkiem a ołtarzem będą
+do kapłanów, jako jest u proroka: «Między przysionkiem a ołtarzem będą
 płakać kapłani, słudzy Pańscy, a będą mówić: Przepuść Panie, przepuść
 ludowi Twemu ... żalem zdjęty jest Pan nad ziemią swoją, a przepuścił
-ludowi swemu.* Chociaż P. Bóg tylko jest Panem, przecież daje kapłanom
-moc rozkazywania i zakazywania i wyraźnie mówi do nich: *kto was słucha,
-Mnie słucha, a kto wami gardzi, Mną gardzi.*
+ludowi swemu.» Chociaż P. Bóg tylko jest Panem, przecież daje kapłanom
+moc rozkazywania i zakazywania i wyraźnie mówi do nich: «kto was słucha,
+Mnie słucha, a kto wami gardzi, Mną gardzi.»
 
 \(4\) Drugim powodem tego odesłania trędowatych do kapłanów jest ustawa
 Mojżeszowa, która dla bezpieczeństwa od zarazy wykluczała trędowatych
@@ -71,14 +71,14 @@ do władzy świeckiej, niż do duchownej. Gorszy jednak i zaraźliwszy
 od trądu jest grzech i władza duchowna korzysta z prawa danego jej
 od Boga, żeby szczególnie niebezpiecznych dla wiernych grzeszników
 wykluczać ze społeczności chrześcijańskiej. Już Paweł św. nakazuje:
-*Pisałem wam w liście, abyście się nie mieszali z porubnikami ... lecz
+«Pisałem wam w liście, abyście się nie mieszali z porubnikami ... lecz
 teraz pisałem wam, żebyście się mieszali, jeśli ten, który się bratem
 mianuje, jest porubnikiem, albo łakomym, albo służącym bałwanom, albo
 złorzeczącym, albo pijanica, albo drapieżca, żebyście z takowymi ani
-jedli.* Takie wykluczenie nazywamy ekskomuniką. Ekskomunika zaś wydana
+jedli.» Takie wykluczenie nazywamy ekskomuniką. Ekskomunika zaś wydana
 przez władzę duchowną obowiązuje i ekskomunikowanego i wszystkich
-wiernych pod grozą słów Pańskich: *Jeśliby Kościoła nie usłuchał, niech
-ci będzie jak poganin i celnik.*
+wiernych pod grozą słów Pańskich: «Jeśliby Kościoła nie usłuchał, niech
+ci będzie jak poganin i celnik.»
 
 \(5\) Trzecim wreszcie powodem jest wykazanie potrzeby naszego
 współdziałania z każdą łaską Bożą. Gdyby trędowaci nie byli usłuchali
@@ -107,8 +107,9 @@ najbiedniejszym między ludźmi, to przecież jesteś o wiele szczęśliwszy
 od biednych pogan, Turków i żydów, nie znających Boga, ani Matki
 Najświętszej i nie mających nadziei wiecznego zbawienia. Oduczże się
 i zaprzestań już raz tego narzekania i gryzienia się, a raczej usłuchaj
-Apostoła upominającego: *Zawsze się weselcie ... we wszystkiem
+Apostoła upominającego: «Zawsze się weselcie ... we wszystkiem
 dziękujcie, albowiem ta jest wola Boża w Chrystusie Jezusie, ku nam
-wszystkim.*
+wszystkim.»
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

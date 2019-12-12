@@ -3,18 +3,18 @@
 korzysta z każdej sposobności, żeby faryzeuszów doprowadzić do uznania
 prawdy i do zbawienia. W dzisiejszej Ewangelji po dwakroć daje im dowód
 najprzód wszechwiedzy, a potem wszechmocy, a więc boskości swojej. Bo
-kiedy *mówili sami w sobie, myśląc w sercach swoich: Ten bluźni,* bo Pan
+kiedy «mówili sami w sobie, myśląc w sercach swoich: Ten bluźni,» bo Pan
 Jezus im okazuje, że zna ich myśli, co sam tylko Bóg może. Również
 dowodzi im P. Jezus wszechmocności swojej, bo kiedy faryzeusze posądzali
-Go o bluźnierstwa, za to, że odpuszcza grzechy, -- co także tylko Bóg
-może, -- P. Jezus, uzdrawiając jednem słowem chorego, okazuje im drugi
+Go o bluźnierstwa, za to, że odpuszcza grzechy, – co także tylko Bóg
+może, – P. Jezus, uzdrawiając jednem słowem chorego, okazuje im drugi
 dowód bóstwa swojego, tj. wszechmoc. Odpuszczenie komuś grzechów dzieje
 się w duszy, nie można go stwierdzić zmysłami, tak jak uzdrowienie
-paralityka. Na zapytanie zaś P. Jezusa: *„co jest łacniej"*, musieli
+paralityka. Na zapytanie zaś P. Jezusa: «co jest łacniej», musieli
 sobie odpowiedzieć, że jedno i drugie jest równie łatwe dla Boga
 i równie niemożebne dla człowieka, któryby nie był zarazem Bogiem.
 
-\(2\) *Odpuszczają się grzechy twoje.* Jak powietrzem ruszony, aby być
+\(2\) «Odpuszczają się grzechy twoje.» Jak powietrzem ruszony, aby być
 uzdrowionym, potrzebował z ufnością zbliżyć się do P. Jezusa i innych
 dopełnić warunków, podobnie każdy, kto pragnie odpuszczenia grzechów,
 potrzebuje wypełnić szczerze i uczciwie warunki, jakie sam P. Jezus
@@ -65,7 +65,7 @@ oświecony rozum, a wsparta łaską Bożą, pożąda, żeby to złe, co się z
 winy stało, mogło się odstać, żeby nigdy nie było się stało. Poczyna
 przeto nienawidzić wszystkich grzechów, nienawidzić siebie, a miłować
 Boga i wolę Jego. Jeżeli prócz rozumu i woli żal ogarnia także i serce,
-tak iż nie tylko *mamy*, ale też *czujemy* nienawiść i wstręt
+tak iż nie tylko «mamy», ale też «czujemy» nienawiść i wstręt
 do wszystkiego, co jest grzechem, czujemy wielką i gorącą miłość Boga,
 to jest to rzeczą bardzo pożądaną i przyjemną, ale nie tak potrzebną,
 żeby dla braku uczucia żalu spowiedź miała być nieważną. Środków zaś
@@ -125,4 +125,5 @@ wreszcie na rozpoczęciu życia prawdziwie uczciwego o zbożnego. Radzę
 każdemu tak postępować, żeby znać było po nim, iż naprawdę pojednał się
 z Panem Bogiem.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

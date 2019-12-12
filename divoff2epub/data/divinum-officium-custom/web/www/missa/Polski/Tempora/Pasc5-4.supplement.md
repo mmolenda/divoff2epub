@@ -22,40 +22,40 @@ i pragnienie nieba pozostało odtąd aż do końca właściwą cechą ich życ
 Te same pragnienia powinny też być cechą i hasłem każdego szczerego
 i prawdziwego chrześcijanina. Czy te je posiadasz?
 
-\(2\) *Chwała Pana naszego*: nią przejęci Apostołowie z radością i jako
-rzecz najnaturalniejszą przyjmują rozkaz Pański: *Idąc na wszystek
-świat, opowiadajcie Ewangelję wszemu stworzeniu.* Zaraz po zesłaniu
+\(2\) «Chwała Pana naszego»: nią przejęci Apostołowie z radością i jako
+rzecz najnaturalniejszą przyjmują rozkaz Pański: «Idąc na wszystek
+świat, opowiadajcie Ewangelję wszemu stworzeniu.» Zaraz po zesłaniu
 Ducha św. pierwszy święty Piotr wobec wielotysięcznej rzeszy mówi o P.
 Jezusie tym samym żydom, którzy Go byli na śmierć wydali i przekonuje
 ich, że nie masz odpuszczenia grzechów ani zbawienia jeno w Panu
 Jezusie. Przekonani o wszechmocności Jego, Piotr i Jan św. rzekli
-chromemu od urodzenia: *W Imię Jezusa Chrystusa wstań i chodź ... a ten
-wskoczywszy stanął i chodził.* A kiedy starszyzna żydowska zakazywała:
-*aby koniecznie nie mówili ani uczyli* *w Imię Jezusowe*, odpowiadają im
-z prostotą: *nie możemy cośmy widzieli i słyszeli nie mówić.* Chwała
+chromemu od urodzenia: «W Imię Jezusa Chrystusa wstań i chodź ... a ten
+wskoczywszy stanął i chodził.» A kiedy starszyzna żydowska zakazywała:
+«aby koniecznie nie mówili ani uczyli» «w Imię Jezusowe», odpowiadają im
+z prostotą: «nie możemy cośmy widzieli i słyszeli nie mówić.» Chwała
 Pana naszego tak ich olśniła, że o niej tylko myślą i mówią, a prócz
 niej już nic ich naprawdę nie obchodzi. Całą ich wiedzą i nauką
 to znajomość Pana naszego Jezusa Chrystusa, jak to wyraźnie mówi Paweł
-św.: *Nie rozumiałem, żebym miał co umieć między wami, jedno Jezusa
-Chrystusa, tego ukrzyżowanego*. Owszem, gdzie nie masz tej znajomości
-P. Jezusa, tam wszelka *mądrość tego świata głupstwem jest u Boga.*
-Dlatego, że znają P. Jezusa, cenią Go też nade wszystko: *poczytam
+św.: «Nie rozumiałem, żebym miał co umieć między wami, jedno Jezusa
+Chrystusa, tego ukrzyżowanego». Owszem, gdzie nie masz tej znajomości
+P. Jezusa, tam wszelka «mądrość tego świata głupstwem jest u Boga.»
+Dlatego, że znają P. Jezusa, cenią Go też nade wszystko: «poczytam
 wszystko za szkodę dla wysokiego poznania Jezusa Chrystusa Pana mojego,
 dla którego wszystkiegom postradał i mam sobie za gnój, abym Chrystusa
-zyskał.* Znać zaś P. Jezusa a nie kochać Go całem sercem i całą duszą,
+zyskał.» Znać zaś P. Jezusa a nie kochać Go całem sercem i całą duszą,
 to rzecz niemożliwa. Z miłości dla Niego Apostołowie gotowi są na to
-wszystko i dla Niego żadna ofiara nie jest im ciężka, bo *choćby
+wszystko i dla Niego żadna ofiara nie jest im ciężka, bo «choćby
 człowiek dał wszystką majętność domu swego za miłość, wzgardził ją jako
-nic.* I Paweł św. jakby wyzywająco pyta: *Któż nas odłączy od miłości
+nic.» I Paweł św. jakby wyzywająco pyta: «Któż nas odłączy od miłości
 Chrystusowej: utrapienie czyli ucisk, czyli głód, czyli nagość, czyli
-niebezpieczeństwo, czyli prześladowanie, czyli miecz?* -- i tak dalece
-nie rozumie, żeby można nie kochać P. Jezusa, że woła: *Jeśli kto nie
-miłuje Pana naszego Jezusa Chrystusa, niech będzie przeklęctwem.*
+niebezpieczeństwo, czyli prześladowanie, czyli miecz?» – i tak dalece
+nie rozumie, żeby można nie kochać P. Jezusa, że woła: «Jeśli kto nie
+miłuje Pana naszego Jezusa Chrystusa, niech będzie przeklęctwem.»
 Rozumieją wreszcie Apostołowie, że kogo wysoko cenimy i uwielbiamy,
 a tem więcej kogo kochamy, w tym wszystko nam się podoba i tego
 naśladujemy i usiłujemy stać się do niego podobnymi. To też zachęcają
-i siebie i wiernych: *Obleczcie się w Pana naszego Jezusa Chrystusa,
-ażby był Chrystus w nas ukształtowan.* Toć i naszem najważniejszem
+i siebie i wiernych: «Obleczcie się w Pana naszego Jezusa Chrystusa,
+ażby był Chrystus w nas ukształtowan.» Toć i naszem najważniejszem
 staraniem w tem życiu powinno być, żeby Jezusa poznać należycie i jak
 najlepiej jako Boga i człowieka ocenić, żeby Go całem sercem i duszą
 pokochać, więcej niż świat i cokolwiek świat dać może, więcej niż samych
@@ -65,22 +65,22 @@ można być chrześcijaninem ani uczniem Chrystusa P., bez tego niepodobna
 też zbawić duszę swoją. Rozważ to dobrze!
 
 \(3\) Drugą cechą Apostołów i każdego prawdziwego chrześcijanina jest
-tęsknota do nieba. Paweł św. *pragnie być rozwiązanym i być
-z Chrystusem;* upomina też wiernych, aby *zaprzawszy się niepobożności
+tęsknota do nieba. Paweł św. «pragnie być rozwiązanym i być
+z Chrystusem;» upomina też wiernych, aby «zaprzawszy się niepobożności
 i świeckich pożądliwości, trzeźwie i sprawiedliwie i pobożnie żyli
 na tym świecie, oczekując błogosławionej nadziei przyjścia chwały
-wielkiego Boga i Zbawiciela naszego Jezusa Chrystusa*. Myśl o niebie
+wielkiego Boga i Zbawiciela naszego Jezusa Chrystusa». Myśl o niebie
 jest im pociechą w utrapieniu, pokrzepia ich w pracy i do niej zagrzewa,
 ułatwia i osładza im wszelką ofiarę, upragnioną im czyni śmierć,
 zwłaszcza męczeńską dla Chrystusa i Wiary, i owszem, czują się jakby
-obcymi na ziemi, *pielgrzymami* tylko *niemającymi tu mieszkania
-trwałego,* ale *szukającymi i przyszłego*. Dlatego z obfitości serca
-Apostoł napomina wiernych: *co na wysokości jest szukajcie, gdzie
+obcymi na ziemi, «pielgrzymami» tylko «niemającymi tu mieszkania
+trwałego,» ale «szukającymi i przyszłego». Dlatego z obfitości serca
+Apostoł napomina wiernych: «co na wysokości jest szukajcie, gdzie
 Chrystus jest na prawicy Boga siedzący; co na wysokości jest miłujcie,
-nie co na ziemi*. Prawdziwy chrześcijanin pragnie nieba i dlatego
-wystrzega się wszystkiego brudu grzechowego, bo rozumie, *że nie
+nie co na ziemi». Prawdziwy chrześcijanin pragnie nieba i dlatego
+wystrzega się wszystkiego brudu grzechowego, bo rozumie, «że nie
 wnijdzie do niego nic nieczystego, albo czyniącego obrzydliwość
-i kłamstwo.* Pragnie nieba, więc usilnie na nie pracuje i przez dobre
+i kłamstwo.» Pragnie nieba, więc usilnie na nie pracuje i przez dobre
 uczynki gromadzi sobie skarby na żywot wieczny; rozumie bowiem, że niebo
 jest nagrodą i to niesłychanie wielką, a próżniakom, leniwym i ospałym
 w służbie Bożej dostać się nie może; pragnie nieba, a im więcej
@@ -92,10 +92,10 @@ Prawy chrześcijanin nie tylko pragnie, ale też spodziewa się nieba, nie
 dla zasług swoich, bo wiem, że i sama możność zasługiwania z łaski mu
 jest dana, że niebo zbyt wielkim jest skarbem, iżby człowiek mógł sobie
 na nie, w ścisłem tego słowa znaczeniu, zasłużyć. Na to i sama śmierć
-męczeńska nie wystarczy, gdyż *utrapienia tego czasu niniejszego nie są
-godne przyszłej chwały, która się w nas objawi.* Spodziewa się nieba
+męczeńska nie wystarczy, gdyż «utrapienia tego czasu niniejszego nie są
+godne przyszłej chwały, która się w nas objawi.» Spodziewa się nieba
 jedynie z łaski Bożej, więc wysługuje się Panu Bogu w czem tylko wie
-i może, a zarazem czerpie łaskę ze *zdrojów zbawicielowych,* któremi są
+i może, a zarazem czerpie łaskę ze «zdrojów zbawicielowych,» któremi są
 Sakramenta św. Czy masz te dwie cechy prawdziwego chrześcijanina, czy
 znasz, uwielbiasz i kochasz P. Jezusa, czy możesz się nieba spodziewać,
 czy go pragniesz naprawdę szczerze, czy tęsknisz choć trochę za niebem,
@@ -105,6 +105,7 @@ gryziesz, czy stratą jaką doczesną lub zawodem w rachubach
 twoich i w powodzeniu ziemskiem, czy też utratą prawa do nieba, jaka
 jest koniecznym skutkiem każdego grzechu śmiertelnego? Co cię więcej
 cieszy, czy jakieś większe powodzenie w życiu teraźniejszym, czy też to,
-iż przybywa ci rękojmi, że i *twoje imię napisane jest niebiesiech?*
+iż przybywa ci rękojmi, że i «twoje imię napisane jest niebiesiech?»
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

@@ -13,8 +13,8 @@ okazujemy cierpliwości, a mniej jeszcze miłości; o lada co się obrażamy
 i gniewem wybuchamy. Dlaczego tak? Bo nie mamy miłości, bo nie dbamy
 o to, czy innym z nami dobrze albo źle, byle nam z nimi było dobrze.
 
-\(2\) Mógł P. Jezus rozkazać, ale woli prosić Piotra św., *aby maluczko
-odjechał od ziemi.* Przykazania Boże obowiązują pod grzechem; w rzeczach
+\(2\) Mógł P. Jezus rozkazać, ale woli prosić Piotra św., «aby maluczko
+odjechał od ziemi.» Przykazania Boże obowiązują pod grzechem; w rzeczach
 ważnych pod grzechem śmiertelnym, w rzeczach mniejszej wagi
 pod powszednim. Jednak przykazania nie wyczerpują całej woli P. Boga
 względem nas. Prócz przykazań Bożych są jeszcze rady ewangeliczne:
@@ -31,7 +31,7 @@ część ludzi, nawet szczerze wierzących, przestaje na małodusznem
 nie żądam. Taka małoduszność nie podoba się Bogu, choć nie jest
 zabroniona pod grzechem. Pragnie On, żebyśmy wysokie miejsca w niebie
 zajmowali, bo Męka Syna Jego wysłużyła nam nader obfitą pomoc. Jeśli
-więc z tego skarbu nie chce nam się hojnie czerpać, -- czyż Go to nie ma
+więc z tego skarbu nie chce nam się hojnie czerpać, – czyż Go to nie ma
 zasmucić?
 
 \(3\) Prosi P. Jezus. Gdyby ci kiedy w życiu się zdarzyło, żeby jaki
@@ -42,30 +42,30 @@ i chełpił przed krewnymi i przyjaciółmi, że takie szczęście i zaszcz
 cię spotkał; miałbyś pewne prawo spodziewać się, że nie pójdzie
 w zapomnienie przysługa twoja i że przy sposobności, w razie potrzeby,
 dobrze ci się opłaci. A cóż dopiero, gdy cię prosi Pan Jezus, On,
-który obiecał, że *ktobykolwiek* uczniom Jego *dał kubek zimnej wody
+który obiecał, że «ktobykolwiek» uczniom Jego «dał kubek zimnej wody
 w Imię moje, iżeście Chrystusowi, zaprawdę powiadam wam, nie utraci swej
-zapłaty.* On wierny jest w obietnicach Swoich, wierną też i niezawodną
+zapłaty.» On wierny jest w obietnicach Swoich, wierną też i niezawodną
 ma pamięć, a hojny jest nad wszystkich. On jeżeli prosi, to nie dlatego,
 żeby potrzebował naszej pomocy, ale dlatego, żeby nam okazać uprzejmość
 i łaskę swoją i by mógł dać nam stokrotną zapłatę. Niegdyś P. Jezus
 siadł zmęczony i zgłodniały przy studni Jakubowej. Uczniowie poszli
 do pobliskiego miasteczka, żeby przynieść żywności. Do studni tymczasem
-przybyła Samarytanka po wodę. P. Jezus spragniony prosi jej: *daj mi
-pić.* Niewiasta wymawia się od oddania Mu tej przysługo o wtenczas jej
-Pan Jezus powiedział te pamiętne słowa: *Byś wiedziała dar Boży i kto
-jest coć mówi: daj mi pić.* Obyś i ty znał P. Jezusa, a poznawszy Go
+przybyła Samarytanka po wodę. P. Jezus spragniony prosi jej: «daj mi
+pić.» Niewiasta wymawia się od oddania Mu tej przysługo o wtenczas jej
+Pan Jezus powiedział te pamiętne słowa: «Byś wiedziała dar Boży i kto
+jest coć mówi: daj mi pić.» Obyś i ty znał P. Jezusa, a poznawszy Go
 obyś Go pokochał, tobyś też zrozumiał, że kiedy P. Jezus od ciebie
 czegoś pragnie lub o cos prosi, to jest to prawdziwym darem Bożym,
 wielką łaską i zaszczytem dla ciebie. Cokolwiek dał lub uczynił
 P. Jezusowi na prośbę Jego, gdybyś nawet na prośbę Jego oddał Mu życie
 i mienie, a choćby i jedyne najukochańsze dziecko swoje, tem nie
 zubożejesz, bo P. Bóg nie pozwoli się zwyciężyć hojnością., ale wyraźnie
-mówi: *Dawajcie a będzie wam dano: miarę dobrą i natłoczoną
-i potrzęsioną i pływającą dadzą na łono wasze.* Święty Piotr uczynił,
+mówi: «Dawajcie a będzie wam dano: miarę dobrą i natłoczoną
+i potrzęsioną i pływającą dadzą na łono wasze.» Święty Piotr uczynił,
 o co prosił P. Jezus i nie wymawiał się, że całonocną pracą jest
 wyczerpany, i że z doświadczenia wie, że o tej porze dnia ryba nie
-pójdzie do sieci. Wie on i czuje to doskonale, *wszakże*, powiada,
-*na słowo Twe zapuszczę sieć.* I wziął nagrodę i ziemską, zdumiewający
+pójdzie do sieci. Wie on i czuje to doskonale, «wszakże», powiada,
+«na słowo Twe zapuszczę sieć.» I wziął nagrodę i ziemską, zdumiewający
 połów ryb, i nadziemską, powołanie na połów ludzi. Gdyby był odmówił
 prośbie P. Jezusa, nie byłby popełnił grzechu, boć w nieczem nie byłby
 był przekroczył przykazania Bożego. Ale któż potrafi powiedzieć, jakieby
@@ -78,4 +78,5 @@ wszystko: możeś tem jeszcze nie zgrzeszył, tylko skąpym okazałeś się dla
 P. Boga i nieużytym. Kto potrafi odgadnąć, jakie będą skutki
 twojego względem P. Boga skąpstwa?
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

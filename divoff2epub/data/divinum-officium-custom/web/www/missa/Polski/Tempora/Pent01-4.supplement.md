@@ -29,22 +29,22 @@ Wniebowstąpienie i Ducha Św. Zesłanie, ustanowienie w osobie Piotra
 najwyższego swego Namiestnika na ziemi; podobnież zapowiada ustanowienie
 Przen. Sakramentu. A stało się to na drugi dzień po cudownem rozmnożeniu
 chlebów. Ludzie szukali P. Jezusa i znaleźli Go w Kafarnaum. Ujrzawszy
-ich rzekła: *Szukacie mię nie iżeście widzieli cuda, ale iżeście chleb
-jedli i najedli się.* A oni: *cóż czynić mamy, abyśmy czynili uczynki
+ich rzekła: «Szukacie mię nie iżeście widzieli cuda, ale iżeście chleb
+jedli i najedli się.» A oni: «cóż czynić mamy, abyśmy czynili uczynki
 Boże? Odpowiedział Jezus i rzekł: toć jest dzieło Boże, abyście wierzyli
 w tego, którego On posłał. Rzekli mu tedy: cóż tedy za znak czynisz,
 abyśmy widzieli i uwierzyli Tobie? Cóż działasz? Ojcowie nasi jedli
-mannę na puszczy jako jest napisano: Chleb z nieba dał im jeść.* Chcieli
+mannę na puszczy jako jest napisano: Chleb z nieba dał im jeść.» Chcieli
 więc nowej manny. Nawiązuje więc P. Jezus do tego i mówi o chlebie
 żywota lepszym od manny. Nawiązuje więc P. Jezus do tego i mówi
-o chlebie żywota lepszym od manny, który im dać zamierza: *Jam jest
-chleb żywy, którym z nieba zstąpił.* Chleb, który On da, nie będzie
+o chlebie żywota lepszym od manny, który im dać zamierza: «Jam jest
+chleb żywy, którym z nieba zstąpił.» Chleb, który On da, nie będzie
 chlebem zwyczajnym, czemś martwem, ale żywym i dającym żywot wieczny, bo
 będzie nim On sam, Bóg-Człowiek. Zapowiedziawszy, że chce być obecny
-w Przen. Sakramencie cały i żywy, określa rzecz dokładniej: *a chleb,
-który Ja dam, jest moje Ciało na żywot świata.* Tu powiada Jan św.:
-*Swarzyli się tedy żydowie między sobą: jakoż ten może nam dać ciało swe
-ku jedzeniu?* Słysząc od P. Jezusa, że oni mają pożywać Jego Ciało i pić
+w Przen. Sakramencie cały i żywy, określa rzecz dokładniej: «a chleb,
+który Ja dam, jest moje Ciało na żywot świata.» Tu powiada Jan św.:
+«Swarzyli się tedy żydowie między sobą: jakoż ten może nam dać ciało swe
+ku jedzeniu?» Słysząc od P. Jezusa, że oni mają pożywać Jego Ciało i pić
 Krew Jego, poczęli burzyć się przeciw Niemi i sprzeczać między sobą.
 W tem jednak wszyscy się zgadzali, iż P. Jezus rzeczywiście zamierza dać
 Ciało i Krew swoją, owszem całego siebie, wiernym swoim za pokarm
@@ -52,18 +52,18 @@ i napój. Czyż może źle Go rozumieli? Ilekroć zdarzyło się, że P. Jezus
 źle rozumiano, On zawsze rzecz wyjaśniał i prostował tak jak przystało
 na Nauczyciela, będącego Prawdą odwieczną. Tak np. kiedy P. Jezus
 uwiadomiony o chorobie łazarza w dwa dni później powiada Apostołom:
-*Łazarz przyjaciel nasz śpi,* oni zaś rozumieli, że mówi o śnie
-zwyczajnym. P. Jezus od razu sprostował i *powiedział im jawnie: Łazarz
-umarł.* Takich przykładów mamy w Piśmie św. dosyć. Więc i w obecnym
+«Łazarz przyjaciel nasz śpi,» oni zaś rozumieli, że mówi o śnie
+zwyczajnym. P. Jezus od razu sprostował i «powiedział im jawnie: Łazarz
+umarł.» Takich przykładów mamy w Piśmie św. dosyć. Więc i w obecnym
 wypadku byłby P. Jezus niewątpliwie pouczył żydów, gdyby Go byli źle
 zrozumieli. Tymczasem P. Jezus nie prostuje ani nie cofa, ale silniej
-jeszcze potwierdza: *Zaprawdę, zaprawdę wam powiadam: jeślibyście nie
-jedli Ciała Syna człowieczego ... nie będziecie mieć żywota w sobie.*
-Dlatego: *wiele ich tedy z uczniów Jego słuchając, mówili: twarda jest
+jeszcze potwierdza: «Zaprawdę, zaprawdę wam powiadam: jeślibyście nie
+jedli Ciała Syna człowieczego ... nie będziecie mieć żywota w sobie.»
+Dlatego: «wiele ich tedy z uczniów Jego słuchając, mówili: twarda jest
 ta mowa i któż jej słuchać może? I odtąd wiele uczniów Jego odeszło
-i już z Nim nie chodzili* (odstąpili P. Jezusa). Mimo to P. Jezus nic
+i już z Nim nie chodzili» (odstąpili P. Jezusa). Mimo to P. Jezus nic
 ze słów swoich nie ujmuje ani najmniejszego nie robi ustępstwa; owszem
-odzywa się do Apostołów: *Zali i wy odejść chcecie?* Pozostawia im
+odzywa się do Apostołów: «Zali i wy odejść chcecie?» Pozostawia im
 do wyboru, albo uwierzyć szczerze i bezwarunkowo Jego słowom i zostać
 przy Nim, albo Go odstąpić, porzucić na teraz i na wieki. Bo chcieć
 tylko wierzyć w to co się komu w nauce P. Jezusa podoba i trafia
@@ -74,20 +74,20 @@ P. Jezus mylić się może, a więc, że nie jest Bogiem, to znaczy wreszcie
 niejako powiedzieć P. Jezusowi: Masz Ty swój rozum, być to może,
 ale i ja mam swój i nie gorszy od Twego. Z takiem usposobieniem
 niepodobna być chrześcijaninem i służyć Bogu. To też Piotr św. na
-zapytanie Pana: *zali i wy odejść chcecie?* Woła z uniesieniem: *Panie,
-do kogóż pójdziemy!?* *Słowa żywota wiecznego masz, a my wierzymy
-i poznaliśmy, żeś Ty jest Chrystus, Syn Boży*. I my za Piotrem
+zapytanie Pana: «zali i wy odejść chcecie?» Woła z uniesieniem: «Panie,
+do kogóż pójdziemy!?» «Słowa żywota wiecznego masz, a my wierzymy
+i poznaliśmy, żeś Ty jest Chrystus, Syn Boży». I my za Piotrem
 św. padnijmy przed Panem naszym utajonym w Przen. Sakramencie, i jak
 ojcowie nasi wyznawajmy Mu z weselem i wdzięcznością:
 
-*W tej Hostji jest Bóg żywy,\
-Choć ukryty, lecz prawdziwy.*
+«W tej Hostji jest Bóg żywy,\
+Choć ukryty, lecz prawdziwy.»
 
 \(3\) Lat temu blisko półtora tysiąca żył św. Cyryl, biskup
 Jerozolimski, po którym przechowały się aż do naszych czasów nauki
 katechizmowe, jakie miewał w kościele. Podaję tu z nich krótki ustęp,
 abyś mógł się przekonać, że i przed wieki uczono tego samego co dziś
-w Kościele Bożym: *„Już sama nauka św. Pawła zdaje się zupełnie
+w Kościele Bożym: «Już sama nauka św. Pawła zdaje się zupełnie
 wystarcza, żeby utwierdzić was w wierze w Przen. Sakrament,
 który przyjmując, z łaski Bożej stajecie się, że tak powiem,
 współcielesnymi i współkrewnymi P. Jezusa. Bo tak pisze, że P. N. Jezus
@@ -107,6 +107,7 @@ noszącymi, gdy Ciało Jego i Krew w siebie przyjmujemy, stajemy się,
 by użyć wyrażenia św. Piotra, uczestnikami Boskiej natury. Zatem wierz,
 ufaj, kochaj, a pełen wiary, nadziei i miłości uwielbiaj, dzięki
 składaj, przepraszaj i proś Pana Jezusa utajonego w Przen. Sakramencie
-o wszystko, cokolwiek potrzebujesz."*
+o wszystko, cokolwiek potrzebujesz.»
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

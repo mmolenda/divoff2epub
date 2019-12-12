@@ -5,7 +5,7 @@ która ukróciła moc szatańską, wcale nie były czemś nadzwyczajnem;
 w krajach katolickich wyjątkowo tylko się zdarzają. Dobrze to mówią
 ludzie, że czart boi się wody święconej, ale więcej jeszcze boi on się
 znaku krzyża św. i Najsłod. Imienia Jezus, przed którem ugina się
-*wszelkie kolano niebieskich, ziemskich i podziemnych.* W szczególności
+«wszelkie kolano niebieskich, ziemskich i podziemnych.» W szczególności
 znak krzyża św., jaki przy Chrzcie św. kładzie kapłan na czole dziecka
 z wyraźnym zakazem, żeby czart znaku tego nigdy nie śmiał naruszyć,
 stanowi potężną obronę przeciw tego rodzaju zakusom. To też Kościół
@@ -44,37 +44,37 @@ kalectwa. Ale oprócz modlitwy za nich, powinniśmy im i dobrem słowem
 i więcej jeszcze przykładem naszym w miarę możności dopomagać
 do wydobycia się z opłakanego stanu.
 
-\(4\) Wielkiem bluźnierstwem zelżyli P. Jezusa zarzucający Mu, że *przez
-Belzebuba, księcia czartowskiego, wyrzuca czarty*. Uczynili to, jak
+\(4\) Wielkiem bluźnierstwem zelżyli P. Jezusa zarzucający Mu, że «przez
+Belzebuba, księcia czartowskiego, wyrzuca czarty». Uczynili to, jak
 opowiadają inni Ewangeliści, faryzeusze i uczeni w piśmie, czyli
 po naszemu obłudnicy, pragnący uchodzić za lepszych od innych. Czy nie
-jesteś już może w czem do nich podobny? Tym, którzy *domagali się
-do Niego znaku z nieba*, żadnej P. Jezus nie daje odpowiedzi, jak i za
+jesteś już może w czem do nich podobny? Tym, którzy «domagali się
+do Niego znaku z nieba», żadnej P. Jezus nie daje odpowiedzi, jak i za
 naszych czasów nie odpowiada takim, którym nie wystarczają liczne
 i wielkie cuda, jakich nam Pan nasz nie szczędził i nie szczędzi,
 ale żądają, żeby P. Bóg, jakby dla popisu, umyślnie dla nich i według
 ich widzimisię, nowe jeszcze, dziwaczne cuda czynił. A na obelgę, patrz,
 jak P. Jezus odpowiada z zupełnym spokojem i jeszcze ich poucza. O,
-prawdziwie uczynkiem tu stwierdza P. Jezus one słowa Swoje: *Uczcie się,
-ode mnie, iżem jest cichy i pokornego serca!*
+prawdziwie uczynkiem tu stwierdza P. Jezus one słowa Swoje: «Uczcie się,
+ode mnie, iżem jest cichy i pokornego serca!»
 
-\(5\) *Wszelkie królestwo,* mówi P. Jezus, *przeciw sobie rozdzielone,
-będzie spustoszone*. Słowa te na wieki prawdą zostaną i wszędzie też
+\(5\) «Wszelkie królestwo,» mówi P. Jezus, «przeciw sobie rozdzielone,
+będzie spustoszone». Słowa te na wieki prawdą zostaną i wszędzie też
 sprawdzać się muszą. Niezgoda między mężem a żoną, między rodzeństwem,
 sąsiadami, wszelkie nieporozumienia, swary, kwasy, kłótnie i procesy,
 zawsze jednej i drugiej stronie wychodzą na szkodę, a zyskuje na nich
 jedynie ktoś obcy. A co przytem bywa obrazy Bożej, to i trudno
 wypowiedzieć. Gorzej jeszcze, jeżeli w gminie jedni na drugich powstają,
 jeżeli po miastach i po wsiach, po całym kraju różne tworzą się
-stronnictwa, *„ten ciągnie do lasa, a tamten do sasa"*, jedni drugich
+stronnictwa, «ten ciągnie do lasa, a tamten do sasa», jedni drugich
 szkalują, nawzajem sobie zarzucają tysiączne krzywdy i nadużycia,
 odsądzają jedni drugich od czci i wiary i napadają na siebie jak
 na największych wrogów. Wcale nie po Bożemu, źle i bardzo źle robią ci,
 co takie niezgody po kraju wywołują, szerzą i podtrzymują. Ciężko będą
 za to odpowiadać na sądzie Bożym!
 
-\(6\) *Kto nie jest ze mną, przeciw mnie jest; kto nie zgromadza ze mną,
-rozprasza.* To słowo tylko P. Jezus ma zupełne prawo powiedzieć o Sobie.
+\(6\) «Kto nie jest ze mną, przeciw mnie jest; kto nie zgromadza ze mną,
+rozprasza.» To słowo tylko P. Jezus ma zupełne prawo powiedzieć o Sobie.
 A strasznem jest ono; bo kto nie jest z P. Jezusem, a tem samem przeciw
 Niemu jest, ten też nie dostępuje Jego łaski w tem życiu, ani Go też
 oglądać będzie w przyszedłem; zginąć musi docześnie i wiecznie. Czy ty
@@ -86,13 +86,13 @@ Sakramentów, z należytem przygotowaniem i pożytkiem? 4) Czy chętnie
 i szczerze jesteś posłusznym Namiestnikom P. Jezusowym, mianowicie
 najprzód Ojcu świętemu, którego P. Jezus postanowił najwyższym Pasterzem
 nad wszystkimi owieczkami i barankami swemi, a następnie Biskupom,
-zależnym od Ojca św., których Duch Święty, *postanowił, aby rządzili
-Kościołem Bożym, który nabył Krwią Swoją?* To czworo jeśli zachowujesz,
+zależnym od Ojca św., których Duch Święty, «postanowił, aby rządzili
+Kościołem Bożym, który nabył Krwią Swoją?» To czworo jeśli zachowujesz,
 ufaj w Panu naszym Jezusie Chrystusie, że ciebie nie opuści, ale pilnuj
 się też, byś i nadal nic z tego czworga nie uronił.
 
-\(7\) *Stawają się pośledniejsze rzeczy człowieka onego gorsze niźli
-pierwsze.* Prawdą to jest o powtórnie opętanych, którzy przecież przeciw
+\(7\) «Stawają się pośledniejsze rzeczy człowieka onego gorsze niźli
+pierwsze.» Prawdą to jest o powtórnie opętanych, którzy przecież przeciw
 swojej woli dostają się pod moc szatańską; tem więcej jest to prawdą
 o takich, którzy po szczerej pokucie powracają do dawnych grzechów i tem
 samem powtórnie i dobrowolnie, oddają się szatanowi w niewolę. Tacy
@@ -104,4 +104,5 @@ grzechu, wyrabia zły nałóg (np. pijaństwa, nieczystości, przekleństwa
 itp.); złe zaś nałogi są jakby łańcuchami, na których diabeł trzyma
 grzeszników, żeby im utrudnić powrót do Pana Boga.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

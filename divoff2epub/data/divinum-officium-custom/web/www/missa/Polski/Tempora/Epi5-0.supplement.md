@@ -17,37 +17,37 @@ się obejdzie.
 właściwym, często objaśnia ludziom różne prawdy za pomocą przypowieści
 lub podobieństw i tym sposobem zmusza ich do większej uwagi
 i zastanowienia się. Zechciejmyż i my skupić uwagę i zastanówmy się.
-*Podobne się stało królestwo niebieskie człowiekowi, który posiał dobre
-nasienie na roli swojej.* Królestwo niebieskie nie oznacza tu nieba,
+«Podobne się stało królestwo niebieskie człowiekowi, który posiał dobre
+nasienie na roli swojej.» Królestwo niebieskie nie oznacza tu nieba,
 w którem, jak dobrze mówi św. Grzegorz Wielki, nie może być złych, bo
 tam nie wnijdzie nic nieczystego; ale rozumieć przez nie należy Kościół
 św., który jest królestwem Chrystusowem na całym świecie
 rozpowszechnionem. W tym to Kościele posiadał P. Jezus, gospodarz tego
 królestwa, jakby na roli swojej nasienie dobre. Tem nasieniem Bożem są
 ludzie dobrzy i prawdziwie pobożni, których Piotr św. Apostoł nazywa
-*rodzajem wybranym, królestwem kapłaństwem, narodem świętym i ludem
-nabycia.* Że ludzi Pismo św. nazywa nasieniem, masz tego między innemi
-przykład w onej zapowiedzi Bożej w raju: *Położę nieprzyjaźń między
-tobą, a między niewiastą, między nasieniem twem, a nasieniem jej.*
+«rodzajem wybranym, królestwem kapłaństwem, narodem świętym i ludem
+nabycia.» Że ludzi Pismo św. nazywa nasieniem, masz tego między innemi
+przykład w onej zapowiedzi Bożej w raju: «Położę nieprzyjaźń między
+tobą, a między niewiastą, między nasieniem twem, a nasieniem jej.»
 Dlatego zaś ludzi nazywa nasieniem, bo i ludzie jak nasienie wydają owoc
 dobry albo zły, i przykładem swym czynią drugich dobrymi albo złymi.
 Sieje też P. Jezus nasienie dobre do serc ludzkich, które są rolą Jego,
 udzielając im łaski swojej poświęcającej przez Chrzest i inne
 Sakramenta. Bo jakkolwiek w sprawowaniu Sakramentów św. posługuje się
 kapłanami swoimi, sam je jednak sprawuje i sam udziela łaski
-poświęcającej. Tak naucza św. Jan Chrzciciel: *Ten jest, który chrzci
-Duchem Świętym;* św. Augustyn tak słowa te objaśnia: czy kogo chrzci
+poświęcającej. Tak naucza św. Jan Chrzciciel: «Ten jest, który chrzci
+Duchem Świętym;» św. Augustyn tak słowa te objaśnia: czy kogo chrzci
 Piotr, Ten tj. Chrystus Pan jest, który chrzci; czy chrzci Paweł, Ten
 jest, który chrzci; czy też chrzci Judasz, Ten jest, który chrzci.
 Rozsiewa P. Jezus dobre nasienie na roli serc ludzkich, udzielając im
 wraz z łaską poświęcającą i w jej następstwie rozlicznych cnót wiary,
 nadziei, miłości, pobożności, sumienności itd. Zatem cokolwiek mamy
 w sobie dobrego, to zawdzięczamy przede wszystkiem i jedynie
-P. Jezusowi, bo jak mówi Pismo św.: *wszelki datek dobry i wszelki dar
-doskonały z wysoka jest.*
+P. Jezusowi, bo jak mówi Pismo św.: «wszelki datek dobry i wszelki dar
+doskonały z wysoka jest.»
 
-\(3\) *A gdy ludzie spali, przyszedł nieprzyjaciel jego i nasiał kąkolu
-między pszenicą i odszedł.* Nieprzyjacielem gospodarza niebieskiego jest
+\(3\) «A gdy ludzie spali, przyszedł nieprzyjaciel jego i nasiał kąkolu
+między pszenicą i odszedł.» Nieprzyjacielem gospodarza niebieskiego jest
 szatan, który odkąd dla pychy swojej utracił niebo, przemienił się też
 z Anioła światłości i wiernego sługi Bożego, w ducha ciemności
 i przeciwnika Bożego, zazdroszczącego Bogu przede wszystkiem
@@ -61,11 +61,11 @@ zachodzi różnica, że ani pszenica w kąkol ani kąkol w pszenicę
 przemienić się nie może. Człowiek zaś każdy, byle chciał a Boga brał
 na pomoc, ze złego może stać się dobry, ale niestety i najlepszy
 zapomniawszy na Boga, a słuchając szatana może stać się złym. Mówi
-P. Jezus: *gdy ludzie spali,* bo nic tak nie pomaga szatanowi w jego
+P. Jezus: «gdy ludzie spali,» bo nic tak nie pomaga szatanowi w jego
 złej robocie, jak to, że nie czuwamy nad sobą i nad całem postępowaniem
 naszem.
 
-\(4\) *A gdy trawa urosła i owoc uczyniła, tedy pokazał się i kąkol*.
+\(4\) «A gdy trawa urosła i owoc uczyniła, tedy pokazał się i kąkol».
 Jak dobre, tak i złe stopniowo tylko się rozwija, rośnie i szkodzić
 poczyna. Zełmci było od początku, ale nie tak wielkiem i szkodliwem,
 jakiem później się stało. Dlatego łatwiej przeoczyć złe, kiedy się
@@ -73,18 +73,18 @@ poczyna, ale też trudniej naprawić i wykorzenić, kiedy się już wzmogło.
 Czujności ciągłej potrzeba, jeśli nie chcesz stać się złym i coraz
 gorszym.
 
-\(5\) *A słudzy rzekli mu: Chcesz iż pójdziemy i zbierzemy go?* Dobrzy
+\(5\) «A słudzy rzekli mu: Chcesz iż pójdziemy i zbierzemy go?» Dobrzy
 to i wierni słudzy, którzy pragną zapobiedz szkodzie pańskiej, ale nie
 chcą niczego czynić bez jego rady, na własną rękę. Tak i nam w każdej
 czy to publicznej, czy też prywatnej, ale najwięcej w Bożej służbie
 czynić potrzeba; z jednej strony dbać szczerze  o dobro nam powierzone,
 a z drugiej wystrzegać się wszelkiej samowoli, a we wszystkiem okazywać
-należytą zawisłość: w służbie publicznej -- od ustaw obowiązujących,
-w służbie prywatnej -- od chelbodawcy, a w służbie Bożej -- od woli
+należytą zawisłość: w służbie publicznej – od ustaw obowiązujących,
+w służbie prywatnej – od chelbodawcy, a w służbie Bożej – od woli
 i przykazań Pana i Boga naszego i namiestników Jego.
 
-\(6\) *Nie, byście snadź zbierając kąkol nie wykorzenili wraz z nim
-pszenicy. Dopuście obojgu róść aż do żniwa.* Niejeden z nas chciałby
+\(6\) «Nie, byście snadź zbierając kąkol nie wykorzenili wraz z nim
+pszenicy. Dopuście obojgu róść aż do żniwa.» Niejeden z nas chciałby
 w niecierpliwości swojej, żeby P. Bóg wszystkich złych zaraz albo
 nawrócił, albo wygubił, zwłaszcza takich, co nam osobiście w czemkolwiek
 dokuczyli lub krzywdę wyrządzili. Lecz Bóg nie tylko jest sprawiedliwy,
@@ -92,9 +92,9 @@ ale i cierpliwy. Niegdyś zdarzyło się, że kiedy P. Jezus szedł
 do Jeruzalem i miał z uczniami wstąpić do jakiegoś miasta
 samarytańskiego, żeby tam odpocząć, nie wpuszczono Go do miasta.
 Oburzeni tem uczniowie, a może i niezadowoleni, że dalej będą musieli
-iść o głodzie, odzywają się do Pana: *Panie, chcesz rzeczemy, aby ogień
+iść o głodzie, odzywają się do Pana: «Panie, chcesz rzeczemy, aby ogień
 zstąpił z nieba i spalił je. A Jezus obróciwszy się sfukał ich, mówiąc:
-nie wiecie czyjego ducha jesteście.* Taka gorąco kąpana gorliwość wiele
+nie wiecie czyjego ducha jesteście.» Taka gorąco kąpana gorliwość wiele
 sprawia złego między ludźmi. Pomijając to, co się już powiedziało,
 że w takiej gorliwości bywa często znaczna przymieszka zemsty osobistej,
 trudno żądać od ludzi, a nawet od samego siebie, żeby wszystko złe
@@ -108,18 +108,18 @@ się z nim obeszli. Ci co mają dzieci albo podwładnych, a tem samem są
 obowiązani do czuwania nad nimi, powinni więcej niż inni wystrzegać się
 tej gwałtownej gorliwości. Wszyscy zaś powinni uczyć się znosić
 cierpliwie i złych, kiedy sam P. Bóg ich znosi i oszczędza, a nawet
-wiele dobrego im czyni. Wszak tak nakazuje P. Jezus: *Miłujcie
+wiele dobrego im czyni. Wszak tak nakazuje P. Jezus: «Miłujcie
 nieprzyjacioły wasze, dobrze czyńcie tym, którzy was mają w nienawiści,
 a módlcie się za prześladujące i potwarzające was, abyście byli synami
 Ojca waszego, który czyni, że słońce Jego wszchodzi na dobre i złe
-i spuszcza deszcze na sprawiedliwe i niesprawiedliwe.* Powód zaś dla
+i spuszcza deszcze na sprawiedliwe i niesprawiedliwe.» Powód zaś dla
 którego Pan Bóg cierpi złych na ziemi, podaje św. Augustyn w tych
-słowach: *Każdy zły albo dlatego żyje, żeby się poprawił, albo dlatego,
-żeby dobrzy przez niego byli doświadczeni i wyćwiczeni.* Ale ta
+słowach: «Każdy zły albo dlatego żyje, żeby się poprawił, albo dlatego,
+żeby dobrzy przez niego byli doświadczeni i wyćwiczeni.» Ale ta
 cierpliwość i zwlekanie P. Boga trwa tylko do czasu.
 
-\(7\) *A czasu żniwa rzekę żeńcom: Zbierzcie pierwej kąkol, a zwiążcie
-go w snopki ku spaleniu; a pszenicę zgromadźcie do gumien moich.* Aż
+\(7\) «A czasu żniwa rzekę żeńcom: Zbierzcie pierwej kąkol, a zwiążcie
+go w snopki ku spaleniu; a pszenicę zgromadźcie do gumien moich.» Aż
 do końca świata, aż do sądu ostatecznego, który P. Jezus nazywa tu dniem
 żniwa, będą źli pośród dobrych. Wtenczas dopiero P. Bóg rozłączy ich
 na wieki. Źli pójdą w ogień wieczny, związani jakby w snopki, ku
@@ -130,4 +130,5 @@ od złych. Jedno z tego dwojga czeka i ciebie. Zastanówże się, czy jesteś
 pszenicą, czy raczej kąkolem; a radź o sobie i wieczności twojej, póki
 ci P. Bóg jeszcze życia ziemskiego pozwala.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

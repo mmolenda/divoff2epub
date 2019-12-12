@@ -65,27 +65,28 @@ doczesnych potrzebach.
 \(5\) Mógł był P. Jezus uraczyć one rzesze ucztą wielce bogatą i obfitą,
 a jednak nie daje im nic więcej jeno chleb suchy, i to jęczmienny
 i trochę ryb suszonych. Bo P. Jezus nie lubi zbytków, a wyraźnie
-przestrzega: *Miejcie się na pieczy, aby kiedy nie były obciążone serca
-wasze obżarstwem i opilstwem i staraniem tego żywota*. Rozważ też, jak
+przestrzega: «Miejcie się na pieczy, aby kiedy nie były obciążone serca
+wasze obżarstwem i opilstwem i staraniem tego żywota». Rozważ też, jak
 uczciwie ta wielotysięczna rzesza przyjęła tę tak bardzo skromną ucztę
 cudowną. Owszem, tak byli wdzięczni za nią, że gdyby P. Jezus nie był
 się uchylił, zamierzali Go obwołać królem całej żydowskiej ziemi.
 
-\(6\) Każe P. Jezus uczniom pozbierać, *które zbyły ułomki*, bo choć tak
+\(6\) Każe P. Jezus uczniom pozbierać, «które zbyły ułomki», bo choć tak
 wielkim i bogatym jest Panem, że nie ma sobie równego, to jednak nie
 chce, żeby nawet okruchy z darów Bożych marnowały się przez niedbalstwo
 albo lenistwo ludzkie. Niejednego za to samo że nie umie albo nie chce
 szanować drobiazgów, nawiedza ciężkim niedostatkiem. Napełnili zaś
 Apostołowie dwanaście koszów ułomków z pięciorga chleba i przekonali się
-naocznie i namacalnie, że *„jałmużna nie zuboży"*. Dali wszystko, co
+naocznie i namacalnie, że «jałmużna nie zuboży». Dali wszystko, co
 mieli, nic nie myśląc o sobie, co będą jeść i co P. Jezusowi podadzą;
 chętnie dawali prawdziwie potrzebującym, a przecież nic nie stracili,
 ale przeciwnie jeszcze na tem zarobili. Bo nie zawodzi słowo Boże:
-*dawajcie a będzie wam dano; miarę dobrą i natłoczoną, i potrzęsioną
-i opływającą dadzą na łono wasze*. Dziś mało kto chce to rozumieć; każdy
+«dawajcie a będzie wam dano; miarę dobrą i natłoczoną, i potrzęsioną
+i opływającą dadzą na łono wasze». Dziś mało kto chce to rozumieć; każdy
 chciałby sam używać wiele, a drugim mało albo i nic nie dawać; zwykle im
 więcej kto wydaje na siebie, tem mniej rozdaje na jałmużny i dobre cele.
 Sąd Boży takich nie minie, a będzie niemiłosierny, jak oni byli
 niemiłosierni.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

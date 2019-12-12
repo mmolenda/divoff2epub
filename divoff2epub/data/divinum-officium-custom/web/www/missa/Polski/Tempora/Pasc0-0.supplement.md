@@ -1,6 +1,6 @@
 
 \(1\) Oburzeniu byli Apostołowie i inni uczniowie Pana Jezusa wszystkiem
-tem, co się stało w Wielki Piątek. Oni tak uwierzyli w P. Jezusa, -- tak
+tem, co się stało w Wielki Piątek. Oni tak uwierzyli w P. Jezusa, – tak
 przywykli, że P. Jezus udaremniał wszelkie złości i spiski faryzeuszów,
 tak byli pewni przywiązania do Niego ludu, że ani im na myśl nie
 przychodziło, ażeby P. Jezus mógł kiedyś ulec przemocy faryzeuszów,
@@ -13,7 +13,7 @@ naród, i to w stolicy państwa, witał Chrystusa jako króla i pana swego.
 A tu naraz, w kilka dni później, w przeciągu ośmnastu godzin, uwięziony,
 osądzony, skazany i zawieszony na hańbiącem drzewie krzyża, skonał.
 Ogarnęło ich zwątpienie. Sprawdza się na nich proroctwo, jakie im
-przypomniał P. Jezus: *uderzę pasterza i rozproszą się owce trzody*.
+przypomniał P. Jezus: «uderzę pasterza i rozproszą się owce trzody».
 Błąkają się bezradni i trwożą się, że i ich każą rychło faryzeusze
 uwięzić i wydać na śmierć. Koło jednej jeszcze tylko kupią się Matki
 Bolesnej. Ciężkie i długie wloką się im godziny; minął piątek wieczór,
@@ -25,7 +25,7 @@ szczęśliwe czasy, kiedy z majętności swoich wolno im było usługi oddawać
 P. Jezusowi. Magdalena przypomina sobie, jak mile przyjął był P. Jezus,
 że Go onegdaj jeszcze w domu Szymona trędowatego, namaściła drogocennym
 olejkiem i teraz dopiero żywiej niż wtenczas zrozumiała, co P. Jezus dla
-jej obrony powiedział: *uprzedziła pomazać ciało moje na pogrzeb.* Nowa
+jej obrony powiedział: «uprzedziła pomazać ciało moje na pogrzeb.» Nowa
 przychodzi jej myśl, ażeby namaścić w grobie ciało Pana Jezusa. Naradza
 się z innemi niewiastami i wszystkie spieszą jeszcze w piątek na miasto,
 ale nie gorączkują się i cierpliwie czekają przez cały dzień święty,
@@ -39,9 +39,9 @@ Przerażone widokiem aniołów niewiasty wracają do wieczernika.
 \(3\) Już P. Jezus okazał się był Matce Najśw., bo Ona ponieważ
 najwięcej z Nim współbolała, więc też pierwsza i najobficiej miała z Nim
 współweselić się z Jego Zmartwychwstania. Następnie ukazuje się P. Jezus
-Magdalenie, jako tej, która *wielce umiłowała*; zrazu niby w postaci
+Magdalenie, jako tej, która «wielce umiłowała»; zrazu niby w postaci
 ogrodnika, ale bezpośrednio potem woła ją po imieniu, a ona poznawszy Go
-z okrzykiem radości: *Rabboni¸* przypada do Jego świętych stóp. Dalej
+z okrzykiem radości: «Rabboni¸» przypada do Jego świętych stóp. Dalej
 zabiega P. Jezus drogę onym innym niewiastom, które były pierzchnęły
 od grobu Jego. Wreszcie ukazuje się i Piotrowi. I szybko rozchodzi się
 między wszystkimi uczniami radosna wieść, że P. Jezus żyje,
@@ -52,7 +52,7 @@ się dziękczynne Alleluja, rozbrzmiewa dalej przez wszystkie wieki aż
 po nasze czasy i odgłos znajduje w niebie, gdzie zlewa się pieniami
 anielskimi i trwać będzie bez miary i końca na zawsze.
 
-\(4\) *Chrystus z martwych powstawszy, więcej nie umiera,* mówi Apostoł.
+\(4\) «Chrystus z martwych powstawszy, więcej nie umiera,» mówi Apostoł.
 Żyje P. Jezus, a więc słusznie możemy i powinniśmy się cieszyć, bo mamy
 do kogo w każdej potrzebie i w każdem niebezpieczeństwie się uciekać,
 mamy na kim polegać. Tak, żyje wszechmocny, nieskończenie dobry i hojny
@@ -64,16 +64,16 @@ więc nie cierpi z naszego powodu! Ale czyż może jeszcze P. Jezus
 cierpieć po Zmartwychwstaniu? Może, odpowiadam i rzeczywiście też wiele
 bardzo cierpi od grzeszników. Oto ukazał się P. Jezus już po chwalebnem
 Wniebowstąpieniu Swojem Szawłowi, który potem stał się Pawłem Apostołem
-i taką gorzką uczynił mu wymówką: * Szawle, Szawle, przez Mię
+i taką gorzką uczynił mu wymówką: «Szawle, Szawle, przez Mię
 prześladujesz? Który rzekł: Ktoś jest Panie? A On: Jam jest Jezus,
-którego ty prześladujesz.* Jakże to? Wszak Paweł więził nie P. Jezusa,
+którego ty prześladujesz.» Jakże to? Wszak Paweł więził nie P. Jezusa,
 ale tylko uczniów i wyznawców Jego? Tak, ale P. Jezus powiedział:
-*Zaprawdę powiadam wam: pókiście uczynili jednemu z tych braci
-moich najmniejszych, Mnieście uczynili.* Komu P. Jezus pozwolił
-i nakazał mówić do Ojca Swego niebieskiego: *„Ojcze nasz"*, tego tem
+«Zaprawdę powiadam wam: pókiście uczynili jednemu z tych braci
+moich najmniejszych, Mnieście uczynili.» Komu P. Jezus pozwolił
+i nakazał mówić do Ojca Swego niebieskiego: «Ojcze nasz», tego tem
 samem uczynił też bratem swoim, i by też kto był najmniejszym i ostatnim
-w oczach świata, przecież wiernie dotrzymuje mu obietnicy: *cokolwiek
-tobie kto czynił złego, lub dobrego, Mnie to uczynił.* A zatem jeśli
+w oczach świata, przecież wiernie dotrzymuje mu obietnicy: «cokolwiek
+tobie kto czynił złego, lub dobrego, Mnie to uczynił.» A zatem jeśli
 kogo spotwarzyłeś albo zelżyłeś, spotwarzyłeś i zelżyłeś tem samem
 P. Jezusa. Porachuj przeto, jeśli możesz, jak wielu ludzi w życiu swojej
 lekceważyłeś, pokrzywdziłeś i zasmuciłeś, a będziesz wiedział, jak wiele
@@ -92,4 +92,5 @@ i przykładów Jego, a zwłaszcza jeśliby przytrafiło się nam cierpieć
 prześladowanie i ponieść śmierć dla sprawiedliwości, zmartwychwstaniemy
 chwalebnie i my!
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

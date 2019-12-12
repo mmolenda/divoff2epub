@@ -1,45 +1,45 @@
 
-\(1\) *Błogosławione oczy, które widzą, co wy widzicie.* Porównywa
+\(1\) «Błogosławione oczy, które widzą, co wy widzicie.» Porównywa
 P. Jezus Apostołów z tymi, co żyli przed nimi i nazywa ich
 błogosławienymi z tego powodu, że doczekali się tego, czego tamci tylko
 się spodziewali, mianowicie doczekali się przyjścia P. Jezusa, widzieli
 na własne oczy Jego cuda, słyszeli, przyjęli i zachowali Jego naukę i za
-to otrzymali z własnych ust Jego tę wielką obietnicę: *weselcie się,
-że imiona wasze zapisane są w niebiesiech.* Błogosławieni jesteśmy i my
-nad poganami, którzy o P. Jezusie nic nie słyszeli i dlatego * w cieniu
-śmierci siedzą;* błogosławieniśmy też nad wielu chrześcijan,
+to otrzymali z własnych ust Jego tę wielką obietnicę: «weselcie się,
+że imiona wasze zapisane są w niebiesiech.» Błogosławieni jesteśmy i my
+nad poganami, którzy o P. Jezusie nic nie słyszeli i dlatego «w cieniu
+śmierci siedzą;» błogosławieniśmy też nad wielu chrześcijan,
 którzy widzą Kościół i słyszą o nim, a przecież nie wierzą;
 błogosławieniśmy wreszcie nad tych, co żyli za czasów P. Jezusa, bo
 widzimy to, czego ani nie widzieli, iż świat stał się chrześcijańskim,
 że Kościół św. nie tylko jest założony, ale że i przetrwał tyle i tak
 wielkich burz i przez tyle wieków zawsze wychodził z nich zwycięsko.
 To zaś dziwnie utwierdza nas w wierze, z nic nie ujmuje z onego drugiego
-błogosławieństwa, nam szczególnie danego: *Błogosławieni, którzy nie
-widzieli, a uwierzyli.*
+błogosławieństwa, nam szczególnie danego: «Błogosławieni, którzy nie
+widzieli, a uwierzyli.»
 
-\(2\) W niedobrym zamiarze, bo *kusząc*, ale dobre jednak stawia pytanie
-ten *biegły w zakonie: co czyniąc, dostąpię żywota wiecznego?*
+\(2\) W niedobrym zamiarze, bo «kusząc», ale dobre jednak stawia pytanie
+ten «biegły w zakonie: co czyniąc, dostąpię żywota wiecznego?»
 To pytanie często i my stawiać sobie powinniśmy, zwłaszcza wtenczas,
 kiedy mamy cokolwiek ważniejszego postanowić. Masz np. postanowić, czy
 z taką a taką ożenić się albo nie; pytasz się wtedy, ile ona ma majątku,
 czy urodziwa, jakie ma pokrewieństwa itd., ale najważniejsze pytanie:
-*co czyniąc*, tj. czy żeniąc się z nią albo nie żeniąc, łatwiej
-i bezpieczniej *dostąpisz zbawienia wiecznego?* To pytanie całkiem
+«co czyniąc», tj. czy żeniąc się z nią albo nie żeniąc, łatwiej
+i bezpieczniej «dostąpisz zbawienia wiecznego?» To pytanie całkiem
 pomijasz, albo zupełnie pobieżnie na nie sobie odpowiadasz. Podobnież
 bywa, kiedy kto ma się decydować, czy przyjąć lub starać się o jakiś
 urząd albo służbę, czy przenieść się do miasta, albo nawet gdzieś
 za morze do dalekich krajów. Czemu tak się dzieje? Bo większa część
 ludzi więcej dba o pożytki i powodzenie doczesne niż o żywot wieczny,
-a mało kto idzie za tym głosem Bożym: *Szukajcież tedy najprzód
+a mało kto idzie za tym głosem Bożym: «Szukajcież tedy najprzód
 królestwa Bożego i sprawiedliwości jego, a to wszystko będzie wam
-przydano.*
+przydano.»
 
 \(3\) Doskonale, tak jak przystało na człowieka biegłego w Piśmie,
 odpowiadał faryzeusz, że aby dostać się do nieba, trzeba miłować Boga
-i bliźniego. P. Jezus chwali go za to: *dobrześ powiedział.* Miłość
+i bliźniego. P. Jezus chwali go za to: «dobrześ powiedział.» Miłość
 P. Boga polega \[1\] na tem, żeby Boga ocenić tak, jak na to zasługuje,
 a więc nade wszystko. Cokolwiek może być wielkiem, potężnem, mądrem,
-zacnem, dobrem, pięknem lub pod jakimkolwiek względem cennem --
+zacnem, dobrem, pięknem lub pod jakimkolwiek względem cennem –
 nieskończenie większym, potężniejszym, mędrszym, zacniejszym, lepszym,
 piękniejszym jest Pan i Bóg nasz. Ceniąc P. Boga nade wszystko,
 rozumiemy, że On jest pierwszym i pierwsze też wszędzie i zawsze miejsce
@@ -57,8 +57,8 @@ do poświęcenia i ofiarności bez granic. Życzliwość ta sprawia,
 że z jednej strony pragniemy i staramy się oszczędzić Mu wszelkiej
 przykrości, a cóż dopiero zniewagi i krzywdy, a z drugiej pragniemy
 i staramy się wygodzić Mu we wszystkiem, co tylko możemy i czegokolwiek
-On od nas żąda lub spodziewa się. Dlatego mówi P. Jezus: *kto ma
-przykazanie moje i zachowa je, ten jest, który mię miłuje,* to znaczy,
+On od nas żąda lub spodziewa się. Dlatego mówi P. Jezus: «kto ma
+przykazanie moje i zachowa je, ten jest, który mię miłuje,» to znaczy,
 że prawdziwym dowodem miłości jest chowanie przykazań, czyli strzeżenie
 się złego, a czynienie dobrze ze względu na Boga. Miłość Boga polega
 wreszcie \[3\] na pragnieniu, aby posiadać Boga w tem życiu przez łaskę
@@ -76,8 +76,8 @@ i cenić tak jak chcemy, żeby bliźni nas szanowali i cenili, chociaż
 wiemy, że mamy dużo rozmaitych niedostatków, a przecież miłość własna
 sprawia, że na wszelkie wady, grzechy i występki własne umiemy znaleźć
 jaką wymówkę, a nieraz nawet wiele wad swoich wcale nie spostrzegamy.
-Dlatego to P. Jezus tak bardzo nakazuje: *nie sądźcie, a nie będziecie
-sądzeni,* bo wie, że nic tak nie niszczy miłości, jak sądzenie,
+Dlatego to P. Jezus tak bardzo nakazuje: «nie sądźcie, a nie będziecie
+sądzeni,» bo wie, że nic tak nie niszczy miłości, jak sądzenie,
 krytykowanie, obmowa, grzechy te bowiem niweczą szacunek dla bliźniego,
 będący podstawą miłości. \[2\] Istotą miłości jest usposobienie,
 polegające na tem, aby z szczerego serca życzyć drugim dobrego, a nie
@@ -95,4 +95,5 @@ przypowieść o Samarytaninie. Każdy, czy swój, czy też obcy, każdy bez
 wyjątku, kto potrzebuje jakiejkolwiek pomocy i ofiarności, ten jest
 bliźnim moim i tego miłować powinienem.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

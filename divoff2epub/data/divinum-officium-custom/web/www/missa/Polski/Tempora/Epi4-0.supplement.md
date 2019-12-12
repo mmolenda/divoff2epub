@@ -1,5 +1,5 @@
 
-\(1\) *W on czas* tj. onego dnia, którego P. Jezus nad brzegiem morza
+\(1\) «W on czas» tj. onego dnia, którego P. Jezus nad brzegiem morza
 nauczał rzesze, tak na Niego następujące, że zmuszony był wstąpić
 na łódź Piotrową i z niej swobodniej już mówić o królestwie Bożem, aż
 do samego wieczora. Pod noc rozpuścił wreszcie P. Jezus rzesze, a sam
@@ -17,23 +17,23 @@ ludzkie. Jest to zarazem wielką dla nas zachętą do cierpliwości w tych
 rozlicznych naszych dolegliwościach, że P. Jezus, a więc Bóg i Pan nasz,
 tyleż a nawet i więcej znosił dla miłości naszej.
 
-\(2\) *A oto wreszcie wielkie stało się na morzu, tak iż się łódka
-wałami okrywała, a On spał.* Zasnął P. Jezus, o ile jest człowiekiem,
+\(2\) «A oto wreszcie wielkie stało się na morzu, tak iż się łódka
+wałami okrywała, a On spał.» Zasnął P. Jezus, o ile jest człowiekiem,
 ale nie zasypia nigdy o ile jest Bogiem, jako mówi w Pieśni
-nad Pieśniami: *Ja śpię, a serce me czuje.* On wie o tej nawalności,
+nad Pieśniami: «Ja śpię, a serce me czuje.» On wie o tej nawalności,
 owszem On sam ją dopuścił. Nie budzi Go szum wiatru, ani ryk bałwanów,
 miotających łódką i usiłujących pochłonąć ją. Nieraz i my przechodzimy
 różne burze i nawalności. Tak w czasach naszych od wielu już lat trwa
 burza przeciw Kościołowi i świętej wierze naszej; i w niejednem też
 sercu wobec niebezpieczeństwa, z zewnątrz i wewnątrz grożącego, powstaje
-lęk i małoduszne zwątpienie. Płonne obawy; *jeśli Bóg z nami, kto
-przeciw nam* przemoże? Czy to Kościół Boży, czy człowiek pojedynczy, --
-byle nie opuszczał Boga, prawdą na wieki zostaje, co mówi Psalm: *Bóg
-pośrodku niego, nie będzie poruszon: ratuje go Bóg.*
+lęk i małoduszne zwątpienie. Płonne obawy; «jeśli Bóg z nami, kto
+przeciw nam» przemoże? Czy to Kościół Boży, czy człowiek pojedynczy, –
+byle nie opuszczał Boga, prawdą na wieki zostaje, co mówi Psalm: «Bóg
+pośrodku niego, nie będzie poruszon: ratuje go Bóg.»
 
 \(3\) Wielka i straszna musiała być ona burza, skoro Apostołowie, rybacy
 zawodowi i z morzem oswojeni, w trwodze swojej przerywają P. Jezusowi
-spoczynek i obudziwszy Go wołają: *Panie, zachowaj nas, giniemy*. Tyle
+spoczynek i obudziwszy Go wołają: «Panie, zachowaj nas, giniemy». Tyle
 razy byli naocznymi świadkami, jak ludzie całkiem obcy przychodzili
 z swojemi potrzebami i troskami do P. Jezusa i każdy znajdował pomoc
 i ratunek od wszechmocnej łaskawości Jego. A tutaj im, uczniom Jego,
@@ -44,7 +44,7 @@ był kogo uzdrowił lub z martwych wskrzesił; więc na chwilę zawahali się,
 w nadziei, że P. Jezus sam się przebudzi; ale kiedy morze już łódź im
 zalewa i coraz widoczniejsze grozi im niebezpieczeństwo, budzą
 P. Jezusa. Nie doznali zawodu w ufności swojej: bo nikt jej nie doznaje.
-W bibliotece *„Posłańca Serca Jezusowego"* czyli tzw. Intencyj
+W bibliotece «Posłańca Serca Jezusowego» czyli tzw. Intencyj
 miesięcznych, przechowują listy dziękczynne za różne łaski od Najsł.
 Serca Jezusowego odebrane. Poczęto je zbierać przed dwudziestu laty
 i uzbierało się tego kilkadziesiąt grubych tomów, a liczba podziękowań
@@ -74,9 +74,9 @@ twojej i z gorszego od oziębłości, twardego snu w grzechach twoich,
 a przekonasz się z korzyścią twoją doczesną i wieczną, że P. Jezus jest
 nieskończenie mocny, niepojęcie dobry.
 
-\(4\) *I rzekł im Jezus: Czemu bojaźliwi jesteście małej wiary?* Nie
+\(4\) «I rzekł im Jezus: Czemu bojaźliwi jesteście małej wiary?» Nie
 wymawia p. Jezus Apostołom swoim niedowiarstwa i braku ufności, boć
-wołając: *Panie zachowaj nas giniemy,* najlepszy dali dowód, że wierzą
+wołając: «Panie zachowaj nas giniemy,» najlepszy dali dowód, że wierzą
 i ufają P. Jezusowi, ale łaje ich za to, iż mało jeszcze mają wiary
 i ufności. Znakiem zaś, że mało w nich wiary i ufności, jest bojaźń;
 gdyby doskonale wierzyli i ufali, to tem samem widzieliby, że kiedy oni
@@ -96,25 +96,26 @@ przypomnieć sobie ilekroć cię ogarniał lęk o twoją lub
 twoich najbliższych przyszłość czy to doczesną, czy wieczną; czy powodem
 tego nie była mała wiara i ufność twoja, czyli że więcej polegałeś
 na rachubach i przewidywaniach twoich, niż na Bogu i Opatrzności Jego,
-która *dosięga od końca do końca mocnie i rozrządza wszystko
-wdzięcznie.* Krzyże i krzyżyki w tem życiu być muszą; potrzeba abyś dla
+która «dosięga od końca do końca mocnie i rozrządza wszystko
+wdzięcznie.» Krzyże i krzyżyki w tem życiu być muszą; potrzeba abyś dla
 zbawienia twego przychodził przez ogień i wodę i był doświadczon
 we wszystkiem; ale we wszystkiem tem zbyteczna jest gryźć się i martwić;
 wierz Bogu i całem sercem zaufaj Mu, a niczego lękać się nie będziesz.
 Niech hasłem twojem będzie modlitwa Psalmisty, kilkakroć powtórzona
-w Piśmie św.: *W Tobiem, Panie, nadzieję miał, niech nie będę
-zawstydzony na wieki.*
+w Piśmie św.: «W Tobiem, Panie, nadzieję miał, niech nie będę
+zawstydzony na wieki.»
 
-\(5\) *Tedy wstawszy, rozkazał wiatrom i morzu i stało się uciszenie
-wielkie.* W jednej chwili uspokoiła się burza, a zarazem znikły bałwany
+\(5\) «Tedy wstawszy, rozkazał wiatrom i morzu i stało się uciszenie
+wielkie.» W jednej chwili uspokoiła się burza, a zarazem znikły bałwany
 i wygładziła się powierzchnia morza. Nie tak się dzieje sposobem
 przyrodzonym, bo wicher gwałtowny nie od razu ustaje na morzu, a po
 wichrze nigdy morze natychmiast się nie uspokaja, ale wzburzone, długo
-jeszcze faluje, zanim się wygładzi. To też *ludzie się dziwowali*
-i poczęli się zastanawiać i mówić: *Jakiż jest Ten, że Mu i wiatry
-i morze są posłuszne?* Aż poznali, że to Bóg i Pan wszego stworzenia. Ty
+jeszcze faluje, zanim się wygładzi. To też «ludzie się dziwowali»
+i poczęli się zastanawiać i mówić: «Jakiż jest Ten, że Mu i wiatry
+i morze są posłuszne?» Aż poznali, że to Bóg i Pan wszego stworzenia. Ty
 dawno wierzysz i jesteś przekonany, że P. Jezus jest Bogiem wszechmocnym
 i Panem twoim; a czyż Mu bywasz posłuszny, czy i jak spełniasz wolę
 i przykazania Jego?
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

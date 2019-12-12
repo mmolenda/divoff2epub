@@ -2,12 +2,12 @@
 \(1\) W dzisiejszej przypowieści wykłada P. Jezus niektóre przyczyny,
 dlaczego słowo Boże nie zawsze jest równie skuteczne. Bo rzeczywiście
 niepojęta to rzecz, że prawda Boża tak jawna, prosta i przekonywująca,
-(o której Apostoł mówi, *że żywa jest mowa Boża, i skuteczna,
-i przeraźliwsza niżeli wszelki miecz po obu stron ostry)*, tak często
+(o której Apostoł mówi, «że żywa jest mowa Boża, i skuteczna,
+i przeraźliwsza niżeli wszelki miecz po obu stron ostry)», tak często
 spotyka się z niedowiarstwem, a pomiędzy wierzącymi niknie czasem prawie
 bez śladu i u najlepszych nawet najczęściej bardzo mało przynosi owoców.
-A ważne to pytanie, kiedy P. Jezus woła: *Kto ma uszy ku słuchaniu,
-niechaj słucha*. Przypowieść zaś objaśnił P. Jezus sam. I dlatego
+A ważne to pytanie, kiedy P. Jezus woła: «Kto ma uszy ku słuchaniu,
+niechaj słucha». Przypowieść zaś objaśnił P. Jezus sam. I dlatego
 rozważymy tu tylko Jego objaśnienie.
 
 \(2\) Uderzającem jest co mówi P. Jezus o tych, którzy widząc nie widzą,
@@ -25,15 +25,15 @@ zaprzeczyć, że ziemia i świat cały nie mógł powstać sam z siebie, jakb
 od niechcenia albo od przypadku. Nie mogą zaprzeczyć, że P. Bóg stworzył
 wszystko. Więc kiedy P. Bóg stworzył, toć oczywiście był. Gdzież tedy
 się podział i kiedy być przestał? Zaprawdę słusznie mówi Pismo św.:
-*Rzekł głupi w sercu swojem: niemasz Boga*. O takich to niedowiarkach
-powiada Piotr św. Apostoł, że *bluźniąc to czego nie wiedzą, w skażeniu
-swojem zginą.* Nie słuchajże takich i nie wdawaj się z nimi, żebyś nie
+«Rzekł głupi w sercu swojem: niemasz Boga». O takich to niedowiarkach
+powiada Piotr św. Apostoł, że «bluźniąc to czego nie wiedzą, w skażeniu
+swojem zginą.» Nie słuchajże takich i nie wdawaj się z nimi, żebyś nie
 stał się spółwinnym ich bluźnierstw i abyś czasem nie doświadczył
-na sobie, że *„z jakim kto przestaje, takim się też staje"*.
+na sobie, że «z jakim kto przestaje, takim się też staje».
 
 \(3\) Między wierzącymi, naucza P. Jezus, są jedni którzy słuchają,
-*potem przychodzi diabeł i wybiera słowo z serca ich, aby uwierzywszy,
-nie byli zbawieni*. Są to ci, którzy słowa Bożego od czasu do czasu
+«potem przychodzi diabeł i wybiera słowo z serca ich, aby uwierzywszy,
+nie byli zbawieni». Są to ci, którzy słowa Bożego od czasu do czasu
 słuchają, i jako takie rozumieją, wierzą w zasadzie we wszystko, co Bóg
 objawił i przez Kościół św. do wierzenia podaje, ale nie znać tego
 po nich, bo wszystko od razu zapominają, jakby nigdy nie byli słyszeli.
@@ -53,8 +53,8 @@ rzeczami, na rzeczy Boże jednak, a zwłaszcza na rzeczy ostateczne,
 pamięci nie mają i najważniejsza ze wszystkich, sprawa zbawienia
 własnego, idzie w zapomnienie i nic ich nie zajmuje. Czy jest jaki
 sposób na to? Jest. Pismo św. bardzo wyraźnie o nim mówi, napominając:
-*We wszystkich sprawach twoich pamiętaj ostatnie rzeczy twoje, a na
-wieki nie zgrzeszysz.* Doświadczenie uczy, że co sobie kto przypomina,
+«We wszystkich sprawach twoich pamiętaj ostatnie rzeczy twoje, a na
+wieki nie zgrzeszysz.» Doświadczenie uczy, że co sobie kto przypomina,
 nie łatwo zapomni. Przypominajże sobie często, że umrzesz i nic z rzeczy
 ziemskich ze sobą nie weźmiesz, a nawet nie wiesz, czyje będzie to, coś
 zebrał; przypomnijże sobie, że choć ludzie nie widzą, albo ukarać nie
@@ -63,8 +63,8 @@ osądzi; przypominaj sobie, że wszelka rozkosz przemija, ale piekło trwa
 na wieki, przemija też wszelka ciężkość ziemska i trud niniejszy,
 ale nagroda za to w niebie jest wieczna.
 
-\(4\) Inni *gdy usłyszą, z weselem przyjmują słowo: a ci korzenia nie
-mają, którzy do czasu wierzą, a czasu pokuty odstępują*. Takimi bywają
+\(4\) Inni «gdy usłyszą, z weselem przyjmują słowo: a ci korzenia nie
+mają, którzy do czasu wierzą, a czasu pokuty odstępują». Takimi bywają
 ludzie skądinąd wcale pobożni i do dobrego chętni, ale mający tę głównie
 wadę, że są lekkomyślni i płytcy. Chętni bywają do dobrego,
 z przyjemnością słuchają nauk, kruszą się przy spowiedzi, z łatwością
@@ -75,8 +75,8 @@ wszędzie napotkasz na opokę; choć tam góral posieje trochę owsa, zejdzie
 ona pięknie, ale lada posucha wypali, lada nawałnica z korzeniem wyrwie
 posiew i nieraz nie można zebrać ani tyle, ile wysiano. Jeżeli należysz
 może do rzędu tych ludzi wrażliwych, do dobrego pochopnych,
-ale niewytrwałych, o których możnaby powiedzieć, że *„zerwał się jak
-lew, a zginął jak mucha"*, jakiegoż na tę chwiejność twoją chwycisz się
+ale niewytrwałych, o których możnaby powiedzieć, że «zerwał się jak
+lew, a zginął jak mucha», jakiegoż na tę chwiejność twoją chwycisz się
 lekarstwa? Czytałem, że w Tyrolu (górzysty to a zarazem bardzo katolicki
 kraj), mądrze sobie tamtejsi górale radzą, zasłoniwszy grunt swój
 od spływającej po deszczu wody murem ze skał, kruszą i miażdżą na proch
@@ -90,18 +90,18 @@ lubisz; w ten sposób nabierzesz powoli coraz większej stanowczości
 i hartu woli. Zarazem pilnie rozmyślaj prawdy Boże, a przyczynisz sobie,
 niby ziemi urodzajnej, świętych pobudek i zapału do wytrwania w dobrem.
 
-\(6\) *A które padło między ciernie,* naucza dalej P. Jezus, *są ci,
+\(6\) «A które padło między ciernie,» naucza dalej P. Jezus, «są ci,
 którzy usłyszeli, a od troskania i bogactw, i rozkoszy żywota
-odszedłszy, bywają zaduszeni i nie przynoszą owocu.* Trzy są rzeczy,
+odszedłszy, bywają zaduszeni i nie przynoszą owocu.» Trzy są rzeczy,
 które w sercach zagłuszają, na kształt kłujących cierni i głogów, owoce
-z wiary wyrastające. 1) *Troskanie się* częste albo nawet ustawiczne
+z wiary wyrastające. 1) «Troskanie się» częste albo nawet ustawiczne
 o to, co będziemy jeść i pić i w co się przyodziewać, gryzienie się
 każdem zajściem przykrem, martwienie się o przyszłość i naszą i naszych
 umiłowanych. Wszystko to prawdziwe ciernie, które serce ranią
 i rozdzierają; pożytku z nich niema, bo tem, że się troszczysz, gryziesz
 i martwisz, biedzie swojej nie zaradzisz, ale tak sobie czas i głowę
 zaprzątasz, że ci ich już nie wystarcza na należyte staranie o zbawienie
-wieczne. Miej tedy rozum i raz już popraw się z tego. 2) *Bogactwa;*
+wieczne. Miej tedy rozum i raz już popraw się z tego. 2) «Bogactwa;»
 ludzie powiadają, że bogactwo to rzecz przyjemna i wygodna; P. Jezus
 przeciwnie, nazywa je cierniem zagłuszającym słowo Boże; bo rzeczywiście
 im więcej bogactwa, tem więcej kłopotów, a nieraz też tem więcej
@@ -109,21 +109,21 @@ chciwości, a tem mniej czasu i ochoty dla P. Boga. Chcesz temu zaradzić,
 nie baw się w pana, ale stań się włodarzem u P. Boga, tzn. zarządzaj
 bogactwem jako rzeczą nie twoją, ale do wiernych rąk oddaną, a w miarę
 możności hojne dawaj jałmużny na ubogich i na sprawy publiczne. 3)
-*Rozkosze żywota* udaremniają działanie słowa Bożego u tych, co radziby
+«Rozkosze żywota» udaremniają działanie słowa Bożego u tych, co radziby
 ciągle tylko się bawić, używać i jak ptaki lub motyle, swobodnie
 i swawolnie bujać, gdzie i kiedy im się zachciewa. Na to niema innego
-sposobu, jeno wziąć się do pracy twardej i sumiennej, bo *człowiek
-do pracy, a ptak do latania się rodzi.*
+sposobu, jeno wziąć się do pracy twardej i sumiennej, bo «człowiek
+do pracy, a ptak do latania się rodzi.»
 
 \(7\) Kto wierzy, a umie się uchronić od tych wad wyżej wymienionych,
 ten staje się dobrym i podatnym pod nasienie słowa Bożego gruntem,
-i chociaż nie od razu, to przynajmniej z czasem, *w cierpliwości* jak
-mówi P. Jezus, przynosi owoc, jeden *trzydziesty, inny sześćdziesiąty,
-inny nawet stokrotny.* Trzydziesty owoc przynoszą ci, co są tak
+i chociaż nie od razu, to przynajmniej z czasem, «w cierpliwości» jak
+mówi P. Jezus, przynosi owoc, jeden «trzydziesty, inny sześćdziesiąty,
+inny nawet stokrotny.» Trzydziesty owoc przynoszą ci, co są tak
 usposobieni, że i za skarby wszystkiego świata, choćby przyszło głowę
 położyć pod topór, za nic w świecie nie chcą się odważyć na żaden grzech
 śmiertelny; sześćdziesiąty owoc przynoszą, którzy mają równie wielki
-wstręt do każdego grzechu powszechnego, jak i do śmiertelnego, -- wolą
+wstręt do każdego grzechu powszechnego, jak i do śmiertelnego, – wolą
 zatem zginąć, niż dopuścić się np. kłamstwa rozmyślnego. Stokrotny
 wreszcie owoc wydają obierający miłość P. Jezusa ubogiego
 i ukrzyżowanego oprócz wstrętu do każdego grzechu, raczej ubóstwo
@@ -132,4 +132,5 @@ i wczasu. Rozważ to wszystko, a nie będziesz się dziwił, że mało jest
 wybranych, a sam usiłuj wnijść ciasną bramą i stromą drogą do królestwa
 niebieskiego.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

@@ -16,11 +16,11 @@ wiecznego, przecież stosunkowo mało ich z tego powołania korzysta,
 i z tych, którzy dostali się na łono Kościoła, jeszcze nie wszyscy pójdą
 do nieba.
 
-\(2\) *Nie chcieli przyjść*. Niegdyś św. Scholastyka pytała się brata
+\(2\) «Nie chcieli przyjść». Niegdyś św. Scholastyka pytała się brata
 swego św. Benedykta, coby powinna czynić, żeby niechybnie zbawić duszę
 swoją i otrzymała odpowiedź: Chciej! Święte to i prawdziwe słowo. Wszak
 i P. Jezus onemu młodzieńcowi na pytanie o sposobie zdobycia sobie nieba
-odpowiedział: *Jeśli chcesz wnijść do żywota, chowaj przykazania*.
+odpowiedział: «Jeśli chcesz wnijść do żywota, chowaj przykazania».
 Najprzód każe mu chcieć nieba, a następnie chować przykazania. A i tam
 nawet, gdzie chodzi nie o niebo, ale tylko o odzyskanie zdrowia, pyta
 P. Jezus chorego, wyczekującego od 38 lat nad sadzawką owczą
@@ -30,13 +30,13 @@ i zadaniem całego naszego życia, ale i we wszystkich szczegółach
 potrzeba, abyśmy umieli i chcieli chcieć. A zatem czy chodzi
 o zwyciężenie jakiej pokusy, czy o pozbycie się jakiej wady lub nałogu,
 czy wreszcie o nabycie jakiej cnoty, potrzeba przede wszystkiem, abyś
-chciał. Np. kusi cię ciekawość, przed którą ostrzega Pismo św.: *odwróć
+chciał. Np. kusi cię ciekawość, przed którą ostrzega Pismo św.: «odwróć
 oblicze twoje od niewiasty pięknie ubranej, a nie przypatruj się cudzej
-piękności,* -- *chciej* to szczerze zwyciężyć tę pokusę, a nie doznasz
-prawie trudności. Potrzebujesz się pozbyć lenistwa lub innej wady, --
-*chciej*, ale chciej stanowczo i wytrwale, a jeżeli nie od razu,
+piękności,» – «chciej» to szczerze zwyciężyć tę pokusę, a nie doznasz
+prawie trudności. Potrzebujesz się pozbyć lenistwa lub innej wady, –
+«chciej», ale chciej stanowczo i wytrwale, a jeżeli nie od razu,
 to jednak w stosunkowo krótkim  czasie odwykniesz od tej wady.
-Niedostaje ci jakiej cnoty, *chciej*, owszem, uweźmij się na to, żeby ją
+Niedostaje ci jakiej cnoty, «chciej», owszem, uweźmij się na to, żeby ją
 nabyć, a P. Bóg ci jej nie odmówi. Wspomniało się powyżej, że potrzeba,
 abyśmy umieli i chcieli chcieć. Cóż to znaczy? Umieć chcieć znaczy tyle,
 co używać właściwych sposobów. Bo jak ten, co chce zorać pole, musi użyć
@@ -48,20 +48,20 @@ Mianowicie: we wszystkiem i każdego czasu zdawać sobie sprawę z tego,
 i najmniejsze nagradza, ale i za każde złe surowo każe, albo w tem albo
 w przyszedłem życiu. A drugi środek: we wszystkiem i w każdej chwili rób
 szczerze i gorliwie to, coś w tej właśnie chwili robić powinien, choćby
-to była przypisana zabawa albo odpoczynek, a nigdy nie mów: *„nie mam co
-robić"*. Żeby jednak kto nie sądził, że wola ludzka wszystko może,
+to była przypisana zabawa albo odpoczynek, a nigdy nie mów: «nie mam co
+robić». Żeby jednak kto nie sądził, że wola ludzka wszystko może,
 wiedzieć i pamiętać potrzeba, że łaska Boża jest do zbawienia konieczna,
-że P. Jezus wyraźnie naucza: *Beze mnie nic nie możecie*, a św. Paweł
+że P. Jezus wyraźnie naucza: «Beze mnie nic nie możecie», a św. Paweł
 nauczony przez Ducha Św., twierdzi że samo nawet chcenie jak i dokonanie
-jest darem Bożym. Więc ze swej strony rób co możesz -- polegaj na P.
-Bogu, bez którego zgoła nic nie możesz. Co znaczy ono *„chciej robić"*
--- to nam tłumaczy najlepiej Pismo św., gdy mówi: *chce i nie chce
-leniwiec,* chce, bo pragnie i postanawia co najlepszego, ale zarazem nie
+jest darem Bożym. Więc ze swej strony rób co możesz – polegaj na P.
+Bogu, bez którego zgoła nic nie możesz. Co znaczy ono «chciej robić»
+– to nam tłumaczy najlepiej Pismo św., gdy mówi: «chce i nie chce
+leniwiec,» chce, bo pragnie i postanawia co najlepszego, ale zarazem nie
 chce, bo lada przeszkoda, lada trudność, najmniejsze zmęczenie lub nuda
 odstręcza go od sprawy zamierzonej, a nieraz nawet zaczętej.
 
-\(3\) *A oni zaniedbali i odeszli, jeden do wsi swojej, drugi
-do kupiectwa swego;* są to ludzie tak zawsze zajęci i wyczerpani troską
+\(3\) «A oni zaniedbali i odeszli, jeden do wsi swojej, drugi
+do kupiectwa swego;» są to ludzie tak zawsze zajęci i wyczerpani troską
 o rzeczy doczesne, tak ich ogarnia pragnienie dobrobytu, przyjemności
 i wywyższenia, tak się trwożą, że utracą cokolwiek z tego, w czem się
 kochają, to znów się łudzą nadzieją, że to zdobędą, wreszcie wątpią, czy
@@ -70,20 +70,20 @@ wyczerpują, że dbać o Boga i zbawienie wieczne już nie mają siły ani
 nawet woli. A jednak wszystko przemija, Bóg zaś i żywot nasz po śmierci
 jest wieczny.
 
-\(4\) *Drudzy pojmali sługi Jego i zelżywość im uczyniwszy pobili.*
+\(4\) «Drudzy pojmali sługi Jego i zelżywość im uczyniwszy pobili.»
 Gorsi od pierwszych, gniewają się, że ktokolwiek śmie im przeszkadzć
 w uganianiu się za rzeczami doczesnymi i znikomemi, albo ich ganić.
 Gniewają się na własne sumienie, że czyni im wyrzuty i gwałt mu zadają,
 aby je zagłuszyć. Gniewają się na kaznodziejów i Kościół św., którzy ich
 do nieba wysyłają, że nauczają inaczej niż oni robią i nie tak, jak im
 dogodniej i radziłby kaznodziejom zatkać usta, a Kościół całkiem usunąć
-ze świata. Gniewają się na tych, co *chcą pobożnie żyć w Jezusie
-Chrystusie*, że uczynkami i całem postępowaniem swojem głośniej niż
+ze świata. Gniewają się na tych, co «chcą pobożnie żyć w Jezusie
+Chrystusie», że uczynkami i całem postępowaniem swojem głośniej niż
 kazodzieje wykazują, jak nierozsądne, jak przewrotne i bezbożne jest ich
 życie. Gniewają się na Boga samego, że stworzył coś lepszego niż ziemię
 o to, co ziemia dać może.
 
-\(5\) *Przyjacielu, jakeś tu wszedł, nie mając szaty godowej?* Wschodnim
+\(5\) «Przyjacielu, jakeś tu wszedł, nie mając szaty godowej?» Wschodnim
 zwyczajem, na który P. Jezus w swej przypowieści się powołuje, królowie
 i książęta posyłali przy nadzwyczajnych uroczystościach tym,
 których zapraszali, bogate szaty, aby goście mieli czem się dostroić
@@ -97,14 +97,14 @@ tj. Kościoła Bożego, dał na samym wstępie przy Chrzcie św. szatę godow
 szatę łaski poświęcającej a tym, którzy pierwszą szatę utracili przez
 grzechy śmiertelne, przywróciła ją przez Sakrament pokuty, i to nie raz,
 nie dwa, nie dziesięć, ale mnóstwo razy. Cóż tedy dziwnego, że gdy
-przyjdzie w dzień sądu, aby oglądać zaproszonych, a *obaczy tam
-człowieka nie odzianego szatą godową,* rozkaże sługom swoim: *związawszy
-ręce i nogi jego,* tj. odebrawszy mu wybór między złem i dobrem,
-*wrzućcie go w ciemności zewnętrzne*, bo w niebie jest tylko światłość,
-*tam będzie płacz i zgrzytanie zębów,* tj. smutek beznadziejny i gniew
+przyjdzie w dzień sądu, aby oglądać zaproszonych, a «obaczy tam
+człowieka nie odzianego szatą godową,» rozkaże sługom swoim: «związawszy
+ręce i nogi jego,» tj. odebrawszy mu wybór między złem i dobrem,
+«wrzućcie go w ciemności zewnętrzne», bo w niebie jest tylko światłość,
+«tam będzie płacz i zgrzytanie zębów,» tj. smutek beznadziejny i gniew
 bezsilny.
 
-\(4\) *Wielu jest wezwanych, a mało wybranych.* Wglądnij w siebie
+\(4\) «Wielu jest wezwanych, a mało wybranych.» Wglądnij w siebie
 i przeszłość twoją; czy nigdy nie utraciłeś tej szaty godowej, tj. łaski
 poświęcającej, wziętej na chrzcie św., czyś nigdy żadnego grzechu
 śmiertelnego nie popełnił? A jeżeliś ten pierwszy grzech śmiertelny
@@ -112,10 +112,11 @@ przez rzetelną spowiedź zgładził, jak też długo po twych spowiedziach
 utrzymywałeś się wolnym od grzechu? I pominąwszy pierwsze lata
 dziecinne, z których prawie już nie pamiętasz, porachuj się, jak prędko
 po spowiedzi w nowe popadłeś grzechy, a jak długo odkładałeś ponowną
-spowiedź?  Porachuj, o ile możesz -- dni, tygodnie, miesiące i lata,
+spowiedź?  Porachuj, o ile możesz – dni, tygodnie, miesiące i lata,
 które przeżyłeś w stanie łaski, a ile zmarnowałeś w stanie grzechu?
 Jeżeli żyjesz i bratasz się z takimi, o których dobrze wiesz, że często
 grzeszą a rzadko się spowiadają, to czyż nie jest smutną prawdą,
 że wiele jest wezwanych, ale mało wybranych?
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

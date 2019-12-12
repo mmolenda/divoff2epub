@@ -1,6 +1,6 @@
 
 \(1\) Było to w niedzielę kwietnią, kiedy lud, śpiewał P. Jezusowi
-*„Hosanna"* i zgotował mu triumfalny wjazd do Jerozolimy. Pan Jezus,
+«Hosanna» i zgotował mu triumfalny wjazd do Jerozolimy. Pan Jezus,
 otoczony hołdującemi tłumami, spojrzał na wspaniałe miasto, w którem
 niegdyś dziady i pradziady Jego (według ciała) królowali, i do
 którego i On teraz, jako prawdziwy król, choć nie z tego świata,
@@ -11,11 +11,11 @@ i serdecznie kocha kraj swój rodzinny i ozdobę i chwałę tego kraju,
 i miasto święte. Ale zarazem jest Bogiem, nic nie masz przed nim
 ukrytego i przyszłe rzeczy są przed Nim jawne, jak i teraźniejsze
 i przyszłe. Zna sprawiedliwe wyroki Boże. Usiłuje ochronić miasto
-i naród swój od zagłady, tak iż sam pyta przez proroka: *Cóż jest, com
-więcej miał czynić winnicy mojej, a nie uczyniłem jej?* Własnemi też
-usty żali się: *Jeruzalem, Jeruzalem ... ilekroć chciałem gromadzić syny
+i naród swój od zagłady, tak iż sam pyta przez proroka: «Cóż jest, com
+więcej miał czynić winnicy mojej, a nie uczyniłem jej?» Własnemi też
+usty żali się: «Jeruzalem, Jeruzalem ... ilekroć chciałem gromadzić syny
 twoje, jako kokosz kurczęta swoje pod skrzydła zgromadza: a nie
-chciałaś.* Widzi P. Jezus, że i ta ostatnia pomoc, z którą śpieszy teraz
+chciałaś.» Widzi P. Jezus, że i ta ostatnia pomoc, z którą śpieszy teraz
 do miasta swego będzie daremną, i że już niechybnie spełnią się wyroki
 Boże; żal ściska Mu serce, łzy płyną z oczu, ale darmo, bo i sam Bóg nie
 chce nikogo zbawić bez jego z łaską Bożą współdziałania. Czy dusza twoja
@@ -27,19 +27,19 @@ Jezus nad zgubą twoją nie płakał, jak płakał nad Jerozolimą.
 
 \(2\) Pan Jezus nie ma serca ciasnego, jako my. Jego Serce jest wielkie
 i szerokie, a obejmuje miłością swoją nie tylko żydowski naród,
-ale wszystkie narody, bo jak mówi Psalmista: *narody dziedzictwem
-Twojem, a posiadłością Twoją krańce ziemi*. Umiłował i kocha P. Jezus
+ale wszystkie narody, bo jak mówi Psalmista: «narody dziedzictwem
+Twojem, a posiadłością Twoją krańce ziemi». Umiłował i kocha P. Jezus
 i nasz naród, jak w ubiegłych wiekach, tak i po dziś dzień daje tego
-liczne i niezbite dowody. A jednak -- dla grzechów naszych królestwo
+liczne i niezbite dowody. A jednak – dla grzechów naszych królestwo
 nasze rozdarł na szaty, a nas oddał w niewolę ościennym narodom, jak
 to na dwieście lat wprzód był przez natchnionego sługę swego, O. Piotra
 Skargę, przepowiedział. Sto lat nawoływał nas P. Jezus, jak niegdyś
-Jerozolimę, mówiąc: *Gdybyście i wy poznali, i w ten dzień wasz, co ku
-pokojowi waszemu; a teraz jest zakryto od oczu waszych.* A tymczasem
+Jerozolimę, mówiąc: «Gdybyście i wy poznali, i w ten dzień wasz, co ku
+pokojowi waszemu; a teraz jest zakryto od oczu waszych.» A tymczasem
 mimo odzyskania niepodległości, zamiast ubywać, wciąż nam przybywa
 stronnictw, kłótni, swarów, i warcholstwa, które przed podziałami dawno
-podzieliły Polskę; nie masz jedności, ani zgody, bo *wszyscy, co ich
-jest, szukają, nie co jest Jezusa Chrystusa.* Wszędzie górą prywata,
+podzieliły Polskę; nie masz jedności, ani zgody, bo «wszyscy, co ich
+jest, szukają, nie co jest Jezusa Chrystusa.» Wszędzie górą prywata,
 która u jednych jest żądzą popularności i pustego rozgłosu, u innych
 uporem przy własnem widzimisię, u innych chęcią wyniesienia się, albo
 prędkiego bez pracy dorobku. Zamiast ubywać, przybywa gnuśności
@@ -90,8 +90,8 @@ naszem przy lada trudnostce odstępujemy od zasad wiary, a idziemy
 za lada podszeptem, obiecującym jakąkolwiek korzyść, dogodność, albo
 przynajmniej wywikłanie się z jakiejś trudności! ...
 
-\(3\) *Wszedłszy do kościoła począł wyganiać przedające w nim
-i kupujące.* W kościołach naszych źle nieraz się dzieje i pełno jest
+\(3\) «Wszedłszy do kościoła począł wyganiać przedające w nim
+i kupujące.» W kościołach naszych źle nieraz się dzieje i pełno jest
 ludzi wszędzie umiejących zachować się przyzwoicie, tylko w domu Bożym
 zachowują się tak, że znieważają Boga, a kompromitują samych siebie.
 Ale gorzej jeszcze się dzieje w niedziele i święta, w które pospolicie
@@ -107,4 +107,5 @@ O Mszy, kazaniu, sumiennie pamięta,\
 Nic nie kupuje i nie sprzedaje,\
 Sam nie zarabia, zarobku nie daje.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+

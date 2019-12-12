@@ -18,9 +18,9 @@ uważa za nowe zaciągnięcie tak wielkiego długu.
 jeden drugiemu przewinień nawet wielkich, a cóż dopiero mniejszych i to
 pod grozą, że i On nam nie odpuści grzechów naszych, jeżeli my bliźnim
 odpuścić nie zechcemy. O przykazaniu tem P. Jezus bardzo często mówi.
-Czytamy: *Jeżeli odpuścicie ludziom grzechy ich, odpuści też wam Ojciec
+Czytamy: «Jeżeli odpuścicie ludziom grzechy ich, odpuści też wam Ojciec
 niebieski grzechy wasze; lecz jeśli nie odpuścicie ludziom, ani Ojciec
-niebieski nie odpuści wam grzechów waszych.* A na innem miejscu: *Ja wam
+niebieski nie odpuści wam grzechów waszych.» A na innem miejscu: «Ja wam
 powiadam, iż każdy który się gniewa na brata swego, będzie winien sądu;
 a ktoby rzekł bratu swemu: raka, będzie winien rady; a ktoby rzekł:
 głupcze, będzie winien ognia piekielnego. Jeśli tedy ofiarujesz dar
@@ -28,22 +28,22 @@ twój do ołtarza, a tam wspomnisz, iż brat twój ma przeciw tobie, zostaw
 tam dar twój przed ołtarzem, a idź pierwej zjednać się z bratem twoim,
 a tedy przyszedłszy ofiarujesz dar twój. Zgódź się z przeciwnikiem twoim
 rychło, pókiś jest z nim w drodze; by cię snać przeciwnik twój nie podał
-sędziemu,* tzn., żeby cię nie zaskoczyła śmierć, a po niej sąd,
-a *sędziaby* *cię podał słudze, a byłbyś wrzucon do ciemnicy. Zaprawdę
-powiadam ci, nie wnijdziesz stamtąd, aż oddasz ostatni pieniążek*. I aby
+sędziemu,» tzn., żeby cię nie zaskoczyła śmierć, a po niej sąd,
+a «sędziaby» «cię podał słudze, a byłbyś wrzucon do ciemnicy. Zaprawdę
+powiadam ci, nie wnijdziesz stamtąd, aż oddasz ostatni pieniążek». I aby
 nam to przykazanie tem więcej wrazić w pamięć, postanowił P. Jezus,
 że dzień w dzień, odmawiając pacierz, powtarzamy tuż po prośbie o chleb
-powszedni one słowa: *odpuść nam nasze winy, jako i my odpuszczamy
-naszym winowajcom.*
+powszedni one słowa: «odpuść nam nasze winy, jako i my odpuszczamy
+naszym winowajcom.»
 
 \(3\) Ponieważ ludzie dość często mają wiele trudności z sumieniem
 i ochotnem spełnianiem tego przykazania, więc dobrze będzie zwrócić im
 uwagę na to, że byle rozumniej sobie radzili, to przykazanie będzie dla
-nich *jarzmem wdzięcznem i brzemieniem lekkiem.* Jakże tedy rozumnie
+nich «jarzmem wdzięcznem i brzemieniem lekkiem.» Jakże tedy rozumnie
 sobie radzić? Otóż najprzód nie przeceniaj krzywdy, jaką ci wyrządzono.
 Bo ostatecznie cóż tak wielkiego się stało? Gdyby nawet cię biczowano,
 cierniem koronowano i do krzyża przybito, to wiesz, że P. Jezus wyraźnie
-powiedział, iż *nie jest uczeń nad mistrza, ani sługa nad pana swego,*
+powiedział, iż «nie jest uczeń nad mistrza, ani sługa nad pana swego,»
 i równie wiesz, że to wszystko, o co się gniewasz i o co serce cię boli,
 to są marne drobiazgi w porównaniu z tem, co cierpiał P. Jezus i co
 prawdziwi uczniowie i słudzy Jego dla miłości Bożej chętnie znosili
@@ -75,9 +75,9 @@ go nawzajem w tem i owem krytykują i sądzą/ Skrzywdzono cię na majątku?
 Ale czyż przez to, że się gniewasz, wróci ci się krzywda? Wolno ci
 bronić swojej rzetelnie nabytej własności, ale bez gniewu, bez
 zawziętości, bez żalu do tych, którzy zawinili. Bądź mniej chciwy,
-zachowuj wierniej słowo: *Szukajcież tedy najprzód królestwa Bożego
-i sprawiedliwości jego: a to wszystko będzie wam przydano: tem samem
-ułatwisz sobie zachowanie przykazania* o przebaczeniu*.*
+zachowuj wierniej słowo: «Szukajcież tedy najprzód królestwa Bożego
+i sprawiedliwości jego: a to wszystko będzie wam przydano:» tem samem
+ułatwisz sobie zachowanie przykazania» o przebaczeniu.
 
 \(4\) Jakże rozumnie sobie poradzić? Otóż po wtóre: nie rozmyślaj wiele
 o krzywdzie swojej, bo im więcej będziesz ją rozpamiętywał, tem więcej
@@ -88,4 +88,5 @@ sam diabeł. Im więcej będziesz myślał o krzywdzie lub przykrości, jaka
 cię spotkała, tem więcej też wzmoże się w tobie rozgoryczenie
 i nienawiść.
 
-*Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami*
+«Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
+
