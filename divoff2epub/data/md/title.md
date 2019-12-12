@@ -10,7 +10,7 @@ Objaśnienia Ewangelii pochodzą z książki ks. H. Jackowskiego SI, «Ewangelje
 
 Digitalizacja i opracowanie wydania elektronicznego: Agnieszka Molenda, Marcin Molenda.        
 
-Wersja 2.3 20191211    
+Wersja 2.3 20191212    
 kontakt: support@molenda.eu    
 
 Warszawa 2019
