@@ -23,12 +23,12 @@ gdy nie mamy do tego prawa z urzędu.
 naszych dni, tak już i za czasów P. Jezusa żydzi    
 z zabobonną ścisłością przestrzegali święcenia    
 dni świętych i przesadę tę P. Jezus im surowo     
-przygania Między nami chrześcijanami taka         
+przygania. Między nami chrześcijanami taka         
 przesada w święceniu niedziel i świąt nie 
 zdarza się, raczej całkiem coś przeciwnego. 
 Postępujemy, jak gdyby P. Bóg był nie nakazał:
 P a m i ę t a j, abyś dzień święty ś w i ę c i ł, ale jakoby
-od nas żądał: P a m i ę t a j, aby dzień święty z n i e w a ż a ł.
+od nas żądał: P a m i ę t a j, abyś dzień święty z n i e w a ż a ł.
 Tak ludzie w niedziele i święta zwykli grzeszyć,
 że niejeden i przez cały tydzień nie nagrzeszy tyle,
 co w jedną niedzielę. W niedzielę i święta najwięcej
@@ -43,7 +43,7 @@ się trzeba, że ludzie nie rumienią się jeden
 przed drugim, słuchać tak niecnych rzeczy i patrzeć    
 się na nie. Widocznie kara Boża już wisi    
 nad nami, kiedy Bóg «puścił nas za żądzami           
-serc naszych.»                                     
+serc naszych».                                     
 
 \(3\) A jednak trzecie przykazanie musi być, 
 szczególnie ważne, kiedy je nam P. Bóg w szczególny 
@@ -98,7 +98,7 @@ to ją ma prawdziwie godną siebie w Trójcy
 Przenajświętszej. A wszystka nasza chwała cóż                              
 znaczy? Cóż my rozumiemy o wielkości, piękności                                
 i dobroci Bożej? Jeden anioł lepiej potrafi                    
-chwalić P. Boga, niż całe setki i tysiące ludzi 
+chwalić P. Boga, niż całe setki i tysiące ludzi. 
 Nie. P. Bóg nas i chwały od nas nie potrzebuje.                             
 Ale widzi P. Bóg, że nam potrzeba wciąż na nowo
 i przynajmniej raz w tydzień przypominać,                                 

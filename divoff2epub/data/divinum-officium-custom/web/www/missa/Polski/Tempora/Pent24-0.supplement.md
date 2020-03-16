@@ -5,9 +5,9 @@ po raz ostatni wypomina faryzeuszom i narodowi
 żydowskiemu zatwardziałość w grzechach
 i niedowiarstwo ich, i zapowiada im karę
 zburzenia Jerozolimy i upadek narodu. 
-«A wyszedłszy, opowiada Pismo św , Jezus z kościoła 
+«A wyszedłszy», opowiada Pismo św., «Jezus z kościoła 
 szedł, przystąpili uczniowie Jego, aby 
-mu okazali budowanie kościelne,» tak wspaniałe,
+mu okazali budowanie kościelne», tak wspaniałe,
 że powszechnie uchodziło za cud świata. 
 Rzeczywiście nie było ani przedtem, ani potem 
 gmachu równego świątyni Jerozolimskiej. Zdaje
@@ -17,12 +17,12 @@ P. Jezusa na te wspaniałości, aby Go prosić,
 zachować ją nietkniętą. «A on odpowiadając 
 rzekł im: Widzicie to wszystko? Zaprawdę
 powiadam wam, nie zostanie tu kamień na kamieniu,
-któryby nie był zepsowany.» Były zaś te
+któryby nie był zepsowany». Były zaś te
 kamienie, jak opowiada Pismo św., ogromne
 ciosy 8-10 łokciowe. «A kiedy On siedział na 
 górze Oliwnej, przystąpili do Niego uczniowie 
 osobno, mówiąc: Powiedz nam kiedy to będzie?
-a co za znak przyjścia Twego i dokonania świata?»
+A co za znak przyjścia Twego i dokonania świata?»
 Zdawało się uczniom, że gdy Jerozolima 
 i świątynia zginie, to chyba i świat się skończy; a że wiedzieli już od P. Jezusa, że On przy 
 końcu świata powtórnie przyjdzie w chwale        
@@ -39,7 +39,7 @@ jako podobieństwie zniszczenia świata.
 
 \(2\) Jeżeli o Samuelu mówi Pismo św, «że był       
 wierny prorok Pański... i nie upadło ze wszystkich  
-słów jego na ziemię,» tak bez porównania     
+słów jego na ziemię», tak bez porównania     
 większy od Samuela Pan nasz Jezus Chrystus.      
 Rozważmy, jak każde słowo proroctwa jego        
 o upadku narodu żydowskiego, stolicy i świątyni     
@@ -54,8 +54,8 @@ opowiedziana jest przez Daniela proroka, stojącą
 na miejscu świętem...» Daniel kończy proroctwo     
 swoje temi słowy: «będzie w kościele        
 obrzydłość spustoszenia, i aż do skończenia      
-i końca trwać będzie spustoszenie.» W czternaście     
-lat po Wniebowstąpieniu Pańskiem, z. powodu     
+i końca trwać będzie spustoszenie». W czternaście     
+lat po Wniebowstąpieniu Pańskiem, z powodu     
 ponownego powstania żydów, pułki 
 rzymskie obległy miasto święte, a zdobywszy 
 je, postawiły bożka pogańskiego w świątyni 
@@ -63,8 +63,8 @@ jerozolimskiej. Wszelkie zaś bałwochwalstwo
 Pismo św. nazywa brzydkością albo obrzydliwością. 
 
 \(4\) «Kto czyta, niech rozumie; tedy, którzy są, 
-w żydowskiej ziemi, niech uciekają na góry. Te 
-słowa: kto czyta niech rozumie,» tłómacze Pisma 
+w żydowskiej ziemi, niech uciekają na góry». Te 
+słowa: «kto czyta niech rozumie», tłómacze Pisma 
 św. mniemają, że nie Pan Jezus powiedział, ale 
 że św. Mateusz je dodał, żeby zwrócić ówczesnym 
 chrześcijanom szczególną uwagę na miłościwą 
@@ -82,14 +82,14 @@ tak, że było ich podczas oblężenia
 2,100.000 ludu.
 
 \(5\) Słowa: «kto na dachu... kto na roli... 
-o brzeminnych i karmiących i o ucieczce w zimie 
-albo szabat,» są przysłowiowe i wyrażają
+o brzemiennych i karmiących i o ucieczce w zimie 
+albo szabat», są przysłowiowe i wyrażają
 potrzebę wielkiego pośpiechu i przeszkody, 
 pośpiech ten utrudniające.
 
-\(6\) «Albowiem natenczas będzie wielki ucisk,» 
-«jaki nie był od początku świata aż dotąd, ani
-będzie.» Oto powód, dlaczego Pan nasz każe swoim
+\(6\) «Albowiem natenczas będzie wielki ucisk, 
+jaki nie był od początku świata aż dotąd, ani
+będzie». Oto powód, dlaczego Pan nasz każe swoim
 czemprędzej uchodzić w miejsce bezpieczne,
 żeby w tym ucisku nie zginęli. Józef Żydowin,
 który szczegółowo opisuje oblężenie i zdobycie
@@ -105,10 +105,10 @@ otoczone, tedy wiedzcie, że się przybliżyło
 spustoszenie. Tedy... niech uciekają na góry...
 albowiem te dni są pomsty... będzie ucisk
 wielki na ziemi, i gniew przeciw ludowi temu:
-i polegną paszczęka miecza; i zapędzą je w niewolę
+i polegną paszczęką miecza; i zapędzą je w niewolę
 między wszyskie narody; a Jeruzalem
 deptane będzie od poganów, aż się wypełnią
-czasy poganów.» Rzeczywiście zginęło, nie rachująć
+czasy poganów». Rzeczywiście zginęło, nie rachując
 innych po za miastem w kraju poległych,
 w samej jednej Jerozolimie miljon i sto
 tysięcy ludzi, a niewolników nabrano tyle, że
@@ -133,7 +133,7 @@ i zamiast nawrócić się do prawdziwego Mesjasza,
 którym jest Chrystus Pan nasz, oczekują
 innego zbawiciela. Tak też nadal będzie aż do
 czasów antychrysta, który powstanie krótko
-przed końcem świata, i jak wykładają tłómcze
+przed końcem świata, i jak wykładają tłómacze
 Pisma św., założy stolicę swoją w Jerozolimie.
 Po jego upadku dopiero nawrócą się żydzi
 i odznaczać się będą gorliwością o chwałę
@@ -155,10 +155,10 @@ królestwa Bożego; nie mylcie się ani porubnicy,
 ani bałwanom służący, ani cudzołożnicy, ani    
 psotliwi, ani sodomczycy, ani złodzieje, ani
 złorzeczący, ani drapieżce nie posiędą królestwa     
-Bożego. Dlaczego tak? Bo tak mówi Pan: Zaprawdę         
+Bożego. Dlaczego tak? Bo tak mówi Pan: «Zaprawdę         
 bowiem powiadam wam: aż przeminie           
 niebo i ziemia, jedna jota, ani jedna kreska nie   
-odmieni się w zakonie, aż się wszystko stanie.»     
+odmieni się w zakonie, aż się wszystko stanie».     
 
 «Źródło: ks. H. Jackowski SI, Ewangelje niedzielne i świąteczne z objaśnieniami»
 

@@ -23,7 +23,7 @@ Czy nie jesteś podobny do Nikodema? Źle bardzoby
 było, gdyby kto Wiarą św. i sumiennością 
 chciał się popisywać i pragnął za nie pochwały 
 i uznania u ludzi; naraziłby się tem na 
-ono słowo: «wzięli zaplatę swoję;» ale równie złem 
+ono słowo: «wzięli zapłatę swoję;» ale równie złem 
 jest, dla względów ludzkich kryć się z wiara 
 i sumiennością i narażać się na inne groźniejsze 
 jeszcze słowo: «ktoby się wstydził Mnie i słów 
@@ -42,8 +42,8 @@ postu i byle nie wyróżniać się od innych,
 zajada mięso w piątek, jak protestant. Inny doskonale
 zna i zwyczajnie też zachowuje przestrogę 
 Pisma św.: «Porubstwo i wszelka nieczystość... 
-niechaj ani będzie pomieniona między wami, jako świętym przystoi,» ale w kompanji                          
-wesołej, żeby nie narazić się, jak tó mówią, na                      
+niechaj ani będzie pomieniona między wami, jako świętym przystoi», ale w kompanji                          
+wesołej, żeby nie narazić się, jak to mówią, na                      
 śmieszność, będzie bluzgał najbezwstydniej,                          
 pójdzie na miejsce więcej niż podejrzane, aż 
 narazi się na niewiedzieć jakie ostateczności. Inny                    
@@ -54,7 +54,7 @@ obraża obrzydłem pijaństwem. Wiele jeszcze
 innych grzechów pochodzących ze względów                             
 ludzkich możnaby wyliczyć; wymienię jednak                           
 tylko jeden jeszcze, tak ciężki, że ktokolwiek                       
-się go dopuszcza, albó tylko do niego dopomaga,                        
+się go dopuszcza, albo tylko do niego dopomaga,                        
 popada tem samem w klątwę. Tym grzechem                              
 jest pojedynek. Pospolicie odważają się                         
 na ten grzech ci, którzy boją się, żeby nie
@@ -67,14 +67,14 @@ większem jest tchórzostwem: bać się gadania
 ludzkiego, czy bać się grzechu i kary Bożej?                          
 
 \(3\) «Nie posłał Bóg Syna swego na świat, aby                          
-sądził świat, ale iżby świat był zbawion przezeń.»             
+sądził świat, ale iżby świat był zbawion przezeń».             
 Wielkie i pełne pociechy to słowo. Jak                         
 P. Bóg nas stworzył, tak też odkupił nas nie                         
 na to, abyśmy byli potępieni, ale abyśmy                              
 osiągnęli wieczne zbawienie. Z woli Bożej więc                        
 nie mam być potępiony, ale zbawiony, bo Bóg                           
 chce, «aby wszyscy ludzie byli zbawieni, i przyszli 
-ku uznaniu prawdy.» Na to P. Bóg nas stworzył, 
+ku uznaniu prawdy». Na to P. Bóg nas stworzył, 
 to znaczy, że na to dał życie i rozum i wolną 
 wolę i pamięć, na to dał ciało i zmysły jego, 
 na to dał to wszystko, co nas tu w tem życiu 
@@ -93,24 +93,24 @@ wiernych. Mimo to chociaż stworzył nas P. Bóg
 bez nas, nie zbawi nas bez nas. Pierwszym 
 warunkiem naszego zbawienia, zależącym od 
 nas, jest to, o czem mówi P. Jezus w dzisiejszej 
-Ewwangelji, «aby wierzyć w Syna Bożego.» 
+Ewangelji, «aby wierzyć w Syna Bożego». 
 Koniecznie więc potrzeba w i e r z y ć w Pana i 
 Boga naszego i we wszystko, co On objawił i przez 
 Kościół swój święty do wierzenia podaje, jeżeli 
 nie chcemy zginąć na wieki mimo to wszystko, 
-co On uczynił i wciąż czyni dla naszego zbawienia 
+co On uczynił i wciąż czyni dla naszego zbawienia. 
 Wierzyć zaś potrzeba szczerze, tj. w całem 
 życiu i postępowaniu naszem powodować się
 prawdami Wiary świętej, które przecież są 
 pewne i niewątpliwe, kiedy sam Bóg je objawił
 i poręcza. Jakaż więc twoja wiara, kiedy       
 tak mało i niedbale się modlisz, a ona ci mówi:    
-«proście a otrzymacie,» więc kto nie prosi, ten też 
+«proście a otrzymacie», więc kto nie prosi, ten też 
 nie otrzyma; wiara ci mówi, że spowiedź nie        
 tylko gładzi dawne grzechy, ale strzeże i od 
 nowych, dlaczegóż ci tak nie pilno do spowiedzi?     
 
-\(4\) «Kto nie wierzy, już osądzony jest.» Dlaczego     
+\(4\) «Kto nie wierzy, już osądzony jest». Dlaczego     
 tak surowo? Odpowiem przykładem: Dajmy          
 na to, że ktoś obcy pyta ciebie o drogę i ty go    
 objaśniasz, a nawet ofiarujesz mu się za przewodnika,      
@@ -129,14 +129,14 @@ mogła albo chciała. Ostrzega takich P. Bóg
 wielokrotnie i wielorakiemi sposobami, a jeżeli     
 wszystko daremne, to i niepodobna, żeby P. Bóg      
 odmienił swoje słowo: «jeżeli chcesz wnijść do       
-żywota, chowaj przykazania,» z których pierwsze: 
+żywota, chowaj przykazania», z których pierwsze: 
 »wierz w Boga i Bogu«. Nie może P. Bóg 
 gwałtem kogoś nie chcącego, zmusić do nieba.        
 Sam dał człowiekowi wolną wolę, — nie może          
 mu jej odbierać.
 
 \(5\) «Ludzie raczej miłowali ciemności, niż 
-światłość.» Choć smutna, ale przeto niemniej 
+światłość». Choć smutna, ale przeto niemniej 
 święta i rzeczywista to prawda. Niejeden z nas 
 woli zmrok albo i ciemności zupełne niż jasne 
 światło, zwłaszcza gdzie chodzi o prawdy Boże 
@@ -146,7 +146,7 @@ ale nie czekał odpowiedzi i wyszedł. Tak też
 starosta rzymski Feliks, «gdy Paweł św. rzecz 
 czynił o sprawiedliwości i czystości i o sądzie
 przyszłym, uląkłszy się, odpowiedział: Teraz 
-odejdź.» Tak też nieraz i my wolimy nic nie
+odejdź». Tak też nieraz i my wolimy nic nie
 wiedzieć lub poprzestawać na niejasnych tylko 
 i bardzo niedostatecznych pojęciach o prawdach 
 i przepisach Wiary i o obowiązkach stanu 
@@ -154,7 +154,7 @@ naszego, niż żebyśmy wywiadywać się o nich
 mieli, a dowiedziawszy być zmuszonymi w sumieniu 
 do odmiany życia i postępowania. Jeżeli 
 kiedy, to w tym świętym czasie taką przewrotnością 
-«nie zasmucajmyż Ducha Św. Bożego,»
+«nie zasmucajmyż Ducha Św. Bożego»,
 ale przeciwnie zapragnijmy i prośmy, żeby 
 oświecił nas światłością swoją i dał nam zrozumieć,
 że przedewszystkiem mamy obowiązek 

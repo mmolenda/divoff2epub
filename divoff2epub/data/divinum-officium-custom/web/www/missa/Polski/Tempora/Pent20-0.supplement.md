@@ -11,7 +11,7 @@ bez krzyżyka. Zachorował temu królikowi syn,
 ukochany i pieszczony, jak zwykle pańskie        
 dziecko, i chociaż choremu ani opieki ani lekarzy  
 i lekarstw nie brakło, przecież choroba się  
-wzmagała i «poczynał umierać.» Lekarze już 
+wzmagała i «poczynał umierać». Lekarze już 
 zwątpili, a biednemu ojcu ze zmartwienia i żalu  
 mało serce nie pęka. W tem dochodzi go wieść,  
 że P. Jezus wraca z Jerozolimy i jest już w Kanie  
@@ -32,7 +32,7 @@ P. Jezusa, według tego, co mówi przysłowie:
 «Kiedy trwoga, to do Boga».
 
 \(2\) «Prosił go, aby zstąpił, a uzdrowił syna jego,
-bo poczynał umierać.» Tak to już Bóg zrządził, 
+bo poczynał umierać». Tak to już Bóg zrządził, 
 że rodzice dzieci swoje kochają, i dla ich dobra 
 zdobywają się na niezliczone wysiłki i starania. 
 Alboż mało tego, że matka dziecko w boleściach 
@@ -74,7 +74,7 @@ i nie przypuszczał, żeby Panu Bogu było równie
 z blizka i żywem słowem lub dotknięciem ręki        
 uzdrowić. Dlatego przygania P. Jezus temu           
 królikowi: «Jeśli znaków i cudów nie ujrzycie,       
-nie wierzycie.» Słowa te stosują się do wielu        
+nie wierzycie». Słowa te stosują się do wielu        
 z nas, którzy też na pół tylko wierzymy, a to        
 nie dlatego, że nie widzieliśmy cudów, ale że       
 się nam nie chce gruntowniej i dokładniej       
@@ -82,19 +82,19 @@ poznać P. Jezusa i Jego naukę. Ale zarazem
 drugą korzyść odniósł ten królik z swego utrapienia,       
 tj. że P. Jezus go upomniał; a tę trzecią,    
 że usilniej jeszcze i goręcej prosi P. Jezusa i 
-modli się: «Panie zstąp pierwej, niż umrze syn mój.»    
+modli się: «Panie zstąp pierwej, niż umrze syn mój».    
 
 \(4\) Pokora, z jaką przyjął upomnienie Pańskie, wytrwała modlitwa i ufność, jaką królik 
 okazał, podobały się P. Jezusowi i sprawiły, że 
 wysłuchał prośbę i rzekł: «Idź, syn twój żyw 
-jest.» Słowo P. Jezusa nigdy nie zawodzi, jest 
+jest». Słowo P. Jezusa nigdy nie zawodzi, jest 
 wszechmocne, w jednej chwili przebiega przestrzeń 
 dzielącą Kanę Galilejską od Kafarnaum 
 i od razu, bez lekarstw i zachodów, chorego 
 najdoskonalej uzdrawia.
 
-\(5\) «Uwierzył człowiek mowie, która mu powiedział 
-Jezus, i szedł. Uwierzył... i szedł.» Obyś 
+\(5\) «Uwierzył człowiek mowie, którą mu powiedział 
+Jezus, i szedł. Uwierzył... i szedł». Obyś 
 i ty chciał goręcej uwierzyć w Pana Jezusa 
 utajonego w Przen. Sakramencie, a uwierzywszy, 
 chciał iść do Niego w różnych utrapieniach 
@@ -102,8 +102,8 @@ ciała, serca i duszy twojej. O! wtedy prędzej
 i częściej doświadczyłbyś, jak dobry jest P. Jezus 
 i jak umie i lubi pocieszać tych, których 
 wzywa: «Pójdźcie do mnie wszyscy, którzy pracujecie 
-i jesteście obciążeni, a ja was ochłodzę. 
-Uwierzył,» bo rozumiał, że niepodobna, aby 
+i jesteście obciążeni, a ja was ochłodzę». 
+Uwierzył, bo rozumiał, że niepodobna, aby 
 P. Jezus go kłamał albo zawiódł i za tą wiarą 
 wstąpiła w serce jego zbolałe nietylko otucha, 
 ale pewność i wesele wielkie, że syn, którego
@@ -124,20 +124,20 @@ co widział, słyszał i sprawił u P. Jezusa,
 i że o tej samej gadzinie, kiedy wyrzekł P. Jezus 
 w Kanie: «syn twój żyw jest», w Kafarnaum 
 nagle chory odzyskał zdrowie i siły; a królik     
-ów «sam uwierzył i wszystek dom jego.» Szczęśliwyż 
+ów «sam uwierzył i wszystek dom jego». Szczęśliwyż 
 to dom, w którym państwo prawdziwie           
-Po Bożemu dbają o dolę i niedolę sług i czeladki 
+po Bożemu dbają o dolę i niedolę sług i czeladki 
 swej i gdzie nawzajem sługi biorą serdeczny       
 udział we wszystkiem, co państwo ich cieszy 
 lub boli. Państwo, ich dzieci, czeladka i służba 
-wedłtug postanowienia Bożego powinni stanowić     
+według postanowienia Bożego powinni stanowić     
 jedną rodzinę, w której na pierwszem miejscu      
 jest wzajemna miłość i wzajemna szczera i serdeczna    
 życzliwość. Gdzie tej niedostaje, tam      
 się sprawdzają słowa św. Pawła Apostoła:          
 «Jeśli kto o swych, a najwięcej o domowych,        
 pieczy nie ma, zaprzał się wiary i jest gorszy,  
-niźli niewierny.» Twarde i straszne to słowo, ale  
+niźli niewierny». Twarde i straszne to słowo, ale  
 prawdziwe, niech więc każdy wglądnie w swoje       
 sumienie i radzi o zbawieniu swojem, póki     
 jeszcze czas.                                    
