@@ -16,6 +16,7 @@ from consts import DIVOFF_DIR, TRANSLATION, \
 import logging
 import sys
 
+from divoff2epub.consts import EXCLUDE_SECTIONS_BY_PROPER
 
 logging.basicConfig(
     stream=sys.stdout,
@@ -189,7 +190,7 @@ class Divoff(object):
 
             # Printing sections
             for section_a, lines_a in contents_a.items():
-                if section_a in EXCLUDE_SECTIONS:
+                if section_a in EXCLUDE_SECTIONS + EXCLUDE_SECTIONS_BY_PROPER.get(in_partial_path, []):
                     continue
 
                 # Before Communio print Prefatio and (optionally) Communicantes

@@ -8,8 +8,10 @@ MD_OUTPUT_DIR = os.path.join(THIS_DIR, 'data', 'md')
 POLSKI = 'Polski'
 LATIN = 'Latin'
 MD_NEWLINE = '   \n'
+TRACTUS = 'Tractus'
+GRADUALEP = 'GradualeP'
 
-EXCLUDE_SECTIONS = (
+EXCLUDE_SECTIONS = [
     'Evangelium1',
     'Evangelium2',
     'Evangelium3',
@@ -32,7 +34,19 @@ EXCLUDE_SECTIONS = (
     'GradualeF',
     'Footnotes',
     'Name'
-)
+]
+
+EXCLUDE_SECTIONS_BY_PROPER = {
+    'Sancti/12-26.txt': [TRACTUS, GRADUALEP],
+    'Sancti/12-27.txt': [TRACTUS, GRADUALEP],
+    'Sancti/12-28.txt': [TRACTUS, GRADUALEP],
+    'Sancti/01-03n.txt': [TRACTUS, GRADUALEP],
+    'Tempora/Epi1-0.txt': [TRACTUS, GRADUALEP],
+    'Sancti/12-21.txt': [TRACTUS, GRADUALEP],
+    'Sancti/02-22.txt': [GRADUALEP],
+    'Sancti/05-31.txt': [GRADUALEP],
+}
+
 EXCLUDE_SECTIONS_TITLES = (
     'Commemoratio Oratio',
     'Commemoratio Postcommunio',
